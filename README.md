@@ -16,6 +16,20 @@ Retrieval Augmented Argumentation or Retrieval Augmented Argument Generation inv
 
 The total number of documents retrieved and scraped from the web are 6500.
 
+## Sample
+
+
+## Getting Started
+
+### Accessing the Data
+```python
+import utils
+train_qrels, train_queries, test_qrels, test_queries = utils.get_qrels(as_df=True, include_random_negs=True)
+```
+
+### Running Sample Retrievers
+
+
 ## Load the 
 
 ```ssh
