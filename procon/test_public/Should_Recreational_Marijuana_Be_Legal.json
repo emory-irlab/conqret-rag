@@ -1,0 +1,1384 @@
+{
+    "title": "Should Recreational Marijuana Be Legal?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Alan Pyke, \"Marijuana's $2.4 Billion Impact in Colorado Is a Lesson for 5 States Considering Legalization,\" thinkprogress.org, Oct. 28, 2016",
+            "docid": 7980
+        },
+        {
+            "id": "2",
+            "title": "Troy Antonuci, \"The Economics of Legalization,\"Daily Marijuana Observer, Apr. 6, 2017",
+            "docid": 7981
+        },
+        {
+            "id": "3",
+            "title": "Lauren Dixon, \"How Growing Marijuana Legalization Could Affect the Economy,\" talenteconomy.io, Dec. 20, 2016",
+            "docid": 7982
+        },
+        {
+            "id": "4",
+            "title": "RCG Economics and Marijuana Policy Group, \"Nevada Adult-Use Marijuana: Economic & Fiscal Benefits Analysis,\" rcg1.com, July 2016",
+            "docid": 7983
+        },
+        {
+            "id": "5",
+            "title": "Patrick McGreevy, \"Legal Marijuana Could Be a $5-Billion Boon to California's Economy,\" latimes.com, June 11, 2017",
+            "docid": 7984
+        },
+        {
+            "id": "6",
+            "title": "University of California Agricultural Issues Center, \"Economic Costs and Benefits of Proposed Regulations for the Implementation of the Medical Cannabis Regulation and Safety Act (MCRSA),\" dof.ca.gov, Feb. 23, 2017",
+            "docid": 7985
+        },
+        {
+            "id": "7",
+            "title": "Alicia Wallace, \"Report: America's Marijuana Industry Headed for $24 Billion by 2025,\" thecannabist.co, Feb. 22, 2017",
+            "docid": 7986
+        },
+        {
+            "id": "8",
+            "title": "Jay Barmann, \"80 Percent of Medical Marijuana Tested at Recent NorCal Conference Is Tainted with Mold, Other Toxins,\" sfist.com, Aug. 31, 2017",
+            "docid": 7987
+        },
+        {
+            "id": "9",
+            "title": "Lisa M. Krieger, \"A Flower's Long Journey: How Legal Weed Goes from Seed to Sale,\" thecannabist.co, June 20, 2017",
+            "docid": 7988
+        },
+        {
+            "id": "10",
+            "title": "American Public Health Association (APHA), \"Regulating Commercially Legalized Marijuana as a Public Health Priority,\" Nov. 18, 2014",
+            "docid": 7989
+        },
+        {
+            "id": "11",
+            "title": "Washington State Legislature, \"WAC 314-55-105: Packaging and Labeling Requirements,\" apps.leg.wa.gov (accessed Jan. 8, 2018)",
+            "docid": 7990
+        },
+        {
+            "id": "12",
+            "title": "George Sam Wang, et al., \"Unintentional Pediatric Exposures to Marijuana in Colorado, 2009-2015,\"JAMA Pediatrics, Sep. 6, 2016",
+            "docid": 7991
+        },
+        {
+            "id": "13",
+            "title": "Bureau of Cannabis Control, \"Medicinal and Adult-Use Cannabis Regulation,\" bcc.ca.gov (accessed Jan. 8, 2017)",
+            "docid": 7992
+        },
+        {
+            "id": "14",
+            "title": "Brooke Staggs, \"Here Are the Rules for Legal Marijuana in California Once Law Goes into Effect Jan. 1,\" ocregister.com, Nov. 16, 2017",
+            "docid": 7993
+        },
+        {
+            "id": "15",
+            "title": "Marijuana Policy Group, \"The Economic Impact of Marijuana Legalization in Colorado,\" mjpolicygroup.com, Oct. 2016",
+            "docid": 7994
+        },
+        {
+            "id": "16",
+            "title": "Christopher Ingraham, \"The Marijuana Industry Created More Than 18,000 New Jobs in Colorado Last Year,\" washingtonpost.com, Oct. 27, 2016",
+            "docid": 7995
+        },
+        {
+            "id": "17",
+            "title": "United States Border Patrol, \"Sector Profile - Fiscal Year 2015 (Oct. 1st through Sept. 30th),\" cbp.gov (accessed Jan. 8, 2018)",
+            "docid": 7996
+        },
+        {
+            "id": "18",
+            "title": "Christopher Ingraham, \"Legal Marijuana Is Finally Doing What the Drug War Couldn't,\" washingtonpost.com, Mar. 3, 2016",
+            "docid": 7997
+        },
+        {
+            "id": "19",
+            "title": "John Burnett, \"Legal Pot in the U.S. May Be Undercutting Mexican Marijuana,\" npr.org, Dec. 1, 2014",
+            "docid": 7998
+        },
+        {
+            "id": "20",
+            "title": "Earl Blumenauer, \"The Path Forward: Rethinking Federal Policy on Marijuana,\"blumenauer.house.gov, 2017-2018",
+            "docid": 7999
+        },
+        {
+            "id": "21",
+            "title": "American Civil Liberties Union (ACLU), \"The War on Marijuana in Black and White,\" aclu.org, June 2013",
+            "docid": 8000
+        },
+        {
+            "id": "22",
+            "title": "Christopher Ingraham, \"Justin Trudeau May Have Made the Best Case for Legal Pot Ever,\" washingtonpost.com, June 10, 2016",
+            "docid": 8001
+        },
+        {
+            "id": "23",
+            "title": "Michele Baggio, Alberto Chong, and Sungoh Kwon, \"Helping Settle the Marijuana and Alcohol Debate: Evidence from Scanner Data,\" ssrn.com, Dec. 11, 2017",
+            "docid": 8002
+        },
+        {
+            "id": "24",
+            "title": "Jesse Wegman, \"The Injustice of Marijuana Arrests,\" nytimes.com, July 28, 2014",
+            "docid": 8003
+        },
+        {
+            "id": "25",
+            "title": "Drug Policy Alliance, \"Drug War Statistics,\" drugpolicy.org (accessed Jan. 8, 2018)",
+            "docid": 8004
+        },
+        {
+            "id": "26",
+            "title": "American Civil Liberties Union (ACLU), \"California: Marijuana Infractions Unfairly Enforced Against People of Color,\" aclunc.org, May 31, 2016",
+            "docid": 8005
+        },
+        {
+            "id": "27",
+            "title": "Brendan Cheney, \"For Non-White New Yorkers, Marijuana Arrests More Often Lead to Conviction,\" politico.com, May 9, 2017",
+            "docid": 8006
+        },
+        {
+            "id": "28",
+            "title": "German Lopez, \"Everyone Does Drugs, but Only Minorities Are Punished for It,\" vox.com, July 1, 2014",
+            "docid": 8007
+        },
+        {
+            "id": "29",
+            "title": "D. Mark Anderson and Daniel I. Rees, \"The Legalization of Recreational Marijuana: How Likely Is the Worst-Case Scenario?,\" ist.psu.edu (accessed Jan. 8, 2018)",
+            "docid": 8008
+        },
+        {
+            "id": "30",
+            "title": "University of California, Irvine, The Paul Merage School of Business, \"Closing Medical Marijuana Dispensaries Increases Crime, According to New Study,\" sciencedaily.com, July 11, 2017",
+            "docid": 8009
+        },
+        {
+            "id": "31",
+            "title": "Melissa Santos, \"What Actually Happened to Violent Crime after Washington Legalized Marijuana,\" thenewstribune.com, July 26, 2017",
+            "docid": 8010
+        },
+        {
+            "id": "32",
+            "title": "National Council on Alcoholism and Drug Dependence, \"Alcohol, Drugs and Crime,\" ncadd.org, June 27, 2015",
+            "docid": 8011
+        },
+        {
+            "id": "33",
+            "title": "Jonathan P. Caulkins, Beau Kilmer, and Mark A.R. Kleiman,Marijuana Legalization: What Everyone Needs to Know, 2016",
+            "docid": 8012
+        },
+        {
+            "id": "34",
+            "title": "US Department of Justice, \"Violence between Intimates: Domestic Violence,\" bjs.gov, Nov. 1994",
+            "docid": 8013
+        },
+        {
+            "id": "35",
+            "title": "Ruth Graham, \"Is Marijuana Good for Public Health?,\" daily.jstor.org, Oct. 8, 2014",
+            "docid": 8014
+        },
+        {
+            "id": "36",
+            "title": "D. Mark Anderson, et al., \"Medical Marijuana Laws, Traffic Fatalities, and Alcohol Consumption,\" dmarkanderson.com, Oct. 2012",
+            "docid": 8015
+        },
+        {
+            "id": "37",
+            "title": "Alejandro Azofeifa, et al., \"National Estimates of Marijuana Use and Related Indicators - National Survey on Drug Use and Health, United States, 2002–2014,\" cdc.gov, Sep. 2, 2016",
+            "docid": 8016
+        },
+        {
+            "id": "38",
+            "title": "Jim Dryden, \"As More States Legalize Marijuana, Adolescents' Problems with Pot Decline,\" wustl.edu, May 24, 2016",
+            "docid": 8017
+        },
+        {
+            "id": "39",
+            "title": "Substance Abuse and Mental Health Services Administration, \"National Survey on Drug Use and Health: Comparison of 2013-2014 and 2014-2015 Population Percentages,\" samhsa.gov (accessed Jan. 8, 2018)",
+            "docid": 8018
+        },
+        {
+            "id": "40",
+            "title": "Christopher Ingraham, \"After Legalization, Teen Marijuana Use Drops Sharply in Colorado,\" washingtonpost.com, Dec. 21, 2016",
+            "docid": 8019
+        },
+        {
+            "id": "41",
+            "title": "Justin Gardner, \"CDC Study Shows Pot Legalization Dramatically Decreases Drug Use,\" mintpressnews.com, Sep. 8, 2016",
+            "docid": 8020
+        },
+        {
+            "id": "42",
+            "title": "Marijuana Policy Project, \"Teen Marijuana Use Does Not Increase Following Marijuana Policy Reforms,\" mpp.org (accessed Feb. 5, 2018)",
+            "docid": 8021
+        },
+        {
+            "id": "43",
+            "title": "MaristPoll, \"Yahoo News/Marist Poll: Weed & The American Family,\" marist.edu, Apr. 17, 2017",
+            "docid": 8022
+        },
+        {
+            "id": "44",
+            "title": "David L. Nathan, \"Why Marijuana Should Be Legal for Adults,\" cnn.com, Jan. 9, 2013",
+            "docid": 8023
+        },
+        {
+            "id": "45",
+            "title": "Centers for Disease Control and Prevention, \"Alcohol Poisoning Deaths,\" cdc.gov, Jan. 2015",
+            "docid": 8024
+        },
+        {
+            "id": "46",
+            "title": "Drug Enforcement Administration, \"Drug Fact Sheet: Marijuana,\" dea.gov (accessed Jan. 8, 2018)",
+            "docid": 8025
+        },
+        {
+            "id": "47",
+            "title": "Nick Wing, \"No, We Didn't Just See the First Marijuana Overdose Death,\" huffingtonpost.com, Nov. 17, 2017",
+            "docid": 8026
+        },
+        {
+            "id": "48",
+            "title": "David Nutt, Leslie King, and Lawrence Phillips, \"Drug Harms in the UK: A Multicriteria Decision Analysis,\"The Lancet, Nov. 1, 2010",
+            "docid": 8027
+        },
+        {
+            "id": "49",
+            "title": "Drug Policy Alliance, \"So Far, So Good What We Know about Marijuana Legalization in Colorado, Washington, Alaska, Oregon and Washington, D.C.,\" drugpolicy.org, 2016",
+            "docid": 8028
+        },
+        {
+            "id": "50",
+            "title": "Debra Borchardt, \"$1 Billion in Marijuana Taxes Is Addictive to State Governors,\" forbes.com, Apr. 11, 2017",
+            "docid": 8029
+        },
+        {
+            "id": "51",
+            "title": "Larson Silbaugh, \"Distribution of Marijuana Tax Revenue,\" colorado.gov, July 2016",
+            "docid": 8030
+        },
+        {
+            "id": "52",
+            "title": "Jennifer Calfas, \"How Colorado's Booming Marijuana Industry Is Helping Fight Homelessness and Drug Addiction,\" time.com, June 1, 2017",
+            "docid": 8031
+        },
+        {
+            "id": "53",
+            "title": "CBS News, \"Tax Revenue from Colorado Pot Helps Fund Community Projects, Scholarships,\" cbsnews.com, Apr. 20, 2017",
+            "docid": 8032
+        },
+        {
+            "id": "54",
+            "title": "Bruce Barcott and Gage Peake, \"Part 2, How Many Jobs Depend on Legal Cannabis?,\" leafly.com, Jan. 5, 2017",
+            "docid": 8033
+        },
+        {
+            "id": "55",
+            "title": "Debra Borchardt, \"Marijuana Industry Projected to Create More Jobs Than Manufacturing by 2020,\" forbes.com, Feb. 22, 2017",
+            "docid": 8034
+        },
+        {
+            "id": "56",
+            "title": "New Frontier Data, \"The Cannabis Industry Annual Report: 2017 Legal Marijuana Outlook,\" newfrontierdata.com, 2017",
+            "docid": 8035
+        },
+        {
+            "id": "57",
+            "title": "Melia Robinson, \"Legal Marijuana Could Overtake Manufacturing in Job Creation by 2020,\" businessinsider.com, Mar. 3, 2017",
+            "docid": 8036
+        },
+        {
+            "id": "58",
+            "title": "United States Department of Labor, \"Projections of Industry Employment, 2014–24,\" bls.gov, Dec. 2015",
+            "docid": 8037
+        },
+        {
+            "id": "59",
+            "title": "Daniel Wheaton, \"Legal Weed Could Generate More Than 100,000 Jobs,\" sandiegotribune.com, Nov. 1, 2016",
+            "docid": 8038
+        },
+        {
+            "id": "60",
+            "title": "Jeffrey A. Miron, \"The Budgetary Implications of Drug Prohibition,\" harvard.edu, Feb. 2010",
+            "docid": 8039
+        },
+        {
+            "id": "61",
+            "title": "David G. Evans, \"The Economic Impacts of Marijuana Legalization,\" wrlc.org, Dec. 30, 2013",
+            "docid": 8040
+        },
+        {
+            "id": "62",
+            "title": "Stephen Downing, \"Drug War: What Prohibition Costs Us [Blowback],\" latimes.com, Oct. 6, 2011",
+            "docid": 8041
+        },
+        {
+            "id": "63",
+            "title": "Katherine Beckett and Steve Herbert, \"The Consequences and Costs of Marijuana Prohibition,\" washington.edu (accessed Jan. 8, 2018)",
+            "docid": 8042
+        },
+        {
+            "id": "64",
+            "title": "American Civil Liberties Union (ACLU), \"Court Filings for Adult Marijuana Possession Plummet,\" aclu-wa.org, Mar. 19, 2014",
+            "docid": 8043
+        },
+        {
+            "id": "65",
+            "title": "Ronnie Cohen, \"After States Legalized Medical Marijuana, Traffic Deaths Fell,\" reuters.com, Dec. 28, 2016",
+            "docid": 8044
+        },
+        {
+            "id": "66",
+            "title": "National Highway Traffic Safety Administration, \"Cannabis/Marijuana (Delta 9 -Tetrahydrocannabinol, THC),\" nhtsa.gov (accessed via web.archive.org, Jan. 8, 2018)",
+            "docid": 8045
+        },
+        {
+            "id": "67",
+            "title": "Justin McCarthy, \"Record-High Support for Legalizing Marijuana Use in U.S.,\" gallup.com, Oct. 25, 2017",
+            "docid": 8046
+        },
+        {
+            "id": "68",
+            "title": "Jennifer De Pinto, et al., \"Marijuana Legalization Support at All-Time High,\" cbsnews.com, Apr. 20, 2017",
+            "docid": 8047
+        },
+        {
+            "id": "69",
+            "title": "Christopher Ingraham, \"How Many Americans Regularly Use Pot? The Number Is, Errr, Higher Than You Think,\" sacbee.com, Apr. 20, 2017",
+            "docid": 8048
+        },
+        {
+            "id": "70",
+            "title": "Drew Desilver, \"Feds May Be Rethinking the Drug War, but States Have Been Leading the Way,\" pewresearch.org, Apr. 2, 2014",
+            "docid": 8049
+        },
+        {
+            "id": "71",
+            "title": "Brian Heuberger, \"Despite Claims, Data Show Legalized Marijuana Has Not Increased Crime Rates,\" coloradopolitics.com, Mar. 22, 2017",
+            "docid": 8050
+        },
+        {
+            "id": "72",
+            "title": "David Boaz, \"Drug Legalization and the Right to Control Your Body,\" cato.org, Oct. 25, 2007",
+            "docid": 8051
+        },
+        {
+            "id": "73",
+            "title": "Josh Hamilton, \"The Economic and Social Benefits of Taxing Marijuana,\" medium.com, Sep. 26, 2017",
+            "docid": 8052
+        },
+        {
+            "id": "74",
+            "title": "NORML, \"Marijuana and Psychomotor Impairment,\" norml.org (accessed Feb. 5, 2018)",
+            "docid": 8053
+        },
+        {
+            "id": "75",
+            "title": "Desirae Hoover, \"4 Reasons Why Legalizing Marijuana Could Be the Solution to America's Problems,\" huffingtonpost.com, Sep. 6, 201",
+            "docid": 8054
+        },
+        {
+            "id": "76",
+            "title": "Centers for Disease Control and Prevention, \"Drowning — United States, 2005–2009,\" cdc.gov, May 18, 2012",
+            "docid": 8055
+        },
+        {
+            "id": "77",
+            "title": "Alex Suskind, \"Cory Booker Explains Why He's Making Legal Weed His Signature Issue,\" vice.com, Oct. 17, 2017",
+            "docid": 8056
+        },
+        {
+            "id": "78",
+            "title": "Rocky Mountain High Intensity Drug Trafficking Area, \"The Legalization of Marijuana in Colorado: The Impact,\" rmhidta.org, Sep. 2016",
+            "docid": 8057
+        },
+        {
+            "id": "79",
+            "title": "National Public Radio (NPR), \"Brain Maturity Extends Well Beyond Teen Years,\" npr.org, Oct. 10, 2011",
+            "docid": 8058
+        },
+        {
+            "id": "80",
+            "title": "University of Rochester Medical Center, \"Understanding the Teen Brain,\" urmc.rochester.edu (accessed Jan. 8, 2018)",
+            "docid": 8059
+        },
+        {
+            "id": "81",
+            "title": "Olivier Marie and Ulf Zolitz, \"'High' Achievers? Cannabis Access and Academic Performance,\" cep.lse.ac.uk, Mar. 2015",
+            "docid": 8060
+        },
+        {
+            "id": "82",
+            "title": "Christopher Ingraham, \"More People Were Arrested Last Year over Pot Than for Murder, Rape, Aggravated Assault and Robbery — Combined,\" washingtonpost.com, Sep. 26, 2017",
+            "docid": 8061
+        },
+        {
+            "id": "83",
+            "title": "Insurance Institute for Highway Safety, Highway Loss Data Institute, \"Legalizing Recreational Marijuana Is Linked to Increased Crashes,\" iihs.org, June 22, 2017",
+            "docid": 8062
+        },
+        {
+            "id": "84",
+            "title": "Christopher Ingraham, \"What Marijuana Legalization Did to Car Accident Rates,\" washingtonpost.com, June 26, 2017",
+            "docid": 8063
+        },
+        {
+            "id": "85",
+            "title": "Gaby Galvin, \"Study: Legal Pot Linked to Increase in Auto Collisions,\" usnews.com, June 22, 2017",
+            "docid": 8064
+        },
+        {
+            "id": "86",
+            "title": "David Migoya, \"Exclusive: Traffic Fatalities Linked to Marijuana Are up Sharply in Colorado. Is Legalization to Blame?,\" denverpost.com, Aug. 25, 2017",
+            "docid": 8065
+        },
+        {
+            "id": "87",
+            "title": "Noelle Crombie, \"Legal Pot in Oregon: One Year Later,\" oregonlive.com, Feb. 23, 2017",
+            "docid": 8066
+        },
+        {
+            "id": "88",
+            "title": "Katy Steinmetz, \"420 Day: Why There Are So Many Different Names for Weed,\" time.com, Apr. 20, 2017",
+            "docid": 8067
+        },
+        {
+            "id": "89",
+            "title": "Oxford English Dictionary, \"Marijuana,\" oed.com (accessed Jan. 28, 2018)",
+            "docid": 8068
+        },
+        {
+            "id": "90",
+            "title": "Lily Rothmans, \"Here's What People Called Pot in the 1940s,\" time.com, Apr. 20, 2015",
+            "docid": 8069
+        },
+        {
+            "id": "91",
+            "title": "National Institute on Drug Abuse, \"Is Marijuana Addictive?,\" drugabuse.gov, Dec. 2017",
+            "docid": 8070
+        },
+        {
+            "id": "92",
+            "title": "Centers for Disease Control and Prevention, \"All Injuries,\" cdc.gov, May 3, 2017",
+            "docid": 8071
+        },
+        {
+            "id": "93",
+            "title": "Steve Bloom, \"Dr. Drew on Pot: 'It's Extremely Addictive... for Some People',\" celebstoner.com, Sep. 20, 2014",
+            "docid": 8072
+        },
+        {
+            "id": "94",
+            "title": "American Society of Addiction Medicine, \"Public Policy Statement on Marijuana, Cannabinoids and Legalization,\" asam.org (accessed Jan. 8, 2018)",
+            "docid": 8073
+        },
+        {
+            "id": "95",
+            "title": "National Institutes of Health, \"Marijuana Withdrawal Is Real,\" drugabuse.gov, Apr. 2, 2015",
+            "docid": 8074
+        },
+        {
+            "id": "96",
+            "title": "Udo Bonnet and Ulrich W. Preuss, \"The Cannabis Withdrawal Syndrome: Current Insights,\" ncbi.nlm.nih.gov, Apr. 27, 2017",
+            "docid": 8075
+        },
+        {
+            "id": "97",
+            "title": "Norman S. Miller, et al., \"Marijuana Addictive Disorders and DSM-5 Substance-Related Disorders,\" omicsonline.org, Jan. 16, 2017",
+            "docid": 8076
+        },
+        {
+            "id": "98",
+            "title": "Steven S. Davenport and Jonathan P. Caulkins, \"Evolution of the United States Marijuana Market in the Decade of Liberalization Before Full Legalization,\"Journal of Drug Issues, Aug. 2, 2016",
+            "docid": 8077
+        },
+        {
+            "id": "99",
+            "title": "Robert Deitch,Hemp: American History Revisited: The Plant with a Divided History, 2003",
+            "docid": 8078
+        },
+        {
+            "id": "100",
+            "title": "John Ingold, \"Kids' Emergency Room Visits for Marijuana Increased in Colorado after Legalization, Study Finds,\" denverpost.com, Oct. 2, 2016",
+            "docid": 8079
+        },
+        {
+            "id": "101",
+            "title": "Gillian Mohney, \"Colorado Marijuana Report Reveals Increase in Hospital Visits after Legalization,\" abcnews.go.com, Apr. 19, 2016",
+            "docid": 8080
+        },
+        {
+            "id": "102",
+            "title": "Colorado Department of Public Safety, \"Marijuana Legalization in Colorado: Early Findings,\" state.co.us, Mar. 2016",
+            "docid": 8081
+        },
+        {
+            "id": "103",
+            "title": "University of Washington, \"Factors That Might Attract Children to Marijuana Edibles,\" sciencedaily.com, Aug. 25, 2016",
+            "docid": 8082
+        },
+        {
+            "id": "104",
+            "title": "Abby Phillip, \"More and More Little Kids Are Finding Mom and Dad's (Legal) Marijuana Stash,\" washingtonpost.com, June 9, 2015",
+            "docid": 8083
+        },
+        {
+            "id": "105",
+            "title": "Robert J. MacCoun and Michelle M. Mello, \"Half-Baked - The Retail Promotion of Marijuana Edibles,\" nejm.org, Mar. 12, 2015",
+            "docid": 8084
+        },
+        {
+            "id": "106",
+            "title": "Madeline H. Meier, et al., \"Persistent Cannabis Users Show Neuropsychological Decline from Childhood to Midlife,\" pnas.org, Oct. 2, 2012",
+            "docid": 8085
+        },
+        {
+            "id": "107",
+            "title": "Northwestern University, \"Casual Marijuana Use Linked to Brain Abnormalities in Students,\" medicalxpress.com, Apr. 15, 2014",
+            "docid": 8086
+        },
+        {
+            "id": "108",
+            "title": "Yvette Brazier, \"Marijuana Use and Schizophrenia: New Evidence Suggests Link,\" medicalnewstoday.com, Dec. 26, 2016",
+            "docid": 8087
+        },
+        {
+            "id": "109",
+            "title": "National Institute on Drug Abuse, \"Is There a Link between Marijuana Use and Psychiatric Disorders?,\" drugabuse.gov, Dec. 2017",
+            "docid": 8088
+        },
+        {
+            "id": "110",
+            "title": "Jodi M. Gilman, et al., \"Cannabis Use Is Quantitatively Associated with Nucleus Accumbens and Amygdala Abnormalities in Young Adult Recreational Users,\" discoverccs.org, Apr. 16, 2014",
+            "docid": 8089
+        },
+        {
+            "id": "111",
+            "title": "Randye Hoder, \"Recreational Pot Use Harmful to Young People's Brains,\" time.com, Apr. 15, 2014",
+            "docid": 8090
+        },
+        {
+            "id": "112",
+            "title": "Andrew Johns, \"Substance Misuse Papers: Psychiatric Effects of Cannabis,\" bjp.rcpsych.org, Feb. 2001",
+            "docid": 8091
+        },
+        {
+            "id": "113",
+            "title": "H. Thomas, \"A Community Survey of Adverse Effects of Cannabis Use,\" ncbi.nlm.nih.gov, Nov. 1996",
+            "docid": 8092
+        },
+        {
+            "id": "114",
+            "title": "Centers for Disease Control and Prevention, \"Health Effects,\" cdc.gov, Jan. 26, 2017",
+            "docid": 8093
+        },
+        {
+            "id": "115",
+            "title": "Alcohol and Drug Abuse Institute, University of Washington, \"Respiratory Effects of Marijuana,\" adai.uw.edu (accessed Jan. 9, 2018)",
+            "docid": 8094
+        },
+        {
+            "id": "116",
+            "title": "Reuters, \"Cannabis Bigger Cancer Risk Than Cigarettes: Study,\" reuters.com, Jan. 29, 2008",
+            "docid": 8095
+        },
+        {
+            "id": "117",
+            "title": "National Institute on Drug Abuse, \"What Is Marijuana?,\" drugabuse.gov, Aug. 2017",
+            "docid": 8096
+        },
+        {
+            "id": "118",
+            "title": "R.N. Bloor, \"Ammonia Release from Heated 'Street' Cannabis Leaf and Its Potential Toxic Effects on Cannabis Users,\" ncbi.nlm.nih.gov, Oct. 2008",
+            "docid": 8097
+        },
+        {
+            "id": "119",
+            "title": "David Smith, et al., \"Release of Toxic Ammonia and Volatile Organic Compounds by Heated Cannabis and Their Relation to Tetrahydrocannabinol Content,\" pubs.rsc.org, 2015",
+            "docid": 8098
+        },
+        {
+            "id": "120",
+            "title": "Colorado Department of Public Health and Environment, \"FAQs: Marijuana and Methods of Use,\" colorado.gov (accessed Jan. 9, 2018)",
+            "docid": 8099
+        },
+        {
+            "id": "121",
+            "title": "Bernard Segal,Perspectives on Drug Use in the United States, 1986",
+            "docid": 8100
+        },
+        {
+            "id": "122",
+            "title": "Paul L. Bittner, \"Workplace Impacts of Marijuana Legalization,\" assurexglobal.com (accessed Jan. 9, 2018)",
+            "docid": 8101
+        },
+        {
+            "id": "123",
+            "title": "Encyclopaedia Britannica, \"Hemp,\" britannica.com (accessed Feb. 4, 2018)",
+            "docid": 8102
+        },
+        {
+            "id": "124",
+            "title": "Sean Whaley, \"More Incidents of Workplace Pot Use Reported after Legalization in Colorado, Experts Say,\" reviewjournal.com, June 10, 2016",
+            "docid": 8103
+        },
+        {
+            "id": "125",
+            "title": "National Families in Action, \"What Will Legal Marijuana Cost Employers?,\" nationalfamilies.org (accessed Jan. 9, 2018)",
+            "docid": 8104
+        },
+        {
+            "id": "126",
+            "title": "Robert Steinbrook, \"Study Finds Drug Test Value Exaggerated,\" latimes.com, Nov. 28, 1990",
+            "docid": 8105
+        },
+        {
+            "id": "127",
+            "title": "Genevra Pittman, \"For Optimal Work Commitment, Skip the Pot?,\" reuters.com, Feb. 23, 2012",
+            "docid": 8106
+        },
+        {
+            "id": "128",
+            "title": "Ellen E. Bouchery, et al., \"Economic Costs of Excessive Alcohol Consumption in the U.S., 2006,\" ajpmonline.org, June 2011",
+            "docid": 8107
+        },
+        {
+            "id": "129",
+            "title": "Kurt Isaacson, \"Legalizing Recreational Marijuana Is Bad for Public Health,\" statnews.com, Nov. 2, 2016",
+            "docid": 8108
+        },
+        {
+            "id": "130",
+            "title": "Marty Nemko, \"Legalize Pot? You Must Be High,\" time.com, Nov. 7, 2014",
+            "docid": 8109
+        },
+        {
+            "id": "131",
+            "title": "Office of National Drug Control Policy, \"The Public Health Consequences of Marijuana Legalization,\" whitehouse.gov (accessed via web.archive.org, Jan. 9, 2018)",
+            "docid": 8110
+        },
+        {
+            "id": "132",
+            "title": "Christopher Ingraham, \"Here's How Legal Pot Changed Colorado and Washington,\" washingtonpost.com, Oct. 13, 2016",
+            "docid": 8111
+        },
+        {
+            "id": "133",
+            "title": "Pew Research Center, \"In Debate over Legalizing Marijuana, Disagreement over Drug's Dangers,\" people-press.org, Apr. 14, 2015",
+            "docid": 8112
+        },
+        {
+            "id": "134",
+            "title": "Smart Approaches to Marijuana, \"Lessons Learned after 4 Years of Marijuana Legalization,\" learnaboutsam.org, Oct. 2016",
+            "docid": 8113
+        },
+        {
+            "id": "135",
+            "title": "Keegan Hamilton, \"How America's Legal Weed Is Changing the Black Market and Influencing Mexican Cartels,\" vice.com, Aug. 25, 2015",
+            "docid": 8114
+        },
+        {
+            "id": "136",
+            "title": "International Narcotics Control Board, \"Report 2016,\" incb.org, Mar. 2, 2017",
+            "docid": 8115
+        },
+        {
+            "id": "137",
+            "title": "Transnational Institute, \"The UN Drug Control Conventions: A Primer,\" tni.org, Oct. 8, 2015",
+            "docid": 8116
+        },
+        {
+            "id": "138",
+            "title": "Jonathan Rauch, \"Marijuana Legalization Poses a Dilemma for International Drug Treaties,\" brookings.edu, Oct. 16, 2014",
+            "docid": 8117
+        },
+        {
+            "id": "139",
+            "title": "Wells Bennett and John Walsh, \"Marijuana Legalization Is an Opportunity to Modernize International Drug Treaties,\" brookings.edu, Oct. 2014",
+            "docid": 8118
+        },
+        {
+            "id": "140",
+            "title": "James Wilt, \"Growing Weed Is Pretty Bad for the Environment,\" vice.com, Apr. 18, 2017",
+            "docid": 8119
+        },
+        {
+            "id": "141",
+            "title": "Melanie Sevcenko, \"Pot Is Power Hungry: Why the Marijuana Industry's Energy Footprint Is Growing,\" theguardian.com, Feb. 27, 2016",
+            "docid": 8120
+        },
+        {
+            "id": "142",
+            "title": "Laura Seaman, \"Marijuana's Environmental Impacts,\" woods.stanford.edu, July 10, 2015",
+            "docid": 8121
+        },
+        {
+            "id": "143",
+            "title": "Jonathan P. Caulkins, Beau Kilmer, Mark A. R. Kleiman, Robert J. MacCoun, Greg Midgette, Pat Oglesby, Rosalie Liccardo Paula, and Peter H. Reuter, \"Considering Marijuana Legalization: Insights for Vermont and Other Jurisdictions,\" rand.org, 2015",
+            "docid": 8122
+        },
+        {
+            "id": "144",
+            "title": "Ithaca College, \"Marijuana's Hidden Price: Environmental Impact,\" sciencedaily.com, Oct. 19, 2016",
+            "docid": 8123
+        },
+        {
+            "id": "145",
+            "title": "Craig M. Thompson, et al., \"An Ever-Changing Ecological Battlefield,\" iercecology.org, May/June 2017",
+            "docid": 8124
+        },
+        {
+            "id": "146",
+            "title": "Niraj Chokshi, \"Q&A: Mark Kleiman, UCLA Expert on the Legalization of Marijuana,\" ucla.edu, July 8, 2014",
+            "docid": 8125
+        },
+        {
+            "id": "147",
+            "title": "Mark A.R. Kleiman, \"We're Legalizing Weed Wrong,\" slate.com, Nov. 7, 2016",
+            "docid": 8126
+        },
+        {
+            "id": "148",
+            "title": "Rosalie Liccardo Pacula, \"Regulating Medical Marijuana Markets,\" rand.org, Jan. 25, 2017",
+            "docid": 8127
+        },
+        {
+            "id": "149",
+            "title": "Sam Fulwood III and Henry Weinstein, \"'Joe Camel' Ads Illegally Target Youths, FTC Says,\" latimes.com, May 29, 1997",
+            "docid": 8128
+        },
+        {
+            "id": "150",
+            "title": "Christopher Ingraham and Tauhid Chappell, \"Vermont Just Became the 9th State to Legalize Marijuana. Here's What Makes It Different.,\" washingtonpost.com, Jan. 22, 2018",
+            "docid": 8129
+        },
+        {
+            "id": "151",
+            "title": "American Medical Association, \"AMA Resident and Fellow Section: 40th Interim Meeting Assembly Meeting Handbook,\" ama-assn.org, Nov. 10-12, 2016",
+            "docid": 8130
+        },
+        {
+            "id": "152",
+            "title": "American Academy of Child and Adolescent Psychiatry, \"AACAP Releases Updated Policy Statement on Marijuana Legalization,\" aacap.org, Oct. 10, 2017",
+            "docid": 8131
+        },
+        {
+            "id": "153",
+            "title": "American Academy of Pediatrics, \"Marijuana Legalization,\" aap.org, July 2017",
+            "docid": 8132
+        },
+        {
+            "id": "154",
+            "title": "Smart Approaches to Marijuana, \"Marijuana - Public Health Organizations Position on 'Medical' Marijuana,\" learnaboutsam.org (accessed Jan. 9, 2018)",
+            "docid": 8133
+        },
+        {
+            "id": "155",
+            "title": "Tobias Coughlin-Bogue, \"The Word 'Marijuana' Versus the Word 'Cannabis,'\" the stranger.com, Apr. 13, 2016",
+            "docid": 8134
+        },
+        {
+            "id": "156",
+            "title": "American Academy of Pediatrics, \"The Impact of Marijuana Policies on Youth: Clinical, Research, and Legal Update,\" pediatrics.aappublications.org, Mar. 2015",
+            "docid": 8135
+        },
+        {
+            "id": "157",
+            "title": "American Medical Association House of Delegates, \"Clinical Implications and Policy Considerations of Cannabis Use,\" assets.ama-assn.org (accessed Jan. 9, 2018)",
+            "docid": 8136
+        },
+        {
+            "id": "158",
+            "title": "Patrick McGreevy, \"A Proposition to Legalize Pot Raises DUI Concerns: 'We Are Going to Start Losing Folks in Astronomical Numbers,'\" latimes.com, Oct. 18, 2016",
+            "docid": 8137
+        },
+        {
+            "id": "159",
+            "title": "Tamra Johnson, \"Fatal Road Crashes Involving Marijuana Double after State Legalizes Drug,\" newsroom.aaa.com, May 2016",
+            "docid": 8138
+        },
+        {
+            "id": "160",
+            "title": "Kevin Sabet, \"Colorado's Troubles with Pot,\" cnn.com, Oct. 31, 2014",
+            "docid": 8139
+        },
+        {
+            "id": "161",
+            "title": "Andrew A. Monte, Richard D. Zane, and Kennon J. Heard, \"The Implications of Marijuana Legalization in Colorado,\" JAMA, Jan. 2015",
+            "docid": 8140
+        },
+        {
+            "id": "162",
+            "title": "Harvard Health Publishing, \"Marijuana and Heart Health: What You Need to Know,\" health.harvard.edu, Aug. 2017",
+            "docid": 8141
+        },
+        {
+            "id": "163",
+            "title": "Allison Tierney, \"Halifax Councillor Calls out 'Marijuana' as a Racist Term,\" vice.com, Oct. 25, 2017",
+            "docid": 8142
+        },
+        {
+            "id": "164",
+            "title": "British Lung Foundation, \"A Smoking Gun,\" lunguk.org, Nov. 2002",
+            "docid": 8143
+        },
+        {
+            "id": "165",
+            "title": "Laura Nott, \"Even Casual Marijuana Use Harms Young Brain, Study Finds,\" elementsbehavioralhealth.com, Apr. 17, 2014",
+            "docid": 8144
+        },
+        {
+            "id": "166",
+            "title": "Christopher Bergland, \"Does Long-Term Cannabis Use Stifle Motivation?,\" psychologytoday.com, July 2, 2013",
+            "docid": 8145
+        },
+        {
+            "id": "167",
+            "title": "Walter Makaula, \"Heads Up: That Candy Treat May Be a Marijuana Edible,\" kcra.com, Oct. 28, 2017",
+            "docid": 8146
+        },
+        {
+            "id": "168",
+            "title": "Centers for Disease Control and Prevention, \"Fact Sheets - Alcohol Use and Your Health,\" cdc.gov, Jan. 3, 2018",
+            "docid": 8147
+        },
+        {
+            "id": "169",
+            "title": "Martin A. Lee,Smoke Signals: A Social History of Marijuana - Medical, Recreational and Scientific, 2013",
+            "docid": 8148
+        },
+        {
+            "id": "170",
+            "title": "Associated Press-NORC Center for Public Affairs Research, \"American Attitudes toward Substance Use in the United States,\" apnorc.org, Feb. 2016",
+            "docid": 8149
+        },
+        {
+            "id": "171",
+            "title": "Kay Lazar, \"Boston, Colo. Officials Talk Marijuana Worries,\" bostonglobe.com, Nov. 17, 2016",
+            "docid": 8150
+        },
+        {
+            "id": "172",
+            "title": "Tax Policy Center,Briefing Book, taxpolicycenter.org (accessed Jan. 12, 2018)",
+            "docid": 8151
+        },
+        {
+            "id": "173",
+            "title": "Patrick McGreevy, \"High Taxes on Legal Pot in California Could Mean Black Market Will Thrive,\" latimes.com, Oct. 30, 2017",
+            "docid": 8152
+        },
+        {
+            "id": "174",
+            "title": "Gazette Op/Ed, \"Special Report, 'Clearing the Haze:' Black Market Is Thriving in Colorado,\" gazette.com, Mar. 20, 2015",
+            "docid": 8153
+        },
+        {
+            "id": "175",
+            "title": "Carolina Moreno, \"Legislators: The Term ‘Marijuana’ Has Long Been Used to Discriminate against Latinos,\" huffingtonpost.com, Aug. 10, 2017",
+            "docid": 8154
+        },
+        {
+            "id": "176",
+            "title": "Don Fitch, \"Why Do They Call It 'Adult Use?' And Why You Should Too,\" marijuanapolitics.com, Apr. 4, 2015",
+            "docid": 8155
+        },
+        {
+            "id": "177",
+            "title": "Emily Dufton,Grass Roots: The Rise and Fall and Rise of Marijuana in America, 2017",
+            "docid": 8156
+        },
+        {
+            "id": "178",
+            "title": "Margaret J. Goldstein,Legalizing Marijuana, 2017",
+            "docid": 8157
+        },
+        {
+            "id": "179",
+            "title": "Patricia D. Netzley,Is Legalized Marijuana Good for Society?, 2015",
+            "docid": 8158
+        },
+        {
+            "id": "180",
+            "title": "Mark Berman, \"How Public Opinion on Marijuana Has Changed over the Last Half-Century,\" washingtonpost.com, Feb. 24, 2015",
+            "docid": 8159
+        },
+        {
+            "id": "181",
+            "title": "Mark A.R. Kleiman, \"We’re Legalizing Weed Wrong,\" slate.com, Nov. 7, 2016",
+            "docid": 8160
+        },
+        {
+            "id": "182",
+            "title": "Mount Vernon, \"George Washington Grew Hemp,\" mountvernon.org (accessed Jan. 20, 2018)",
+            "docid": 8161
+        },
+        {
+            "id": "183",
+            "title": "Thomas Jefferson Foundation, \"Spurious Quotations,\" Monticello.org (accessed Feb. 7, 2018)",
+            "docid": 8162
+        },
+        {
+            "id": "184",
+            "title": "Frontline, \"A Social History of America’s Most Popular Drugs,\" pbs.org (accessed Feb. 7, 2018)",
+            "docid": 8163
+        },
+        {
+            "id": "185",
+            "title": "History, \"Mexican Revolution,\" history.com (accessed Feb. 7, 2018)",
+            "docid": 8164
+        },
+        {
+            "id": "186",
+            "title": "History, \"Marijuana,\" history.com (accessed Feb. 7, 2018)",
+            "docid": 8165
+        },
+        {
+            "id": "187",
+            "title": "James Lincoln Collier,Louis Armstrong: An American Genius, 1983",
+            "docid": 8166
+        },
+        {
+            "id": "188",
+            "title": "ABC News, \"Tapes Show Louis Armstrong's Anger,\" abcnews.com (accessed Feb. 7, 2018)",
+            "docid": 8167
+        },
+        {
+            "id": "189",
+            "title": "Goal Das, \"Cocaine Abuse in North America: A Milestone in History,\"Journal of Clinical Pharmacology, Apr. 1993",
+            "docid": 8168
+        },
+        {
+            "id": "190",
+            "title": "Ronald F. Becker,Criminal Investigation, 2008",
+            "docid": 8169
+        },
+        {
+            "id": "191",
+            "title": "Federal Food and Drugs Act of 1906, fda.gov, June 22, 1934",
+            "docid": 8170
+        },
+        {
+            "id": "192",
+            "title": "History, \"War on Drugs,\" history.com (accessed Feb. 7, 2018)",
+            "docid": 8171
+        },
+        {
+            "id": "193",
+            "title": "Cydney Adams, \"The Man behind the Marijuana Ban for All the Wrong Reasons,” Nov. 17, 2016",
+            "docid": 8172
+        },
+        {
+            "id": "194",
+            "title": "Frontline, \"Busted: America's War on Marijuana: Historical Timeline,\" pbs.org, Apr. 1998",
+            "docid": 8173
+        },
+        {
+            "id": "195",
+            "title": "Kyle Schmidlin, \"'War on Drugs' Merely Fights the Symptoms of a Faulty System,\" cbsnews.com, Sep. 13, 2008",
+            "docid": 8174
+        },
+        {
+            "id": "196",
+            "title": "Kevin P. Hill,Marijuana: The Unbiased Truth about the World's Most Popular Weed, 2015",
+            "docid": 8175
+        },
+        {
+            "id": "197",
+            "title": "Martin A. Lee, \"BOOK EXCERPT: The Origins of Reefer Madness,\" fair.org, Feb. 2013",
+            "docid": 8176
+        },
+        {
+            "id": "198",
+            "title": "David McDonald, \"The Racist Roots of Marijuana Prohibition,\" fee.org, Apr. 11, 2017",
+            "docid": 8177
+        },
+        {
+            "id": "199",
+            "title": "USLegal, \"Marijuana Tax Act Law and Legal Definition,\" definitions.uslegal.com (accessed Feb. 7, 2018)",
+            "docid": 8178
+        },
+        {
+            "id": "200",
+            "title": "United States Congress Senate Committee on the Judiciary Subcommittee to Investigate Juvenile Delinquency, \"Marijuana Decriminalization: Hearing Before the Subcommittee to Investigate Juvenile Delinquency of the Committee on the Judiciary,\" US Government Printing Office, 1975",
+            "docid": 8179
+        },
+        {
+            "id": "201",
+            "title": "Kayla Morgan,Legalizing Marijuana, 2010",
+            "docid": 8180
+        },
+        {
+            "id": "202",
+            "title": "Mitch Earleywine,Understanding Marijuana: A New Look at the Scientific Evidence, 2002",
+            "docid": 8181
+        },
+        {
+            "id": "203",
+            "title": "Marihuana Tax Act of 1937, drug library.org (accessed Feb. 7, 2018)",
+            "docid": 8182
+        },
+        {
+            "id": "204",
+            "title": "US Customs and Border Protection, \"Did You Know... Marijuana Was Once a Legal Cross-Border Import?,\" cbp.gov, Oct. 6, 2015",
+            "docid": 8183
+        },
+        {
+            "id": "205",
+            "title": "NORML, \"The First Pot POW,\" normal.org (accessed Feb. 7, 2018)",
+            "docid": 8184
+        },
+        {
+            "id": "206",
+            "title": "Drug Policy Alliance, \"Marijuana and Drug Policy Reform in New York: 70 Years after the LaGuardia Committee Report,\" drug policy.org, 2014",
+            "docid": 8185
+        },
+        {
+            "id": "207",
+            "title": "Julie Netherland, \"70 Years after the LaGuardia Commission Report on Marijuana: A Symposium on How NY Can Do Better,\" Apr. 30, 2014",
+            "docid": 8186
+        },
+        {
+            "id": "208",
+            "title": "New York Academy of Medicine, \"The LaGuardia Report - Sociological Study Conclusions,\" druglibrary.org, 1944",
+            "docid": 8187
+        },
+        {
+            "id": "209",
+            "title": "Bruce Barcott,Weed the People: The Future of Legal Marijuana in America, 2015",
+            "docid": 8188
+        },
+        {
+            "id": "210",
+            "title": "New York Academy of Medicine, \"The LaGuardia Report: Exploration of a Chronic Issue in American Drug Policy,\" nyamcenterforhistory.org, May 8, 2014",
+            "docid": 8189
+        },
+        {
+            "id": "211",
+            "title": "Mark Hay, \"Marijuana's Early History in the United States,\" vice.com, Mar. 30, 2015",
+            "docid": 8190
+        },
+        {
+            "id": "212",
+            "title": "FindLaw, \"The Single Convention on Narcotic Drugs,\" criminal.findlaw.com (accessed Feb. 7, 2018)",
+            "docid": 8191
+        },
+        {
+            "id": "213",
+            "title": "Drug Enforcement Administration, \"Drug Schedules,” dea.gov (accessed Feb. 7, 2018)",
+            "docid": 8192
+        },
+        {
+            "id": "214",
+            "title": "Amy Nordrum, \"Why Is Marijuana A Schedule I Drug?,\" ibtimes.com, Feb. 19, 2015",
+            "docid": 8193
+        },
+        {
+            "id": "215",
+            "title": "William A. Galston and E.J. Dionne Jr., \"The New Politics of Marijuana Legalization: Why Opinion Is Changing,\" brookings.edu, May 2013",
+            "docid": 8194
+        },
+        {
+            "id": "216",
+            "title": "German Lopez, \"The Spread of Marijuana Legalalization, Explained,\" vox.com, Jan. 22, 2018",
+            "docid": 8195
+        },
+        {
+            "id": "217",
+            "title": "NORML, \"Introduction,\" norml.org (accessed Feb. 7, 2018)",
+            "docid": 8196
+        },
+        {
+            "id": "218",
+            "title": "Marijuana Policy Project, \"Decriminalization,\" mpp.org (accessed Feb. 7, 2018)",
+            "docid": 8197
+        },
+        {
+            "id": "219",
+            "title": "Jenny Gesley, \"Decriminalization of Narcotics: Netherlands,\" loc.gov, July 28, 2016",
+            "docid": 8198
+        },
+        {
+            "id": "220",
+            "title": "Timeline, \"Watch: Ronald Reagan and His 'War on Drugs,'\" timeline.com, June 26, 2017",
+            "docid": 8199
+        },
+        {
+            "id": "221",
+            "title": "Parenting is Prevention, \"Background of the Parent Movement,\" parentingisprevention.org (accessed Feb. 7, 2018)",
+            "docid": 8200
+        },
+        {
+            "id": "222",
+            "title": "Emily Dufton, \"Former Anti-drug Activists Reflect on Marijuana Legalization,\" washingtonpost.com, Apr. 17, 2015",
+            "docid": 8201
+        },
+        {
+            "id": "223",
+            "title": "Eric Schlosser, \"Marijuana and the Law,\"The Atlantic, Sep. 1994",
+            "docid": 8202
+        },
+        {
+            "id": "224",
+            "title": "National Commission on Marihuana and Drug Abuse & Raymond P. Shafer,Marihuana: A Signal of Misunderstanding, 1972",
+            "docid": 8203
+        },
+        {
+            "id": "225",
+            "title": "Bruce Meland,There Was Marijuana in the Garden of Eden!: An Exposé on Marijuana and Hemp, 2015",
+            "docid": 8204
+        },
+        {
+            "id": "226",
+            "title": "Richard M. Nixon,Public Papers of the Presidents of the United States: Richard M. Nixon, 1972",
+            "docid": 8205
+        },
+        {
+            "id": "227",
+            "title": "Ryan S. King and Marc Mauer, \"The War on Marijuana: The Transformation of the War on Drugs in the 1990s,\" sentencingproject.com, May 2005",
+            "docid": 8206
+        },
+        {
+            "id": "228",
+            "title": "Ballotpedia, \"Colorado Marijuana Legalization Initiative, Amendment 64 (2012),\" ballotpedia.org (accessed Feb. 7, 2018)",
+            "docid": 8207
+        },
+        {
+            "id": "229",
+            "title": "Ballotpedia, \"Washington Marijuana Legalization and Regulation, Initiative 502 (2012),\" ballotpedia.org (accessed Feb. 7, 2018)",
+            "docid": 8208
+        },
+        {
+            "id": "230",
+            "title": "Ballotpedia, \"Oregon Cannabis Tax Act Initiative, Measure 80 (2012),\" ballotpedia.org (accessed Feb. 7, 2018)",
+            "docid": 8209
+        },
+        {
+            "id": "231",
+            "title": "Ballotpedia, \"California Proposition 19, the Marijuana Legalization Initiative (2010),\" ballotpedia.org (accessed Feb. 7, 2018)",
+            "docid": 8210
+        },
+        {
+            "id": "232",
+            "title": "John H. Richardson, \"Introducing the Great Marijuana Prohibitionists of 2012,\" esquire.com, Nov. 2, 2012",
+            "docid": 8211
+        },
+        {
+            "id": "233",
+            "title": "Michael Martinez, \"Colorado's Recreational Marijuana Stores Make History,\" cnn.com, Jan. 1, 2014",
+            "docid": 8212
+        },
+        {
+            "id": "234",
+            "title": "Department of Justice, \"Justice Department Announces Update to Marijuana Enforcement Policy,\" justice.gov, Aug. 29, 2013",
+            "docid": 8213
+        },
+        {
+            "id": "235",
+            "title": "Ballotpedia, \"Washington D.C. Marijuana Legalization, Initiative 71 (November 2014),\" ballotpedia.org (accessed Feb. 7, 2018)",
+            "docid": 8214
+        },
+        {
+            "id": "236",
+            "title": "Ballotpedia, \"Oregon Legalized Marijuana Initiative, Measure 91 (2014),\" ballotpedia.org (accessed Feb. 7, 2018)",
+            "docid": 8215
+        },
+        {
+            "id": "237",
+            "title": "Ballotpedia, \"Alaska Marijuana Legalization, Ballot Measure 2 (2014),\" ballotpedia.org (accessed Feb. 7, 2018)",
+            "docid": 8216
+        },
+        {
+            "id": "238",
+            "title": "German Lopez, \"Marijuana Legalization Won in Alaska, DC, and Oregon, But When Can You Smoke Pot Legally?,\" vox.com, Nov. 5, 2014",
+            "docid": 8217
+        },
+        {
+            "id": "239",
+            "title": "Ballotpedia, \"California Proposition 64, Marijuana Legalization (2016),\" ballotpedia.org (accessed Feb. 7, 2018)",
+            "docid": 8218
+        },
+        {
+            "id": "240",
+            "title": "Ballotpedia, \"Massachusetts Marijuana Legalization, Question 4 (2016),\" ballotpedia.org (accessed Feb. 7, 2018)",
+            "docid": 8219
+        },
+        {
+            "id": "241",
+            "title": "Ballotpedia, \"Maine Marijuana Legalization, Question 1 (2016),\" ballotpedia.org (accessed Feb. 7, 2018)",
+            "docid": 8220
+        },
+        {
+            "id": "242",
+            "title": "Ballotpedia, \"Nevada Marijuana Legalization, Question 2 (2016),\" ballotpedia.org (accessed Feb. 7, 2018)",
+            "docid": 8221
+        },
+        {
+            "id": "243",
+            "title": "Katie Zezima, \"Vermont Is the First State to Legalize Marijuana through Legislature,\" washingtonpost.com, Jan. 24, 2018",
+            "docid": 8222
+        },
+        {
+            "id": "244",
+            "title": "Reid Wilson, \"Vermont Governor Signs Marijuana Legalization Bill,\" the hill.com, Jan. 22, 2018",
+            "docid": 8223
+        },
+        {
+            "id": "245",
+            "title": "Andrea Durrheim, \"The Botanical Classification of Cannabis,\" enecta.com, Oct. 7, 2016",
+            "docid": 8224
+        },
+        {
+            "id": "246",
+            "title": "Richard Glen Boire and Kevin Feeney,Medical Marijuana Law, 2007",
+            "docid": 8225
+        },
+        {
+            "id": "247",
+            "title": "Elizabeth Warren and Cory Gardner, \"The STATES Act: Senator Elizabeth Warren and Senator Cory Gardner,\" warren.senate.gov (accessed June 12, 2018)",
+            "docid": 8226
+        },
+        {
+            "id": "248",
+            "title": "Dennis Romero, \"Trump Says He'll Probably Back Marijuana Protections Bill,\" nbcnews.com, June 8, 2018",
+            "docid": 8227
+        },
+        {
+            "id": "249",
+            "title": "Justin McCarthy, \"Two in Three Americans Now Support Legalizing Marijuana,\" gallup.com, Oct. 22, 2018",
+            "docid": 8228
+        },
+        {
+            "id": "250",
+            "title": "Government of Canada, \"What You Need to Know about Cannabis,\" canada.ca (accessed Oct. 26, 2018)",
+            "docid": 8229
+        },
+        {
+            "id": "251",
+            "title": "Associated Press, \"Canada Now World's Largest Legal Marijuana Marketplace,\" nbcnews.com, Oct. 17, 2017",
+            "docid": 8230
+        },
+        {
+            "id": "252",
+            "title": "Highway Loss Data Institute, \"Crashes Are up in States with Retail Sales,\" iihs.org, Oct. 18, 2018",
+            "docid": 8231
+        },
+        {
+            "id": "253",
+            "title": "Max A. Cherney, \"Hemp Is Now Legal in the U.S., So What Does That Mean for Pot Companies?,\" marketwatch.com, Dec. 23, 2018",
+            "docid": 8232
+        },
+        {
+            "id": "254",
+            "title": "RAND Office of Media Relations, \"Adolescent Marijuana Use Fell After Legalization in Washington; Study Highlights Need to Use Better Data to Follow Youth Use Trends,\" rand.org, Dec. 19, 2018",
+            "docid": 8233
+        },
+        {
+            "id": "255",
+            "title": "National Academies of Sciences, Engineering, and Medicine, \"Nearly 100 Conclusions on the Health Effects of Marijuana and Cannabis-Derived Products Presented in New Report; One of the Most Comprehensive Studies of Recent Research on Health Effects of Recreational and Therapeutic Use of Cannabis and Cannabis-Derived Products,\" nationalacademies.org, Jan. 12, 2017",
+            "docid": 8234
+        },
+        {
+            "id": "256",
+            "title": "Ryan Bort, \"Every Single Weed Initiative Passed on Election Day,\" rollingstone.com, Nov. 4, 2020",
+            "docid": 8235
+        },
+        {
+            "id": "257",
+            "title": "Catie Edmondson, \"House Passes Landmark Bill Decriminalizing Marijuana,\" nytimes.com, Dec. 4, 2020",
+            "docid": 8236
+        },
+        {
+            "id": "258",
+            "title": "Dan Bilefsky, “Legalizing Recreational Marijuana, Canada Begins a National Experiment,” nytimes.com, Oct. 17, 2018",
+            "docid": 8237
+        },
+        {
+            "id": "259",
+            "title": "Jason Lemon, “Georgia Becomes First Former Soviet Country to Legalize Marijuana Consumption,” newsweek.com, July 31, 2018",
+            "docid": 8238
+        },
+        {
+            "id": "260",
+            "title": "Lauren Melnick, “Everything to Know about Cannabis in South Africa,” matadornetwork.com, Apr. 1, 2020",
+            "docid": 8239
+        },
+        {
+            "id": "261",
+            "title": "WeedMaps.com, “Uruguay,” weedmaps.com, July 19, 2021",
+            "docid": 8240
+        },
+        {
+            "id": "262",
+            "title": "BBC, “Australian Capital Territory Legalises Personal Cannabis Use,” bbc.com, Sep. 25, 2019",
+            "docid": 8241
+        },
+        {
+            "id": "263",
+            "title": "BBC, “Mexico Marijuana: Top Court Decriminalises Recreational Use of Cannabis,” bbc.com, June 29, 2021",
+            "docid": 8242
+        },
+        {
+            "id": "264",
+            "title": "Eleanor Pickston and Rob Picheta, “Luxembourg to Become First Country in Europe to Legalize Cannabis,” cnn.com, Oct. 22, 2021",
+            "docid": 8243
+        },
+        {
+            "id": "265",
+            "title": "AP, \"South Dakota's Supreme Court Rules against Legalization of Recreational Marijuana,\" npr.org, Nov. 24, 2021",
+            "docid": 8244
+        },
+        {
+            "id": "266",
+            "title": "Emma Bubola, \"Malta Becomes First E.U. Country to Legalize Marijuana,\" nytimes.com, Dec. 15, 2021",
+            "docid": 8245
+        },
+        {
+            "id": "267",
+            "title": "Kristin Wilson, \"House Passes Bill to Federally Decriminalize Marijuana,\"cnn.com, Apr. 1, 2022",
+            "docid": 8246
+        },
+        {
+            "id": "268",
+            "title": "Joe Biden, twitter.com, Oct. 6, 2022",
+            "docid": 8247
+        },
+        {
+            "id": "270",
+            "title": "White House, twitter.com, Oct. 6, 2022",
+            "docid": 8248
+        },
+        {
+            "id": "271",
+            "title": "Ballotpedia, “Arkansas Issue 4, Marijuana Legalization Initiative (2022),” ballotpedia.org (accessed Nov. 9, 2022)",
+            "docid": 8249
+        },
+        {
+            "id": "272",
+            "title": "Ballotpedia, “Maryland Question 4, Marijuana Legalization Amendment (2022),” ballotpedia.org (accessed Nov. 9, 2022)",
+            "docid": 8250
+        },
+        {
+            "id": "272",
+            "title": "Ballotpedia, “Missouri Amendment 3, Marijuana Legalization Initiative (2022),” ballotpedia.org (accessed Nov. 9, 2022)",
+            "docid": 8251
+        },
+        {
+            "id": "273",
+            "title": "Ballotpedia, “North Dakota Statutory Measure 2, Marijuana Legalization Initiative (2022),” ballotpedia.org (accessed Nov. 9, 2022)",
+            "docid": 8252
+        },
+        {
+            "id": "274",
+            "title": "Ballotpedia, “South Dakota Initiated Measure 27, Marijuana Legalization Initiative (2022),” ballotpedia.org (accessed Nov. 9, 2022)",
+            "docid": 8253
+        },
+        {
+            "id": "275",
+            "title": "Riley Griffin, Ike Swetlitz, and Tiffany Kary, \"US Health Officials Urge Moving Pot to Lower-Risk Tier,\" bloomberg.com, Sep. 1, 2023",
+            "docid": 8254
+        }
+    ],
+    "url": "https://marijuana.procon.org/"
+}

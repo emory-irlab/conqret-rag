@@ -1,0 +1,405 @@
+{
+    "title": "Should the U.S. Government Provide a Path to Citizenship for Undocumented Immigrants?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Francine Kiefer, “Immigration Reform 101: How Is ‘Legal Status’ Different from Citizenship?,” csmonitor.com, Jan. 31, 2014",
+            "url": null,
+            "docid": 11080
+        },
+        {
+            "id": "2",
+            "title": "USA.gov, “Deportation,” usa.gov, Apr. 18, 2022",
+            "url": null,
+            "docid": 11081
+        },
+        {
+            "id": "3",
+            "title": "Dan Clark, “Is Living as an Undocumented Immigrant in the U.S. a Crime?,” politifact.com, Dec. 1, 2017",
+            "url": null,
+            "docid": 11082
+        },
+        {
+            "id": "4",
+            "title": "Cornell Law School Legal Information Institute, “Amnesty,” law.cornell.edu, Dec. 2021",
+            "url": null,
+            "docid": 11083
+        },
+        {
+            "id": "5",
+            "title": "James P. Sterba, “Carter Plan Would Give Amnesty to Illegal Aliens Already in U.S.,” nytimes.com, Apr. 18, 1977",
+            "url": null,
+            "docid": 11084
+        },
+        {
+            "id": "6",
+            "title": "Evan Wyloge, “The Immigration Reform and Control Act: What It Is, Why It Matters,” asu.news21.com, Nov. 6, 1986",
+            "url": null,
+            "docid": 11085
+        },
+        {
+            "id": "7",
+            "title": "Library of Congress, “A Latinx Resource Guide: Civil Rights Cases and Events in the United States, 1986: Immigration Reform and Control Act of 1986,” guides.loc.gov (accessed May 24, 2022)",
+            "url": null,
+            "docid": 11086
+        },
+        {
+            "id": "8",
+            "title": "Cornell Law School Legal Information Institute, “8 CFR Subpart A - Immigration Reform and Control Act of 1986 (IRCA) Legalization Provisions,” law.cornell.edu (accessed May 24, 2022)",
+            "url": null,
+            "docid": 11087
+        },
+        {
+            "id": "9",
+            "title": "Mónica Ortiz Uribe, “‘My Life Could’ve Been Completely Different’: Revisiting Impacts of 1986 Irca Amnesty,” elpasotimes.com, Feb. 17, 2021",
+            "url": null,
+            "docid": 11088
+        },
+        {
+            "id": "10",
+            "title": "Nancy Rytina, “IRCA Legalization Effects: Lawful Permanent Residence and Naturalization through 2001,” dhs.gov, Oct. 25, 2022",
+            "url": null,
+            "docid": 11089
+        },
+        {
+            "id": "11",
+            "title": "Andrew Taylor, “2 GOP Presidents Acted Unilaterally on Immigration,” usnews.com, Nov. 17, 2014",
+            "url": null,
+            "docid": 11090
+        },
+        {
+            "id": "12",
+            "title": "John Kruzel, “Did Reagan and H.W. Bush Issue Actions Similar to DACA, as Al Franken Said?,” politifact.com, Sep. 8, 2017",
+            "url": null,
+            "docid": 11091
+        },
+        {
+            "id": "13",
+            "title": "American Immigration Council, “Reagan-Bush Family Fairness: A Chronological History,’ americanimmigrationcouncil.org, Dec. 9, 2014",
+            "url": null,
+            "docid": 11092
+        },
+        {
+            "id": "14",
+            "title": "Mark Krikorian, “Obama’s Unprecedented Amnesty,” nationalreview.com, Nov. 18, 2014",
+            "url": null,
+            "docid": 11093
+        },
+        {
+            "id": "15",
+            "title": "Dara Lind, “The Disastrous, Forgotten 1996 Law That Created Today’s Immigration Problem,” vox.com, Apr. 28, 2016",
+            "url": null,
+            "docid": 11094
+        },
+        {
+            "id": "16",
+            "title": "White House, “President Bush's Plan For Comprehensive Immigration Reform,” georgewbush-whitehouse.archives.gov, May 15, 2006",
+            "url": null,
+            "docid": 11095
+        },
+        {
+            "id": "17",
+            "title": "Donna Smith, “Senate Kills Bush Immigration Reform Bill,” reuters.com, June 28, 2007",
+            "url": null,
+            "docid": 11096
+        },
+        {
+            "id": "18",
+            "title": "American Immigration Council, “The Dream Act: An Overview,” americanimmigrationcouncil.org, Mar. 16, 2021",
+            "url": null,
+            "docid": 11097
+        },
+        {
+            "id": "19",
+            "title": "U.S. Congress, “S.264 - Dream Act of 2021,” congress.gov (accessed May 26, 2022)",
+            "url": null,
+            "docid": 11098
+        },
+        {
+            "id": "20",
+            "title": "U.S. Congress, “H.R.6 - American Dream and Promise Act of 2021,” congress.gov (accessed May 26, 2022)",
+            "url": null,
+            "docid": 11099
+        },
+        {
+            "id": "21",
+            "title": "Undocumented Student Program, “DACA Information,” undocu.berkeley.edu (accessed Jan. 30, 2018)",
+            "url": null,
+            "docid": 11100
+        },
+        {
+            "id": "22",
+            "title": "Homeland Security, “Deferred Action for Childhood Arrivals (DACA),” dhs.gov, Jan. 29, 2018",
+            "url": null,
+            "docid": 11101
+        },
+        {
+            "id": "23",
+            "title": "Vanessa Romo, Martina Stewart, and Brian Naylor, “Trump Ends DACA, Calls On Congress To Act,” npr.org, Sep. 5, 2017",
+            "url": null,
+            "docid": 11102
+        },
+        {
+            "id": "24",
+            "title": "Michael D. Shear and Emily Cochrane, “Trump Says Administration Will Try Again to End ‘Dreamers’ Program,” nytimes.com, June 19, 2020",
+            "url": null,
+            "docid": 11103
+        },
+        {
+            "id": "25",
+            "title": "Nina Totenberg, “Supreme Court Rules For DREAMers, against Trump,” npr.org, June 18, 2020",
+            "url": null,
+            "docid": 11104
+        },
+        {
+            "id": "26",
+            "title": "Tal Kopan and Jeremy Diamond, “White House Proposes Path to Citizenship for 1.8 Million People,” cnn.com, Jan. 26, 2018",
+            "url": null,
+            "docid": 11105
+        },
+        {
+            "id": "27",
+            "title": "Rafael Bernal, “Trump Says He’ll Sign Order with ‘Road to Citizenship’ for DACA Recipients,” thehill.com, July 10, 2020",
+            "url": null,
+            "docid": 11106
+        },
+        {
+            "id": "28",
+            "title": "Joseph R. Biden, “Preserving and Fortifying Deferred Action for Childhood Arrivals (DACA),” whitehouse.gov, Jan. 20, 2021",
+            "url": null,
+            "docid": 11107
+        },
+        {
+            "id": "29",
+            "title": "Ken Stone, “White House Walks Back Trump Vow He’ll Give Dreamers Path to U.S. Citizenship,” timesofsandiego.com, July 10, 2020",
+            "url": null,
+            "docid": 11108
+        },
+        {
+            "id": "30",
+            "title": "U.S. Customs and Border Enforcement, “CBP Enforcement Statistics Fiscal Year 2023,” cbp.gov, Nov. 14, 2022",
+            "url": null,
+            "docid": 11109
+        },
+        {
+            "id": "31",
+            "title": "Eve Zuckoff, “Migrants on Martha’s Vineyard Flight Say They Were Told They Were Going to Boston,” npr.org, Sep. 15, 2022",
+            "url": null,
+            "docid": 11110
+        },
+        {
+            "id": "32",
+            "title": "Camilo Montoya-Galvez, “New York Declares State of Emergency over Migrant Arrivals, Citing Dwindling Shelter Space” cbsnews.com, Oct. 7, 2022",
+            "url": null,
+            "docid": 11111
+        },
+        {
+            "id": "33",
+            "title": "Rafael Bernal, “Poll: 70 Percent of Americans Support a Path to Citizenship,” thehill.com, Feb. 16, 2022",
+            "url": null,
+            "docid": 11112
+        },
+        {
+            "id": "34",
+            "title": "J. Baxter Oliphant and Andy Cerda, “Republicans and Democrats Have Different Top Priorities for U.S. Immigration Policy,” pewresearch.org, Sep. 8, 2022",
+            "url": null,
+            "docid": 11113
+        },
+        {
+            "id": "35",
+            "title": "Laura Collins, “Solutions for Undocumented Immigrants,” bushcenter.org, Jan. 19, 2021",
+            "url": null,
+            "docid": 11114
+        },
+        {
+            "id": "36",
+            "title": "Randy Capps, Julia Gelatt, Ariel G. Ruiz Soto, and Jennifer Van Hook, “Unauthorized Immigrants in the United States: Stable Numbers, Changing Origins,” migrationpolicy.org, Dec. 2020",
+            "url": null,
+            "docid": 11115
+        },
+        {
+            "id": "37",
+            "title": "New American Economy, “Undocumented Immigrants,” newamericaneconomy.org (accessed June 2, 2022)",
+            "url": null,
+            "docid": 11116
+        },
+        {
+            "id": "38",
+            "title": "Giovanni Peri and Reem Zaiour, “Citizenship for Undocumented Immigrants Would Boost U.S. Economic Growth,” americanprogress.org, June 14, 2021",
+            "url": null,
+            "docid": 11117
+        },
+        {
+            "id": "39",
+            "title": "White House, “Remarks by the President on Immigration,” obamawhitehouse.archives.gov, June 15, 2012",
+            "url": null,
+            "docid": 11118
+        },
+        {
+            "id": "40",
+            "title": "Migration Policy Institute, “Deferred Action for Childhood Arrivals (DACA) Data Tools,” migrationpolicy.org (accessed June 3, 2022)",
+            "url": null,
+            "docid": 11119
+        },
+        {
+            "id": "41",
+            "title": "fwd.us, “Dreamers by the Numbers,” fwd.us, Mar. 1, 2021",
+            "url": null,
+            "docid": 11120
+        },
+        {
+            "id": "42",
+            "title": "Laurence Benenson, “Fact Sheet: Deferred Action for Childhood Arrivals (DACA),” immigrationforum.org Oct. 16, 2020",
+            "url": null,
+            "docid": 11121
+        },
+        {
+            "id": "43",
+            "title": "Jeanne Batalova and Michael Fix, “A Deeper Look at the DREAMers Who Could Feature in the Legalization Debate in Congress,” migrationpolicy.org, Feb. 2021",
+            "url": null,
+            "docid": 11122
+        },
+        {
+            "id": "44",
+            "title": "Nicole Prchal Svajlenka and Trinh Q. Truong, “The Demographic and Economic Impacts of DACA Recipients: Fall 2021 Edition,” americanprogress.org, Nov. 24, 2021",
+            "url": null,
+            "docid": 11123
+        },
+        {
+            "id": "45",
+            "title": "Richard Barth, “Dreamers Are Essential To America. Let Them Become Citizens,” forbes.com, Nov. 29, 2021",
+            "url": null,
+            "docid": 11124
+        },
+        {
+            "id": "46",
+            "title": "Tom Jawetz, “Restoring the Rule of Law Through a Fair, Humane, and Workable Immigration System,” americanprogress.org, July 22, 2019",
+            "url": null,
+            "docid": 11125
+        },
+        {
+            "id": "47",
+            "title": "Miriam Jordan, “The Overlooked Undocumented Immigrants: From India, China, Brazil,” nytimes.com, Dec. 1, 2019",
+            "url": null,
+            "docid": 11126
+        },
+        {
+            "id": "48",
+            "title": "David J. Bier, “Why the Legal Immigration System Is Broken: A Short List of Problems,” cato.org, July 10, 2018",
+            "url": null,
+            "docid": 11127
+        },
+        {
+            "id": "49",
+            "title": "Matt O’Brien, “Rewarding Bad Behavior Is the Worst Approach to Illegal Immigration,” thehill.com, Mar. 1, 2018",
+            "url": null,
+            "docid": 11128
+        },
+        {
+            "id": "50",
+            "title": "James Carafano, Lora Ries, Chad Wolf, Ken Cuccinelli, and Mark Morgan, “Heritage Experts: Biden's Amnesty Proposal ‘Trades American Interests for Far-Left’s Political Aspirations,’” heritage.org, Feb. 18, 2021",
+            "url": null,
+            "docid": 11129
+        },
+        {
+            "id": "51",
+            "title": "Joseph Chamie, “What Should Be the Consequences for Illegal Immigration?,” thehill.com, Feb. 5, 2021",
+            "url": null,
+            "docid": 11130
+        },
+        {
+            "id": "52",
+            "title": "Lora Ries, “Does the US Owe Amnesty to Future Illegal Immigrants?,” thehill.com, Oct. 26, 2020",
+            "url": null,
+            "docid": 11131
+        },
+        {
+            "id": "53",
+            "title": "Emily Sacia, “Cochise Sheriff: Border Crime at ‘All-Time High,’ Immigration Reform Needed,” cronkitenews.azpbs.org, Apr. 27, 2022",
+            "url": null,
+            "docid": 11132
+        },
+        {
+            "id": "54",
+            "title": "David Inserra, “Dreaming of Amnesty: Legalization Will Spur More Illegal Immigration,” heritage.org, Oct. 30, 2017",
+            "url": null,
+            "docid": 11133
+        },
+        {
+            "id": "55",
+            "title": "Heritage Foundation, “What Immigration Reform Should Look Like,” heritage.org (accessed June 1, 2022)",
+            "url": null,
+            "docid": 11134
+        },
+        {
+            "id": "56",
+            "title": "Ilona Bray, “Consequences of Unlawful Presence in the U.S.—Three– and Ten-Year Time Bars,” nolo.com (accessed May 31, 2022)",
+            "url": null,
+            "docid": 11135
+        },
+        {
+            "id": "57",
+            "title": "Ilona Bray, “The Permanent Bar to Immigration for Certain Repeat Violators,” nolo.com (accessed May 31, 2022)",
+            "url": null,
+            "docid": 11136
+        },
+        {
+            "id": "58",
+            "title": "Bryan Baker, “Estimates of the Unauthorized Immigrant Population Residing in the United States: January 2015–January 2018,” dhs.gov, Jan. 2021",
+            "url": null,
+            "docid": 11137
+        },
+        {
+            "id": "59",
+            "title": "Cecilia Esterline and Jeanne Batalova, “Refugees and Asylees in the United States,” migrationpolicy.org, May 13, 2021",
+            "url": null,
+            "docid": 11138
+        },
+        {
+            "id": "60",
+            "title": "Steven A. Camarota and Karen Zeigler, “Estimating the Illegal Immigrant Population Using the Current Population Survey,” cis.org, Mar. 29, 2022",
+            "url": null,
+            "docid": 11139
+        },
+        {
+            "id": "61",
+            "title": "Diana Roy and Claire Felter, “What Is Temporary Protected Status?,” cfr.org, Mar. 28, 2022",
+            "url": null,
+            "docid": 11140
+        },
+        {
+            "id": "62",
+            "title": "American Immigration Council, “Temporary Protected Status: An Overview,” americanimmigrationcouncil.org, Sep. 30, 2022",
+            "url": null,
+            "docid": 11141
+        },
+        {
+            "id": "63",
+            "title": "Ryan Baugh, \"Refugees and Asylees: 2019,\" dhs.gov, Sep. 2020",
+            "url": null,
+            "docid": 11142
+        },
+        {
+            "id": "64",
+            "title": "Michael Howell, “Why America Has to Avoid Amnesty,” thehill.com, July 17, 2020",
+            "url": null,
+            "docid": 11143
+        },
+        {
+            "id": "65",
+            "title": "Alex Nowrasteh and David J. Bier, “Three New Ways for Congress to Legalize Illegal Immigrants,” cato.org, Apr. 10, 2019",
+            "url": null,
+            "docid": 11144
+        },
+        {
+            "id": "66",
+            "title": "Ashley Nunes, “A Path to Legal Status but Not Citizenship,” nationalreview.com, Mar. 31, 2017",
+            "url": null,
+            "docid": 11145
+        }
+    ],
+    "url": "https://immigration.procon.org/"
+}

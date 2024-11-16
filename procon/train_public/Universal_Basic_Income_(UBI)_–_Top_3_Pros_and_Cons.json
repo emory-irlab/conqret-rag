@@ -1,0 +1,375 @@
+{
+    "title": "Universal Basic Income (UBI) – Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Evelyn L. Forget, \"The Town with No Poverty,\" public.econ.duke.edu, Feb. 2011",
+            "url": null,
+            "docid": 4811
+        },
+        {
+            "id": "2",
+            "title": "Johannes Haushofer and Jeremy Shapiro, \"The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya,\" princeton.edu, Apr. 25, 2016",
+            "url": null,
+            "docid": 4812
+        },
+        {
+            "id": "3",
+            "title": "John McArthur, \"How Many Countries Could End Extreme Poverty Tomorrow?,\" brookings.edu, June 1, 2017",
+            "url": null,
+            "docid": 4813
+        },
+        {
+            "id": "4",
+            "title": "Caroline Lucas, \"These Are the Simple Reasons Why a Basic Income for All Could Transform Our Society for the Better,\" independent.co.uk, Jan. 15, 2016",
+            "url": null,
+            "docid": 4814
+        },
+        {
+            "id": "5",
+            "title": "May Bulman, \"French Socialist Presidential Candidates Back Universal Basic Income of £655 a Month for All Citizens,\" independent.co.uk, Jan.17, 2017",
+            "url": null,
+            "docid": 4815
+        },
+        {
+            "id": "6",
+            "title": "Luke Kingma, \"Universal Basic Income: The Answer to Automation?,\" futurism.com (accessed July 6, 2017)",
+            "url": null,
+            "docid": 4816
+        },
+        {
+            "id": "7",
+            "title": "Basic Income Grant Coalition, \"Pilot Project,\" bignam.org, 2014",
+            "url": null,
+            "docid": 4817
+        },
+        {
+            "id": "8",
+            "title": "Christopher Blattman, et al., \"Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda,\" ssrn.com, Nov. 14, 2013",
+            "url": null,
+            "docid": 4818
+        },
+        {
+            "id": "9",
+            "title": "Alicia H. Munnell, \"Lessons from the Income Maintenance Experiments: An Overview,\" bostonfed.org, Sep. 1986",
+            "url": null,
+            "docid": 4819
+        },
+        {
+            "id": "10",
+            "title": "Robert B. Reich, \"Why We'll Need a Universal Basic Income,\" robertreich.org, Sep. 29, 2016",
+            "url": null,
+            "docid": 4820
+        },
+        {
+            "id": "11",
+            "title": "Greg Mankiw, \"News Flash: Economists Agree,\" gregmankiw.blogspot.co.uk, Feb. 14, 2009",
+            "url": null,
+            "docid": 4821
+        },
+        {
+            "id": "12",
+            "title": "Scott Santens, \"Universal Basic Income as the Social Vaccine of the 21st Century,\" medium.com, Feb. 5, 2015",
+            "url": null,
+            "docid": 4822
+        },
+        {
+            "id": "13",
+            "title": "Oren Cass, \"Why a Universal Basic Income Is a Terrible Idea,\" nationalreview.com, June 15, 2016",
+            "url": null,
+            "docid": 4823
+        },
+        {
+            "id": "14",
+            "title": "SEWA Bharat, \"A Little More, How Much It Is... Piloting Basic Income Transfers in Madhya Pradesh, India,\" unicef.in, Jan. 2014",
+            "url": null,
+            "docid": 4824
+        },
+        {
+            "id": "15",
+            "title": "Robert Greenstein, \"Commentary: Universal Basic Income May Sound Attractive But, If It Occurred, Would Likelier Increase Poverty Than Reduce It,\" cbpp.org, May 31, 2016",
+            "url": null,
+            "docid": 4825
+        },
+        {
+            "id": "16",
+            "title": "Noah Zon, \"Would a Universal Basic Income Reduce Poverty?,\" maytree.com, Aug. 2016",
+            "url": null,
+            "docid": 4826
+        },
+        {
+            "id": "17",
+            "title": "Elizabeth Anderson, \"Forum Response: A Basic Income for All,\" bostonreview.net, Oct. 1, 2000",
+            "url": null,
+            "docid": 4827
+        },
+        {
+            "id": "18",
+            "title": "Robert Whaples, \"Skeptical Thoughts on a Taxpayer-Funded Basic Income Guarantee,\" The Independent Review, Spring 2015",
+            "url": null,
+            "docid": 4828
+        },
+        {
+            "id": "19",
+            "title": "Isabel V. Sawhill, \"Money for Nothing: Why a Universal Basic Income Is a Step Too Far,\" brookings.edu, June 15, 2016",
+            "url": null,
+            "docid": 4829
+        },
+        {
+            "id": "20",
+            "title": "Raine Tiessalo, \"Free Money Provokes Some Finns to Slam Basic Income as 'Useless',\" bloomberg.com, Feb. 8, 2017",
+            "url": null,
+            "docid": 4830
+        },
+        {
+            "id": "21",
+            "title": "Kela, \"Experimental Study on a Universal Basic Income,\" kela.fi, Feb. 16, 2017",
+            "url": null,
+            "docid": 4831
+        },
+        {
+            "id": "22",
+            "title": "Jason Koebler, \"100 People in Oakland Will Get Free Money as Part of a Basic Income Experiment,\" motherboard.vice.com, May 31, 2016",
+            "url": null,
+            "docid": 4832
+        },
+        {
+            "id": "23",
+            "title": "Marc Joffe, \"Universal Basic Income: An Idea Whose Time Should Never Come,\" thefiscaltimes.com, Apr. 3, 2017",
+            "url": null,
+            "docid": 4833
+        },
+        {
+            "id": "24",
+            "title": "Andreas Mogensen, \"Why We (Still) Don't Recommend GiveDirectly,\" givingwhatwecan.org, Feb. 27, 2014",
+            "url": null,
+            "docid": 4834
+        },
+        {
+            "id": "25",
+            "title": "Guy Standing, \"How Cash Transfers Promote the Case for Basic Income,\" guystanding.com, Apr. 2008",
+            "url": null,
+            "docid": 4835
+        },
+        {
+            "id": "26",
+            "title": "Philippe Van Parijs, \"A Basic Income for All,\" bostonreview.net, 2000",
+            "url": null,
+            "docid": 4836
+        },
+        {
+            "id": "27",
+            "title": "Olivia Goldhill, \"All of the Problems Universal Basic Income Can Solve That Have Nothing to Do with Unemployment,\" qz.com, Apr. 24, 2016",
+            "url": null,
+            "docid": 4837
+        },
+        {
+            "id": "28",
+            "title": "Canadian Medical Association, \"National Support for a Basic Income Guarantee,\" cloudfront.net, 2015",
+            "url": null,
+            "docid": 4838
+        },
+        {
+            "id": "29",
+            "title": "Malcolm Torry, Money for Everyone, 2013",
+            "url": null,
+            "docid": 4839
+        },
+        {
+            "id": "30",
+            "title": "Philippe Van Parijs, \"Basic Income and Social Justice: Why Philosophers Disagree,\" jrf.org.uk, Mar. 13, 2009",
+            "url": null,
+            "docid": 4840
+        },
+        {
+            "id": "31",
+            "title": "Poverty and Social Exclusion (PSE), \"Benefit System Riddled with 'Stigma',\" poverty.ac.uk (accessed July 25, 2017)",
+            "url": null,
+            "docid": 4841
+        },
+        {
+            "id": "32",
+            "title": "David R. Henderson, \"A Philosophical Economist's Case Against a Government-Guaranteed Basic Income,\" independent.org, 2015",
+            "url": null,
+            "docid": 4842
+        },
+        {
+            "id": "33",
+            "title": "Charles Wyplosz, \"Universal Basic Income: The Contradictions of a Simple Idea,\" parisinnovationreview.com, Dec. 8, 2016",
+            "url": null,
+            "docid": 4843
+        },
+        {
+            "id": "34",
+            "title": "Swiss Federal Council, \"'Unconditional Basic Income' Popular Initiative,\" admin.ch, June 2016",
+            "url": null,
+            "docid": 4844
+        },
+        {
+            "id": "35",
+            "title": "Rachel Slater, \"Cash Transfers, Social Protection and Poverty Reduction,\" odi.org, Mar. 2008",
+            "url": null,
+            "docid": 4845
+        },
+        {
+            "id": "36",
+            "title": "Allison Schrager, \"Why You Need a Healthy Amount of Uncertainty in an Economy,\" qz.com, Nov. 16, 2013",
+            "url": null,
+            "docid": 4846
+        },
+        {
+            "id": "37",
+            "title": "Luke Martinelli, \"Exploring the Distributional and Work Incentive Effects of Plausible Illustrative Basic Income Schemes,\" bath.ac.uk, May 2017",
+            "url": null,
+            "docid": 4847
+        },
+        {
+            "id": "38",
+            "title": "Damian Hinds, \"Universal Basic Income,\" hansard.parliament.uk, Sep. 14, 2016",
+            "url": null,
+            "docid": 4848
+        },
+        {
+            "id": "39",
+            "title": "Organisation for Economic Co-operation and Development (OECD), \"Basic Income as a Policy Option: Technical Background Note Illustrating Cost and Distributional Implications for Selected Countries,\" oecd.org, May 2017",
+            "url": null,
+            "docid": 4849
+        },
+        {
+            "id": "40",
+            "title": "GiveWell, \"GiveDirectly: Supplementary Information,\" givewell.org (accessed Aug. 24, 2017)",
+            "url": null,
+            "docid": 4850
+        },
+        {
+            "id": "41",
+            "title": "John Kay, \"The Basics of Basic Income,\" johnkay.com, Apr. 5, 2017",
+            "url": null,
+            "docid": 4851
+        },
+        {
+            "id": "42",
+            "title": "Thomas A. Husted, \"Changes in State Income Inequality from 1981 to 1987,\" journal.srsa.org (accessed Sep. 5, 2017)",
+            "url": null,
+            "docid": 4852
+        },
+        {
+            "id": "43",
+            "title": "Kirby B. Posey, \"Household Income: 2015,\" census.gov, Sep. 2016",
+            "url": null,
+            "docid": 4853
+        },
+        {
+            "id": "44",
+            "title": "Michalis Nikiforos, et al., \"Modeling the Macroeconomic Effects of a Universal Basic Income,\" rooseveltinsitute.org, Aug. 2017",
+            "url": null,
+            "docid": 4854
+        },
+        {
+            "id": "45",
+            "title": "Kimberly Amadeo, “What Is Universal Basic Income?,”thebalance.com, Aug. 19, 2021",
+            "url": "https://www.thebalance.com/universal-basic-income-4160668",
+            "docid": 4855
+        },
+        {
+            "id": "46",
+            "title": "Sigal Samuel, “Everywhere Basic Income Has Been Tried, in One Map,” vox.com, Oct. 20, 2020",
+            "url": null,
+            "docid": 4856
+        },
+        {
+            "id": "47",
+            "title": "Robyn Sundlee, “Alaska’s Universal Basic Income Problem,” vox.com, Sep. 5, 2019",
+            "url": null,
+            "docid": 4857
+        },
+        {
+            "id": "48",
+            "title": "Alaska Department of Revenue Permanent Fund Dividend Division, “Summary of Dividend Applications and Payments,” pfd.alaska.gov (accessed Feb. 22, 2021)",
+            "url": null,
+            "docid": 4858
+        },
+        {
+            "id": "49",
+            "title": "Genevieve Wojtusik, “Department of Revenue Announces 2020 Permanent Fund Dividend,” alaska-native-news.com, June 13, 2020",
+            "url": null,
+            "docid": 4859
+        },
+        {
+            "id": "50",
+            "title": "Matthew Smith, “Universal Basic Income Could Improve the Nation’s Mental Health,” theconversation.com, Apr. 27, 2020",
+            "url": null,
+            "docid": 4860
+        },
+        {
+            "id": "51",
+            "title": "Salil B Patel and Joel Kariel, “Universal Basic Income and Covid-19 Pandemic,”bmj.com, Jan. 26, 2021",
+            "url": "https://www.bmj.com/content/372/bmj.n193",
+            "docid": 4861
+        },
+        {
+            "id": "52",
+            "title": "Anna Coote and Edanur Yazici, “Universal Basic Income: A Union Perspective,” world-psi.org, Apr. 2019",
+            "url": null,
+            "docid": 4862
+        },
+        {
+            "id": "53",
+            "title": "Yelena Dzhanova, “Why Andrew Yang’s Push for a Universal Basic Income Is Making a Comeback,” cnbc.com, July 29, 2020",
+            "url": null,
+            "docid": 4863
+        },
+        {
+            "id": "54",
+            "title": "David Tal, “Universal Basic Income Cures Mass Unemployment,” quantumrun.com, Sep. 14, 2020",
+            "url": null,
+            "docid": 4864
+        },
+        {
+            "id": "55",
+            "title": "Nicholas Eberstadt and Evan Abramsky, “What Do Prime-Age 'NILF' Men Do All Day? A Cautionary on Universal Basic Income,”ifstudies.org, Feb. 8, 2021",
+            "url": "https://ifstudies.org/blog/what-do-prime-age-nilf-men-do-all-day-a-cautionary-on-universal-basic-income",
+            "docid": 4865
+        },
+        {
+            "id": "56",
+            "title": "Guy Standing, “Gender Inequality in Times of COVID-19 — Give Women Cash,” en.unesco.org, Apr. 17, 2020",
+            "url": null,
+            "docid": 4866
+        },
+        {
+            "id": "57",
+            "title": "Ryan Hughes, “Universal Basic Income Is a Bad Idea,” bulloakcapital.com, July 26, 2020",
+            "url": null,
+            "docid": 4867
+        },
+        {
+            "id": "58",
+            "title": "State of Alaska: Department of Revenue, “Permanent Fund Dividend,” pfd.alaska.gov (accessed Apr. 2, 2024)",
+            "url": null,
+            "docid": 4868
+        },
+        {
+            "id": "59",
+            "title": "Logan Ward, “The Pros and Cons of Universal Basic Income,” college.unc.edu, Mar. 10, 2021",
+            "url": null,
+            "docid": 4869
+        }
+    ],
+    "discussion": [
+        "1. Should the United States implement a Universal Basic Income? Why or why not?",
+        "2. Should cities or states implement Universal Basic Income? Why or why not?",
+        "3. What other economic polices to reduce poverty would you enact? Explain your answers."
+    ],
+    "action": [
+        "1. Investigate the World Bank’s report,“Exploring Universal Basic Income: A Guide to Navigating Concepts, Evidence, and Practices.”",
+        "2. Explore Stanford University’sBasic Income Lab.",
+        "3. Examine where abasic income has been implementedand the results atVox.",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/universal-basic-income-top-3-pros-and-cons/"
+}

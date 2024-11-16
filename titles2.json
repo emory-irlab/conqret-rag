@@ -1,0 +1,940 @@
+{
+    "https://concealedguns.procon.org": {
+        "titles": [
+            "Concealed Guns - Pros & Cons - ProCon.org",
+            "Should Adults Have the Right to Carry a Concealed Handgun?",
+            "concealedguns.procon.org.json"
+        ],
+        "qid": 94
+    },
+    "https://teachertenure.procon.org": {
+        "titles": [
+            "Teacher Tenure - Pros & Cons - ProCon.org",
+            "Should Teachers Get Tenure?",
+            "teachertenure.procon.org.json"
+        ],
+        "qid": 124
+    },
+    "https://healthcare.procon.org": {
+        "titles": [
+            "Universal Healthcare Pros and Cons",
+            "Should the U.S. Government Provide Universal Health Care?",
+            "healthcare.procon.org.json"
+        ],
+        "qid": 113
+    },
+    "https://www.procon.org/headlines/corporal-punishment-pros-cons-procon-org": {
+        "titles": [
+            "Should Corporal Punishment Be Used in K-12 Schools?",
+            "Corporal Punishment in K-12 Schools - Top 3 Pros and Cons | ProCon.org",
+            "Corporal Punishment in K-12 Schools \u2013 Top 3 Pros and Cons",
+            "corporal-punishment-pros-cons-procon-org.json"
+        ],
+        "qid": 3
+    },
+    "https://www.procon.org/headlines/hosting-the-olympic-games-top-3-pros-and-cons": {
+        "titles": [
+            "Are the Olympic Games an Overall Benefit for Their Host Countries and Cities?",
+            "Olympics Hosting - Pros & Cons - ProCon.org",
+            "Hosting the Olympic Games \u2013 Top 3 Pros and Cons",
+            "hosting-the-olympic-games-top-3-pros-and-cons.json"
+        ],
+        "qid": 4
+    },
+    "https://vegetarian.procon.org": {
+        "titles": [
+            "Vegetarian - Pros & Cons - ProCon.org",
+            "Should People Become Vegetarian?",
+            "vegetarian.procon.org.json"
+        ],
+        "qid": 107
+    },
+    "https://abortion.procon.org": {
+        "titles": [
+            "Abortion - Top Arguments For and Against - ProCon.org",
+            "Should Abortion Be Legal?",
+            "abortion.procon.org.json"
+        ],
+        "qid": 23
+    },
+    "https://college-education.procon.org": {
+        "titles": [
+            "Is College Worth It?",
+            "Is a College Education Worth It?",
+            "college-education.procon.org.json"
+        ],
+        "qid": 22
+    },
+    "https://www.procon.org/headlines/defund-the-police-top-3-pros-and-cons": {
+        "titles": [
+            "Should Police Departments Be Defunded, if Not Abolished?",
+            "Defunding the Police Pros and Cons | Top 3 Arguments For and Against",
+            "Defund the Police \u2013 Top 3 Pros and Cons",
+            "defund-the-police-top-3-pros-and-cons.json"
+        ],
+        "qid": 8
+    },
+    "https://prostitution.procon.org": {
+        "titles": [
+            "Should Prostitution Be Legal? - Prostitution - ProCon.org",
+            "Should Prostitution Be Legal?",
+            "prostitution.procon.org.json"
+        ],
+        "qid": 77
+    },
+    "https://www.procon.org/headlines/election-day-national-holiday-top-3-pros-and-cons": {
+        "titles": [
+            "Should Election Day Be Made a National Holiday?",
+            "Should Election Day Be a National Holiday? Top 3 Pros and Cons",
+            "Election Day National Holiday \u2013 Top 3 Pros and Cons",
+            "election-day-national-holiday-top-3-pros-and-cons.json"
+        ],
+        "qid": 10
+    },
+    "https://www.procon.org/headlines/should-net-neutrality-be-restored-top-3-pros-and-cons": {
+        "titles": [
+            "Should the US Have Net Neutrality Laws?",
+            "Net Neutrality - Pros & Cons - ProCon.org",
+            "Net Neutrality \u2013 Top 3 Pros and Cons",
+            "should-net-neutrality-be-restored-top-3-pros-and-cons.json"
+        ],
+        "qid": 11
+    },
+    "https://socialsecurity.procon.org": {
+        "titles": [
+            "Should Social Security Be Privatized? Top 6 Pros and Cons",
+            "Should Social Security Be Privatized?",
+            "socialsecurity.procon.org.json"
+        ],
+        "qid": 128
+    },
+    "https://minimum-wage.procon.org": {
+        "titles": [
+            "Should the Federal Minimum Wage Be Increased?",
+            "Should the Federal Minimum Wage Be Increased?",
+            "minimum-wage.procon.org.json"
+        ],
+        "qid": 28
+    },
+    "https://www.procon.org/headlines/american-socialism-top-2-pros-and-cons": {
+        "titles": [
+            "Should the US Become Socialist?",
+            "American Socialism - Pros & Cons - ProCon.org",
+            "American Socialism \u2013 Top 3 Pros and Cons",
+            "american-socialism-top-2-pros-and-cons.json"
+        ],
+        "qid": 14
+    },
+    "https://drinkingage.procon.org": {
+        "titles": [
+            "Should the Drinking Age Be Lowered in the US? 13 Pros and Cons",
+            "Should the Drinking Age Be Lowered from 21 to a Younger Age?",
+            "drinkingage.procon.org.json"
+        ],
+        "qid": 39
+    },
+    "https://cellphones.procon.org": {
+        "titles": [
+            "Cell Phone Radiation - Pros & Cons - ProCon.org",
+            "Is Cell Phone Radiation Safe?",
+            "cellphones.procon.org.json"
+        ],
+        "qid": 134
+    },
+    "https://www.procon.org/headlines/is-vaping-with-e-cigarettes-safe": {
+        "titles": [
+            "Is Vaping with E-Cigarettes Safe?",
+            "Vaping Pros and Cons - 3 Arguments For and Against",
+            "Vaping \u2013 Top 3 Pros and Cons",
+            "is-vaping-with-e-cigarettes-safe.json"
+        ],
+        "qid": 17
+    },
+    "https://www.procon.org/headlines/would-be-reagan-assassin-im-a-victim-of-cancel-culture": {
+        "titles": [
+            "Would-Be Reagan Assassin: \u201cI\u2019m a victim of cancel culture!\u201d | ProCon.org",
+            "Would-Be Reagan Assassin: \u201cI\u2019m a victim of cancel culture!\u201d",
+            "would-be-reagan-assassin-im-a-victim-of-cancel-culture.json"
+        ],
+        "qid": 18
+    },
+    "https://immigration.procon.org": {
+        "titles": [
+            "Immigration - Path to Citizenship",
+            "Should the U.S. Government Provide a Path to Citizenship for Undocumented Immigrants?",
+            "immigration.procon.org.json"
+        ],
+        "qid": 60
+    },
+    "https://www.procon.org/headlines/dakota-access-pipeline-top-3-pros-and-cons": {
+        "titles": [
+            "Should the Dakota Access Pipeline Be Completed?",
+            "Dakota Access Pipeline Pros and Cons | ProCon.org",
+            "Dakota Access Pipeline: Top 3 Pros and Cons",
+            "dakota-access-pipeline-top-3-pros-and-cons.json"
+        ],
+        "qid": 20
+    },
+    "https://gaymarriage.procon.org": {
+        "titles": [
+            "Should Gay Marriage Be Legal? 6 Pros and Cons",
+            "Should Gay Marriage Be Legal?",
+            "gaymarriage.procon.org.json"
+        ],
+        "qid": 103
+    },
+    "https://www.procon.org/headlines/police-body-cameras-top-3-pros-and-cons": {
+        "titles": [
+            "Should Police Officers Wear Body Cameras?",
+            "Police Body Cameras - Pros & Cons - ProCon.org",
+            "Police Body Cameras: Top 3 Pros and Cons",
+            "police-body-cameras-top-3-pros-and-cons.json"
+        ],
+        "qid": 24
+    },
+    "https://www.procon.org/headlines/private-prisons-top-3-pros-and-cons": {
+        "titles": [
+            "Should Prisons Be Privatized?",
+            "Private Prisons - Pros & Cons - ProCon.org",
+            "Private Prisons \u2014 Top 3 Pros and Cons",
+            "private-prisons-top-3-pros-and-cons.json"
+        ],
+        "qid": 25
+    },
+    "https://www.procon.org/headlines/california-minimum-wage-for-fast-food-workers-increases-to-20": {
+        "titles": [
+            "California Minimum Wage for Fast Food Workers Increases to $20 | ProCon.org",
+            "California Minimum Wage for Fast Food Workers Increases to $20",
+            "california-minimum-wage-for-fast-food-workers-increases-to-20.json"
+        ],
+        "qid": 26
+    },
+    "https://marijuana.procon.org": {
+        "titles": [
+            "Recreational Marijuana - Pros & Cons - ProCon.org",
+            "Should Recreational Marijuana Be Legal?",
+            "marijuana.procon.org.json"
+        ],
+        "qid": 78
+    },
+    "https://drones.procon.org": {
+        "titles": [
+            "Drone Strikes Abroad - Pros & Cons - ProCon.org",
+            "Should the United States Continue Its Use of Drone Strikes Abroad?",
+            "drones.procon.org.json"
+        ],
+        "qid": 144
+    },
+    "https://www.procon.org/headlines/paying-college-athletes-top-3-pros-and-cons": {
+        "titles": [
+            "Should Colleges and Universities Pay College Athletes?",
+            "Should College Athletes Be Paid? Top 3 Pros and Cons",
+            "Paying College Athletes \u2013 Top 3 Pros and Cons",
+            "paying-college-athletes-top-3-pros-and-cons.json"
+        ],
+        "qid": 30
+    },
+    "https://www.procon.org/headlines/saturday-halloween-top-3-pros-and-cons": {
+        "titles": [
+            "Should Halloween Be Moved Permanently to Saturday?",
+            "Saturday Halloween - Pros & Cons - ProCon.org",
+            "Saturday Halloween \u2013 Top 3 Pros and Cons",
+            "saturday-halloween-top-3-pros-and-cons.json"
+        ],
+        "qid": 31
+    },
+    "https://www.procon.org/headlines/sanctuary-cities-top-3-pros-and-cons": {
+        "titles": [
+            "Should Sanctuary Cities Receive Federal Funding?",
+            "Immigrant Sanctuary Cities - Pros & Cons - ProCon.org",
+            "Sanctuary Cities: Top 3 Pros and Cons",
+            "sanctuary-cities-top-3-pros-and-cons.json"
+        ],
+        "qid": 32
+    },
+    "https://gun-control.procon.org": {
+        "titles": [
+            "Gun Control - Pros & Cons - ProCon.org",
+            "Should More Gun Control Laws Be Enacted?",
+            "gun-control.procon.org.json"
+        ],
+        "qid": 127
+    },
+    "https://www.procon.org/headlines/lowering-the-voting-age-top-3-pros-and-cons": {
+        "titles": [
+            "Should the Voting Age Be Lowered to 16?",
+            "Should the Voting Age be Lowered in the US? Top 3 Pros and Cons",
+            "Lowering the Voting Age \u2013 Top 3 Pros and Cons",
+            "lowering-the-voting-age-top-3-pros-and-cons.json"
+        ],
+        "qid": 34
+    },
+    "https://www.procon.org/headlines/fracking-top-3-pros-and-cons": {
+        "titles": [
+            "Should the United States Continue Fracking?",
+            "Fracking Pros and Cons - Top 3 Arguments For and Against",
+            "Fracking \u2013 Top 3 Pros and Cons",
+            "fracking-top-3-pros-and-cons.json"
+        ],
+        "qid": 35
+    },
+    "https://www.procon.org/headlines/impeachment-explainer": {
+        "titles": [
+            "Impeachment Explainer | ProCon.org",
+            "Impeachment Explainer",
+            "impeachment-explainer.json"
+        ],
+        "qid": 36
+    },
+    "https://videogames.procon.org": {
+        "titles": [
+            "Do Video Games Cause Violence? 9 Pros and Cons",
+            "Do Violent Video Games Contribute to Youth Violence?",
+            "videogames.procon.org.json"
+        ],
+        "qid": 138
+    },
+    "https://sportsanddrugs.procon.org": {
+        "titles": [
+            "Sports Doping - Pros & Cons - ProCon.org",
+            "Should Performance-Enhancing Drugs and Technologies Be Allowed in Sports?",
+            "sportsanddrugs.procon.org.json"
+        ],
+        "qid": 152
+    },
+    "https://milk.procon.org": {
+        "titles": [
+            "Is Drinking Milk Healthy for Humans?",
+            "Should Humans Consume Dairy Milk?",
+            "milk.procon.org.json"
+        ],
+        "qid": 41
+    },
+    "https://obesity.procon.org": {
+        "titles": [
+            "Is Obesity a Disease? 5 Pros and Cons",
+            "Is Obesity a Disease?",
+            "obesity.procon.org.json"
+        ],
+        "qid": 118
+    },
+    "https://www.procon.org/headlines/was-the-us-drone-shot-down-by-iran-over-international-waters": {
+        "titles": [
+            "Was the US Drone Shot down by Iran over International Waters? | ProCon.org",
+            "Was the US Drone Shot down by Iran over International Waters?",
+            "was-the-us-drone-shot-down-by-iran-over-international-waters.json"
+        ],
+        "qid": 43
+    },
+    "https://www.procon.org/our-latest-updates/archive": {
+        "titles": [
+            "Our Latest Updates - Archive | ProCon.org",
+            "Our Latest Updates \u2013 Archive",
+            "archive.json"
+        ],
+        "qid": 44
+    },
+    "https://reagan.procon.org": {
+        "titles": [
+            "Was Ronald Reagan a Good President? 13 Pros and Cons",
+            "Was Ronald Reagan a Good President?",
+            "reagan.procon.org.json"
+        ],
+        "qid": 84
+    },
+    "https://www.procon.org/headlines/dc-and-puerto-rico-statehood": {
+        "titles": [
+            "Should Washington, DC, and Puerto Rico Be Granted US Statehood?",
+            "DC & Puerto Rico Statehood - Pros & Cons - ProCon.org",
+            "DC and Puerto Rico Statehood \u2014 Top 3 Pros and Cons",
+            "dc-and-puerto-rico-statehood.json"
+        ],
+        "qid": 46
+    },
+    "https://www.procon.org/headlines/space-colonization-top-3-pros-and-cons": {
+        "titles": [
+            "Should Humans Colonize Space?",
+            "Space Colonization - Pros & Cons - ProCon.org",
+            "Space Colonization \u2014 Top 3 Pros and Cons",
+            "space-colonization-top-3-pros-and-cons.json"
+        ],
+        "qid": 47
+    },
+    "https://votingmachines.procon.org": {
+        "titles": [
+            "Electronic Voting Machines Pros and Cons",
+            "Are Electronic Voting Machines the Best Method for Voting?",
+            "votingmachines.procon.org.json"
+        ],
+        "qid": 62
+    },
+    "https://socialnetworking.procon.org": {
+        "titles": [
+            "Social Media - Pros & Cons - ProCon.org",
+            "Is Social Media Good for Society?",
+            "socialnetworking.procon.org.json"
+        ],
+        "qid": 74
+    },
+    "https://www.procon.org/headlines/should-student-loan-debt-be-easier-to-discharge-in-bankruptcy-top-3-pros-cons": {
+        "titles": [
+            "Should Student Loan Debt Be Eliminated via Forgiveness or Bankruptcy?",
+            "Student Loan Debt Elimination - Pros & Cons - ProCon.org",
+            "Student Loan Debt Forgiveness & Elimination \u2013 Top 4 Pros and Cons",
+            "should-student-loan-debt-be-easier-to-discharge-in-bankruptcy-top-3-pros-cons.json"
+        ],
+        "qid": 50
+    },
+    "https://www.procon.org/headlines/reparations-for-slavery-top-3-pros-and-cons": {
+        "titles": [
+            "Should the Federal Government Pay Reparations to the Descendants of Enslaved People?",
+            "Reparations for Slavery - Pros & Cons - ProCon.org",
+            "Reparations for Slavery \u2013 Top 3 Pros and Cons",
+            "reparations-for-slavery-top-3-pros-and-cons.json"
+        ],
+        "qid": 51
+    },
+    "https://healthcarereform.procon.org": {
+        "titles": [
+            "Is the Patient Protection and Affordable Care Act (Obamacare) Good for America? - Obamacare - ProCon.org",
+            "Is the Patient Protection and Affordable Care Act (Obamacare) Good for America?",
+            "healthcarereform.procon.org.json"
+        ],
+        "qid": 131
+    },
+    "https://www.procon.org/headlines/fur-clothing-bans-top-3-pros-and-cons": {
+        "titles": [
+            "Should Fur Clothing Be Banned?",
+            "Fur Clothing Bans - Top 3 Pros and Cons | ProCon.org",
+            "Fur Clothing Bans \u2013 Top 3 Pros and Cons",
+            "fur-clothing-bans-top-3-pros-and-cons.json"
+        ],
+        "qid": 53
+    },
+    "https://standardizedtests.procon.org": {
+        "titles": [
+            "Standardized Testing Pros and Cons - Does It Improve Education?",
+            "Do Standardized Tests Improve Education in America?",
+            "standardizedtests.procon.org.json"
+        ],
+        "qid": 115
+    },
+    "https://tablets-textbooks.procon.org": {
+        "titles": [
+            "Tablets vs. Textbooks - 15 Pros and Cons",
+            "Should Tablets Replace Textbooks in K-12 Schools?",
+            "tablets-textbooks.procon.org.json"
+        ],
+        "qid": 110
+    },
+    "https://vaccines.procon.org": {
+        "titles": [
+            "School Vaccine Mandates - Pros & Cons - ProCon.org",
+            "Should States Be Allowed to Mandate Vaccines for School Attendance?",
+            "vaccines.procon.org.json"
+        ],
+        "qid": 150
+    },
+    "https://golf.procon.org": {
+        "titles": [
+            "Is Golf a Sport and Are Golfers Athletes? - ProCon.org",
+            "Is Golf a Sport and Are Golfers Athletes?",
+            "golf.procon.org.json"
+        ],
+        "qid": 141
+    },
+    "https://www.procon.org/background-resources/procon-org-video-gallery": {
+        "titles": [
+            "ProCon.org Video Gallery | ProCon.org",
+            "ProCon.org Video Gallery",
+            "procon-org-video-gallery.json"
+        ],
+        "qid": 58
+    },
+    "https://www.procon.org/headlines/school-vouchers-top-4-pros-and-cons": {
+        "titles": [
+            "Should States Have School Voucher Programs?",
+            "School Vouchers - Pros & Cons - ProCon.org",
+            "School Vouchers \u2013 Top 4 Pros and Cons",
+            "school-vouchers-top-4-pros-and-cons.json"
+        ],
+        "qid": 59
+    },
+    "https://2024election.procon.org": {
+        "titles": [
+            "2024 U.S. Presidential Election - 2024 Presidential Election",
+            "2024 U.S. Presidential Election",
+            "2024election.procon.org.json"
+        ],
+        "qid": 61
+    },
+    "https://undergod.procon.org": {
+        "titles": [
+            "Pledge of Allegiance - Pros & Cons - ProCon.org",
+            "Should the Words \u201cunder God\u201d Be in the US Pledge of Allegiance?",
+            "undergod.procon.org.json"
+        ],
+        "qid": 97
+    },
+    "https://gold-standard.procon.org": {
+        "titles": [
+            "Gold Standard - Pros & Cons - ProCon.org",
+            "Should the United States Return to a Gold Standard?",
+            "gold-standard.procon.org.json"
+        ],
+        "qid": 126
+    },
+    "https://www.procon.org/headlines/binge-watching-top-3-pros-and-cons": {
+        "titles": [
+            "Is Binge-Watching Good for You?",
+            "Is Binge Watching Bad for You? Top 3 Pros and Cons",
+            "Binge-Watching \u2013 Top 3 Pros and Cons",
+            "binge-watching-top-3-pros-and-cons.json"
+        ],
+        "qid": 65
+    },
+    "https://borngay.procon.org": {
+        "titles": [
+            "Born Gay - Pros & Cons - ProCon.org",
+            "Is Sexual Orientation Determined at Birth?",
+            "borngay.procon.org.json"
+        ],
+        "qid": 112
+    },
+    "https://www.procon.org/headlines/homework-pros-cons-procon-org": {
+        "titles": [
+            "Is Homework Beneficial?",
+            "Homework Pros and Cons - Should Homework Be Banned?",
+            "Homework \u2013 Top 3 Pros and Cons",
+            "homework-pros-cons-procon-org.json"
+        ],
+        "qid": 67
+    },
+    "https://churchesandtaxes.procon.org": {
+        "titles": [
+            "Should Churches Remain Tax Exempt? 12 Pros and Cons",
+            "Should Churches (Including Mosques, Synagogues, etc.) Remain Tax-Exempt?",
+            "churchesandtaxes.procon.org.json"
+        ],
+        "qid": 133
+    },
+    "https://www.procon.org/headlines/should-fighting-be-allowed-in-hockey-top-3-pros-cons": {
+        "titles": [
+            "Should Fighting Be Allowed in Hockey?",
+            "Hockey Fighting - Pros & Cons - ProCon.org",
+            "Fighting in Hockey \u2013 Top 3 Pros and Cons",
+            "should-fighting-be-allowed-in-hockey-top-3-pros-cons.json"
+        ],
+        "qid": 69
+    },
+    "https://euthanasia.procon.org": {
+        "titles": [
+            "Should Medical Aid in Dying Be Legal?",
+            "Should Medical Aid in Dying Be Legal?",
+            "euthanasia.procon.org.json"
+        ],
+        "qid": 96
+    },
+    "https://cuba-embargo.procon.org": {
+        "titles": [
+            "Cuba Embargo - Pros & Cons - ProCon.org",
+            "Should the United States Maintain Its Embargo against Cuba?",
+            "cuba-embargo.procon.org.json"
+        ],
+        "qid": 102
+    },
+    "https://prescriptiondrugs.procon.org": {
+        "titles": [
+            "Prescription Drug Costs Pros and Cons - 8 Arguments For and Against",
+            "Should the US Government Regulate Prescription Drug Prices?",
+            "prescriptiondrugs.procon.org.json"
+        ],
+        "qid": 72
+    },
+    "https://school-uniforms.procon.org": {
+        "titles": [
+            "School Uniforms Pros and Cons - 13 Arguments For and Against",
+            "Should Students Have to Wear School Uniforms?",
+            "school-uniforms.procon.org.json"
+        ],
+        "qid": 98
+    },
+    "https://www.procon.org/headlines/cheerleading-top-3-pros-and-cons": {
+        "titles": [
+            "Is Cheerleading a Sport?",
+            "Cheerleading - Top 3 Pros and Cons | ProCon.org",
+            "Cheerleading \u2013 Top 3 Pros and Cons",
+            "cheerleading-top-3-pros-and-cons.json"
+        ],
+        "qid": 75
+    },
+    "https://deathpenalty.procon.org/historical-timeline": {
+        "titles": [
+            "Historical Timeline - Death Penalty - ProCon.org",
+            "Historical Timeline",
+            "historical-timeline.json"
+        ],
+        "qid": 76
+    },
+    "https://www.procon.org/headlines/national-anthem-kneeling-pros-cons-procon-org": {
+        "titles": [
+            "Is Kneeling during the National Anthem an Appropriate Form of Protest?",
+            "Kneeling during the National Anthem: Top 3 Pros and Cons | ProCon.org",
+            "Kneeling during the National Anthem: Top 3 Pros and Cons",
+            "national-anthem-kneeling-pros-cons-procon-org.json"
+        ],
+        "qid": 79
+    },
+    "https://www.procon.org/headlines/us-supreme-court-packing-top-2-pros-and-cons": {
+        "titles": [
+            "Should Packing the U.S. Supreme Court Ever Be Considered?",
+            "US Supreme Court Packing - Pros & Cons - ProCon.org",
+            "U.S. Supreme Court Packing \u2013 Top 3 Pros and Cons",
+            "us-supreme-court-packing-top-2-pros-and-cons.json"
+        ],
+        "qid": 80
+    },
+    "https://abortion.procon.org/history-of-abortion": {
+        "titles": [
+            "History of Abortion - ProCon.org",
+            "History of Abortion",
+            "history-of-abortion.json"
+        ],
+        "qid": 81
+    },
+    "https://www.procon.org/headlines/dress-codes-top-3-pros-and-cons": {
+        "titles": [
+            "Should Dress Codes Be Implemented and Enforced?",
+            "Dress Codes - Top 3 Pros and Cons | ProCon.org",
+            "Dress Codes \u2013 Top 3 Pros and Cons",
+            "dress-codes-top-3-pros-and-cons.json"
+        ],
+        "qid": 82
+    },
+    "https://www.procon.org/headlines/should-the-penny-stay-in-circulation-top-3-pros-and-cons": {
+        "titles": [
+            "Should the Penny Stay in Circulation?",
+            "Should the Penny Stay in Circulation? - Top 3 Pros and Cons",
+            "Should the Penny Stay in Circulation? \u2013 Top 3 Pros and Cons",
+            "should-the-penny-stay-in-circulation-top-3-pros-and-cons.json"
+        ],
+        "qid": 83
+    },
+    "https://climatechange.procon.org": {
+        "titles": [
+            "Is Human Activity Responsible for Climate Change? 13 Pros and Cons",
+            "Is Human Activity Primarily Responsible for Global Climate Change?",
+            "climatechange.procon.org.json"
+        ],
+        "qid": 135
+    },
+    "https://www.procon.org/headlines/universal-basic-income-top-3-pros-and-cons": {
+        "titles": [
+            "Should the United States Implement a Universal Basic Income?",
+            "Universal Basic Income Pros and Cons",
+            "Universal Basic Income (UBI) \u2013 Top 3 Pros and Cons",
+            "universal-basic-income-top-3-pros-and-cons.json"
+        ],
+        "qid": 86
+    },
+    "https://www.procon.org/headlines/ride-hailing-apps-such-as-uber-and-lyft-top-3-pros-and-cons": {
+        "titles": [
+            "Are Ride-Hailing Companies a Benefit to Society?",
+            "Ride-Sharing Apps - Pros & Cons - ProCon.org",
+            "Uber, Lyft, and Other Ride-Hailing Apps \u2013 Top 3 Pros and Cons",
+            "ride-hailing-apps-such-as-uber-and-lyft-top-3-pros-and-cons.json"
+        ],
+        "qid": 87
+    },
+    "https://deathpenalty.procon.org": {
+        "titles": [
+            "Death Penalty - Pros & Cons - ProCon.org",
+            "Should the Death Penalty Be Legal?",
+            "deathpenalty.procon.org.json"
+        ],
+        "qid": 114
+    },
+    "https://www.procon.org/headlines/filibuster-top-3-pros-and-cons": {
+        "titles": [
+            "Should the US Senate Keep the Filibuster?",
+            "Filibuster - Top 3 Pros and Cons | ProCon.org",
+            "Filibuster \u2013 Top 3 Pros and Cons",
+            "filibuster-top-3-pros-and-cons.json"
+        ],
+        "qid": 89
+    },
+    "https://www.procon.org/headlines/is-cancel-culture-or-callout-culture-good-for-society": {
+        "titles": [
+            "Is Cancel Culture Good for Society?",
+            "Cancel Culture Top 3 Pros and Cons",
+            "Cancel Culture \u2013 Top 3 Pros and Cons",
+            "is-cancel-culture-or-callout-culture-good-for-society.json"
+        ],
+        "qid": 90
+    },
+    "https://animal-testing.procon.org": {
+        "titles": [
+            "Animal Testing | Pros & Cons | ProCon.org",
+            "Should Animals Be Used for Scientific or Commercial Testing?",
+            "animal-testing.procon.org.json"
+        ],
+        "qid": 109
+    },
+    "https://medicalmarijuana.procon.org": {
+        "titles": [
+            "Medical Marijuana - Pros & Cons - ProCon.org",
+            "Should Medical Marijuana Be Legal?",
+            "medicalmarijuana.procon.org.json"
+        ],
+        "qid": 116
+    },
+    "https://www.procon.org/headlines/historic-statue-removal-top-3-pros-cons": {
+        "titles": [
+            "Should Historic Statues Be Taken Down?",
+            "Historic Statue Removal - Pros & Cons - ProCon.org",
+            "Historic Statue Removal \u2013 Top 3 Pros & Cons",
+            "historic-statue-removal-top-3-pros-cons.json"
+        ],
+        "qid": 93
+    },
+    "https://santa-claus.procon.org": {
+        "titles": [
+            "Is There Really a Santa Claus? ProCon.org",
+            "Is There Really a Santa Claus?",
+            "santa-claus.procon.org.json"
+        ],
+        "qid": 95
+    },
+    "https://www.procon.org/background-resources/suggest-a-topic": {
+        "titles": [
+            "Suggest a Topic | ProCon.org",
+            "Suggest a Topic",
+            "suggest-a-topic.json"
+        ],
+        "qid": 99
+    },
+    "https://corporatetax.procon.org": {
+        "titles": [
+            "Corporate Tax Rate Pros and Cons - Should It Be Raised?",
+            "Should the Federal Corporate Income Tax Rate Be Raised?",
+            "corporatetax.procon.org.json"
+        ],
+        "qid": 146
+    },
+    "https://www.procon.org/headlines/pit-bull-bans-top-2-pros-and-cons": {
+        "titles": [
+            "Should Breed-Specific Legislation (\u201cPit Bull Bans\u201d) Be Enacted?",
+            "Should Pit Bulls Be Banned? Top 3 Pros and Cons",
+            "Pit Bull Bans \u2014 Top 3 Pros and Cons",
+            "pit-bull-bans-top-2-pros-and-cons.json"
+        ],
+        "qid": 101
+    },
+    "https://www.procon.org/headlines/gmos-top-3-pros-and-cons": {
+        "titles": [
+            "Should Genetically Modified Organisms (GMOs) Be Grown?",
+            "GMO Pros and Cons - Should Genetically Modified Organisms Be Grown?",
+            "GMOs \u2013 Top 3 Pros and Cons",
+            "gmos-top-3-pros-and-cons.json"
+        ],
+        "qid": 104
+    },
+    "https://felonvoting.procon.org": {
+        "titles": [
+            "Felon Voting - Pros & Cons - ProCon.org",
+            "Should Felons Regain the Right to Vote?",
+            "felonvoting.procon.org.json"
+        ],
+        "qid": 129
+    },
+    "https://www.procon.org/headlines/artificial-intelligence-ai-top-3-pros-and-cons": {
+        "titles": [
+            "Is Artificial Intelligence Good for Society?",
+            "Is Artificial Intelligence Good for Society? Top 3 Pros and Cons",
+            "Artificial Intelligence (AI) \u2014 Top 3 Pros and Cons",
+            "artificial-intelligence-ai-top-3-pros-and-cons.json"
+        ],
+        "qid": 106
+    },
+    "https://www.procon.org/headlines/marijuana-for-pets-top-3-pros-and-cons": {
+        "titles": [
+            "Is CBD Good for Pets? ",
+            "CBD for Pets - Pros & Cons - ProCon.org",
+            "CBD for Pets \u2013 Top 3 Pros and Cons",
+            "marijuana-for-pets-top-3-pros-and-cons.json"
+        ],
+        "qid": 108
+    },
+    "https://www.procon.org/background-resources/procon-org-donors-sponsors": {
+        "titles": [
+            "ProCon.org Partners & Donors | ProCon.org",
+            "ProCon.org Partners & Donors",
+            "procon-org-donors-sponsors.json"
+        ],
+        "qid": 111
+    },
+    "https://birth-control.procon.org": {
+        "titles": [
+            "Over-the-Counter Birth Control Pills - Pros & Cons - ProCon.org",
+            "Should Birth Control Pills Be Available Over the Counter (OTC)?",
+            "birth-control.procon.org.json"
+        ],
+        "qid": 130
+    },
+    "https://www.procon.org/headlines/mandatory-national-service-top-3-pros-and-cons": {
+        "titles": [
+            "Should the United States Have Mandatory National Service?",
+            "Mandatory National Service - Pros & Cons - ProCon.org",
+            "Mandatory National Service \u2013 Top 3 Pros and Cons",
+            "mandatory-national-service-top-3-pros-and-cons.json"
+        ],
+        "qid": 119
+    },
+    "https://www.procon.org/headlines/pokemon-go-top-3-pros-and-cons": {
+        "titles": [
+            "Is Pok\u00e9mon Go Good for Society?",
+            "Pok\u00e9mon Go - Pros & Cons - ProCon.org",
+            "Pok\u00e9mon Go \u2013 Top 3 Pros and Cons",
+            "pokemon-go-top-3-pros-and-cons.json"
+        ],
+        "qid": 120
+    },
+    "https://www.procon.org/headlines/are-daca-and-the-dream-act-good-for-america": {
+        "titles": [
+            "Are DACA (Deferred Action for Childhood Arrivals) and the DREAM Act Good for America?",
+            "DACA & the DREAM Act - Pros & Cons - ProCon.org",
+            "DACA and the DREAM Act \u2013 Top 3 Pros and Cons",
+            "are-daca-and-the-dream-act-good-for-america.json"
+        ],
+        "qid": 121
+    },
+    "https://israelipalestinian.procon.org/top-10-pro-con-arguments": {
+        "titles": [
+            "Top 10 Pro & Con Perspectives on the Israeli-Palestinian Conflict - Israeli-Palestinian - ProCon.org",
+            "Top 10 Pro & Con Perspectives on the Israeli-Palestinian Conflict",
+            "top-10-pro-con-arguments.json"
+        ],
+        "qid": 122
+    },
+    "https://www.procon.org/headlines/zoos-top-3-pros-and-cons": {
+        "titles": [
+            "Should Zoos Exist?",
+            "Zoos - Pros & Cons - ProCon.org",
+            "Zoos \u2013 Top 3 Pros and Cons",
+            "zoos-top-3-pros-and-cons.json"
+        ],
+        "qid": 123
+    },
+    "https://www.procon.org/headlines/free-college-top-3-pros-and-cons": {
+        "titles": [
+            "Should Public College Be Tuition-Free?",
+            "Should College Be Free? Top 3 Pros and Cons",
+            "Free College \u2013 Top 3 Pros and Cons",
+            "free-college-top-3-pros-and-cons.json"
+        ],
+        "qid": 125
+    },
+    "https://www.procon.org/headlines/employer-vaccine-mandates-pros-and-cons-should-employers-be-able-to-mandate-vaccinations": {
+        "titles": [
+            "Should Employers Be Able to Mandate Vaccinations?",
+            "Employer Vaccine Mandates - Top 3 Pros and Cons | ProCon.org",
+            "Employer Vaccine Mandates \u2013 Top 3 Pros and Cons",
+            "employer-vaccine-mandates-pros-and-cons-should-employers-be-able-to-mandate-vaccinations.json"
+        ],
+        "qid": 132
+    },
+    "https://www.procon.org/headlines/should-bottled-water-be-banned-top-4-pros-and-cons": {
+        "titles": [
+            "Should Bottled Water Be Banned?",
+            "Bottled Water Bans - Pros & Cons - ProCon.org",
+            "Should Bottled Water Be Banned? \u2013 Top 4 Pros and Cons",
+            "should-bottled-water-be-banned-top-4-pros-and-cons.json"
+        ],
+        "qid": 136
+    },
+    "https://www.procon.org/background-resources/testimonials": {
+        "titles": [
+            "Testimonials | ProCon.org",
+            "Testimonials",
+            "testimonials.json"
+        ],
+        "qid": 137
+    },
+    "https://www.procon.org/headlines/electoral-college-pros-cons-procon-org": {
+        "titles": [
+            "Should the United States Use the Electoral College in Presidential Elections?",
+            "Electoral College Pros and Cons - Top 3 Arguments For and Against",
+            "The Electoral College \u2013 Top 3 Pros and Cons",
+            "electoral-college-pros-cons-procon-org.json"
+        ],
+        "qid": 139
+    },
+    "https://www.procon.org/education": {
+        "titles": [
+            "ProCon.org for Educators, Librarians, and Administrators",
+            "Teachers\u2019 Corner ProCon.org for Educators, Librarians, and Administrators",
+            "education.json"
+        ],
+        "qid": 140
+    },
+    "https://www.procon.org/headlines/tiktok-bans-top-3-pros-and-cons": {
+        "titles": [
+            "Should TikTok Be Banned?",
+            "TikTok Bans - Top 3 Pros and Cons | ProCon.org",
+            "TikTok Bans \u2013 Top 3 Pros and Cons",
+            "tiktok-bans-top-3-pros-and-cons.json"
+        ],
+        "qid": 142
+    },
+    "https://alternativeenergy.procon.org": {
+        "titles": [
+            "Alternative Energy - Pros & Cons - ProCon.org",
+            "Can Alternative Energy Effectively Replace Fossil Fuels?",
+            "alternativeenergy.procon.org.json"
+        ],
+        "qid": 143
+    },
+    "https://www.procon.org/headlines/banned-books-top-3-pros-and-cons": {
+        "titles": [
+            "Should Parents or Other Adults Be Able to Ban Books from Schools and Libraries?",
+            "Banned Books Pros and Cons - Top 3 Arguments For and Against",
+            "Banned Books \u2013 Top 3 Pros and Cons",
+            "banned-books-top-3-pros-and-cons.json"
+        ],
+        "qid": 145
+    },
+    "https://www.procon.org/headlines/is-the-internet-making-us-stupid-top-3-pros-and-cons": {
+        "titles": [
+            "Is the Internet \u201cMaking Us Stupid\u201d?** Take the ProCon Poll **",
+            "Internet & \"Stupidity\" - Pros & Cons - ProCon.org",
+            "Is the Internet \u201cMaking Us Stupid\u201d? \u2014 Top 3 Pros and Cons",
+            "is-the-internet-making-us-stupid-top-3-pros-and-cons.json"
+        ],
+        "qid": 147
+    },
+    "https://www.procon.org/headlines/top-3-pros-and-cons-of-daylight-saving-time": {
+        "titles": [
+            "Should the United States Keep Daylight Saving Time?",
+            "Daylight Saving Time Pros and Cons",
+            "Daylight Saving Time \u2013 Top 3 Pros and Cons",
+            "top-3-pros-and-cons-of-daylight-saving-time.json"
+        ],
+        "qid": 148
+    },
+    "https://clinton.procon.org": {
+        "titles": [
+            "Was Bill Clinton a Good President? 12 Pros and Cons",
+            "Was Bill Clinton a Good President?",
+            "clinton.procon.org.json"
+        ],
+        "qid": 149
+    },
+    "https://aclu.procon.org": {
+        "titles": [
+            "ACLU | Pros & Cons | ProCon.org",
+            "Is the ACLU Good for America?",
+            "aclu.procon.org.json"
+        ],
+        "qid": 151
+    }
+}

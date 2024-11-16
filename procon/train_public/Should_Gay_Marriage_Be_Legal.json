@@ -1,0 +1,859 @@
+{
+    "title": "Should Gay Marriage Be Legal?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Christian Broadcasting Network, \"Americans Question Who Makes a Family,\" cbn.com, Sep. 15, 2010",
+            "docid": 7616
+        },
+        {
+            "id": "2",
+            "title": "Nate Silver, \"Divorce Rates Higher in States with Gay Marriage Bans,\" fivethirtyeight.com, Jan. 12, 2010",
+            "docid": 7617
+        },
+        {
+            "id": "3",
+            "title": "American Foundation for Equal Rights, \"14 Supreme Court Cases: Marriage Is a Fundamental Right,\" afer.org, July 19, 2012",
+            "docid": 7618
+        },
+        {
+            "id": "4",
+            "title": "Kathryn Perry, \"The Cost of Gay Marriage - In Dollars and Cents,\"Christian Science Monitor, May 27, 2009",
+            "docid": 7619
+        },
+        {
+            "id": "5",
+            "title": "American Psychological Association, \"American Psychological Association Reiterates Support for Same-sex Marriage,\" apa.org, Aug. 11, 2010",
+            "docid": 7620
+        },
+        {
+            "id": "6",
+            "title": "Freedom to Marry, \"Marriage 101,\" freedomtomarry.org (accessed Sep. 15, 2010)",
+            "docid": 7621
+        },
+        {
+            "id": "7",
+            "title": "Tara Siegel Bernard and Ron Lieber, \"The High Price of Being a Gay Couple,\" nytimes.com, Oct. 2, 2009",
+            "docid": 7622
+        },
+        {
+            "id": "8",
+            "title": "American Anthropological Association, \"Statement on Marriage and the Family,\" aaanet.org, Feb. 26, 2004",
+            "docid": 7623
+        },
+        {
+            "id": "9",
+            "title": "Margaret Talbot, \"Marriage as a Dynamic Institution,\" newyorker.com, Jan. 12, 2010",
+            "docid": 7624
+        },
+        {
+            "id": "10",
+            "title": "\"Do We Really Want to Redefine Marriage,\" floppingaces.net, Aug. 11, 2010",
+            "docid": 7625
+        },
+        {
+            "id": "11",
+            "title": "Glen Lavy, \"Gay Marriage and the 'Slippery Slope,'\" latimes.com, May 21, 2008",
+            "docid": 7626
+        },
+        {
+            "id": "12",
+            "title": "Jerome Nathaniel, \"5 U.S. Presidents Who Were Never Fathers,\" Policy.Mic website, June 17, 2013",
+            "docid": 7627
+        },
+        {
+            "id": "13",
+            "title": "Sigal Samuel, \"Jewish Responses to the Supreme Court's Same-Sex Marriage Rulings,\" thedailybeast.com, June 27, 2013",
+            "docid": 7628
+        },
+        {
+            "id": "14",
+            "title": "M.V. Lee Badgett,When Gay People Get Married, 2009",
+            "docid": 7629
+        },
+        {
+            "id": "15",
+            "title": "William N. Eskridge, Jr.,Equality Practice: Civil Unions and the Future of Gay Rights, 2001",
+            "docid": 7630
+        },
+        {
+            "id": "16",
+            "title": "Paula Ettelbrick, \"Since When Is Marriage a Path to Liberation?,\"OUT/LOOK National Gay and Lesbian Quarterly, Fall 1989",
+            "docid": 7631
+        },
+        {
+            "id": "17",
+            "title": "Stanley Kurtz, \"The End of Marriage in Scandinavia,\"Weekly Standard, Feb. 2, 2004",
+            "docid": 7632
+        },
+        {
+            "id": "18",
+            "title": "John F. Harvey, \"Regarding 'Gay Marriage,' \" patheos.com, July 7, 2009",
+            "docid": 7633
+        },
+        {
+            "id": "19",
+            "title": "Dana Mack, \"Now What for Marriage?,\" wsj.com, Aug. 6, 2010",
+            "docid": 7634
+        },
+        {
+            "id": "20",
+            "title": "Andrew Sullivan,Same-Sex Marriage Pro and Con, 2004",
+            "docid": 7635
+        },
+        {
+            "id": "21",
+            "title": "David Carter,Stonewall: The Riots That Sparked the Gay Revolution, 2005",
+            "docid": 7636
+        },
+        {
+            "id": "22",
+            "title": "George Chauncey,Why Marriage?: The History Shaping Today's Debate over Gay Equality, 2004",
+            "docid": 7637
+        },
+        {
+            "id": "23",
+            "title": "Tricia Andryszewski,Same-Sex Marriage: Moral Wrong or Civil Right?, 2007",
+            "docid": 7638
+        },
+        {
+            "id": "24",
+            "title": "Gregory M. Herek, \"Facts About Homosexuality and Mental Health,\" ucdavis.edu (accessed Sep. 16, 2010)",
+            "docid": 7639
+        },
+        {
+            "id": "25",
+            "title": "\"North Carolina Passes Same-sex Marriage Ban, CNN Projects,” cnn.com, May 8, 2012",
+            "docid": 7640
+        },
+        {
+            "id": "26",
+            "title": "Alan Cooperman, Jonathan Finer, and Fred Barbash, \"Gay Couples Wed in Mass.,\"Washington Post, May 17, 2004",
+            "docid": 7641
+        },
+        {
+            "id": "27",
+            "title": "\"House Rejects Same-Sex Marriage Ban,\" Washington Post, Oct. 1, 2004",
+            "docid": 7642
+        },
+        {
+            "id": "28",
+            "title": "Jennfer C. Pizer, \"Lambda Legal Applauds Perry v. Schwarzenegger Ruling Striking Down Prop 8,\" lambdalegal.org, Aug. 4, 2010",
+            "docid": 7643
+        },
+        {
+            "id": "29",
+            "title": "\"Same Sex Marriage, Civil Unions and Domestic Partnerships,\" ncsl.org, Apr. 2010",
+            "docid": 7644
+        },
+        {
+            "id": "30",
+            "title": "Maura Dolan, \"Federal Panel Puts Same-sex Marriage on Hold as Appeal of Prop. 8 Ruling Goes Forward,\" latimes.com, Aug. 17, 2010",
+            "docid": 7645
+        },
+        {
+            "id": "31",
+            "title": "\"ABA Supports Legalizing Same-sex Marriage,\" upi.com, Aug. 11, 2010",
+            "docid": 7646
+        },
+        {
+            "id": "32",
+            "title": "\"American Psychological Association Reiterates Support for Same-Sex Marriage,\" apa.org, Aug. 11, 2010",
+            "docid": 7647
+        },
+        {
+            "id": "33",
+            "title": "\"Church Statement on Proposition 8 Ruling,\" newsroom.lds.org, Aug. 4, 2010",
+            "docid": 7648
+        },
+        {
+            "id": "34",
+            "title": "Jeffrey Donovan, \"Pope Condemns Gay Marriage, Warns on Biotechnology Before Trip to U.K.,\" bloomberg.com, Sep. 13, 2010",
+            "docid": 7649
+        },
+        {
+            "id": "35",
+            "title": "Nate Silver, \"Opinion on Same-Sex Marriage Appears to Shift at Accelerated Pace,” fivethirtyeight.com, Aug. 12, 2010",
+            "docid": 7650
+        },
+        {
+            "id": "36",
+            "title": "\"Americans Split Evenly on Gay Marriage,\" cnn.com, Aug. 11, 2010",
+            "docid": 7651
+        },
+        {
+            "id": "37",
+            "title": "Amber G. Marcellino, et al., \"Congressional Budget Office Cost Estimate H.R. 2517,\"cbo.gov, Dec. 17, 2009",
+            "docid": 7652
+        },
+        {
+            "id": "38",
+            "title": "J. Frank Vespa-Papaleo, et al., \"The Legal, Medical, Economic & Social Consequences of New Jersey's Civil Union Law,\"nj.gov, Dec. 10, 2008",
+            "docid": 7653
+        },
+        {
+            "id": "39",
+            "title": "\"Recognition of Same-Sex Couples Worldwide,\" lambdalegal.org, July 19, 2010",
+            "docid": 7654
+        },
+        {
+            "id": "40",
+            "title": "Sahil Kapur, \"Breaking: Appeals Court Scraps Gay Marriage Bans In Wisconsin, Indiana,\" talkingpointsmemo.com, Sep. 4, 2014",
+            "docid": 7655
+        },
+        {
+            "id": "41",
+            "title": "Vaughn Walker, Opinion,Perry v. Schwarzenneger, uscourts.gov, Aug. 4, 2010",
+            "docid": 7656
+        },
+        {
+            "id": "42",
+            "title": "D'Vera Cohn, \"Love and Marriage,\" pewsocialtrends.org, Feb. 13, 2014",
+            "docid": 7657
+        },
+        {
+            "id": "43",
+            "title": "Blake Ellis, \"Gay Marriage Boosts NYC's Economy by $259 Million in First Year,\" Money.cnn.com, July 24, 2012",
+            "docid": 7658
+        },
+        {
+            "id": "44",
+            "title": "Sabrina Tavernise, \"Adoptions by Gay Couples Rise, Despite Barriers,\" nytimes.com, June 13, 2011",
+            "docid": 7659
+        },
+        {
+            "id": "45",
+            "title": "Nanette Gartrell, and Henny Bos, \"US National Longitudinal Lesbian Family Study: Psychological Adjustment of 17-Year-Old Adolescents,\" Pediatrics, July 7, 2010",
+            "docid": 7660
+        },
+        {
+            "id": "46",
+            "title": "Rachel H. Farr, Stephen L. Forsell, and Charlotte J. Patterson, \"Parenting and Child Development in Adoptive Families: Does Parental Sexual Orientation Matter?,\" Applied Developmental Science, July 19, 2010",
+            "docid": 7661
+        },
+        {
+            "id": "47",
+            "title": "Anjan Choudhury, \"Application for Leave to File Brief Amici Curiae in Support of the Parties Challenging the Marriage Exclusion, and Brief Amici Curiae of the American Psychological Association, California Psychological Association, American Psychiatric Association, National Association of Social Workers, and National Association of Social Workers, California Chapter in Support of the Parties Challenging the Marriage Exclusion,\"courtinfo.ca.gov, Sep. 26, 2007",
+            "docid": 7662
+        },
+        {
+            "id": "48",
+            "title": "Laura Langbein and Mark A. Yost, Jr., \"Same-Sex Marriage and Negative Externalities,\" Social Science Quarterly, June 2009",
+            "docid": 7663
+        },
+        {
+            "id": "49",
+            "title": "Bruce Peterson, \"Majority Opinion, Baker v. Nelson,\" marriagelawfoundation.org, Oct. 15, 1971",
+            "docid": 7664
+        },
+        {
+            "id": "50",
+            "title": "W. Bradford Wilcox and Elizabeth Marquardt, \"The State of Our Unions: Marriage in America 2009,\" stateofourunions.org, Dec. 2009",
+            "docid": 7665
+        },
+        {
+            "id": "51",
+            "title": "Brady E. Hamilton, Joyce A. Martin, and Stephanie J. Ventura, \"Births: Preliminary Data for 2008,\"National Vital Statistics Reports, Apr. 6, 2010",
+            "docid": 7666
+        },
+        {
+            "id": "52",
+            "title": "Bruce J. Ellis, \"Does Father Absence Place Daughters at Special Risk for Early Sexual Activity and Teenage Pregnancy?,\" Child Development, May 2003",
+            "docid": 7667
+        },
+        {
+            "id": "53",
+            "title": "Napp Nazworth, \"Kids Need Both Mom and Dad, Says Gay Man Opposed to Gay Marriage,\" christianpost.com, Jan. 28, 2013",
+            "docid": 7668
+        },
+        {
+            "id": "54",
+            "title": "Joseph Card. Ratzinger, \"Considerations Regarding Proposals to Give Legal Recognition to Unions Between Homosexual Persons,\" vatican.va, June 3, 2003",
+            "docid": 7669
+        },
+        {
+            "id": "55",
+            "title": "Steven Levinson, Majority Opinion,Baehr v. Lewin,umass.edu, May 5, 1993",
+            "docid": 7670
+        },
+        {
+            "id": "56",
+            "title": "John Dooley,Baker v. Vermont,Majority Opinion, umass.edu, Dec. 20, 1999",
+            "docid": 7671
+        },
+        {
+            "id": "57",
+            "title": "Jake Tapper, \"President Obama Supports Legislation to Repeal Defense of Marriage Act (DOMA),” abcnews.com, July 19, 2011",
+            "docid": 7672
+        },
+        {
+            "id": "58",
+            "title": "David Nakamura, \"Obama Backs Bill to Repeal Defense of Marriage Act,\" washingtonpost.com, July 19, 2011",
+            "docid": 7673
+        },
+        {
+            "id": "59",
+            "title": "\"A Contentious Debate: Same-Sex Marriage in the U.S.,\" pewforum.org, July 9, 2009",
+            "docid": 7674
+        },
+        {
+            "id": "60",
+            "title": "US Supreme Court,Loving v. Virginia, law.cornell.edu, June 12, 1967",
+            "docid": 7675
+        },
+        {
+            "id": "61",
+            "title": "\"Remarks from NAACP Press Conference on Marriage Equality,\" NAACP.org, May 21, 2012",
+            "docid": 7676
+        },
+        {
+            "id": "62",
+            "title": "Matthew D. Staver, \"Homosexual Behavior Should Not Be Accorded Special Protection,\"National Law Journal Online, Oct. 2002",
+            "docid": 7677
+        },
+        {
+            "id": "63",
+            "title": "\"Denmark Approves Same-Sex Marriage and Church Weddings,\" BBC website, June 7, 2012",
+            "docid": 7678
+        },
+        {
+            "id": "64",
+            "title": "Jackie Calmes and Peter Baker, \"Obama Says Same-Sex Marriage Should Be Legal,\" New York Times, May 9, 2012",
+            "docid": 7679
+        },
+        {
+            "id": "65",
+            "title": "Michael K. Lavers, \"Uruguayan President Signs Marriage Bill into Law,\"Washington Blade, May 7, 2013",
+            "docid": 7680
+        },
+        {
+            "id": "66",
+            "title": "\"Marriage Legislation Becomes Law,\" Radio New Zealand website, Apr. 21, 2013",
+            "docid": 7681
+        },
+        {
+            "id": "67",
+            "title": "\"France Gay Marriage: Hollande Signs Bill into Law,\" BBC website, May 18, 2013",
+            "docid": 7682
+        },
+        {
+            "id": "68",
+            "title": "Ezra Klein, \"Sorry, Justice Scalia: There’s No Evidence That Gay Parents Aren’t Great Parents,\" WashingtonPost.com, Mar. 27, 2013",
+            "docid": 7683
+        },
+        {
+            "id": "69",
+            "title": "Shankar Vedantam, \"Bans of Same-Sex Marriage Can Take a Psychological Toll,\" NPR.org, May 20, 2013",
+            "docid": 7684
+        },
+        {
+            "id": "70",
+            "title": "Ryan T. Anderson, \"Marriage: What It Is, Why It Matters, and the Consequences of Redefining It,\" Heritage.org, Mar. 11, 2013",
+            "docid": 7685
+        },
+        {
+            "id": "71",
+            "title": "Jillian Keenan, \"Legalize Polygamy!,\" Slate.com, Apr. 15, 2013",
+            "docid": 7686
+        },
+        {
+            "id": "72",
+            "title": "Justin McCarthy, \"Same-Sex Marriage Support Reaches New High at 55%,\" gallup.com, May 21, 2014",
+            "docid": 7687
+        },
+        {
+            "id": "73",
+            "title": "United States Court of Appeals for the Ninth Circuit,Perry v. Brown,uscourts.gov, Feb. 7, 2012",
+            "docid": 7688
+        },
+        {
+            "id": "74",
+            "title": "David G. Savage, \"Gay Marriage Ruling: Supreme Court Finds DOMA Unconstitutional,\" latimes.com, June 26, 2013",
+            "docid": 7689
+        },
+        {
+            "id": "75",
+            "title": "US Supreme Court,United States v. Windsor,uscourts.gov, June 26, 2013",
+            "docid": 7690
+        },
+        {
+            "id": "76",
+            "title": "Bill Mears, \"Supreme Court Dismisses California's Proposition 8 Appeal,\" cnn.com, June 26, 2013",
+            "docid": 7691
+        },
+        {
+            "id": "77",
+            "title": "US Supreme Court,Hollingsworth v. Perry,uscourts.gov, June 26, 2013",
+            "docid": 7692
+        },
+        {
+            "id": "78",
+            "title": "Chris Kirk, \"What Countries Have Marriage Equality?,\" slate.com, July 17, 2013",
+            "docid": 7693
+        },
+        {
+            "id": "79",
+            "title": "\"Where State Laws Stand,\" freedomtomarry.org (accessed July 17, 2013)",
+            "docid": 7694
+        },
+        {
+            "id": "80",
+            "title": "Pew Research Center, \"Gay Marriage around the World,\" pewforum.org, Feb. 5, 2014",
+            "docid": 7695
+        },
+        {
+            "id": "81",
+            "title": "Lawrence Hurley, \"Supreme Court Dodges Gay Marriage, Allowing Weddings in Five States,\" reuters.com, Oct. 6, 2014",
+            "docid": 7696
+        },
+        {
+            "id": "82",
+            "title": "Freedom to Marry, \"States,\" freedomtomarry.org, Nov. 12, 2014",
+            "docid": 7697
+        },
+        {
+            "id": "83",
+            "title": "Freedom to Marry, \"The Freedom to Marry Internationally,\" freedomtomarry.org, Dec. 2014",
+            "docid": 7698
+        },
+        {
+            "id": "84",
+            "title": "Against Equality, \"Marriage,\" againstequality.org (accessed Dec. 4, 2014)",
+            "docid": 7699
+        },
+        {
+            "id": "85",
+            "title": "Illinois Family Institute, \"The Effects of Same-sex Marriage on Education,\" illinoisfamily.org (accessed Dec. 4, 2014)",
+            "docid": 7700
+        },
+        {
+            "id": "86",
+            "title": "Congressional Budget Office, \"The Potential Budgetary Impact of Recognizing Same-Sex Marriages,\" cbo.gov, June 21, 2004",
+            "docid": 7701
+        },
+        {
+            "id": "87",
+            "title": "Niraj Chokshi, \"Gay Marriages Could Generate Hundreds of Millions in First Year of Legalization for 11 states, Studies Find,\" washingtonpost.com, Aug. 14, 2014",
+            "docid": 7702
+        },
+        {
+            "id": "88",
+            "title": "US Supreme Court, Oral Arguments inDennis Hollingsworth, et al., v. Kristen M. Perry, et al., Mar. 26, 2013",
+            "docid": 7703
+        },
+        {
+            "id": "89",
+            "title": "Josh Barro, \"What Is the Fiscal Impact of Gay Marriage?,\" bloombergview.com, Mar. 26, 2013",
+            "docid": 7704
+        },
+        {
+            "id": "90",
+            "title": "Ed. Basil Jones, \"The American Ruling Cases as Determined by the Courts: Including the Fundamental Cases of England and Canada; Also All Reviewing and Illustrating Cases of Material Value from the Latest Official Reports, Completely Annotated,\" books.google.com, 1917",
+            "docid": 7705
+        },
+        {
+            "id": "91",
+            "title": "Ross Douthat, \"Marriage, Procreation and Historical Amnesia,\" nytimes.com Apr. 2, 2013",
+            "docid": 7706
+        },
+        {
+            "id": "92",
+            "title": "Lindsey Bever, \"Children of Same-Sex Couples Are Happier and Healthier than Peers, Research Shows,\" washingtonpost.com, July 7, 2014",
+            "docid": 7707
+        },
+        {
+            "id": "93",
+            "title": "Nolo, \"Marriage Rights and Benefits,\" nolo.com (accessed Dec. 4, 2014)",
+            "docid": 7708
+        },
+        {
+            "id": "94",
+            "title": "Lisa Arnold and Christina Campbell, \"The High Price of Being Single in America,\" theatlantic.com, Jan. 14, 2013",
+            "docid": 7709
+        },
+        {
+            "id": "95",
+            "title": "Evan Wolfson, \"Protections Denied to Same-Sex Couples and Their Kids,\" freedomtomarry.org (accessed Dec. 4, 2014)",
+            "docid": 7710
+        },
+        {
+            "id": "96",
+            "title": "Jonathan Vespa, Jamie M. Lewis, and Rose M. Kreider, \"America’s Families and Living Arrangements: 2012,\" census.gov, Aug. 2013",
+            "docid": 7711
+        },
+        {
+            "id": "97",
+            "title": "National Center for Health Statistics, US Centers for Disease Control and Prevention, \"Infertility,\" cdc.gov, Feb. 13, 2014",
+            "docid": 7712
+        },
+        {
+            "id": "98",
+            "title": "Meredith Clark, \"Arizona Points to Procreation to Defend Gay Marriage Ban,\" msnbc.com, July 25, 2014",
+            "docid": 7713
+        },
+        {
+            "id": "99",
+            "title": "Derryck Green, \"Marriage Is Not a Right,\" National Center for Public Policy Research website (accessed Dec. 4, 2014)",
+            "docid": 7714
+        },
+        {
+            "id": "100",
+            "title": "Jonathan Dohanich, \"Marriage Is a Privilege, Not a Right,\" Pittsburgh Post-Gazette website, Dec. 27, 2013",
+            "docid": 7715
+        },
+        {
+            "id": "101",
+            "title": "Center for Family and Human Rights, \"European Court: Gay Marriage Is Not a Human Right,\" lifesitenews.com, Jul 25, 2014",
+            "docid": 7716
+        },
+        {
+            "id": "102",
+            "title": "European Court of Human Rights, \"Case of Schalk and Kopf v. Austria,\" hudoc.echr.coe.int, Nov. 22, 2010",
+            "docid": 7717
+        },
+        {
+            "id": "103",
+            "title": "United Nations, \"\"The Universal Declaration of Human Rights,\" un.org (accessed Dec. 4, 2014)",
+            "docid": 7718
+        },
+        {
+            "id": "104",
+            "title": "Amnesty International, \"Love Is a Human Right,\" amnestyusa.org (accessed Dec. 4, 2014)",
+            "docid": 7719
+        },
+        {
+            "id": "105",
+            "title": "Nisha Chittal, \"Judges Chip Away at Florida Gay Marriage Ban,\" msnbc.com, July 26, 2014",
+            "docid": 7720
+        },
+        {
+            "id": "106",
+            "title": "The Week Staff, \"How Marriage Has Changed over Centuries,\" the week.com, June 1, 2012",
+            "docid": 7721
+        },
+        {
+            "id": "107",
+            "title": "Evan Wolfson, \"Protections Denied to Same-Sex Couples and Their Kids,\" freedomtomarry.org (accessed Dec. 16, 2014)",
+            "docid": 7722
+        },
+        {
+            "id": "108",
+            "title": "B.A. Robinson, \"Marriage Prohibition on the Basis of Race. Part 1: Conflict over Inter-Racial marriage in the U.S. Anti-Miscegenation Laws. The Supreme Court Ruling of 1967 in Loving v. Virginia,\" religioustolerance.org, May 27, 2014",
+            "docid": 7723
+        },
+        {
+            "id": "109",
+            "title": "Courage International, \"About Courage,\" couragerc.org (accessed Dec. 16, 2014)",
+            "docid": 7724
+        },
+        {
+            "id": "110",
+            "title": "Rose McDermott, \"Polygamy: More Common Than You Think,\" wsj.com, Apr. 1, 2011",
+            "docid": 7725
+        },
+        {
+            "id": "111",
+            "title": "Peter Strauss, \"Due Process,\" law.cornell.edu(accessed Dec. 4, 2014)",
+            "docid": 7726
+        },
+        {
+            "id": "112",
+            "title": "\"14th Amendment [of the US Constitution],\" law.cornell.edu, July 9, 1868",
+            "docid": 7727
+        },
+        {
+            "id": "113",
+            "title": "Richard G. Wight, et al., \"Same-Sex Legal Marriage and Psychological Well-Being: Findings from the California Health Interview Survey,\"American Journal of Public Healthwebsite, Feb. 2013",
+            "docid": 7728
+        },
+        {
+            "id": "114",
+            "title": "Jessica Dickler, \"The Gay Marriage Windfall,\" money.cnn.com, May 10, 2012",
+            "docid": 7729
+        },
+        {
+            "id": "115",
+            "title": "M.V. Lee Badgett and Jody L. Herman, \"Patterns of Relationship Recognition by Same-Sex Couples in the United States,\" williamsinstitute.law.ucla.edu, Nov. 2011",
+            "docid": 7730
+        },
+        {
+            "id": "116",
+            "title": "National Center for Health Statistics, US Centers for Disease Control and Prevention, \"Unmarried Childbearing,\" cdc.gov, Feb. 13, 2014",
+            "docid": 7731
+        },
+        {
+            "id": "117",
+            "title": "US Court of Appeals for the Sixth Circuit,April DeBoer, et al., v. Richard Snyder, et al., ca6.uscourts.gov, Nov. 6, 2014",
+            "docid": 7732
+        },
+        {
+            "id": "118",
+            "title": "The White House, \"Civil Rights,\" whitehouse.gov (accessed Dec. 4, 2014)",
+            "docid": 7733
+        },
+        {
+            "id": "119",
+            "title": "Pew Research Center, \"Religious Groups' Official Positions on Same-Sex Marriage,\" pewforum.org, Dec. 7, 2012",
+            "docid": 7734
+        },
+        {
+            "id": "120",
+            "title": "\"Leviticus 18:22,\" kingjamesbibleonline.org (accessed Dec. 4, 2014)",
+            "docid": 7735
+        },
+        {
+            "id": "121",
+            "title": "Human Rights Campaign, \"Stances of Faiths on LGBT Issues: Islam,\" hrc.org (accessed Dec. 4, 2014)",
+            "docid": 7736
+        },
+        {
+            "id": "122",
+            "title": "David S. Cohen, \"Same-Sex Marriage Bans: A Form of Sex Discrimination,\" slate.com, Jan. 17, 2014",
+            "docid": 7737
+        },
+        {
+            "id": "123",
+            "title": "Lornet Turnbull, \"State to Same-Sex Domestic Partners: You're about to Be Married,\" seattletimes.com, Feb. 16, 2014",
+            "docid": 7738
+        },
+        {
+            "id": "124",
+            "title": "Michael Dresser and Carrie Wells, \"With Same-Sex Marriage Now Available, State to End Benefits for Domestic Partners,\" baltimoresun.com, May 3, 2013",
+            "docid": 7739
+        },
+        {
+            "id": "125",
+            "title": "Chuck Hagel, et al., \"Memorandum for secretaries of the Military Departments under Secretary of Defense for Personnel and Readiness,\" defense.gov, Aug. 13, 2013",
+            "docid": 7740
+        },
+        {
+            "id": "126",
+            "title": "Joanne Sammer and Stephen Miller, \"The Future of Domestic Partner Benefits,\" Society for Human Resource Management website, Oct. 21, 2013",
+            "docid": 7741
+        },
+        {
+            "id": "127",
+            "title": "Anders Zanichkowsky, \"Why I Oppose Marriage Equality, \" azanichkowsky.wordpress.com, June 26, 2013",
+            "docid": 7742
+        },
+        {
+            "id": "128",
+            "title": "Jon Stewart and Gene Robinson, \"Exclusive - Gene Robinson Extended Interview Pt. 1,\" thedailyshow.cc.com, Dec. 10, 2012",
+            "docid": 7743
+        },
+        {
+            "id": "129",
+            "title": "Lee Jefferson, \"What Does the Bible Actually Say about Gay Marriage?,\" huffingtonpost.com, Nov. 4, 2012",
+            "docid": 7744
+        },
+        {
+            "id": "130",
+            "title": "Stevie St. John, \"What Does Judaism Say about LGBT People?,\" advocate.com, Dec. 3, 2014",
+            "docid": 7745
+        },
+        {
+            "id": "131",
+            "title": "Megan McArdle, \"Can Gay Marriage Solve Our Adoption Problem?,\" thedailybeast.com, Mar. 29, 2013",
+            "docid": 7746
+        },
+        {
+            "id": "132",
+            "title": "People for the American Way Foundation, \"Marriage Equality Opponents Blur Distinction between Civil and Religious Marriage,\" pfaw.org (accessed Dec. 16, 2014)",
+            "docid": 7747
+        },
+        {
+            "id": "133",
+            "title": "Mark Regnerus, \"How Different Are the Adult Children of Parents Who Have Same-Sex Relationships? Findings from the New Family Structures Study,\" Social Science Research, 2012",
+            "docid": 7748
+        },
+        {
+            "id": "134",
+            "title": "Legal Voice, \"Questions and Answers: Washington’s Domestic Partnership Law,\" legalvoice.org, Dec. 2012",
+            "docid": 7749
+        },
+        {
+            "id": "135",
+            "title": "Maryland Department of Budget & Management, \"Short Plan Year Summary of Changes,\" dbm.maryland.gov, 2013",
+            "docid": 7750
+        },
+        {
+            "id": "136",
+            "title": "Raphael Schweber-Koren, \"Dobson: Same-Sex Marriage Would Lead to 'Marriage between Daddies and Little Girls ... between a Man and his Donkey,' \" Oct. 7, 2005",
+            "docid": 7751
+        },
+        {
+            "id": "137",
+            "title": "Rick Santorum, \"Americans Must Preserve Institution of Marriage,\" usatoday.com, July 9, 2003",
+            "docid": 7752
+        },
+        {
+            "id": "138",
+            "title": "Greg Botelho and Bill Mears, \"Texas Ban on Same-Sex Marriage Struck Down by Federal Judge,\" cnn.com, Feb. 27, 2014",
+            "docid": 7753
+        },
+        {
+            "id": "139",
+            "title": "Joel Connelly, \"Gregoire: End Discrimination, Let Same-Sex Couples Marry,\" seattlepi.com, Jan. 4, 2012",
+            "docid": 7754
+        },
+        {
+            "id": "140",
+            "title": "General Convention of the Episcopal Church, \"Resolution Number 2006-A095: Reaffirm Support of Gay and Lesbian Persons,\" episcopalarchives.org, 2006",
+            "docid": 7755
+        },
+        {
+            "id": "141",
+            "title": "Unitarian Universalist Association, \"Support of the Right to Marry for Same-Sex Couples: 1996 Resolution of Immediate Witness,\" uua.org, Oct. 19, 2011",
+            "docid": 7756
+        },
+        {
+            "id": "142",
+            "title": "United Church of Christ General Synod, \"Equal Marriage Rights for All,\" ucc.org, July 4, 2005",
+            "docid": 7757
+        },
+        {
+            "id": "143",
+            "title": "Dana Ford, \"Presbyterians Vote to Allow Same-Sex Marriage,\" cnn.com, June 25, 2014",
+            "docid": 7758
+        },
+        {
+            "id": "144",
+            "title": "US Centers for Disease Control and Prevention, \"Unintended Pregnancy Prevention,\" cdc.gov, Feb. 12, 2013",
+            "docid": 7759
+        },
+        {
+            "id": "145",
+            "title": "Philip Pullella, \"Gay Marriage a Threat to Humanity's Future: Pope,\" reuters.com, Jan. 9, 2012",
+            "docid": 7760
+        },
+        {
+            "id": "146",
+            "title": "Peter Sprigg, \"The Top Ten Harms of Same-Sex Marriage,\" Family Research Council website (accessed Dec. 16, 2014)",
+            "docid": 7761
+        },
+        {
+            "id": "147",
+            "title": "Maria De Cristofaro and Tracy Wilkinson, \"Gay Marriage Is Immoral, Vatican Says,\" latimes.com, Aug. 3, 2003",
+            "docid": 7762
+        },
+        {
+            "id": "148",
+            "title": "David Edwards, \"‘Grow a Spine!’: Huckabee Explodes at GOP for Giving up as Gays Break 'Nature’s Law' of Marriage,\" rawstory.com, Oct. 13, 2014",
+            "docid": 7763
+        },
+        {
+            "id": "149",
+            "title": "Right Wing Watch, \"Barber: Every Gay Person Knows 'What They Are Doing Is Immoral, Unnatural, & Self-Destructive,\" youtube.com (accessed Dec. 16, 2014)",
+            "docid": 7764
+        },
+        {
+            "id": "150",
+            "title": "Rob Boston, \"The Religious Right's Gay Agenda: How Jerry Falwell, Pat Robertson and Other Religious Right Leaders Use Gay-Bashing to Fill Their Coffers and Rally Their Troops,\" Americans United for Separation of Church and State website, Oct. 1999",
+            "docid": 7765
+        },
+        {
+            "id": "151",
+            "title": "Shannon Minter, \"Lesbian and Gay Parents and Their Children,\" americanbar.org, Oct./Nov. 2001",
+            "docid": 7766
+        },
+        {
+            "id": "152",
+            "title": "BBC News, \"Gay Marriage around the World,\" bbc.com, Apr. 23, 2013",
+            "docid": 7767
+        },
+        {
+            "id": "153",
+            "title": "Josh Hicks, \"Federal Benefits Won't Extend to Domestic Partners under DOMA Ruling,\" washingtonpost.com, July 8, 2013",
+            "docid": 7768
+        },
+        {
+            "id": "154",
+            "title": "Internal Revenue Service, \"Answers to Frequently Asked Questions for Registered Domestic Partners and Individuals in Civil Unions,\" irs.gov, Aug. 19, 2014",
+            "docid": 7769
+        },
+        {
+            "id": "155",
+            "title": "National Conference of State Legislatures, \"Civil Unions and Domestic Partnership Statutes,\" ncsl.org, Nov. 18, 2014",
+            "docid": 7770
+        },
+        {
+            "id": "156",
+            "title": "Lambda Legal, \"8 Things Same-Sex Couples Need to Know about Taxes (Updated for 2015),\" lambdalegal.org, Mar. 18, 2015",
+            "docid": 7771
+        },
+        {
+            "id": "157",
+            "title": "Yahoo News Video, \"From Foreign Policy to Marijuana: Carly Fiorina Talks about the Issues,\" news.yahoo.com (accessed June 10, 2015)",
+            "docid": 7772
+        },
+        {
+            "id": "158",
+            "title": "Elisabeth Bumiller, \"Bush Says His Party Is Wrong to Oppose Gay Civil Unions,\" nytimes.com, Oct. 26, 2004",
+            "docid": 7773
+        },
+        {
+            "id": "159",
+            "title": "SCOTUS Blog, \"Obergefell v. Hodges,\" scotusblog.com (accessed Jan. 6, 2016)",
+            "docid": 7774
+        },
+        {
+            "id": "160",
+            "title": "US Supreme Court,Obergefell v. Hodges, supremecourt.gov, June 26, 2015",
+            "docid": 7775
+        },
+        {
+            "id": "161",
+            "title": "Cheryl Wetzstein, \"States Rebel against Supreme Court Gay Marriage Ruling,\" washingtontimes.com, July 6, 2015",
+            "docid": 7776
+        },
+        {
+            "id": "162",
+            "title": "Michael Martinez, \"Who Is Kim Davis, Kentucky Clerk Jailed over Same-Sex Marriage Licenses?,\" cnn.com, Sep. 8, 2015",
+            "docid": 7777
+        },
+        {
+            "id": "163",
+            "title": "CBS/AP, \"More Alabama Counties Allow Same-Sex Marriage Amid 'Judicial Chaos,'\" cbsnews.com, Feb. 10, 2015",
+            "docid": 7778
+        },
+        {
+            "id": "164",
+            "title": "CBS/AP, \"Ala. Judge Goes After Same-Sex Marriage after Son Indicted,\" cbsnews.com, Jan. 6, 2016",
+            "docid": 7779
+        },
+        {
+            "id": "165",
+            "title": "Camila Domonoske, \"Alabama Chief Justice Orders Judges to Enforce Ban on Same Sex Marriage,\" nprorg, Jan. 6, 2015",
+            "docid": 7780
+        },
+        {
+            "id": "166",
+            "title": "Justin McCarthy, \"Two in Three Americans Support Same-Sex Marriage,\" gallup.com, May 23, 2018",
+            "docid": 7781
+        },
+        {
+            "id": "167",
+            "title": "Pew Research Center, \"Majority of Public Favors Same-Sex Marriage, but Divisions Persist,\" people-press.org, May 14, 2019",
+            "docid": 7782
+        },
+        {
+            "id": "168",
+            "title": "New York Times, \"Gay Marriage Backers Win Supreme Court Victory,\" nytimes.com, June 26, 2015",
+            "docid": 7783
+        },
+        {
+            "id": "169",
+            "title": "Christy Mallory and Brad Sears, \"The Economic Impact of Marriage Equality Five Years after Obergefell v. Hodges,\" williamsinstitute.law.ucla.edu, May 2020",
+            "docid": 7784
+        },
+        {
+            "id": "170",
+            "title": "Harmeet Kaur, \"Costa Rica Becomes the First Central American Country to Legalize Same-Sex Marriage,\" cnn.com, May 26, 2020",
+            "docid": 7785
+        }
+    ],
+    "url": "https://gaymarriage.procon.org/"
+}

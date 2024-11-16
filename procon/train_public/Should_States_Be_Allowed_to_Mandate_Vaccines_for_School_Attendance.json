@@ -1,0 +1,885 @@
+{
+    "title": "Should States Be Allowed to Mandate Vaccines for School Attendance?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "CDC, \"School Vaccination Requirements, Exemptions and Web Links,\" cdc.gov, July 21, 2011",
+            "url": null,
+            "docid": 9138
+        },
+        {
+            "id": "2",
+            "title": "Children’s Hospital of Philadelphia, \"All Timelines Overview,\" chop.edu (accessed July 30, 2014)",
+            "url": null,
+            "docid": 9139
+        },
+        {
+            "id": "3",
+            "title": "University of Massachusetts Medical School, \"History of MassBiologics of the University of Massachusetts Medical School,\" library.umassmed.edu (accessed July 30, 2014)",
+            "url": null,
+            "docid": 9140
+        },
+        {
+            "id": "4",
+            "title": "Daniel A. Salmon, \"Mandatory Immunization Laws and the Role of Medical, Religious and Philosophical Exemptions,\" vaccinesafety.edu, Oct. 2003",
+            "url": null,
+            "docid": 9141
+        },
+        {
+            "id": "5",
+            "title": "Children’s Hospital of Philadelphia, \"Government Regulation,\" chop.edu, Jan. 27, 2014",
+            "url": null,
+            "docid": 9142
+        },
+        {
+            "id": "6",
+            "title": "James G. Hodge, Jr. and Lawrence O. Gostin, \"School Vaccination Requirements: Historical, Social, and Legal Perspectives as of February 15, 2002: A State of the Art Assessment of Law and Policy,\" publichealthlaw.net, Feb. 15, 2002",
+            "url": null,
+            "docid": 9143
+        },
+        {
+            "id": "7",
+            "title": "Robert M. Wolfe, \"Anti-Vaccination Activists, Past and Present,\"British Medical Journal, Aug. 24, 2002",
+            "url": null,
+            "docid": 9144
+        },
+        {
+            "id": "8",
+            "title": "\"Opposed to Vaccination,\"New York Times, Feb. 17, 1882",
+            "url": null,
+            "docid": 9145
+        },
+        {
+            "id": "9",
+            "title": "Congressional Research Service, \"Mandatory Vaccinations: Precedent and Current Laws,\" fas.org, Jan. 18, 2005",
+            "url": null,
+            "docid": 9146
+        },
+        {
+            "id": "10",
+            "title": "NobelPrize.org, \"The Nobel Prize in Physiology or Medicine 1901,\" nobelprize.org (accessed July 31, 2014)",
+            "url": null,
+            "docid": 9147
+        },
+        {
+            "id": "11",
+            "title": "Zucht v. King, United States Supreme Court, Nov. 13, 1922",
+            "url": null,
+            "docid": 9148
+        },
+        {
+            "id": "12",
+            "title": "College of Physicians of Philadelphia, \"The History of Vaccines: Timelines, Diseases and Vaccines,\" historyofvaccines.org (accessed June 25, 2014)",
+            "url": null,
+            "docid": 9149
+        },
+        {
+            "id": "13",
+            "title": "CDC, \"Reported Cases and Deaths from Vaccine Preventable Diseases, United States, 1950-2011,\" cdc.gov, Mar. 14, 2012",
+            "url": null,
+            "docid": 9150
+        },
+        {
+            "id": "14",
+            "title": "\"National Childhood Vaccine Injury Act of 1986 (42 USC 201),\" Federal Register, Nov. 14, 1986",
+            "url": null,
+            "docid": 9151
+        },
+        {
+            "id": "15",
+            "title": "Stephen Engelberg, \"Vaccine: Assessing Risks and Benefits,\"New York Times, Dec. 19, 1984",
+            "url": null,
+            "docid": 9152
+        },
+        {
+            "id": "16",
+            "title": "US Court of Federal Claims Office of Special Masters, \"Vaccine Program Background,\" uscfc.uscourts.gov (accessed Dec. 11, 2009)",
+            "url": null,
+            "docid": 9153
+        },
+        {
+            "id": "17",
+            "title": "US Department of Health and Human Services, \"National Vaccine Injury Compensation Program,” hrsa.gov (accessed Aug. 4, 2014)",
+            "url": null,
+            "docid": 9154
+        },
+        {
+            "id": "18",
+            "title": "Vaccine Adverse Event Reporting System, \"About the VAERS Program,\" vaers.hhs.gov (accessed Aug. 4, 2014)",
+            "url": null,
+            "docid": 9155
+        },
+        {
+            "id": "19",
+            "title": "\"Comprehensive Child Immunization Act of 1993,\" Federal Register, Nov. 4, 1993",
+            "url": null,
+            "docid": 9156
+        },
+        {
+            "id": "20",
+            "title": "Andrew Wakefield, et al., \"RETRACTED: Illeal-Lymphoid-Nodular Hyperplasia, Non-Specific Colitis, and Pervasive Developmental Disorder in Children,\" thelancet.com, Feb. 1998",
+            "url": null,
+            "docid": 9157
+        },
+        {
+            "id": "21",
+            "title": "CNN Wire Staff, \"Retracted Autism Study an 'Elaborate Fraud,' British Journal Finds,\" cnn.com, Jan 5,",
+            "url": null,
+            "docid": 9158
+        },
+        {
+            "id": "22",
+            "title": "Simon H. Murch, et al., \"Retraction of an Interpretation,\" thelancet.com, Mar. 6, 2004",
+            "url": null,
+            "docid": 9159
+        },
+        {
+            "id": "23",
+            "title": "LancetEditors, \"Retraction—Ileal-Lymphoid-Nodular Hyperplasia, Non-Specific Colitis, and Pervasive Developmental Disorder in Children,\" thelancet.com, Feb. 6, 2010",
+            "url": null,
+            "docid": 9160
+        },
+        {
+            "id": "24",
+            "title": "Fiona Goodlee, Jane Smith, and Harvey Marcovitch, \"Wakefield's Article Linking MMR Vaccine and Autism Was Fraudulent,\" bmj.com, Jan. 6, 2011",
+            "url": null,
+            "docid": 9161
+        },
+        {
+            "id": "25",
+            "title": "Maria Cheng, \"Britain Bans Doctor Who Linked Autism to Vaccine,\" Associated Press, May 24, 2010",
+            "url": null,
+            "docid": 9162
+        },
+        {
+            "id": "26",
+            "title": "Centers for Disease Control (CDC), \"Thimerosal in Vaccines: A Joint Statement of the American Academy of Pediatrics and the Public Health Service,\" cdc.gov, July 9, 1999",
+            "url": null,
+            "docid": 9163
+        },
+        {
+            "id": "27",
+            "title": "US House of Representatives Committee on Government Reform Subcommittee on Human Rights and Wellness, \"Mercury in Medicine - Taking Unnecessary Risks,\" burton.house.gov, May 2003",
+            "url": null,
+            "docid": 9164
+        },
+        {
+            "id": "28",
+            "title": "Robert F. Kennedy, Jr., \"Deadly Immunity,\" drjaygordon.com, Feb. 24, 2005",
+            "url": null,
+            "docid": 9165
+        },
+        {
+            "id": "29",
+            "title": "US Senate Committee on Health, Education, Labor and Pensions, \"Thimerosal and Autism Spectrum Disorders: Alleged Misconduct by Government Agencies and Private Entities,\" autismspeaks.org, Sep. 2007",
+            "url": null,
+            "docid": 9166
+        },
+        {
+            "id": "30",
+            "title": "Institute for Vaccine Safety, \"Thimerosal Table,\" vaccinesafety.edu, Nov. 30, 2009",
+            "url": null,
+            "docid": 9167
+        },
+        {
+            "id": "31",
+            "title": "Cedillo v. Secretary of Health and Human Services, United States Court of Appeals for the Federal Circuit, Aug. 27, 2010",
+            "url": null,
+            "docid": 9168
+        },
+        {
+            "id": "32",
+            "title": "Bruesewitz v. Wyeth, United States Supreme Court, Feb. 22, 2011",
+            "url": null,
+            "docid": 9169
+        },
+        {
+            "id": "323",
+            "title": "Kathleen Stratton, et al., \"Adverse Effects of Vaccines: Evidence and Causality,\" nap.edu, Aug. 25, 2011",
+            "url": null,
+            "docid": 9170
+        },
+        {
+            "id": "34",
+            "title": "Institute of Medicine (IOM), \"Report Brief - Adverse Effects of Vaccines: Evidence and Causality,\" nap.edu, Aug. 25, 2011",
+            "url": null,
+            "docid": 9171
+        },
+        {
+            "id": "35",
+            "title": "V. Demicheli, et al., \"Using the Combined Vaccine for Protection of Children Against Measles, Mumps, and Rubella,\" summaries.cochrane.org, Feb. 15, 2012",
+            "url": null,
+            "docid": 9172
+        },
+        {
+            "id": "36",
+            "title": "John Hinton, \"Nearly 750 Local Students Who Lack Required Whooping Cough Vaccination Face Suspension,\" journalnow.com, Sep. 23, 2013",
+            "url": null,
+            "docid": 9173
+        },
+        {
+            "id": "37",
+            "title": "WLWT, \"No School Recommended for Unvaccinated Kids,\" wlwt.com, Apr. 16, 2014",
+            "url": null,
+            "docid": 9174
+        },
+        {
+            "id": "38",
+            "title": "Amanda Marcotte, \"A Great Ruling for Public Health and a Big Blow to the Anti-Vaccination Movement,\" slate.com, June 25, 2014",
+            "url": null,
+            "docid": 9175
+        },
+        {
+            "id": "39",
+            "title": "Dan Childs, \"No School for You! Unvaccinated Students Shut Out,\" abcnews.go.com, Sep. 16, 2011",
+            "url": null,
+            "docid": 9176
+        },
+        {
+            "id": "40",
+            "title": "Benjamin Mueller, \"Judge Upholds Policy Barring Unvaccinated Students during Illnesses,\" nytimes.com, June 22, 2014",
+            "url": null,
+            "docid": 9177
+        },
+        {
+            "id": "41",
+            "title": "Sydney Spiesel, \"I'm a Pediatrician. Should I Treat All Kids, or Just the Vaccinated Ones?,\" slate.com, Mar. 17, 2014",
+            "url": null,
+            "docid": 9178
+        },
+        {
+            "id": "42",
+            "title": "Arthur L. Caplan, et al., \"Free to Choose but Liable for the Consequences: Should Non-Vaccinators Be Penalized for the Harm They Do?,\" academia.edu, Fall 2012",
+            "url": null,
+            "docid": 9179
+        },
+        {
+            "id": "43",
+            "title": "American Academy of Pediatrics, \"Vaccine Safety: The Facts,\" aap.org, 2008",
+            "url": null,
+            "docid": 9180
+        },
+        {
+            "id": "44",
+            "title": "Shot@Life, \"The Solution: Vaccines,\" shotatlife.org (accessed June 4, 2014)",
+            "url": null,
+            "docid": 9181
+        },
+        {
+            "id": "45",
+            "title": "Bahar Gholipour, \"Vaccination Has Saved 732,000 Children's Lives Since 1994, Says Report,\" huffingtonpost.com, Apr. 25, 2014",
+            "url": null,
+            "docid": 9182
+        },
+        {
+            "id": "46",
+            "title": "Kelley King Heyworth, \"Vaccines: The Reality behind the Debate,\" parents.com (accessed June 9, 2014)",
+            "url": null,
+            "docid": 9183
+        },
+        {
+            "id": "47",
+            "title": "FDA, \"Thimerosal in Vaccines,\" fda.gov, Mar. 14, 2014",
+            "url": null,
+            "docid": 9184
+        },
+        {
+            "id": "48",
+            "title": "CDC, \"Frequently Asked Questions about Vaccine Safety,\" cdc.gov, Feb. 27, 2014",
+            "url": null,
+            "docid": 9185
+        },
+        {
+            "id": "49",
+            "title": "CDC, \"Possible Side-Effects from Vaccines,\" cdc.gov, Feb. 4, 2014",
+            "url": null,
+            "docid": 9186
+        },
+        {
+            "id": "50",
+            "title": "Nancy Shute, \"Report: Vaccines Are Safe, Hazards Few and Far Between,\" npr.org, Aug. 25, 2011",
+            "url": null,
+            "docid": 9187
+        },
+        {
+            "id": "51",
+            "title": "US Department of Health and Human Services, \"Safety,\" vaccines.gov (accessed June 5, 2014)",
+            "url": null,
+            "docid": 9188
+        },
+        {
+            "id": "52",
+            "title": "Matthew Herper, \"Dear Jenny McCarthy, Here's How Many Lives Could Be Saved Cheaply by Making Vaccines More Widely Available,\" forbes.com, Apr. 16, 2014",
+            "url": null,
+            "docid": 9189
+        },
+        {
+            "id": "53",
+            "title": "WHO, \"Vaccine Position Papers,\" who.int (accessed June 5, 2014)",
+            "url": null,
+            "docid": 9190
+        },
+        {
+            "id": "54",
+            "title": "Public Health Agency of Canada, \"Vaccine Safety: Frequently Asked Questions,\" phac-aspc.gc.ca, Apr. 28, 2014",
+            "url": null,
+            "docid": 9191
+        },
+        {
+            "id": "55",
+            "title": "Canadian Paediatric Society, \"Vaccine Safety,\" caringforkids.cps.ca, Nov. 2013",
+            "url": null,
+            "docid": 9192
+        },
+        {
+            "id": "56",
+            "title": "National Foundation for Infectious Diseases, \"Top Reasons to Get Vaccinated,\" nfid.org (accessed June 5, 2014)",
+            "url": null,
+            "docid": 9193
+        },
+        {
+            "id": "57",
+            "title": "American Medical Association, \"AMA Encourages Community-Clinical Partnerships to Increase Use of Preventative Health Services among Boomers,\" ama-assn.org, Nov. 19, 2009",
+            "url": null,
+            "docid": 9194
+        },
+        {
+            "id": "58",
+            "title": "American Academy of Family Physicians, \"Confusion, Safety Concerns Contribute to Low Seasonal Flu Vaccine Coverage among Pregnant Women,\" aafp.org, Aug. 4, 2009",
+            "url": null,
+            "docid": 9195
+        },
+        {
+            "id": "59",
+            "title": "WHO, \"What Are Some of the Myths – and Facts – about Vaccination?,\" who.int, Apr. 2013",
+            "url": null,
+            "docid": 9196
+        },
+        {
+            "id": "60",
+            "title": "Kathleen Dohenny, \"Expert Q&A: Childhood Vaccine Safety,\" webmd.com (accessed June 4, 2014)",
+            "url": null,
+            "docid": 9197
+        },
+        {
+            "id": "61",
+            "title": "US Department of Health and Human Services, \"Community Immunity ('Herd Immunity'),\" vaccines.gov (accessed June 5, 2014)",
+            "url": null,
+            "docid": 9198
+        },
+        {
+            "id": "62",
+            "title": "Steven L. Weinreb, \"For the Herd’s Sake, Vaccinate,\" nytimes.com, Dec. 27, 2011",
+            "url": null,
+            "docid": 9199
+        },
+        {
+            "id": "63",
+            "title": "David E. Sugerman, et al., \"Measles Outbreak in a Highly Vaccinated Population, San Diego, 2008: Role of the Intentionally Undervaccinated,\" Pediatrics, Apr. 1, 2010",
+            "url": null,
+            "docid": 9200
+        },
+        {
+            "id": "64",
+            "title": "Mark Fishetti, \"Too Many Children Go Unvaccinated,\" scientificamerican.com, May 14, 2013",
+            "url": null,
+            "docid": 9201
+        },
+        {
+            "id": "65",
+            "title": "Gardiner Harris, \"5 Cases of Polio in Amish Group Raises New Fears,\" nytimes.com, Nov. 8, 2005",
+            "url": null,
+            "docid": 9202
+        },
+        {
+            "id": "66",
+            "title": "Steven F. Hirsch, \"Protecting the 'Herd': Why Vaccinations Still Matter,\" washingtonparent.com, Aug. 2007",
+            "url": null,
+            "docid": 9203
+        },
+        {
+            "id": "67",
+            "title": "CDC, \"Five Important Reasons to Vaccinate Your Child,\" cdc.gov, Apr. 8, 2011",
+            "url": null,
+            "docid": 9204
+        },
+        {
+            "id": "68",
+            "title": "Michael Smith, \"How Long Should Children Stay out of School after H1N1 Flu?,\" kevinmd.com, Nov. 4, 2009",
+            "url": null,
+            "docid": 9205
+        },
+        {
+            "id": "68",
+            "title": "CDC, \"CDC Study: Treating Children's Flu Illness Costly,\" cdc.gov, May 21, 2012",
+            "url": null,
+            "docid": 9206
+        },
+        {
+            "id": "70",
+            "title": "North Dakota Department of Health, \"What Do I Need to Know? Rotavirus,\" ndhealth.gov, Feb. 2006",
+            "url": null,
+            "docid": 9207
+        },
+        {
+            "id": "71",
+            "title": "US Department of Health and Human Services, \"The Affordable Care Act and Immunization,\" hhs.gov, Jan. 20, 2012",
+            "url": null,
+            "docid": 9208
+        },
+        {
+            "id": "72",
+            "title": "CDC, \"About Rubella,\" cdc.gov, Apr. 29, 2011",
+            "url": null,
+            "docid": 9209
+        },
+        {
+            "id": "73",
+            "title": "College of Physicians of Philadelphia, \"1941: Rubella Implicated in Congenital Defects,\" historyofvaccines.org (accessed June 6, 2014)",
+            "url": null,
+            "docid": 9210
+        },
+        {
+            "id": "74",
+            "title": "CDC, \"Smallpox Disease Overview,\" cdc.gov, Dec. 30, 2004",
+            "url": null,
+            "docid": 9211
+        },
+        {
+            "id": "75",
+            "title": "Walter Orenstein, \"Opening Session: An Overview of Vaccinology,\" nfid.org, Nov. 15-17, 2013",
+            "url": null,
+            "docid": 9212
+        },
+        {
+            "id": "76",
+            "title": "CDC, \"Vaccine-Preventable Childhood Diseases,\" cdc.gov, Feb. 25, 2012",
+            "url": null,
+            "docid": 9213
+        },
+        {
+            "id": "77",
+            "title": "Polio Global Eradication Initiative, \"Polio This Week as of 4 June 2014,\" polioeradication.org, June 4, 2014",
+            "url": null,
+            "docid": 9214
+        },
+        {
+            "id": "78",
+            "title": "CNN Staff, \"Ohio Measles Outbreak Continues to Grow,\" cnn.com, June 5, 2014",
+            "url": null,
+            "docid": 9215
+        },
+        {
+            "id": "79",
+            "title": "CDC, \"Measles,\" cdc.gov, June 10, 2014",
+            "url": null,
+            "docid": 9216
+        },
+        {
+            "id": "80",
+            "title": "David Satcher, \"Statement on Risk vs Benefit of Vaccinations by David Satcher, M.D., PH.D.,\" hhs.gov, Aug 3, 1999",
+            "url": null,
+            "docid": 9217
+        },
+        {
+            "id": "81",
+            "title": "Mark Wilson, \"How Just 3 Vaccines Can Save Us $63 Billion [Infographic],\" fastcodesign.com, June 14, 2012",
+            "url": null,
+            "docid": 9218
+        },
+        {
+            "id": "82",
+            "title": "Joseph M. Mercola, \"Vaccines Have Serious Side Effects – The Institute of Medicine Says So!,\" mercola.com, Sep. 27, 2011",
+            "url": null,
+            "docid": 9219
+        },
+        {
+            "id": "83",
+            "title": "National Vaccine Information Center, \"Autism,\" nvic.org (accessed June 11, 2014)",
+            "url": null,
+            "docid": 9220
+        },
+        {
+            "id": "84",
+            "title": "Robert W. Sears, \"New Study Shows Possible Link between Environmental Mercury and Autism – What about Vaccine Mercury?,\" askdrsears.com (accessed June 11, 2014)",
+            "url": null,
+            "docid": 9221
+        },
+        {
+            "id": "85",
+            "title": "Robert W. Sears, \"Vaccine FAQS: Aluminum Information from The Vaccine Book,\" askdrsears.com (accessed June 11, 2014)",
+            "url": null,
+            "docid": 9222
+        },
+        {
+            "id": "86",
+            "title": "VaxTruth, \"Vaccine Ingredients – A Comprehensive Guide,\" vaxtruth.org, Aug. 15, 2011",
+            "url": null,
+            "docid": 9223
+        },
+        {
+            "id": "87",
+            "title": "CDC, \"Ingredients of Vaccines – Fact Sheet,\" cdc.gov. Feb. 22, 2011",
+            "url": null,
+            "docid": 9224
+        },
+        {
+            "id": "88",
+            "title": "Jospeph M. Mercola, \"MSG: Is This Silent Killer Lurking in Your Kitchen Cabinets,\" mercola.com, Apr. 21, 2009",
+            "url": null,
+            "docid": 9225
+        },
+        {
+            "id": "89",
+            "title": "National Vaccine Information Center, \"Barbara Speaks Out!,\" nvic.org (accessed June 11, 2014)",
+            "url": null,
+            "docid": 9226
+        },
+        {
+            "id": "90",
+            "title": "Ron Paul, \"Government Vaccines—Bad Policy, Bad Medicine,\" vaccinationcouncil.org, Dec. 10, 2002",
+            "url": null,
+            "docid": 9227
+        },
+        {
+            "id": "91",
+            "title": "Cornell University Law School Legal Information Institute, \"First Amendment,\" law.cornell.edu (accessed June 11, 2014)",
+            "url": null,
+            "docid": 9228
+        },
+        {
+            "id": "92",
+            "title": "Oyez, \"Cantwell v. State of Connecticut,\" oyez.org (accessed June 11, 2014)",
+            "url": null,
+            "docid": 9229
+        },
+        {
+            "id": "93",
+            "title": "Mahesh Vidula, \"Individual Rights vs. Public Health: The Vaccination Debate,\" mit.edu (accessed June 11, 2014)",
+            "url": null,
+            "docid": 9230
+        },
+        {
+            "id": "94",
+            "title": "Olivia K. Wenger, et al., \"Underimmunization in Ohio's Amish: Parental Fears Are a Greater Obstacle Than Access to Care,\" pediatrics.aapublications.org, June 27, 2011",
+            "url": null,
+            "docid": 9231
+        },
+        {
+            "id": "95",
+            "title": "Fraternitas Rosae Crucis, \"The Church of Illumination: Tenet on Vaccination and Immunization,\" soul.org, 2013",
+            "url": null,
+            "docid": 9232
+        },
+        {
+            "id": "96",
+            "title": "Universal Family Church, \"FAQ,\" universalfamilychurch.org (accessed June 11, 2014)",
+            "url": null,
+            "docid": 9233
+        },
+        {
+            "id": "97",
+            "title": "Vatican, \"Moral Reflections on Vaccines Prepared from Cells Derived from Aborted Human Foetuses,\" cogforlife.org, June 9, 2005",
+            "url": null,
+            "docid": 9234
+        },
+        {
+            "id": "98",
+            "title": "Children’s Hospital of Philadelphia, \"General Vaccine Safety Concerns,\" chop.edu, Apr. 2013",
+            "url": null,
+            "docid": 9235
+        },
+        {
+            "id": "99",
+            "title": "Mayo Clinic, \"Childhood Vaccines: Tough Questions, Straight Answers,\" mayoclinic.org, May 8, 2013",
+            "url": null,
+            "docid": 9236
+        },
+        {
+            "id": "100",
+            "title": "Kurt Perkins, \"Dr. Kurt: Why I Will Never Choose to Vaccinate My Own Son and Any Future Kids My Wife and I Have,\" healthimpactnews.com, June 12, 2014",
+            "url": null,
+            "docid": 9237
+        },
+        {
+            "id": "101",
+            "title": "A Shot of Truth, \"Congressman Bill Posey Speaks on the Need for Openness and Transparency within the CDC on Issues of Vaccine Safety,\" ashotoftruth.org, Apr. 8, 2014",
+            "url": null,
+            "docid": 9238
+        },
+        {
+            "id": "102",
+            "title": "Institutes of Medicine, \"Julie Gerberding,\" iom.edu (accessed Aug. 7, 2014)",
+            "url": null,
+            "docid": 9239
+        },
+        {
+            "id": "103",
+            "title": "Gregory Poland, \"Vaccines against Lyme Disease: What Happened and What Lessons Can We Learn?,\" cid.oxfordjournals.org, Feb. 1, 2011",
+            "url": null,
+            "docid": 9240
+        },
+        {
+            "id": "104",
+            "title": "L. Simonsen, C. Viboud, A. Elixhauser, R.J.Taylor, and A.Z. Kapikian, \"More on Rotashield and Intussusception: The Role of Age at the Time of Vaccination,\"Journal of Infectious Diseases, 2005",
+            "url": null,
+            "docid": 9241
+        },
+        {
+            "id": "105",
+            "title": "CDC, \"Keeping the U.S. Polio-Free,\" cdc.gov, Mar. 19, 2014",
+            "url": null,
+            "docid": 9242
+        },
+        {
+            "id": "106",
+            "title": "KidsHealth.org, \"Chickenpox,\" kidshealth.org, Sep. 2012",
+            "url": null,
+            "docid": 9243
+        },
+        {
+            "id": "107",
+            "title": "CDC, \"Measles Overview,\" cdc.gov, June 3, 2014",
+            "url": null,
+            "docid": 9244
+        },
+        {
+            "id": "108",
+            "title": "KidsHealth.org, \"Measles,\" kidshealth.org, Oct. 2011",
+            "url": null,
+            "docid": 9245
+        },
+        {
+            "id": "109",
+            "title": "KidsHealth.org, \"About Rubella,\" kidshealth.org, July 2012",
+            "url": null,
+            "docid": 9246
+        },
+        {
+            "id": "110",
+            "title": "CDC, \"About Rotavirus: Symptoms,\" cdc.gov, May 12, 2014",
+            "url": null,
+            "docid": 9247
+        },
+        {
+            "id": "111",
+            "title": "WebMD, \"Rotavirus – Topic Overview,\" webmd.com, July 9, 2012",
+            "url": null,
+            "docid": 9248
+        },
+        {
+            "id": "112",
+            "title": "Salon.com, \"Correcting our Record,\" salon.com, Jan. 16, 2011",
+            "url": null,
+            "docid": 9249
+        },
+        {
+            "id": "113",
+            "title": "Sanjay Gupta, \"Dr. Sanjay Gupta: Vaccines Are a Matter of Fact,\" edition.cnn.com, Feb. 5, 2015",
+            "url": null,
+            "docid": 9250
+        },
+        {
+            "id": "114",
+            "title": "Bharathi S. Gadad, \"Administration of Thimerosal-Containing Vaccines to Infant Rhesus Macaques Does Not Result in Autism-Like Behavior,\" pnas.org, Oct. 6, 2015",
+            "url": null,
+            "docid": 9251
+        },
+        {
+            "id": "115",
+            "title": "Melissa Healy, \"Old-School and Current Vaccines Have No Link to Autism (again), Study Says,\" latimes.com, Sep. 28, 2015",
+            "url": null,
+            "docid": 9252
+        },
+        {
+            "id": "116",
+            "title": "Maggie Fox, \"Measles Has Been Eliminated in the Americas, WHO Says,\" nbcnews.com, Sep. 27, 2016",
+            "url": null,
+            "docid": 9253
+        },
+        {
+            "id": "117",
+            "title": "Michelle Goldstein, \"10 Reasons Not to Vaccinate,\" vactruth.com, Dec. 12, 2014",
+            "url": null,
+            "docid": 9254
+        },
+        {
+            "id": "118",
+            "title": "Pan American Health Organization, \"Americas Region Declared the World's First to Eliminate Rubella,\" paho.org, Apr. 29, 2015",
+            "url": null,
+            "docid": 9255
+        },
+        {
+            "id": "119",
+            "title": "History of Vaccines, \"Disease Eradication,\" History of Vaccines website, Jan. 25, 2016",
+            "url": null,
+            "docid": 9256
+        },
+        {
+            "id": "120",
+            "title": "History of Vaccines, \"History of Polio (Poliomyelitis),\" History of Vaccines website, Mar. 10, 2016",
+            "url": null,
+            "docid": 9257
+        },
+        {
+            "id": "121",
+            "title": "CDC, \"Instant Childhood Immunization Schedule,\" cdc.gov, Feb. 1, 2016",
+            "url": null,
+            "docid": 9258
+        },
+        {
+            "id": "122",
+            "title": "Anders Hviid, et al., \"Measles, Mumps, Rubella Vaccination and Autism: A Nationwide Cohort Study,\" annals.org, Mar. 5, 2019",
+            "url": null,
+            "docid": 9259
+        },
+        {
+            "id": "123",
+            "title": "Wayne Drash, \"Measles Quarantine Issued at Two California Universities,\" cnn.com, Apr. 28, 2019",
+            "url": null,
+            "docid": 9260
+        },
+        {
+            "id": "124",
+            "title": "CDC, \"About Pertussis Outbreaks,\" cdc.gov, Aug. 7, 2017",
+            "url": null,
+            "docid": 9261
+        },
+        {
+            "id": "125",
+            "title": "Megan Henry, \"The Cost of This Century’s Worst Measles Outbreak,\" foxbusiness.com, Apr. 27, 2019",
+            "url": null,
+            "docid": 9262
+        },
+        {
+            "id": "126",
+            "title": "Nathaniel Weixel, \"Measles Outbreak Spreads to 24 States,\" thehill.com, May 20, 2019",
+            "url": null,
+            "docid": 9263
+        },
+        {
+            "id": "127",
+            "title": "WHO, \"Global Wild Poliovirus 2014 - 2019,\" polioeradication.org, May 14, 2019",
+            "url": null,
+            "docid": 9264
+        },
+        {
+            "id": "128",
+            "title": "CDC, \"NIIW (National Infant Immunization Week),\" cdc.gov, Feb. 13, 2019",
+            "url": null,
+            "docid": 9265
+        },
+        {
+            "id": "129",
+            "title": "CDC, \"Pink Book Appendix E: Reported Cases and Deaths from Vaccine Preventable Diseases, United States,\" cdc.gov, Mar. 2018",
+            "url": null,
+            "docid": 9266
+        },
+        {
+            "id": "130",
+            "title": "Manisha Patel, et al., \"Increase in Measles Cases - United States, January 1 - April 26, 2019,\" cdc.gov, May 3, 2019",
+            "url": null,
+            "docid": 9267
+        },
+        {
+            "id": "131",
+            "title": "CDC, \"Measles Cases and Outbreaks,\" cdc.gov, May 20, 2019",
+            "url": null,
+            "docid": 9268
+        },
+        {
+            "id": "132",
+            "title": "WHO, \"Measles and Rubella Surveillance Data,\" who.int, May 13, 2019",
+            "url": null,
+            "docid": 9269
+        },
+        {
+            "id": "133",
+            "title": "Noam Tau, Dafna Yahav, and Daniel Shepshelovich, \"Postmarketing Safety of Vaccines Approved by the U.S. Food and Drug Administration,\" acpjournals.org, July 28, 2020",
+            "url": null,
+            "docid": 9270
+        },
+        {
+            "id": "134",
+            "title": "Deidre McPhillips, \"COVID-19 Vaccines Will Be on the 2023 Vaccine Schedule, but That Doesn’t Mean They’re Required in Schools,\" cnn.com, Oct. 20, 2022",
+            "url": null,
+            "docid": 9271
+        },
+        {
+            "id": "135",
+            "title": "National Academy for State Health Policy, \"States Address School Vaccine Mandates and Mask Mandates,\" nashp.org, Oct. 3, 2022",
+            "url": null,
+            "docid": 9272
+        },
+        {
+            "id": "136",
+            "title": "CDC, \"ACIP Immunization Schedule Vote,\" cdc.gov, Oct. 20, 2022",
+            "url": null,
+            "docid": 9273
+        },
+        {
+            "id": "137",
+            "title": "CDC, Moderna COVID-19 Vaccines,\" cdc.gov, Oct. 20, 2022",
+            "url": null,
+            "docid": 9274
+        },
+        {
+            "id": "138",
+            "title": "CDC, \"Pfizer-BioNTech COVID-19 Vaccines,\" cdc.gov, Oct. 19, 2022",
+            "url": null,
+            "docid": 9275
+        },
+        {
+            "id": "139",
+            "title": "Shixin (Cindy) Shen and Vinita Dubey, “Addressing Vaccine Hesitancy: Clinical Guidance for Primary Care Physicians Working with Parents,” ncbi.nlm.nih.gov, Mar. 2019",
+            "url": null,
+            "docid": 9276
+        },
+        {
+            "id": "140",
+            "title": "World Health Organization, Poliomyelitis (Polio), who.int (accessed Feb. 17, 2023)",
+            "url": null,
+            "docid": 9277
+        },
+        {
+            "id": "141",
+            "title": "Martha Hostetter and Sarah Klein, “Understanding and Ameliorating Medical Mistrust among Black Americans,” commonwealthfund.org, Jan. 14, 2021",
+            "url": null,
+            "docid": 9278
+        },
+        {
+            "id": "142",
+            "title": "Shabab Ahmed Mirza and Caitlin Rooney, “Discrimination Prevents LGBTQ People from Accessing Health Care,” americanprogress.org, Jan. 18, 2018",
+            "url": null,
+            "docid": 9279
+        },
+        {
+            "id": "143",
+            "title": "B. Ashleigh Guadagnolo, “Medical Mistrust and Less Satisfaction with Health Care among Native Americans Presenting for Cancer Treatment,” ncbi.nlm.nih.gov, Apr. 6, 2009",
+            "url": null,
+            "docid": 9280
+        },
+        {
+            "id": "144",
+            "title": "Eric Whitney, “Native Americans Feel Invisible in U.S. Health Care System,” npr.org, Dec. 12, 2017",
+            "url": null,
+            "docid": 9281
+        },
+        {
+            "id": "145",
+            "title": "Katrina Armstrong, et al., “Racial/Ethnic Differences in Physician Distrust in the United States,” ncbi.nlm.nih.gov, July 2007",
+            "url": null,
+            "docid": 9282
+        },
+        {
+            "id": "146",
+            "title": "Brian K. Lee, Herd Immunity, eb.com, Jan. 13, 2023",
+            "url": null,
+            "docid": 9283
+        }
+    ],
+    "url": "https://vaccines.procon.org/"
+}

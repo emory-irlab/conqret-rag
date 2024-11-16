@@ -1,0 +1,813 @@
+{
+    "title": "Should Birth Control Pills Be Available Over the Counter (OTC)?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Guttmacher Institute, “Contraceptive Use in the United States,” guttmacher.org, July 2018",
+            "url": null,
+            "docid": 8802
+        },
+        {
+            "id": "2",
+            "title": "Jo Jones, William Mosher, and Kimberly Daniels, “Current Contraceptive Use in the United States, 2006-2010, and Changes in Patterns of Use since 1995,” cdc.gov, Oct. 18, 2012",
+            "url": null,
+            "docid": 8803
+        },
+        {
+            "id": "3",
+            "title": "Katie Klabusich, “Advocates Set Sights on OTC Birth Control Pill on World Contraception Day,” rewire.news, Sep. 26, 2017",
+            "url": null,
+            "docid": 8804
+        },
+        {
+            "id": "4",
+            "title": "Bedsider, “Should the Pill Be Available Over the Counter?,” bedsider.org, Mar. 6, 2015",
+            "url": null,
+            "docid": 8805
+        },
+        {
+            "id": "5",
+            "title": "Joe Speidel, “Risky Business: Is Birth Control Safe?,” bedsider.org, Jan. 6, 2012",
+            "url": null,
+            "docid": 8806
+        },
+        {
+            "id": "6",
+            "title": "Elisabeth Rosenthal, “Is It Time for Off-the-Shelf Birth-Control Pills?,” nytimes.com, Apr. 20, 2013",
+            "url": null,
+            "docid": 8807
+        },
+        {
+            "id": "7",
+            "title": "Gabrielle Moss, “70 Percents of Americans Want Over-the-Counter Birth Control, and That’s Not So Crazy Considering You Can Easily Buy These 5 Drugs Already,” bustle.com, Oct. 22, 2014",
+            "url": null,
+            "docid": 8808
+        },
+        {
+            "id": "8",
+            "title": "Miranda Hitti, “Plan B One-Step: Seven Questions and Answers,” webmd.com, Nov. 29, 2007",
+            "url": null,
+            "docid": 8809
+        },
+        {
+            "id": "9",
+            "title": "Walgreens, “What’s the Difference between Emergency Contraceptives, Such as Plan B One-Step and Regular Birth Control Pills?,” walgreens.com (accessed Aug. 28, 2018)",
+            "url": null,
+            "docid": 8810
+        },
+        {
+            "id": "10",
+            "title": "OCs OTC Working Group, “Global Oral Contraception Availability,”ocsotc.org/world-map(accessed Mar. 18, 2022)",
+            "url": "https://ocsotc.org/world-map/",
+            "docid": 8811
+        },
+        {
+            "id": "11",
+            "title": "Suzannah Weiss, “New Mexico Becomes the Fourth State to Let Pharmacists Prescribe Birth Control,” glamour.com, June 13, 2017",
+            "url": null,
+            "docid": 8812
+        },
+        {
+            "id": "12",
+            "title": "Alyssa Kennedy, Jess Zuo, and Navya Dasari “The Over-the-Counter Birth Control Debate,” upenn.edu, Mar. 31, 2016",
+            "url": null,
+            "docid": 8813
+        },
+        {
+            "id": "13",
+            "title": "Diana G. Foster, et al., “Potential Public Sector Cost-Savings from Over-the-Counter Access to Oral Contraceptives,” contraceptionjournal.org, May 2015",
+            "url": null,
+            "docid": 8814
+        },
+        {
+            "id": "14",
+            "title": "National Latina Institute for Reproductive Health, “Over-the-Counter Birth Control Will Benefit Latina Health,” latinainstitute.org, Nov. 20, 2012",
+            "url": null,
+            "docid": 8815
+        },
+        {
+            "id": "15",
+            "title": "Neesha Powell, “Why We Need to Talk about Queer and Trans People and Birth Control,” medium.com, Dec. 2, 2017",
+            "url": null,
+            "docid": 8816
+        },
+        {
+            "id": "16",
+            "title": "Kellan Baker and Laura E. Durso, “Why Repealing the Affordable Care Act Is Bad Medicine for LGBT Communities,” americanprogress.org, Mar. 22, 2017",
+            "url": null,
+            "docid": 8817
+        },
+        {
+            "id": "17",
+            "title": "Adam Sonfield and Kathryn Kost, “Public Costs from Unintended Pregnancies and the Role of Public Insurance Programs in Paying for Pregnancy-Related Care: National and State Estimates for 2010,” guttmacher.org, Feb. 2015",
+            "url": null,
+            "docid": 8818
+        },
+        {
+            "id": "18",
+            "title": "DG Foster, et al., “Number of Oral Contraceptive Pill Packages Dispensed and Subsequent Unintended Pregnancies,” Obstetrics & Gynecology, Mar. 2011",
+            "url": null,
+            "docid": 8819
+        },
+        {
+            "id": "19",
+            "title": "JE Potter, et al., “Continuation of Prescribed Compared with Over-the-Counter Oral Contraceptives,” ncbi.nlm.nih.gov, Mar. 2011",
+            "url": null,
+            "docid": 8820
+        },
+        {
+            "id": "20",
+            "title": "Laura Lindberg, John Santelli, and Sheila Desai, “Understanding the Decline in Adolescent Fertility in the United States, 2007-2012,” Journal of Adolescent Health, Nov. 2016",
+            "url": null,
+            "docid": 8821
+        },
+        {
+            "id": "21",
+            "title": "Johns Hopkins Medicine, “Experts Find Strong Case for Over-the-Counter Oral Contraceptives for Adults and Teens,” hopkinsmedicine.org, Mar. 14, 2017",
+            "url": null,
+            "docid": 8822
+        },
+        {
+            "id": "22",
+            "title": "Juell B. Homco, et al., “Reasons for Ineffective Pre-Pregnancy Contraception Use in Patients Seeking Abortion Services,” Contraception, Aug. 9, 2011",
+            "url": null,
+            "docid": 8823
+        },
+        {
+            "id": "23",
+            "title": "American College of Obstetricians and Gynecologists, “Committee Opinion Number 615, January 2015,” acog.org, 2017",
+            "url": null,
+            "docid": 8824
+        },
+        {
+            "id": "24",
+            "title": "Joerg Dreweke, “New Clarity for the U.S. Abortion Debate: A Steep Drop in Unintended Pregnancy Is Driving Recent Abortion Declines,” guttmacher.org, Mar. 18, 2016",
+            "url": null,
+            "docid": 8825
+        },
+        {
+            "id": "25",
+            "title": "Emily M. Johnston, Brigette Courtot, and Genevieve M. Kenney, “Access to Contraception in 2016 and What It Means to Women,” urban.org, Jan. 2017",
+            "url": null,
+            "docid": 8826
+        },
+        {
+            "id": "26",
+            "title": "National Cancer Institute, “Oral Contraceptives and Cancer Risk,” cancer.gov (accessed Aug. 21, 2018)",
+            "url": null,
+            "docid": 8827
+        },
+        {
+            "id": "27",
+            "title": "Planned Parenthood, “What Are the Benefits of the Birth Control Pill?,” plannedparenthood.org (accessed Aug. 21, 2018)",
+            "url": null,
+            "docid": 8828
+        },
+        {
+            "id": "28",
+            "title": "Jennifer Rainey Marquez, “Other Benefits of Birth Control Pills,” webmd.com, Dec. 14, 2015",
+            "url": null,
+            "docid": 8829
+        },
+        {
+            "id": "29",
+            "title": "Valerie Tarico, “10 Bonus Health Benefits of Birth Control,” huffingtonpost.com, Feb. 9, 2015",
+            "url": null,
+            "docid": 8830
+        },
+        {
+            "id": "30",
+            "title": "Jessi Phillips, “What Happened When We Tried to Get Over-the-Counter Birth Control in California,” broadly.vice.com, Apr. 27, 2016",
+            "url": null,
+            "docid": 8831
+        },
+        {
+            "id": "31",
+            "title": "Pam Belluck and Sabrina Tavernise, “States Lead Effort to Let Pharmacists Prescribe Birth Control,” nytimes.com, Nov. 22, 2015",
+            "url": null,
+            "docid": 8832
+        },
+        {
+            "id": "32",
+            "title": "S. Shotorbani, et al., “Agreement between Women’s and Provider’s Assessment of Hormonal Contraceptive Risk Factors,” Contraception, May 2006",
+            "url": null,
+            "docid": 8833
+        },
+        {
+            "id": "33",
+            "title": "Ibis Reproductive Health, “Border Contraceptive Access Study,” ibisreproductivehealth.org (accessed Aug. 21, 2018)",
+            "url": null,
+            "docid": 8834
+        },
+        {
+            "id": "34",
+            "title": "OCs OTC Working Group, “FAQs,” ocsotc.org (accessed Aug. 22, 2018)",
+            "url": null,
+            "docid": 8835
+        },
+        {
+            "id": "35",
+            "title": "Ibis Reproductive Health, “A National Survey of US Women’s Interest in Over-the-Counter Access to Oral Contraceptives,” ocsotc.org, June 2013",
+            "url": null,
+            "docid": 8836
+        },
+        {
+            "id": "36",
+            "title": "Daniel Grossman, et al., “Interest in Over-the-Counter Access to Oral Contraceptives among Women in the United States,” Contraception, Oct. 201337",
+            "url": null,
+            "docid": 8837
+        },
+        {
+            "id": "37",
+            "title": "Adam Sonfield, Kinsey Hasstedt, Megan L. Kavanaugh, and Ragnar Anderson, “The Social and Economic Benefit of Women’s Ability to Determine Whether and When to Have Children,” guttmacher.org, Mar. 2013",
+            "url": null,
+            "docid": 8838
+        },
+        {
+            "id": "38",
+            "title": "Jeffrey A. Singer, “Free Birth Control from the Third-Party Trap,” cato.org, Sep. 1, 2017",
+            "url": null,
+            "docid": 8839
+        },
+        {
+            "id": "39",
+            "title": "Kaiser Family Foundation, “Women’s Health Insurance Coverage,” kff.org, Oct. 31, 2017",
+            "url": null,
+            "docid": 8840
+        },
+        {
+            "id": "40",
+            "title": "Adam Sonfield, “Contraceptive Coverage at the U.S. Supreme Court: Countering the Rhetoric with Evidence,” guttmacher.org, Mar. 7, 2014",
+            "url": null,
+            "docid": 8841
+        },
+        {
+            "id": "41",
+            "title": "American College of Obstetricians and Gynecologists, “ACOG Statement on Pharmacist Prescribing Laws,” acog.org, Jan. 4, 2016",
+            "url": null,
+            "docid": 8842
+        },
+        {
+            "id": "42",
+            "title": "OCs OTC Working Group, “Statement of Purpose,” ocsotc.org (accessed Aug. 22, 2018)",
+            "url": null,
+            "docid": 8843
+        },
+        {
+            "id": "43",
+            "title": "American Public Health Association, “Improving Access to Over the Counter Contraception by Expanding Insurance Coverage,” apha.org, Nov. 1, 2011",
+            "url": null,
+            "docid": 8844
+        },
+        {
+            "id": "44",
+            "title": "Jennifer McIntosh, et al., “Changing Oral Contraceptives from Prescription to Over-the-Counter Status: An Opinion Statement of the Women’s Health Practice and Research Network of the American College of Clinical Pharmacy,” accp.com, 2011",
+            "url": null,
+            "docid": 8845
+        },
+        {
+            "id": "45",
+            "title": "Henry J. Kaiser Family Foundation, “Women’s Health Insurance Coverage,” kff.org, Oct. 31, 2017",
+            "url": null,
+            "docid": 8846
+        },
+        {
+            "id": "46",
+            "title": "National Women’s Law Center, “New Data Estimate 62.8 Million Women Have Coverage of Birth Control without Out-of-Pocket Costs,” nwlc.org, Nov. 6, 2018",
+            "url": null,
+            "docid": 8847
+        },
+        {
+            "id": "47",
+            "title": "Amelia Harnish, “Is Over-the-Counter Birth Control a Good Idea?,” refinery29.com, Jan. 31, 2017",
+            "url": null,
+            "docid": 8848
+        },
+        {
+            "id": "48",
+            "title": "Amelia Thomson-DeVeaux, “Offering Birth Control Over the Counter Wouldn’t Make It Any Cheaper,” fivethirtyeight.com, Nov. 18, 2014",
+            "url": null,
+            "docid": 8849
+        },
+        {
+            "id": "49",
+            "title": "Gregor Aisch and Bill Marsh, “How Likely Is It That Birth Control Could Let You Down?,” nytimes.com, Sep. 13, 2014",
+            "url": null,
+            "docid": 8850
+        },
+        {
+            "id": "50",
+            "title": "Robin Marty, “10 Things Every Woman Should Know about Over-the-Counter Birth Control,” cosmopolitan.com, Oct. 9, 2014",
+            "url": null,
+            "docid": 8851
+        },
+        {
+            "id": "51",
+            "title": "Suzanne Batchelor, “Fewer Pelvic Exams for Teens Seeking Birth Control,” womensnews.org, Jan. 15, 2004",
+            "url": null,
+            "docid": 8852
+        },
+        {
+            "id": "52",
+            "title": "Brittney McNamara, “7 Birth Control Myths That Are Definitely Putting You at Risk of Pregnancy,” teenvogue.com, May 31, 2016",
+            "url": null,
+            "docid": 8853
+        },
+        {
+            "id": "53",
+            "title": "Peter Arcidiacono, Ahmed Khwaja, and Lijing Ouyang, “Habit Persistence and Teen Sex, Could Increased Access to Contraception Have Unintended Consequences for Teen Pregnancies?,” semanticsscholar.org, Jan. 22, 2011",
+            "url": null,
+            "docid": 8854
+        },
+        {
+            "id": "54",
+            "title": "American College of Obstetricians and Gynecologists, “Debate to Consider if America’s Ready for OTC Birth Control,” annualmeeting.acog.org, 2017",
+            "url": null,
+            "docid": 8855
+        },
+        {
+            "id": "55",
+            "title": "Harris Interactive, “Attitudes and Beliefs about the Use of Over-the-Counter Medicines: A Dose of Reality,” bemedwise.org, Jan. 2002",
+            "url": null,
+            "docid": 8856
+        },
+        {
+            "id": "56",
+            "title": "Deane B. Cheatham and Michael S. Wogalter, “Reported Liklihood of Reading Over-the-Counter (OTC) Medication Labeling and Contacting a Physician,” safetyhumanfactors.org, 2002",
+            "url": null,
+            "docid": 8857
+        },
+        {
+            "id": "57",
+            "title": "Miami Center of Excellence, “Over 35? It’s Time to Reevaluate Your Birth Control Method,” miamiobgyns.com (accessed Sep. 18, 2018)",
+            "url": null,
+            "docid": 8858
+        },
+        {
+            "id": "58",
+            "title": "Joe Speidal, “Risky Business 2: Migraines, High Blood Pressure, and Blood Clots,” bedsider.org, June 15, 2016",
+            "url": null,
+            "docid": 8859
+        },
+        {
+            "id": "59",
+            "title": "Sarah Watts, “An Over-the-Counter Pill Isn’t Safe,” thedailybeast.com, June 15, 2015",
+            "url": null,
+            "docid": 8860
+        },
+        {
+            "id": "60",
+            "title": "WebMD, “Medicines That Interfere with Birth Control Pills,” webmd.com, Dec. 4, 2017",
+            "url": null,
+            "docid": 8861
+        },
+        {
+            "id": "61",
+            "title": "Maria Isabel Rodriguez, “Which Medications Can Mess with Birth Control?,” bedsider.org, Aug. 22, 2017",
+            "url": null,
+            "docid": 8862
+        },
+        {
+            "id": "62",
+            "title": "Guttmacher Institute, “Many American Women Use Birth Control Pills for Noncontraceptive Reasons,” guttmacher.org, Nov. 15, 2011",
+            "url": null,
+            "docid": 8863
+        },
+        {
+            "id": "63",
+            "title": "Olivia Alperstein, “From the Left: Birth Control Should Be Free, Not Over the Counter,” insidesources.com, July 16, 2017",
+            "url": null,
+            "docid": 8864
+        },
+        {
+            "id": "64",
+            "title": "ACLU, “Preventing Teenagers from Getting Contraceptives Unless They Tell a Parent Puts Teens at Risk,” aclu.org (accessed Sep. 19, 2018)",
+            "url": null,
+            "docid": 8865
+        },
+        {
+            "id": "65",
+            "title": "Sneha Barot, “Moving Oral Contraceptives to Over-the-Counter Status: Policy Versus Politics,” guttmacher.org, Nov. 5, 2015",
+            "url": null,
+            "docid": 8866
+        },
+        {
+            "id": "66",
+            "title": "Katie Mui, “Here’s How to Get Birth Control without a Doctor’s Prescription,” goodrx.com, Feb. 13, 2018",
+            "url": null,
+            "docid": 8867
+        },
+        {
+            "id": "67",
+            "title": "Bixby Center for Global Reproductive Health, “Making a One-Year Supply of Birth Control a National Standard,” bixbycenter.ucef.efu (accessed Sep. 19, 2018)",
+            "url": null,
+            "docid": 8868
+        },
+        {
+            "id": "68",
+            "title": "SC Landau, MP Tapias, and BT McGhee, “Birth Control within Reach: A National Survey on Women’s Attitudes toward and Interest in Pharmacy Access to Hormonal Contraception,” Contraception, Dec. 2006",
+            "url": null,
+            "docid": 8869
+        },
+        {
+            "id": "69",
+            "title": "Free the Pill, “Who Prescribes the Pill Online?,” freethepill.org (accessed Sep. 19, 2018)",
+            "url": null,
+            "docid": 8870
+        },
+        {
+            "id": "70",
+            "title": "Nurx, homepage, nurx.com (accessed Sep. 19, 2018)",
+            "url": null,
+            "docid": 8871
+        },
+        {
+            "id": "71",
+            "title": "Lemonaid, homepage, lemonaidhealth.com (accessed Sep. 19, 2018)",
+            "url": null,
+            "docid": 8872
+        },
+        {
+            "id": "72",
+            "title": "Pandia Health, homepage, pandiahealth.com (accessed Sep. 19, 2018)",
+            "url": null,
+            "docid": 8873
+        },
+        {
+            "id": "73",
+            "title": "Casey Gueren, “Should Birth Control Be Over the Counter?,” womenshealthmag.com, Oct. 31, 2014",
+            "url": null,
+            "docid": 8874
+        },
+        {
+            "id": "74",
+            "title": "FDA, “Birth Control Guide,” fda.gov (accessed Sep. 20, 2018)",
+            "url": null,
+            "docid": 8875
+        },
+        {
+            "id": "75",
+            "title": "Sarah Elizabeth Richards, “Why Over-the-Counter Birth Control Could Actually Lead to More Unwanted Pregnancies,” latimes.com, May 28, 2016",
+            "url": null,
+            "docid": 8876
+        },
+        {
+            "id": "76",
+            "title": "Daniel Grossman and Kate Grindlay Kelly, “These Birth Control Pills Should Be Available without a Prescription,” teenvogue.com, Feb. 2, 2018",
+            "url": null,
+            "docid": 8877
+        },
+        {
+            "id": "77",
+            "title": "Kelli Stidham Hall, James Trussell, and Eleanor Bimla Schwarz, “Progestin-Only Contraceptive Pill Use among Women in the United States,” Contraception, Dec. 2012",
+            "url": null,
+            "docid": 8878
+        },
+        {
+            "id": "78",
+            "title": "Holly Grigg-Spall, Sweetening the Pill, or How We Got Hooked on Hormonal Birth Control, 2013",
+            "url": null,
+            "docid": 8879
+        },
+        {
+            "id": "79",
+            "title": "Lara Briden, “Why Young Teens Need Real Periods–Not the Pill,” menstruationresearch.org, Sep. 8, 2015",
+            "url": null,
+            "docid": 8880
+        },
+        {
+            "id": "80",
+            "title": "Consumer Healthcare Products Association (CHPA), “FAQs about Rx-to-OTC Switch,” chpa.org (accessed Oct. 15, 2018)",
+            "url": null,
+            "docid": 8881
+        },
+        {
+            "id": "81",
+            "title": "Kirsten M.J. Thompson, “A Brief History of Birth Control in the U.S.,” ourbodiesourselves.org, Dec. 14, 2013",
+            "url": null,
+            "docid": 8882
+        },
+        {
+            "id": "82",
+            "title": "Andrea Tone, Devices & Desires: A History of Contraceptives in America, 2001",
+            "url": null,
+            "docid": 8883
+        },
+        {
+            "id": "83",
+            "title": "Lisa Fogarty, “What Birth Control Was Like in Every Decade since the 1900s,” redbookmag.com, Apr. 12, 2017",
+            "url": null,
+            "docid": 8884
+        },
+        {
+            "id": "84",
+            "title": "Joan M. Jensen, “The Evolution of Margaret Sanger’s Family Limitation Pamphlet, 1914-1921,” Signs: Journal of Women in Culture and Society, 1981",
+            "url": null,
+            "docid": 8885
+        },
+        {
+            "id": "85",
+            "title": "Emma McGowan, “11 Crucial Moments in the History of the Reproductive Rights Movement,” bustle.com, June 12, 2017",
+            "url": null,
+            "docid": 8886
+        },
+        {
+            "id": "86",
+            "title": "Jennifer Latson, “Why Birth Control Pioneer Margaret Sanger Kept Getting Arrested,” time.com, Oct. 16, 2015",
+            "url": null,
+            "docid": 8887
+        },
+        {
+            "id": "87",
+            "title": "PBS, “Anthony Comstock’s ‘Chastity’ Laws,” pbs.org (accessed Nov. 28, 2018)",
+            "url": null,
+            "docid": 8888
+        },
+        {
+            "id": "88",
+            "title": "Rachel Port, “Hobby Lobby: Birth Control and the Law,” advocatesaz.org, Oct. 22, 2014",
+            "url": null,
+            "docid": 8889
+        },
+        {
+            "id": "89",
+            "title": "Margaret Sanger Papers Project, “Jan. 2, 1923 First Legal Birth Control Clinic Opens in U.S.,” sangerpapers.wordpress.com, Feb. 12, 2014",
+            "url": null,
+            "docid": 8890
+        },
+        {
+            "id": "90",
+            "title": "Jonathan Eig, The Birth of the Pill: How Four Crusaders Reinvented Sex and Launched a Revolution, 2014",
+            "url": null,
+            "docid": 8891
+        },
+        {
+            "id": "91",
+            "title": "Time Magazine, “Medicine: Birth Control Raid,” time.com, Apr. 29, 1929",
+            "url": null,
+            "docid": 8892
+        },
+        {
+            "id": "92",
+            "title": "Margaret Sanger, “The Status of Birth Control: 1938,” newrepublic.com, Apr. 19, 1938",
+            "url": null,
+            "docid": 8893
+        },
+        {
+            "id": "93",
+            "title": "Theodora R. Moses, “American Birth Control League,” britannica.com (accessed July 10, 2018)",
+            "url": null,
+            "docid": 8894
+        },
+        {
+            "id": "94",
+            "title": "Dorothy Roberts, Killing the Black Body: Race, Reproduction, and the Meaning of Liberty, 1997",
+            "url": null,
+            "docid": 8895
+        },
+        {
+            "id": "95",
+            "title": "CDC, “Population by Age Groups, Race, and Sex for 1960-97,” cdc.gov (accessed Oct. 15, 2018)",
+            "url": null,
+            "docid": 8896
+        },
+        {
+            "id": "96",
+            "title": "ACLU, “Timeline of Important Reproductive Freedom Cases Decided by the Supreme Court,” aclu.org (accessed Apr. 23, 2018)",
+            "url": null,
+            "docid": 8897
+        },
+        {
+            "id": "97",
+            "title": "Case Western Reserve University, “Intrauterine Device (IUD),” case.edu (accessed May 7, 2018)",
+            "url": null,
+            "docid": 8898
+        },
+        {
+            "id": "98",
+            "title": "Linda J. Piccinino and William D. Mosher, “Trends in Contraceptive Use in the United States: 1982-1995,” guttmacher.org, Jan./Feb. 1998",
+            "url": null,
+            "docid": 8899
+        },
+        {
+            "id": "99",
+            "title": "Adam Liptak, “Supreme Court Rejects Contraceptives Mandate for Some Corporations,” nytimes.com, June 20, 2014",
+            "url": null,
+            "docid": 8900
+        },
+        {
+            "id": "100",
+            "title": "SCOTUS Blog, “Little Sisters of the Poor Home for the Aged v. Burwell,” scotusblog.com (accessed July 10, 2018)",
+            "url": null,
+            "docid": 8901
+        },
+        {
+            "id": "101",
+            "title": "Heather Munro Prescott, The Morning After: A History of Emergency Contraception in the United States, 2011",
+            "url": null,
+            "docid": 8902
+        },
+        {
+            "id": "102",
+            "title": "A. Dekhtyar, “A Difficult Proposition: Oral Contraceptives’ Switch from Prescription to Over-the-Counter Status,” dash.harvard.edu, 1997",
+            "url": null,
+            "docid": 8903
+        },
+        {
+            "id": "103",
+            "title": "Rob Stein, “Plan B Use Surges, And So Does Controversy,” washingtonpost.com, July 13, 2007",
+            "url": null,
+            "docid": 8904
+        },
+        {
+            "id": "104",
+            "title": "American College of Obstetricians and Gynecologists, “Committee Opinion,” acog.org, Dec. 2012",
+            "url": null,
+            "docid": 8905
+        },
+        {
+            "id": "105",
+            "title": "Bobby Jindal, “The End of Birth-Control Politics,” wsj.com, Dec. 13, 2012",
+            "url": null,
+            "docid": 8906
+        },
+        {
+            "id": "106",
+            "title": "Charlotte Alter, “Why Over-the-Counter Birth Control Is Stalled,” time.com, Dec. 23, 2015",
+            "url": null,
+            "docid": 8907
+        },
+        {
+            "id": "107",
+            "title": "Daniel Grossman, “Birth Control Pills Should Not Be Prescription-Only,” latimes.com, June 19, 2015",
+            "url": null,
+            "docid": 8908
+        },
+        {
+            "id": "108",
+            "title": "Mia Love, “H.R.5138 – Over-the-Counter Contraceptives Act of 2016,” congress.gov (accessed Oct. 25, 2018)",
+            "url": null,
+            "docid": 8909
+        },
+        {
+            "id": "109",
+            "title": "Tammy Duckworth, “H.R.3163 – Affordability Is Access Act,” congress.gov (accessed Oct. 25, 2018)",
+            "url": null,
+            "docid": 8910
+        },
+        {
+            "id": "110",
+            "title": "Ibis Reproductive Health, “Ibis Announces Groundbreaking Partnership with HRA Pharma to Move a Birth Control Pill Over the Counter,” ibisreproductivehealth.org, Dec. 2016",
+            "url": null,
+            "docid": 8911
+        },
+        {
+            "id": "111",
+            "title": "Amie Newman, “Over-the-Counter Birth Control Pill on It’s Way to the U.S.A.,” ourbodiesourselves.org, Jan. 9, 2017",
+            "url": null,
+            "docid": 8912
+        },
+        {
+            "id": "112",
+            "title": "Mayo Clinic, “MiniPill (Progestin-Only Birth Control Pill),” mayoclinic.org, Mar. 2, 2018",
+            "url": null,
+            "docid": 8913
+        },
+        {
+            "id": "113",
+            "title": "American College of Obstetricians and Gynecologists, “Progestin-Only Hormonal Birth Control: Pill and Injection,” acog.org, Mar. 2018",
+            "url": null,
+            "docid": 8914
+        },
+        {
+            "id": "114",
+            "title": "Amanda Nottke, “Taming the Cycle: How Does the Pill Work?,” sitn.hms.harvard.edu, Mar. 15, 2018",
+            "url": null,
+            "docid": 8915
+        },
+        {
+            "id": "115",
+            "title": "Mayo Clinic, “Combination Birth Control Pills,” mayoclinic.org, Nov. 15, 2017",
+            "url": null,
+            "docid": 8916
+        },
+        {
+            "id": "116",
+            "title": "United Nations, “Trends in Contraceptive Use Worldwide 2015,” un.org, 2015",
+            "url": null,
+            "docid": 8917
+        },
+        {
+            "id": "117",
+            "title": "FDA, “Now Available without a Prescription,” fda.gov, May 4, 2016",
+            "url": null,
+            "docid": 8918
+        },
+        {
+            "id": "118",
+            "title": "Consumer Healthcare Products Association (CHPA), “Ingredients & Dosages Transferred From Rx-to-OTC Status (or New OTC Approvals) by the Food and Drug Administration Since 1975,” chpa.org, Jan. 3, 2018",
+            "url": null,
+            "docid": 8919
+        },
+        {
+            "id": "119",
+            "title": "Kimberly Daniels and Joyce C. Abma, “Current Contraceptive Status among Women Aged 15-49: United States, 2016-2017,” cdc.gov, Dec. 2018",
+            "url": null,
+            "docid": 8920
+        },
+        {
+            "id": "120",
+            "title": "Kimberly Daniels and Joyce C. Abma, \"Current Contraceptive Status among Women Aged 15–49: United States, 2017–2019,\"cdc.gov, Oct. 2020",
+            "url": "https://www.cdc.gov/nchs/products/databriefs/db388.htm#:~:text=of%20Family%20Growth-,In%202017%E2%80%932019%2C%20approximately%2065%25%20of%20women%20aged%2015,among%20women%20aged%2040%E2%80%9349.",
+            "docid": 8921
+        },
+        {
+            "id": "121",
+            "title": "World Health Organization, \"Women of Reproductive Age (15-49 Years) Population, Thousands,\"who.int(accessed Mar. 17, 2022)",
+            "url": "https://www.who.int/data/maternal-newborn-child-adolescent-ageing/indicator-explorer-new/mca/women-of-reproductive-age-(15-49-years)-population-(thousands)",
+            "docid": 8922
+        },
+        {
+            "id": "122",
+            "title": "Caroline Medina and Lindsay Mahowald, \"Repealing the Affordable Care Act Would Have Devastating Impacts on LGBTQ People,\" americanprogress.org, Oct. 15, 2020",
+            "url": null,
+            "docid": 8923
+        },
+        {
+            "id": "123",
+            "title": "Office of Population Affairs, US Health and Human Services, \"Trends in Teen Pregnancy and Childbearing,\" hhs.gov (accessed Mar. 17, 2022)",
+            "url": null,
+            "docid": 8924
+        },
+        {
+            "id": "124",
+            "title": "Michael F. Cannon and Jeffrey A. Singer, \"Birth Control Should Be Available Over the Counter. How Congress Can Make That Happen,\"cato.org, Jan. 27, 2020",
+            "url": "https://www.cato.org/commentary/birth-control-should-be-available-over-counter-how-congress-can-make-happen",
+            "docid": 8925
+        },
+        {
+            "id": "125",
+            "title": "Kaiser Family Foundation, \"Women's Health Insurance Coverage,\"kff.org, Nov. 08, 2021",
+            "url": "https://www.kff.org/other/fact-sheet/womens-health-insurance-coverage/",
+            "docid": 8926
+        },
+        {
+            "id": "126",
+            "title": "National Women's Law Center, \"Access to Birth Control without Out-of-Pocket Costs: Improving and Expanding the Affordable Care Act's Contraceptive Coverage Requirement,\"nwlc.org(accessed Mar. 22, 2022)",
+            "url": "https://nwlc.org/wp-content/uploads/2021/11/final_Long_nwlc_2021_BC_AffordCareAct-003.pdf",
+            "docid": 8927
+        },
+        {
+            "id": "127",
+            "title": "Guttmacher Institute, \"Pharmacist-Prescribed Contraceptives,\"guttmacher.org, Mar. 1, 2022",
+            "url": "https://www.guttmacher.org/state-policy/explore/pharmacist-prescribed-contraceptives",
+            "docid": 8928
+        },
+        {
+            "id": "128",
+            "title": "Perrigo Company plc, “Perrigo’s HRA Pharma Submits Application to FDA for First-Ever OTC Birth Control Pill,”prnewswire.com, July 11, 2022",
+            "url": "https://www.prnewswire.com/news-releases/perrigos-hra-pharma-submits-application-to-fda-for-first-ever-otc-birth-control-pill-301583602.html",
+            "docid": 8929
+        },
+        {
+            "id": "129",
+            "title": "Sheryl Gay Stolberg and Kate Kelly, “F.D.A. to Weigh Over-the-Counter Sale of Contraceptive Pills,”nytimes.com, July 11, 2022",
+            "url": "https://www.nytimes.com/2022/07/11/us/politics/fda-contraception-pill-hra-pharma.html",
+            "docid": 8930
+        },
+        {
+            "id": "130",
+            "title": "Pam Belluck, \"The F.D.A. Now Says It Plainly: Morning-After Pills Are Not Abortion Pills,\" nytimes.com, Dec. 23, 2022",
+            "url": null,
+            "docid": 8931
+        },
+        {
+            "id": "131",
+            "title": "Bill Chappell, \"FDA Approves Opill, the First Daily Birth Control Pill without a Prescription,\" npr.org, July 13, 2023",
+            "url": null,
+            "docid": 8932
+        },
+        {
+            "id": "132",
+            "title": "FDA, \"FDA Approves First Nonprescription Daily Oral Contraceptive,\" fda.gov, July 13, 2023",
+            "url": null,
+            "docid": 8933
+        },
+        {
+            "id": "133",
+            "title": "Perrigo, \"Perrigo Announces U.S. FDA Approval for Opill® OTC Daily Oral Contraceptive,\" prnewswire.com, July 13, 2023",
+            "url": null,
+            "docid": 8934
+        },
+        {
+            "id": "134",
+            "title": "Sydney Lupkin, \"First Over-The-Counter Birth Control Pill Heads to Stores,\" npr.org, Mar. 4, 2024",
+            "url": null,
+            "docid": 8935
+        }
+    ],
+    "url": "https://birth-control.procon.org"
+}

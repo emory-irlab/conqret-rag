@@ -1,0 +1,1524 @@
+{
+    "title": "Should Abortion Be Legal?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Pan Belluck, \"Complex Science at Issue in Politics of Fetal Pain,\" nytimes.com, Sep. 16, 2013",
+            "docid": 968
+        },
+        {
+            "id": "2",
+            "title": "Pew Research, \"Abortion Viewed in Moral Terms: Fewer See Stem Cell Research and IVF as Moral Issues,\" pewforum.org, Aug. 15, 2013",
+            "docid": 969
+        },
+        {
+            "id": "3",
+            "title": "E.G. Raymond and D.A. Grimes, \"The Comparative Safety of Legal Induced Abortion and Childbirth in the United States,\"Obstetrics and Gynecology, Feb. 2012",
+            "docid": 970
+        },
+        {
+            "id": "4",
+            "title": "Rachel K. Jones, Mia R. S. Zolna, et al., \"Abortion in the United States: Incidence and Access to Services, 2005,\"Perspectives on Sexual and Reproductive Health, Mar. 4, 2008",
+            "docid": 971
+        },
+        {
+            "id": "5",
+            "title": "Terry Eastland, \"The Forgotten Option,\"The Weekly Standard, Jan. 29, 2003",
+            "docid": 972
+        },
+        {
+            "id": "6",
+            "title": "Religious Coalition for Reproductive Choice, \"Member Organizations,\" rcrc.org (accessed Apr. 5, 2010)",
+            "docid": 973
+        },
+        {
+            "id": "7",
+            "title": "Willard Cates, Jr. et. al, \"The Public Health Impact of Legal Abortion: 30 Years Later,\"Perspectives on Sexual and Reproductive Health, guttmacher.org, Jan.-Feb. 2003",
+            "docid": 974
+        },
+        {
+            "id": "8",
+            "title": "Planned Parenthood of Southeastern Pennsylvania et al. v. Casey, Governor of Pennsylvania, et al., law.cornell.edu, June 29, 1992",
+            "docid": 975
+        },
+        {
+            "id": "9",
+            "title": "Amy Harmon, \"Prenatal Test Puts Down Syndrome in Hard Focus,\" nytimes.com, May 9, 2007",
+            "docid": 976
+        },
+        {
+            "id": "10",
+            "title": "Stuart W. G. Derbyshire, \"Can Fetuses Feel Pain?,\"British Medical Journal,Apr. 29, 2006",
+            "docid": 977
+        },
+        {
+            "id": "11",
+            "title": "Elisabeth Ahman and Iqbal Shah, World Health Organization,Unsafe Abortion: Global and Regional Estimates of the Incidence of Unsafe Abortion and Associated Mortality in 2000, Fourth Edition, 2004",
+            "docid": 978
+        },
+        {
+            "id": "12",
+            "title": "Beth Reinhard, \"Should Mothers Be Forced to Bear Disabled Children against Their Will?,\" nationaljournal.com, Oct. 10, 2013",
+            "docid": 979
+        },
+        {
+            "id": "13",
+            "title": "Guttmacher Institute, \"Induced Abortion in the United States,\" guttmacher.org, July 2014",
+            "docid": 980
+        },
+        {
+            "id": "14",
+            "title": "Peter Frank, et al., \"The Effect of Induced Abortion on Subsequent Fertility,\"Journal of Obstetrics and Gynaecology of the British Commonwealth, June 1993",
+            "docid": 981
+        },
+        {
+            "id": "15",
+            "title": "Eric Pace, \"Dr. Jerome Lejeune Dies at 67; Found Cause of Down Syndrome,\" nytimes.com, Apr. 12, 1994",
+            "docid": 982
+        },
+        {
+            "id": "16",
+            "title": "Mark Mittelberg,The Questions Christians Hope No One Will Ask (with Answers), 2010",
+            "docid": 983
+        },
+        {
+            "id": "17",
+            "title": "American Medical Association (AMA), \"H-5.995 Abortion,\" ama-assn.org (accessed Mar. 12, 2010)",
+            "docid": 984
+        },
+        {
+            "id": "18",
+            "title": "Ronald Bailey, \"Do Fetuses Feel Pain?,\" reason.com, July 12, 2013",
+            "docid": 985
+        },
+        {
+            "id": "19",
+            "title": "Lawrence B. Finer, Lori F. Frohwirth, et al., \"Reasons US Women Have Abortions: Quantitative and Qualitative Perspectives,\"Perspectives on Sexual and Reproductive Health, Sep. 2005",
+            "docid": 986
+        },
+        {
+            "id": "20",
+            "title": "John J. Donohue, and Steven D. Levitt, \"The Impact of Legalized Abortion on Crime,\"The Quarterly Journal of Economics, May 2001[Editor's Note: Despite admitting to an error in one of this study's tables, Levitt has stated that \"the story we put forth in the paper is not materially changed by the coding error.\" See Steven D. Levitt, \"Everything inFreakonomicsIs Wrong!,\" freakonomics.com, Nov. 28, 2005]",
+            "docid": 987
+        },
+        {
+            "id": "21",
+            "title": "Paul R. Ehrlich,The Population Bomb, 1968",
+            "docid": 988
+        },
+        {
+            "id": "22",
+            "title": "Planned Parenthood of New Jersey, \"Anti-Choice Claims about Abortion and Breast Cancer,\" plannedparenthoodnj.org (accessed Apr. 1, 2010)",
+            "docid": 989
+        },
+        {
+            "id": "23",
+            "title": "The Holy Bible: King James Version(accessed Apr. 1, 2010)",
+            "docid": 990
+        },
+        {
+            "id": "24",
+            "title": "Annie Murphy Paul, \"The First Ache,\"New York Times Magazine, Feb. 10, 2008",
+            "docid": 991
+        },
+        {
+            "id": "25",
+            "title": "Henry E. Sigerist,The Hippocratic Oath: Text, Translation, and Interpretation, 1996",
+            "docid": 992
+        },
+        {
+            "id": "26",
+            "title": "David. C. Reardon, et al., \"Deaths Associated with Pregnancy Outcome: A Record Linkage Study of Low Income Women,\"Southern Medical Journal, Aug. 2002",
+            "docid": 993
+        },
+        {
+            "id": "27",
+            "title": "Priscilla Coleman, and Eileen S. Nelson, \"The Quality of Abortion Decisions and College Students' Reports of Post-Abortion Emotional Sequelae and Abortion Attitudes,\"Journal of Social and Clinical Psychology, Apr. 1998",
+            "docid": 994
+        },
+        {
+            "id": "28",
+            "title": "Terry Eastland, \"The Forgotten Option,\"The Weekly Standard, Jan. 29, 2003",
+            "docid": 995
+        },
+        {
+            "id": "29",
+            "title": "\"Landmark Study Shows Vast Majority of Americans Support Adoption,\" adoption.com (accessed Apr. 1, 2010)",
+            "docid": 996
+        },
+        {
+            "id": "30",
+            "title": "James M.M. Francis,Adults as Children: Images of Childhood in the Ancient World and the New Testament, 2006",
+            "docid": 997
+        },
+        {
+            "id": "31",
+            "title": "Franklin Foer, \"Fetal Viability,\" slate.com, May 25, 1997",
+            "docid": 998
+        },
+        {
+            "id": "32",
+            "title": "James Davison Hunter,Before the Shooting Begins: Searching for Democracy in America's Culture War, 1994",
+            "docid": 999
+        },
+        {
+            "id": "33",
+            "title": "Rick Lowery, \"Abortion: What the Bible Says (and Doesn't Say),\" huffingtonpost.com, Sep. 14, 2012",
+            "docid": 1000
+        },
+        {
+            "id": "34",
+            "title": "Yuelian Sun, et al., \"Induced Abortion and Risk of Subsequent Miscarriage,\"International Journal of Epidemiology, June 2003",
+            "docid": 1001
+        },
+        {
+            "id": "35",
+            "title": "Jose Russo and Irma Russo, \"Susceptibility of the Mammary Gland to Carcinogenesis. Pregnancy Interruption as a Risk Factor in Tumor Incidence,\"The American Journal of Pathology, Aug. 1980",
+            "docid": 1002
+        },
+        {
+            "id": "36",
+            "title": "Randy Hultgren, \"Americans Should Not Have to Pay for Abortions through Obamacare,\" redalertpolitics.com, Jan. 21, 2014",
+            "docid": 1003
+        },
+        {
+            "id": "37",
+            "title": "Christopher L. Foote and Christopher F. Goetz, \"The Impact of Legalized Abortion on Crime: Comment,\" Federal Reserve Bank of Boston, Jan. 31, 2008",
+            "docid": 1004
+        },
+        {
+            "id": "38",
+            "title": "Megan McArdle, \"Department of Awful Statistics,\" theatlantic.com, Oct. 16, 2007",
+            "docid": 1005
+        },
+        {
+            "id": "39",
+            "title": "The American Congress of Obstetricians and Gynecologists, \"Induced Abortion,\" acog.org, Nov. 2008",
+            "docid": 1006
+        },
+        {
+            "id": "40",
+            "title": "Karen Pazol, Sonya B. Gambl, et al., \"Abortion Surveillance - United States, 2006,\"CDC - Morbidity and Mortality Weekly Report, Nov. 27, 2009",
+            "docid": 1007
+        },
+        {
+            "id": "41",
+            "title": "Suzanne M. Alford, \"Is Self-Abortion a Fundamental Right?,\"Duke Law Journal, Mar. 2003",
+            "docid": 1008
+        },
+        {
+            "id": "42",
+            "title": "The American Congress of Obstetricians and Gynecologists, \"Induced Abortion,\" acog.org, Nov. 2008",
+            "docid": 1009
+        },
+        {
+            "id": "43",
+            "title": "Lawrence B. Finer and Stanley K. Henshaw, \"Abortion Incidence and Services in the United States in 2000,\"Perspectives on Sexual and Reproductive Health, Jan/Feb. 2003",
+            "docid": 1010
+        },
+        {
+            "id": "44",
+            "title": "Willy Pedersen, \"Abortion and Depression: A Population-based Longitudinal Study of Young Women,\"Scandinavian Journal of Public Health, June 2008",
+            "docid": 1011
+        },
+        {
+            "id": "45",
+            "title": "Mika Gissler et al., \"Suicides after Pregnancy in Finland, 1987–94: Register Linkage Study,\"BMJ, Dec. 7, 1996",
+            "docid": 1012
+        },
+        {
+            "id": "36",
+            "title": "Wendy Koch, \"USA Faces Critical Adoption Shortage,\" usatoday.com, Jan. 10, 2013",
+            "docid": 1013
+        },
+        {
+            "id": "47",
+            "title": "Monica Davey, \"Nebraska Law Sets Limits on Abortion,\"New York Times, Apr. 13, 2010",
+            "docid": 1014
+        },
+        {
+            "id": "48",
+            "title": "James C. McKinley, Jr., \"Strict Abortion Measures Enacted in Oklahoma,\"New York Times, Apr. 27, 2010",
+            "docid": 1015
+        },
+        {
+            "id": "49",
+            "title": "Roe v. Wade,US Supreme Court, lp.findlaw.com, Jan. 22, 1973",
+            "docid": 1016
+        },
+        {
+            "id": "50",
+            "title": "Centers for Disease Control and Prevention (CDC), \"Unintended Pregnancy Prevention: Home,\"cdc.gov (accessed Oct. 20, 2010)",
+            "docid": 1017
+        },
+        {
+            "id": "51",
+            "title": "US Declaration of Independence,uscode.house.gov, July 4, 1776",
+            "docid": 1018
+        },
+        {
+            "id": "52",
+            "title": "Centers for Disease Control and Prevention (CDC), \"Abortion Surveillance — United States, 2006,\"Morbidity and Mortality Weekly Report(MMWR), cdc.gov, Nov. 27, 2009",
+            "docid": 1019
+        },
+        {
+            "id": "53",
+            "title": "National Center for Health Statistics (NCHS) at the Centers for Disease Control and Prevention (CDC), \"Who Adopts? Characteristics of Women and Men Who Have Adopted Children,\"NCHS Data Brief, dc.gov, Jan. 2009",
+            "docid": 1020
+        },
+        {
+            "id": "54",
+            "title": "Americans with Disabilities Act of 1990, as Amended,ada.gov, Sep. 25, 2008",
+            "docid": 1021
+        },
+        {
+            "id": "55",
+            "title": "Democratic National Committee, \"Moving America Forward: 2012 Democratic National Platform,\" democrats.org, 2012",
+            "docid": 1022
+        },
+        {
+            "id": "56",
+            "title": "Republican National Committee, \"We Believe in America: 2012 Republican Platform,\" gop.com, 2012",
+            "docid": 1023
+        },
+        {
+            "id": "57",
+            "title": "Planned Parenthood of Southeastern Pennsylvania v. Casey,US Supreme Court, law.cornell.edu, June 29, 1992",
+            "docid": 1024
+        },
+        {
+            "id": "58",
+            "title": "Partial-Birth Abortion Ban Act of 2003,gpo.gov, Nov. 5, 2003",
+            "docid": 1025
+        },
+        {
+            "id": "59",
+            "title": "Gonzales, Attorney General v. Carhart et al. / Gonzales, Attorney General v. Planned Parenthood Federation of America, Inc., et al.,US Supreme Court, lp.findlaw.com, Apr. 18, 2007",
+            "docid": 1026
+        },
+        {
+            "id": "60",
+            "title": "\"Policy Statement of the United States of America at the United Nations International Conference on Population (Second Session)\", populationaction.org, Aug. 16-13, 1984",
+            "docid": 1027
+        },
+        {
+            "id": "61",
+            "title": "Barack Obama, \"Memorandum for the Secretary of State [and] the Administrator of the United States Agency for International Development,\"gpo.gov, Jan. 23, 2009",
+            "docid": 1028
+        },
+        {
+            "id": "62",
+            "title": "The Patient Protection and Affordable Care Act,gpo.gov, Mar. 23, 2010",
+            "docid": 1029
+        },
+        {
+            "id": "63",
+            "title": "Barack Obama, \"Executive Order: Ensuring Enforcement and Implementation of Abortion Restrictions in the Patient Protection and Affordable Care Act,\"whitehouse.gov, Mar. 24, 2010",
+            "docid": 1030
+        },
+        {
+            "id": "64",
+            "title": "Nathan Koppel, \"Arizona Criminalizes Certain Abortions,\" wsj.com, Mar. 30, 2011",
+            "docid": 1031
+        },
+        {
+            "id": "65",
+            "title": "Rachel K. Jones and Kathryn Kooistra, \"Abortion Incidence and Access to Services in the United States, 2008,\"Perspectives on Sexual and Reproductive Health, Mar. 2011",
+            "docid": 1032
+        },
+        {
+            "id": "66",
+            "title": "National Down Syndrome Society, \"Myths & Truths,\" ndss.org (accessed Apr. 21, 2014)",
+            "docid": 1033
+        },
+        {
+            "id": "67",
+            "title": "Susan Donaldson James, \"Down Syndrome Births Are Down in U.S.,\" abcnews.go.com, Nov. 2, 2009",
+            "docid": 1034
+        },
+        {
+            "id": "68",
+            "title": "Guttmacher Institute, \"Are You in the Know?: Abortion: Characteristics of U.S. Women Having Abortions,\" guttmacher.org (accessed Apr. 21, 2014)",
+            "docid": 1035
+        },
+        {
+            "id": "69",
+            "title": "Anne Nordal Broen et al., \"The Course of Mental Health after Miscarriage and Induced Abortion: A Longitudinal, Five-Year Follow-up Study,\"BMC(BioMed Central)Medicine, Dec. 12, 2005",
+            "docid": 1036
+        },
+        {
+            "id": "70",
+            "title": "Aaron Sharockman, \"Rep. Richard Corcoran Says 90 Percent of Prenatal Down Syndrome Cases Result in Abortion,\" politifact.com, Apr. 28, 2011",
+            "docid": 1037
+        },
+        {
+            "id": "71",
+            "title": "A.S. Bhadoria et al., Reproductive Factors and Breast Cancer: A Case-Control Study in Tertiary Care Hospital of North India,\"Indian Journal of Cancer, Oct.-Dec. 2013",
+            "docid": 1038
+        },
+        {
+            "id": "72",
+            "title": "Yubei Huang et al., \"A Meta-Analysis of the Association between Induced Abortion and Breast Cancer Risk among Chinese Females,\"Cancer Causes Control, Feb. 2014",
+            "docid": 1039
+        },
+        {
+            "id": "73",
+            "title": "Annalee Newitz, \"What Happens to Women Denied Abortions? This Is the First Scientific Study to Find Out,\" io9.com, Nov. 13, 2012",
+            "docid": 1040
+        },
+        {
+            "id": "74",
+            "title": "Guttmacher Institute, \"In Brief: Fact Sheet: Facts on Induced Abortion Worldwide,\" guttmacher.org, Jan. 2012",
+            "docid": 1041
+        },
+        {
+            "id": "75",
+            "title": "Colorado Department of Public Health and Environment, \"Family Planning Program,\" colorado.gov (accessed Apr. 21, 2014)",
+            "docid": 1042
+        },
+        {
+            "id": "76",
+            "title": "Child Welfare Information Gateway, US Department of Health and Human Services, \"Persons Seeking to Adopt,\" childwelfare.gov, Feb. 2011",
+            "docid": 1043
+        },
+        {
+            "id": "77",
+            "title": "New York City Department of Health and Mental Hygiene, \"Summary of Vital Statistics 2012: The City of New York: Pregnancy Outcomes,\" nyc.gov, Feb. 2014",
+            "docid": 1044
+        },
+        {
+            "id": "78",
+            "title": "Daniel Martin, \"Abortion Should Not Be Used as a Contraceptive, Says Lord Steel, Father of 1967 Act That Legalised the Practice,\" dailymail.co.uk, June 18, 2013",
+            "docid": 1045
+        },
+        {
+            "id": "79",
+            "title": "Gallup, \"Abortion,\" gallup.com (accessed Feb. 10, 2015)",
+            "docid": 1046
+        },
+        {
+            "id": "80",
+            "title": "Lydia Saad, \"Americans Misjudge U.S. Abortion Views,\" gallup.com, May 15, 2013",
+            "docid": 1047
+        },
+        {
+            "id": "81",
+            "title": "American College of Obstetricians and Gynecologists, \"Frequently Asked Questions: FAQ043: Special Procedures: Induced Abortion,\" acog.org, Oct. 2011",
+            "docid": 1048
+        },
+        {
+            "id": "82",
+            "title": "Planned Parenthood Federation of America, \"In-Clinic Abortion Procedures,\" plannedparenthood.org (accessed Apr. 21, 2014)",
+            "docid": 1049
+        },
+        {
+            "id": "83",
+            "title": "Centers for Disease Control and Prevention, \"Abortion Surveillance — United States, 2010,\"Morbidity and Mortality Weekly Report(MMWR), Nov. 29, 2013",
+            "docid": 1050
+        },
+        {
+            "id": "84",
+            "title": "Meghan Ashford-Grooms, \"Rick Perry Says There Have Been 50 Million Abortions since Roe,\" politifact.com, Feb. 1, 2011",
+            "docid": 1051
+        },
+        {
+            "id": "85",
+            "title": "Sandhya Somashekhar, \"Study: Abortion Rate at Lowest Point Since 1973,\" washingtonpost.com, Feb. 2, 2014<",
+            "docid": 1052
+        },
+        {
+            "id": "86",
+            "title": "British Broadcasting Corporation (BBC), \"Historical Attitudes to Abortion,\" bbc.co.uk (accessed Apr. 21, 2014)",
+            "docid": 1053
+        },
+        {
+            "id": "87",
+            "title": "Malcolm Potts, et al.,Abortion, 1977",
+            "docid": 1054
+        },
+        {
+            "id": "88",
+            "title": "American Pregnancy Association, \"First Fetal Movement: Quickening,\" americanpregnancy.org, July 2007",
+            "docid": 1055
+        },
+        {
+            "id": "89",
+            "title": "National Abortion Federation, \"History of Abortion,\" prochoice.org (accessed Apr. 21, 2014)",
+            "docid": 1056
+        },
+        {
+            "id": "90",
+            "title": "Chicago Tribune, \"Timeline of Abortion Laws and Events,\" chicagotribune.com, 2014",
+            "docid": 1057
+        },
+        {
+            "id": "91",
+            "title": "Kate Manning, \"Leeches, Lye and Spanish Fly,\" nytimes.com, Jan. 21, 2013",
+            "docid": 1058
+        },
+        {
+            "id": "92",
+            "title": "Dorothy E. McBride,Abortion in the United States: A Reference Handbook, 2008",
+            "docid": 1059
+        },
+        {
+            "id": "93",
+            "title": "Justin Dyer, \"Fictional Abortion History,\" nationalreview.com, Dec. 24, 2012",
+            "docid": 1060
+        },
+        {
+            "id": "94",
+            "title": "Pew Research Center, \"Roe v. Wade at 40: Most Oppose Overturning Abortion Decision,\" pewforum.org, Jan. 16, 2013",
+            "docid": 1061
+        },
+        {
+            "id": "95",
+            "title": "Office on Women’s Health, US Department of Health and Human Services, \"Pregnancy: Stages of Pregnancy,\" womenshealth.gov, Sep. 27, 2010",
+            "docid": 1062
+        },
+        {
+            "id": "96",
+            "title": "Joshua Prager, \"The Accidental Activist,\" vanityfair.com, Feb. 2013",
+            "docid": 1063
+        },
+        {
+            "id": "97",
+            "title": "CNN Library, \"Roe v. Wade Fast Facts,\" cnn.com, Nov. 4, 2013",
+            "docid": 1064
+        },
+        {
+            "id": "98",
+            "title": "LifeSiteNews.com, \"All Statements from Pro Life Groups Condemning Tiller Murder,\" lifesitenews.com, June 1, 2009",
+            "docid": 1065
+        },
+        {
+            "id": "101",
+            "title": "National Abortion Federation, \"NAF Violence and Disruption Statistics: Incidence of Violence &; Disruption against Abortion Providers in the US &; Canada,\" prochoice.org (accessed Apr. 21, 2014)",
+            "docid": 1066
+        },
+        {
+            "id": "100",
+            "title": "Richard N. Ostling, \"A Second Religious Conversion for 'Jane Roe' of Roe vs. Wade,\" texnews.com, Oct. 19, 1998",
+            "docid": 1067
+        },
+        {
+            "id": "101",
+            "title": "Guttmacher Institute, \"State Policies in Brief: State Policies on Later Abortions,\" guttmacher.org, Apr. 1, 2014",
+            "docid": 1068
+        },
+        {
+            "id": "102",
+            "title": "Liz Halloran and Julie Rovner, \"High Court's Pass on 'Fetal Pain' Abortion Case Unlikely to Cool Debate,\" npr.org, Jan. 13, 2014",
+            "docid": 1069
+        },
+        {
+            "id": "103",
+            "title": "Rachel Benson Gold and Elizabeth Nash, \"Troubling Trend: More States Hostile to Abortion Rights as Middle Ground Shrinks,\"Guttmacher Policy Review, Winter 2012",
+            "docid": 1070
+        },
+        {
+            "id": "104",
+            "title": "Guttmacher Institute, \"States Enact Record Number of Abortion Restrictions in First Half of 2011,\" guttmacher.org, July 13, 2011",
+            "docid": 1071
+        },
+        {
+            "id": "105",
+            "title": "Elizabeth Nash et al., \"Laws Affecting Reproductive Health and Rights: 2013 State Policy Review,\" guttmacher.org (accessed Apr. 21, 2014)",
+            "docid": 1072
+        },
+        {
+            "id": "106",
+            "title": "Suzanne M. Alford, \"Is Self-Abortion a Fundamental Right?,\"Duke Law Journal, 2003",
+            "docid": 1073
+        },
+        {
+            "id": "107",
+            "title": "Alex McBride, \"Landmark Cases:Casey v. Planned Parenthood(1992),\" pbs.org (accessed Apr. 21, 2014)",
+            "docid": 1074
+        },
+        {
+            "id": "108",
+            "title": "Janet Benshoof, \"Planned Parenthood v Casey: The Impact of the New Undue Burden Standard on Reproductive Health Care,\"JAMA, May 5, 1993",
+            "docid": 1075
+        },
+        {
+            "id": "109",
+            "title": "NBC News, \"Planned Parenthood v. Casey,\" archives.nbclearn.com, June 29, 1992",
+            "docid": 1076
+        },
+        {
+            "id": "110",
+            "title": "Michael Muskal, \"Pact Reached to Keep North Dakota's Only Abortion Clinic Open,\" latimes.com, Mar. 14, 2014",
+            "docid": 1077
+        },
+        {
+            "id": "111",
+            "title": "Irin Carmon, \"Appeals Court Upholds Law That Closed Texas Abortion Clinics,\" msnbc.com, Mar. 28, 2014",
+            "docid": 1078
+        },
+        {
+            "id": "112",
+            "title": "Manny Fernandez, \"In Texas, a Senator’s Stand Catches the Spotlight,\" nytimes.com, June 26, 2013",
+            "docid": 1079
+        },
+        {
+            "id": "113",
+            "title": "Jeffrey Toobin, \"The People's Choice,\" newyorker.com, Jan. 28, 2013",
+            "docid": 1080
+        },
+        {
+            "id": "114",
+            "title": "Advancing New Standards in Reproductive Health (ANSIRH), University of California at San Francisco, \"Turnaway Study,\" ansirh.org (accessed Apr. 22, 2014)",
+            "docid": 1081
+        },
+        {
+            "id": "115",
+            "title": "Penny Young Nance, \"Celebrate Life, Embrace Grace...End Abortion,\" foxnews.com, Jan. 23, 2012",
+            "docid": 1082
+        },
+        {
+            "id": "116",
+            "title": "Sarah Terzo, \"'Pro-Choice' Blog Supports Abortion as Method of Birth Control,\" liveactionnews.org, Mar. 31, 2013",
+            "docid": 1083
+        },
+        {
+            "id": "117",
+            "title": "Brinda Adhikari, \"Tim Tebow Super Bowl Ad: Anti-Abortion Commercial to Air,\" abcnews.go.com, Jan. 26, 2010",
+            "docid": 1084
+        },
+        {
+            "id": "118",
+            "title": "Catholic World News, \"Celine Dion Says Priest Told Mom Not to Abort Her,\" ewtn.com, Jan. 10, 2001",
+            "docid": 1085
+        },
+        {
+            "id": "119",
+            "title": "Courtney Hazlett, \"Justin Bieber's Mom Tells Why She Chose Not to Abort at 17,\" today.com, Sep. 14, 2012",
+            "docid": 1086
+        },
+        {
+            "id": "120",
+            "title": "Edna Gundersen, \"Lifetime Special 'Dear Mom, Love Cher' Turns Back Time,\" usatoday.com, May 6, 2013",
+            "docid": 1087
+        },
+        {
+            "id": "121",
+            "title": "Chicago Tribune editorial staff, \"Editorial: The Decline of Abortion,\" chicagotribune.com, Feb. 4, 2014",
+            "docid": 1088
+        },
+        {
+            "id": "122",
+            "title": "American College of Obstetricians and Gynecologists and American Medical Association, \"Brief of Amici Curiae [inPlanned Parenthood of Greater Texas Surgical Health Services et al. v. Attorney General Gregory Abbot et al.],\" acog.org, Dec. 19, 2013",
+            "docid": 1089
+        },
+        {
+            "id": "123",
+            "title": "Alex Witchel, \"At Home with: Norma McCorvey; Of Roe, Dreams And Choices,\" nytimes.com, July 28, 1994",
+            "docid": 1090
+        },
+        {
+            "id": "124",
+            "title": "Rachel K. Jones and Jenna Jerman, \"Abortion Incidence and Service Availability in the United States, 2011,\"Perspectives on Sexual and Reproductive Health, Mar. 2014",
+            "docid": 1091
+        },
+        {
+            "id": "125",
+            "title": "Esmé E. Deprez, \"The Vanishing Abortion Clinic,\" businessweek.com, Nov. 27, 2013",
+            "docid": 1092
+        },
+        {
+            "id": "126",
+            "title": "Unborn Victims of Violence Act of 2004, gpo.gov, Apr. 1, 2004",
+            "docid": 1093
+        },
+        {
+            "id": "127",
+            "title": "National Conference of State Legislatures (NCSL), \"Fetal Homicide Laws,\" ncsl.org, Feb. 2013",
+            "docid": 1094
+        },
+        {
+            "id": "128",
+            "title": "British Broadcasting Corporation (BBC), \"Responsibility of the Mother,\" bbc.co.uk (accessed Apr. 22, 2014)",
+            "docid": 1095
+        },
+        {
+            "id": "129",
+            "title": "Bryce Covert, \"How Denying Women Access to Reproductive Choices Costs Taxpayers,\" thinkprogress.org, July 1, 2013",
+            "docid": 1096
+        },
+        {
+            "id": "130",
+            "title": "Tara Culp-Ressler, \"Everything You Need to Know about the 20-Week Abortion Ban Advancing in the House,\" thinkprogress.org, June 18, 2013",
+            "docid": 1097
+        },
+        {
+            "id": "131",
+            "title": "Kenneth R. Weiss, \"Fertility Rates Fall, but Global Population Explosion Goes On,\" latimes.com, July 22, 2012",
+            "docid": 1098
+        },
+        {
+            "id": "132",
+            "title": "S.D. Mumford and E. Kessel, \"Role of Abortion in Control of Global Population Growth,\"Clinical Obstetrics and Gynecology, Mar. 1986",
+            "docid": 1099
+        },
+        {
+            "id": "133",
+            "title": "\"Jeremiah 1:5,\" kingjamesbibleonline.org (accessed Apr. 22, 2014)",
+            "docid": 1100
+        },
+        {
+            "id": "134",
+            "title": "Our Bodies Ourselves (OBOS, aka Boston Women's Health Book Collective), \"Reproductive Choices,\" ourbodiesourselves.org (accessed Apr. 22, 2014)",
+            "docid": 1101
+        },
+        {
+            "id": "135",
+            "title": "Katie McDonough, \"Fetal Pain Is a Lie: How Phony Science Took over the Abortion Debate,\" salon.com, Aug. 7, 2013",
+            "docid": 1102
+        },
+        {
+            "id": "136",
+            "title": "American Sociological Association, \"Sociologists Find Lowest-Paid Women Suffer Most from Motherhood Penalty,\" asanet.org, Oct. 5, 2010",
+            "docid": 1103
+        },
+        {
+            "id": "137",
+            "title": "John Horgan, \"Ethicist Peter Singer Critiques Roe v. Wade, Obamacare, Romney,\" scientificamerican.com, Oct. 22, 2012",
+            "docid": 1104
+        },
+        {
+            "id": "138",
+            "title": "Ezra Klein, \"Transcript: The 2012 VP Debate,\" washingtonpost.com, Oct. 12, 2012",
+            "docid": 1105
+        },
+        {
+            "id": "139",
+            "title": "General Board of Church & Society of the United Methodist Church, \"Family Planning and Reproductive Health - Social Principles,\" umc-gbcs.org, 2008",
+            "docid": 1106
+        },
+        {
+            "id": "140",
+            "title": "General Assembly Mission Council of the Presbyterian Church (USA), \"Presbyterian 101 - Abortion Issues,\" gamc.pcusa.org (accessed Feb. 25, 2011)",
+            "docid": 1107
+        },
+        {
+            "id": "141",
+            "title": "Unitarian Universalist Association of Congregations, \"Right to Choose,\" uua.org, June 3, 2010",
+            "docid": 1108
+        },
+        {
+            "id": "142",
+            "title": "Mary Wisniewski, \"'Fetal Pain' Anti-Abortion Laws Spur Fierce Debate,\" reuters.com, Apr. 6, 2011",
+            "docid": 1109
+        },
+        {
+            "id": "143",
+            "title": "Pope Francis, \"Address of His Holiness Pope Francis to the Members of the Diplomatic Corps Accredited to the Holy See,\" vatican.va, Jan. 13, 2014",
+            "docid": 1110
+        },
+        {
+            "id": "144",
+            "title": "Michael Chapman, \"Columbine Happens Every Day,\" massnews.com (accessed Apr. 22, 2014)",
+            "docid": 1111
+        },
+        {
+            "id": "145",
+            "title": "William Grimes, \"B.N. Nathanson, 84, Dies; Changed Sides on Abortion,\" nytimes.com, Feb. 21, 2011",
+            "docid": 1112
+        },
+        {
+            "id": "146",
+            "title": "Guttmacher Institute, \"Are You in the Know?: Abortion: Cost of Abortion Services in the United States,\" guttmacher.org (accessed Apr. 22, 2014)",
+            "docid": 1113
+        },
+        {
+            "id": "147",
+            "title": "Susan Dudley, \"Economics of Abortion,\" National Abortion Federation website, prochoice.org, 2003",
+            "docid": 1114
+        },
+        {
+            "id": "148",
+            "title": "Sivaya Subramuniyaswami, \"Let's Talk About Abortion,\" hinduismtoday.com, Jan. 1993",
+            "docid": 1115
+        },
+        {
+            "id": "149",
+            "title": "British Broadcasting Corporation (BBC), \"Buddhism and Abortion,\" bbc.co.uk, Nov. 23, 2009",
+            "docid": 1116
+        },
+        {
+            "id": "150",
+            "title": "Patt Morrison, \"The Coat Hanger, Symbol of Dangerous, Pre-Roe Abortions, Is Back,\" latimes.com, Mar. 25, 2014",
+            "docid": 1117
+        },
+        {
+            "id": "151",
+            "title": "Pew Forum on Religion & Public Life, \"US Religious Landscape Survey: Religious Beliefs and Practices: Diverse and Politically Relevant,\" religions.pewforum.org, June 2008",
+            "docid": 1118
+        },
+        {
+            "id": "152",
+            "title": "Susan A. Cohen, \"Still True: Abortion Does Not Increase Women’s Risk of Mental Health Problems,\"Guttmacher Policy Review, Spring 2013",
+            "docid": 1119
+        },
+        {
+            "id": "153",
+            "title": "Terry Baynes, \"Fanning Furor, Justice Scalia Says Appeals Court Judge Lied,\" reuters.com, Sep. 17, 2012",
+            "docid": 1120
+        },
+        {
+            "id": "154",
+            "title": "Steve Benen, \"Scalia Rejects Privacy Rights,\" msnbc.com, Oct. 31, 2013",
+            "docid": 1121
+        },
+        {
+            "id": "155",
+            "title": "US Constitution, Amendment XIV, archives.gov, July 9, 1868",
+            "docid": 1122
+        },
+        {
+            "id": "156",
+            "title": "Paul Pauker, \"The Case against Roe v. Wade and Planned Parenthood v. Casey,\" lifenews.com, June 1, 2011",
+            "docid": 1123
+        },
+        {
+            "id": "157",
+            "title": "Michael J. New, \"Abortion and the 14th Amendment,\" nationalreview.com, Sep. 6, 2011",
+            "docid": 1124
+        },
+        {
+            "id": "158",
+            "title": "Corinne H. Rocca, et al., \"Women's Emotions One Week after Receiving or Being Denied an Abortion in the United States,\"Perspectives on Sexual and Reproductive Health, Sep. 2013",
+            "docid": 1125
+        },
+        {
+            "id": "159",
+            "title": "Ushma Upadhyay, et al., \"Incidence of Emergency Department Visits and Complications after Abortion,\"Obstetrics & Gynecology, Jan. 2015",
+            "docid": 1126
+        },
+        {
+            "id": "160",
+            "title": "Amanda Scherker, \"10 Abortion Myths That Need to Be Busted,\" huffingtonpost.com, Jan. 26, 2015",
+            "docid": 1127
+        },
+        {
+            "id": "161",
+            "title": "Centers for Disease Control and Prevention, \"Abortion Surveillance — United States, 2011,\"Morbidity and Mortality Weekly Report(MMWR), Nov. 28, 2014",
+            "docid": 1128
+        },
+        {
+            "id": "162",
+            "title": "Dan Balz, \"The GOP Takeover in the States,\" washingtonpost.com, Nov. 13, 2010",
+            "docid": 1129
+        },
+        {
+            "id": "163",
+            "title": "Guttmacher Institute, \"In Just the Last Four Years, States Have Enacted 231 Abortion Restrictions,\" guttmacher.org, Jan. 5, 2015",
+            "docid": 1130
+        },
+        {
+            "id": "164",
+            "title": "Jodi Jacobson, \"Late Abortions: Facts, Stories, and Ways to Help,\" rhrealitycheck.org, June 2, 2009",
+            "docid": 1131
+        },
+        {
+            "id": "165",
+            "title": "Rebecca Riffkin, \"Fewest Americans Satisfied with Abortion Policies Since 2001,\" gallup.com, Jan. 2015",
+            "docid": 1132
+        },
+        {
+            "id": "166",
+            "title": "Susan J. Lee, et al., \"Fetal Pain: A Systematic Multidisciplinary Review of the Evidence,\"JAMA: The Journal of the American Medical Association, Aug. 24, 2005",
+            "docid": 1133
+        },
+        {
+            "id": "167",
+            "title": "Pete Williams, \"Supreme Court Strikes down Strict Texas Abortion Law,\" nbcnews.com, June 27, 2016",
+            "docid": 1134
+        },
+        {
+            "id": "168",
+            "title": "Donald J. Trump, \"Presidential Memorandum Regarding the Mexico City Policy,\" whitehouse.gov, Jan. 23, 2017",
+            "docid": 1135
+        },
+        {
+            "id": "169",
+            "title": "Democratic Party, \"2016 Democratic Party Platform,\" democrats.org, 2016",
+            "docid": 1136
+        },
+        {
+            "id": "170",
+            "title": "Lydia Saad, \"U.S. Abortion Attitudes Stable; No Consensus on Legality,\" gallup.com, June 9, 2017",
+            "docid": 1137
+        },
+        {
+            "id": "171",
+            "title": "Republican Party, \"Republican Party Platform, 2016\" gop.com, 2016",
+            "docid": 1138
+        },
+        {
+            "id": "172",
+            "title": "Carolyn J. Davis, et al., \"Young People Set to Impact the Debate on Women's Health Issues,\" prri.org, 2018",
+            "docid": 1139
+        },
+        {
+            "id": "173",
+            "title": "Gallup, \"Abortion,\" gallup.com (accessed May 14, 2018)",
+            "docid": 1140
+        },
+        {
+            "id": "174",
+            "title": "Marist Poll and Knights of Columbus, \"Americans' Opinions on Abortion,\" kofc.org, Jan. 2018",
+            "docid": 1141
+        },
+        {
+            "id": "175",
+            "title": "Hannah Fingerhut, \"About Seven-in-Ten Americans Oppose Overturning Roe v. Wade,\" pewresearch.org, Jan. 3, 2017",
+            "docid": 1142
+        },
+        {
+            "id": "176",
+            "title": "Tara C. Jatlaoui, et al, \"Abortion Surveillance - United States, 2014,\" cdc.gov, Nov. 24, 2017",
+            "docid": 1143
+        },
+        {
+            "id": "177",
+            "title": "Guttmacher Institute, \"Induced Abortion in the United States,\" guttmacher.org (accessed May 15, 2018)",
+            "docid": 1144
+        },
+        {
+            "id": "178",
+            "title": "Elizabeth Nash, et al., \"Policy Trends in the States, 2017,” guttmacher.org, Jan. 2, 2018",
+            "docid": 1145
+        },
+        {
+            "id": "179",
+            "title": "Elizabeth Nash, et al., \"Policy Trends in the States: First Quarter 2018,\" guttmacher.org, Apr. 17, 2018",
+            "docid": 1146
+        },
+        {
+            "id": "180",
+            "title": "Guttmacher Institute, \"93% of Women in the South Live in a State Hostile to or Extremely Hostile to Abortion,\" guttmacher.org, Jan. 3, 2017",
+            "docid": 1147
+        },
+        {
+            "id": "181",
+            "title": "Sarah Fowler, \"Judge Blocks Mississippi's 15-Week Abortion Ban from Going into Effect,\" usatoday.com, Mar. 20, 218",
+            "docid": 1148
+        },
+        {
+            "id": "182",
+            "title": "Associated Press, \"Iowa Judge Agrees to Halt Fetal Heartbeat Abortion Law,\" cbsnews.com, June 1, 2018",
+            "docid": 1149
+        },
+        {
+            "id": "183",
+            "title": "Jennifer Haberkorn, \"North Dakota's Six-Week Abortion Ban Struck,\" politico.com, July 22, 2015",
+            "docid": 1150
+        },
+        {
+            "id": "184",
+            "title": "Adam Liptak, \"Supreme Court Allows Arkansas Abortion Restrictions to Stand,\" nytimes.com, May 29, 2018",
+            "docid": 1151
+        },
+        {
+            "id": "185",
+            "title": "Nina Totenberg, \"Supreme Court Declines to Hear Challenge to Arkansas Abortion Law,\" npr.org, May 29, 2018",
+            "docid": 1152
+        },
+        {
+            "id": "186",
+            "title": "Guttmacher Institute, \"Abortion Bans in Cases of Sex or Race Selection or Genetic Anomaly,\" guttmacher.org, June 1, 2018",
+            "docid": 1153
+        },
+        {
+            "id": "187",
+            "title": "Guttmacher Institute, \"State Policies on Later Abortions,\" guttmacher.org, June 1, 2018",
+            "docid": 1154
+        },
+        {
+            "id": "188",
+            "title": "Guttmacher Institute, \"Requirements for Ultrasound,\" guttmacher.org, June 1, 2018",
+            "docid": 1155
+        },
+        {
+            "id": "189",
+            "title": "NRLC, \"Abortion Statistics: United States Data and Trends - Reported Annual Abortions,\" nrlc.org (accessed June 12, 2018)",
+            "docid": 1156
+        },
+        {
+            "id": "190",
+            "title": "Guttmacher Institute, \"Induced Abortion in the United States,\" guttmacher.org, Jan. 2018",
+            "docid": 1157
+        },
+        {
+            "id": "191",
+            "title": "Rachel K. Jones and Jenna Jerman, \"Abortion Incidence and Service Availability in the United States, 2014,\" wiley.com, Jan. 17, 2017",
+            "docid": 1158
+        },
+        {
+            "id": "192",
+            "title": "Abortion Care Network, \"Communities Need Clinics,\" abortioncarenetwork.org, 2017",
+            "docid": 1159
+        },
+        {
+            "id": "193",
+            "title": "Yvette Romero, \"Planned Parenthood Closings Leave Some Patients with No Options,\" bloomberg.com, June 1, 2017",
+            "docid": 1160
+        },
+        {
+            "id": "194",
+            "title": "Allison McCann, \"The Last Clinics,\" vice.com, May 23, 2017",
+            "docid": 1161
+        },
+        {
+            "id": "195",
+            "title": "National Abortion Federation, \"2017 Violence and Disruption Statistics,\" prochoice.org, 2017",
+            "docid": 1162
+        },
+        {
+            "id": "196",
+            "title": "Dorothy Samuels, \"Where Abortion Rights Are Disappearing,\" nytimes.com, Sep. 24, 2011",
+            "docid": 1163
+        },
+        {
+            "id": "197",
+            "title": "Shelby McNabb, et al., \"2016 National Clinic Violence Survey,\" feminist.org, Feb. 2017",
+            "docid": 1164
+        },
+        {
+            "id": "198",
+            "title": "Pete Williams, \"Detained Pregnant Teen Can Get Abortion, Appeal Court Rules,\" nbcnews.com, Oct. 24, 2017",
+            "docid": 1165
+        },
+        {
+            "id": "199",
+            "title": "United States District Court for the District of Columbia, \"Rochelle Garza v. Eric D. Hargan: Civil Action No. 17-cv-02122 (TSC),\" documentcloud.org/documents/4427514-order, Mar. 30, 2018<",
+            "docid": 1166
+        },
+        {
+            "id": "200",
+            "title": "American Civil Liberties Union (ACLU), \"ACLU's Class-Action Challenge to Trump's Administration's No-Abortion Policy Continues in Lower Courts,\" aclu.org, June 4, 2018",
+            "docid": 1167
+        },
+        {
+            "id": "201",
+            "title": "Pew Research Center, \"Public Opinion on Abortion: Views on Abortion, 1995-2017,\" pewforum.org, July 7, 2017",
+            "docid": 1168
+        },
+        {
+            "id": "202",
+            "title": "Susheela Singh, et al., \"Abortion Worldwide 2017: Uneven Progress and Unequal Access,\" guttmacher.org, Mar. 2018",
+            "docid": 1169
+        },
+        {
+            "id": "203",
+            "title": "National Council for Adoption, \"Adoption by the Numbers,\" adoptioncouncil.org, Feb. 15. 2017",
+            "docid": 1170
+        },
+        {
+            "id": "204",
+            "title": "New York State, \"Table 23: Induced Abortion and Abortion Ratios* by Race/Ethnicity and Resident County New York State - 2015,\" health.ny.gov, 2015",
+            "docid": 1171
+        },
+        {
+            "id": "205",
+            "title": "New York City Department of Health and Mental Hygiene, \"Summary of Vital Statistics 2016 The City of New York: Infant Mortality,\" nyc.gov, 2016",
+            "docid": 1172
+        },
+        {
+            "id": "206",
+            "title": "Alabama Secretary of State, \"Fair Ballot Commission: 2017-2018 Statewide Constitutional Amendments - Ballot Statements,\" sos.alabama.gov (accessed Nov. 7, 2018)",
+            "docid": 1173
+        },
+        {
+            "id": "207",
+            "title": "West Virginia Legislature, \"2018 Regular Session - Enrolled Committee Substitute for Senate Joint Resolution 12,\" wvlegislature.gov, Mar. 5, 2018",
+            "docid": 1174
+        },
+        {
+            "id": "208",
+            "title": "Oregon Secretary of State, \"Measure No. 106 Amends Constitution: Prohibits Spending 'Public Funds' (Defined) Directly/Indirectly for 'Abortion' (Defined); Exceptions; Reduces Abortion Access,\" sos.oregon.gov, Aug. 8, 2018",
+            "docid": 1175
+        },
+        {
+            "id": "209",
+            "title": "Guttmacher Institute, “Abortion Policy in the Absence of Roe,” guttmacher.org, Apr. 1, 2019",
+            "docid": 1176
+        },
+        {
+            "id": "210",
+            "title": "Susan Milligan, “Oregon Passes Law Protecting Abortion and Reproductive Rights,” usnews.com, Aug. 15, 2017",
+            "docid": 1177
+        },
+        {
+            "id": "211",
+            "title": "Erin Corbett, \"Abortion Is Still Legal in All 50 States,\" fortune.com, May 17, 2019",
+            "docid": 1178
+        },
+        {
+            "id": "212",
+            "title": "Katie Reilly, \"Alabama's Abortion Ban Is Designed to ChallengeRoe v. Wadeat the Supreme Court. Here's What Happens Next,\" time.com, May 15, 2019",
+            "docid": 1179
+        },
+        {
+            "id": "213",
+            "title": "Amanda Michelle Gomez, “States Are Already Pre-Filing ‘Fetal Heartbeat’ Bans for the New Year,” thinkprogress.org, Dec. 20, 2018",
+            "docid": 1180
+        },
+        {
+            "id": "214",
+            "title": "Marisa Iati and Deanna Paul, \"Everything You Need to Know about the Abortion Ban News,\" washingtonpost.com, May 17, 2019",
+            "docid": 1181
+        },
+        {
+            "id": "215",
+            "title": "Amelia Thomson-DeVeaux, \"Here's Why the Anti-Abortion Movement Is Escalating,\" fivethirtyeight.com, May 21, 2019",
+            "docid": 1182
+        },
+        {
+            "id": "216",
+            "title": "Rachel K. Jones, Elizabeth Witwer, and Jenna Jerman, \"Abortion Incidence and Service Availability in the United States, 2017,\" guttmacher.org, Sep. 2019",
+            "docid": 1183
+        },
+        {
+            "id": "217",
+            "title": "Jennifer Haberkorn, \"Amid Coronavirus Outbreak Some Red States Move to Restrict Abortion, Spurring Legal Fight,\" latimes.com, Apr. 9, 2020",
+            "docid": 1184
+        },
+        {
+            "id": "218",
+            "title": "Patricia Bauer, \"Norma McCorvey,\" britannica.com, May 21, 2020",
+            "docid": 1185
+        },
+        {
+            "id": "219",
+            "title": "John Kruzel, \"Supreme Court Strikes down Louisiana Abortion Restrictions,\" thehill.com, June 29, 2020",
+            "docid": 1186
+        },
+        {
+            "id": "220",
+            "title": "Alexandra Sternlicht, \"Abortion Pill Available By Mail During Pandemic, Court Rules,\" forbes.com, July 14, 2020",
+            "docid": 1187
+        },
+        {
+            "id": "221",
+            "title": "Joe Biden, \"Memorandum on Protecting Women’s Health at Home and Abroad,\" whitehouse.gov, Jan. 28, 2021",
+            "docid": 1188
+        },
+        {
+            "id": "222",
+            "title": "Megan Brenan, \"Record-High 47% in U.S. Think Abortion Is Morally Acceptable,\" news.gallup.com, June 8, 2021",
+            "docid": 1189
+        },
+        {
+            "id": "223",
+            "title": "Lydia Saad, \"Americans Still Oppose Overturning Roe v. Wade,\" news.gallup.com, June 9, 2021",
+            "docid": 1190
+        },
+        {
+            "id": "224",
+            "title": "Roni Caryn Rabin, \"Answers to Questions about the Texas Abortion Law,\" nytimes.com, Sep. 7, 2021",
+            "docid": 1191
+        },
+        {
+            "id": "225",
+            "title": "Ariel Edwards-Levy, \"Fewer Than One-Third of Americans Want to See Roe v. Wade Overturned, New Polling Finds,\" cnn.com, Sep. 22, 2021",
+            "docid": 1192
+        },
+        {
+            "id": "226",
+            "title": "Pam Belluck, \"F.D.A. Will Permanently Allow Abortion Pills by Mail,\" nytimes.com, Dec. 16, 2021",
+            "docid": 1193
+        },
+        {
+            "id": "227",
+            "title": "Josh Gerstein and Alexander Ward, \"Supreme Court Has Voted to Overturn Abortion Rights, Draft Opinion Shows,\"politico.com, May, 2, 2022",
+            "docid": 1194
+        },
+        {
+            "id": "228",
+            "title": "Stephen Collinson, \"Supreme Court Abortion Bombshell Suggests a Staggering Change in American Life,\"cnn.com, May 3, 2022",
+            "docid": 1195
+        },
+        {
+            "id": "229",
+            "title": "Guttmacher Institute, \"Abortion Policy in the Absence of Roe,\"guttmacher.org, Apr. 4, 2022",
+            "docid": 1196
+        },
+        {
+            "id": "230",
+            "title": "Ryan Nickerson and Jordan Ray-Hart, \"What to Know about Texas’ Abortion Law, with Roe v. Wade Reportedly in Serious Jeopardy,\"houstonchronicle.com. May 3, 2022",
+            "docid": 1197
+        },
+        {
+            "id": "231",
+            "title": "Nicole Fallert, \"State Abortion Restrictions Are Ramping up Like Never Before as the Supreme Court Prepares to Make a Crucial Decision,\"buzzfeednews.com, Feb. 18, 2022",
+            "docid": 1198
+        },
+        {
+            "id": "232",
+            "title": "Alison Durkee, \"Idaho Enacts Law Copying Texas’ Abortion Ban — and These States Might Be Next,\"forbes.com, Mar. 23, 2022",
+            "docid": 1199
+        },
+        {
+            "id": "233",
+            "title": "Mary Kekatos, \"Oklahoma Legislature Passes 6-Week Abortion Ban Similar to Texas Law,\"abcnews.go.com, Apr. 28, 2022",
+            "docid": 1200
+        },
+        {
+            "id": "234",
+            "title": "CDC, \"CDCs Abortion Surveillance System FAQs,\"cdc.gov, Nov. 22, 2021",
+            "docid": 1201
+        },
+        {
+            "id": "235",
+            "title": "Elizabeth Nash, \"State Policy Trends 2021: The Worst Year for Abortion Rights in Almost Half a Century,\"guttmacher.org, Jan. 5, 2022",
+            "docid": 1202
+        },
+        {
+            "id": "236",
+            "title": "Dennis Thompson, \"Abortion Remains Medically Safe for U.S. Women,\"webmd.com, Nov. 24, 2021",
+            "docid": 1203
+        },
+        {
+            "id": "237",
+            "title": "Cynthia Koons, “The Abortion Pill Is Safer Than Tylenol and Almost Impossible to Get,”bloomberg.com, Feb. 17, 2022",
+            "docid": 1204
+        },
+        {
+            "id": "238",
+            "title": "Angela Hill and Karen Rodriguez, “Abortion Pill Restricted by FDA for Decades Has Better Safety Record than Penicillin and Viagra,”usatoday.com, July 10, 2020",
+            "docid": 1205
+        },
+        {
+            "id": "239",
+            "title": "Elizabeth Weise, “Pregnancy-Related Deaths Could Rise 20% or More in States That Outlaw Abortion, Experts Say,”usatoday.com, May 5, 2022",
+            "docid": 1206
+        },
+        {
+            "id": "240",
+            "title": "World Health Organization, “Abortion,”who.int, Nov. 25, 2021",
+            "docid": 1207
+        },
+        {
+            "id": "241",
+            "title": "Julia Ries, “Ectopic Pregnancies Are Dangerous. Will They Be Affected by Abortion Bans?,”healthline.com, May 11, 2022",
+            "docid": 1208
+        },
+        {
+            "id": "242",
+            "title": "Charlotte Huff, “In Texas, Abortion Laws Inhibit Care for Miscarriages,”npr.org, May 10, 2022",
+            "docid": 1209
+        },
+        {
+            "id": "243",
+            "title": "Roni Caryn Rabin, “Texas Abortion Law Complicates Care for Risky Pregnancies,”nytimes.com, Nov. 26, 2021",
+            "docid": 1210
+        },
+        {
+            "id": "244",
+            "title": "Editors of Encyclopaedia Britannica, “Ectopic Pregnancy,”britannica.com, May 13, 2021",
+            "docid": 1211
+        },
+        {
+            "id": "245",
+            "title": "Krissi Danielsson, “Ectopic Pregnancy Statistics,”verywellfamily.com, Mar. 03, 2021",
+            "docid": 1212
+        },
+        {
+            "id": "246",
+            "title": "Anna North, “This Life-Threatening Pregnancy Complication Is the Next Frontier in the Abortion Debate,”vox.com, Sep. 11, 2019",
+            "docid": 1213
+        },
+        {
+            "id": "247",
+            "title": "Krissi Danielsson, “Different Types of Pregnancy Loss,”verywellfamily.com, Sep. 13, 2021",
+            "docid": 1214
+        },
+        {
+            "id": "248",
+            "title": "Ariana Eunjung Cha and Emily Wax-Thibodeaux, “Abortion Foes Push to Narrow ‘Life of Mother’ Exceptions,”washingtonpost.com, May 18, 2022",
+            "docid": 1215
+        },
+        {
+            "id": "249",
+            "title": "Alicia Victoria Lozano, “Some Birth Control Could Be Banned If Roe v. Wade Is Overturned, Legal Experts Warn,”nbcnews.com, May 12, 2022",
+            "docid": 1216
+        },
+        {
+            "id": "250",
+            "title": "David Lawder, “Yellen Says Ending Abortion Access Would Be ‘Damaging’ to U.S. Economy, Women,”reuters.com, May 10, 2022",
+            "docid": 1217
+        },
+        {
+            "id": "251",
+            "title": "ANSIRH, “The Harms of Denying a Woman a Wanted Abortion Findings from the Turnaway Study,”ansirh.org(accessed May 19, 2022)",
+            "docid": 1218
+        },
+        {
+            "id": "252",
+            "title": "Anneken Tappe, “Limiting Abortion Access Is Bad for the Economy,”cnn.com, May 16, 2022",
+            "docid": 1219
+        },
+        {
+            "id": "253",
+            "title": "Megan Burbank and Emily Kwong, “A Landmark Study Tracks the Lasting Effect of Having an Abortion — or Being Denied One,”npr.org, May 15, 2022",
+            "docid": 1220
+        },
+        {
+            "id": "254",
+            "title": "ANSIRH, “​​The Turnaway Study,”ansirh.org(accessed May 19, 2022)",
+            "docid": 1221
+        },
+        {
+            "id": "255",
+            "title": "ANSIRH, “​​The Turnaway Study Brief,”ansirh.org(accessed May 20, 2022)",
+            "docid": 1222
+        },
+        {
+            "id": "256",
+            "title": "Cleveland Clinic, “Pregnancy: Ovulation, Conception & Getting Pregnant,”clevelandclinic.org(accessed May 16, 2022)",
+            "docid": 1223
+        },
+        {
+            "id": "257",
+            "title": "Joe Bukuras, “Experts Respond to Biden: Biology and Theology Agree, Human Life Begins at Conception,”catholicnewsagency.com, Mar. 4, 2022",
+            "docid": 1224
+        },
+        {
+            "id": "258",
+            "title": "Philip Pullella, “Pope Says Abortion Is 'Murder' but U.S. Bishops Should Not Be Political,”reuters.com, Sep. 15, 2021",
+            "docid": 1225
+        },
+        {
+            "id": "259",
+            "title": "Conor Friedersdorf, “‘I’m Very Conflicted’: Readers Share Complex Views on Abortion,”theatlantic.com, May 9, 2022",
+            "docid": 1226
+        },
+        {
+            "id": "260",
+            "title": "CNA Staff, “Cardinal Tobin, Colorado Bishops Warn against Federal Abortion Funding,”catholicnewsagency.com, July 8, 2021",
+            "docid": 1227
+        },
+        {
+            "id": "261",
+            "title": "John L. Allen Jr. and Inés San Martín, “Tobin: Abortion, Anti-Immigrant Rhetoric Both ‘Brutalize’ the American Heart,”cruxnow.com, July 6, 2017",
+            "docid": 1228
+        },
+        {
+            "id": "262",
+            "title": "Alexander J. Sheffrin, “Alveda King Calls Abortion 'Racist',”christianpost.com, Apr. 15, 2008",
+            "docid": 1229
+        },
+        {
+            "id": "263",
+            "title": "Box v. Planned Parenthood of Indiana and Kentucky, Inc.,supremecourt.gov, May 28, 2019",
+            "docid": 1230
+        },
+        {
+            "id": "264",
+            "title": "Elizabeth Weise, “How Many Abortions Are Actually Performed in the US? Rates Have Declined for Decades.,”usatoday.com, May 5, 2022",
+            "docid": 1231
+        },
+        {
+            "id": "265",
+            "title": "Katherine Kortsmit, et al., “Abortion Surveillance — United States, 2019,”cdc.gov, Nov. 26, 2021",
+            "docid": 1232
+        },
+        {
+            "id": "266",
+            "title": "Catherine E Whitley, Sally B Rose, Dalice Sim, and Hera Cook, “Association Between Women's Use of Long-Acting Reversible Contraception and Declining Abortion Rates in New Zealand,”pubmed.ncbi.nlm.nih.gov, Oct. 10, 2019",
+            "docid": 1233
+        },
+        {
+            "id": "267",
+            "title": "M. Gissler, ​​F. Gyllenberg, M. Juselius, and O. Heikinheimo, “Long-Acting Reversible Contraception Free of Charge Decreases Abortion Rates,”academic.oup.com, Nov. 21, 2018",
+            "docid": 1234
+        },
+        {
+            "id": "268",
+            "title": "Charles Fain Lehman, “Fewer American High Schoolers Having Sex Than Ever Before,”ifstudies.org, Sep. 1, 2020",
+            "docid": 1235
+        },
+        {
+            "id": "269",
+            "title": "Dolores Ramírez-Villalobos, et al., “Delaying Sexual Onset: Outcome of a Comprehensive Sexuality Education Initiative for Adolescents in Public Schools,”bmcpublichealth.biomedcentral.com, July 21, 2021",
+            "docid": 1236
+        },
+        {
+            "id": "270",
+            "title": "Tamara Dean, “Safer Than Childbirth,”theamericanscholar.org, Mar. 4, 2022",
+            "docid": 1237
+        },
+        {
+            "id": "271",
+            "title": "Megan Brenan, \"Steady 58% of Americans Do Not Want Roe v. Wade Overturned,\"news.gallup.com, June 2, 2022",
+            "docid": 1238
+        },
+        {
+            "id": "272",
+            "title": "Lydia Saad, \"'Pro-Choice' Identification Rises to Near Record High in U.S.,\"news.gallup.com, June 2, 2022",
+            "docid": 1239
+        },
+        {
+            "id": "273",
+            "title": "Ariane de Vogue, \"Supreme Court Overturns Roe v. Wade,\"cnn.com, June 24, 2022",
+            "docid": 1240
+        },
+        {
+            "id": "274",
+            "title": "John Kruzel, \"Supreme Court Strikes down Roe v. Wade,\"thehill.com, June 24, 2022",
+            "docid": 1241
+        },
+        {
+            "id": "275",
+            "title": "Greg Stohr, \"Supreme Court Overturns Roe v. Wade Abortion-Rights Ruling,\"news.bloomberglaw.com, June 24, 2022",
+            "docid": 1242
+        },
+        {
+            "id": "276",
+            "title": "Veronica Stracqualursi, \"California Legislature Passes Bill to Protect Abortion Providers and Patients from Civil Suits,\"cnn.com, June 24, 2022",
+            "docid": 1243
+        },
+        {
+            "id": "277",
+            "title": "White House, \"Executive Order on Protecting Access to Reproductive Healthcare Services,\"whitehouse.gov, July 8, 2022",
+            "docid": 1244
+        },
+        {
+            "id": "278",
+            "title": "Kate Sullivan, \"Here’s What’s in Biden’s Executive Order on Abortion Rights,\"cnn.com, July 8, 2022",
+            "docid": 1245
+        },
+        {
+            "id": "279",
+            "title": "Jen Christensen, \"Biden Administration Says Federal Law Preempts State Abortion Bans When Emergency Care Is Needed,\"cnn.com, July 11, 2022",
+            "docid": 1246
+        },
+        {
+            "id": "280",
+            "title": "Health and Human Services, \"Following President Biden’s Executive Order to Protect Access to Reproductive Health Care, HHS Announces Guidance to Clarify that Emergency Medical Care Includes Abortion Services,\"hhs.gov, July 11, 2022",
+            "docid": 1247
+        },
+        {
+            "id": "281",
+            "title": "US Health and Human Services Department Office for Civil Rights, \"Guidance to Nation’s Retail Pharmacies: Obligations under Federal Civil Rights Laws toEnsure Access to Comprehensive Reproductive Health Care Services,\"hhs.gov, July 13, 2022",
+            "docid": 1248
+        },
+        {
+            "id": "282",
+            "title": "Jen Christensen, \"Biden Administration Says Pharmacies Can’t Turn Away People Who Have a Prescription for a Drug That May End a Pregnancy,\"cnn.com, July 13, 2022",
+            "docid": 1249
+        },
+        {
+            "id": "283",
+            "title": "Carrie Feibel, \"Pharmacies May Violate Civil Rights If They Refuse Meds Linked to Abortion, Feds Warn,\"npr.org, July 13, 2022",
+            "docid": 1250
+        },
+        {
+            "id": "284",
+            "title": "Tierney Sneed, \"Texas Sues Biden Administration over Guidance Directed at Reproductive Care for Emergency Room Patients,\"cnn.com, July 14, 2022",
+            "docid": 1251
+        },
+        {
+            "id": "285",
+            "title": "Chris Boyette and Tierney Sneed, \"Federal Judge Blocks HHS Guidance That Emergency Medical Care Must Include Abortion Services,\"cnn.com, Aug. 24, 2022",
+            "docid": 1252
+        },
+        {
+            "id": "286",
+            "title": "Tierney Sneed, \"Judge Blocks Enforcement of Idaho’s Abortion Ban in Medical Emergencies Day before It Was Set to Take Effect,\"cnn.com, Aug. 24, 2022",
+            "docid": 1253
+        },
+        {
+            "id": "287",
+            "title": "Department of Veterans Affairs, \"38 CFR Part 17 RIN 2900-AR57 Reproductive Health Services,\"womenshealth.va.gov, Sep. 2, 2022",
+            "docid": 1254
+        },
+        {
+            "id": "288",
+            "title": "Michaeleen Doucleff, \"Do Restrictive Abortion Laws Actually Reduce Abortion? A Global Map Offers Insights,\"npr.org, June 27, 2022",
+            "docid": 1255
+        },
+        {
+            "id": "289",
+            "title": "Katherine Dillinger and Evan Perez, \"FDA to Allow Pharmacies to Dispense Abortion Pills to Patients,\" cnn.com, Jan. 3, 2023",
+            "docid": 1256
+        },
+        {
+            "id": "290",
+            "title": "Pam Belluck, The F.D.A. Now Says It Plainly: Morning-After Pills Are Not Abortion Pills, nytimes.com, Dec. 23, 2022",
+            "docid": 1257
+        },
+        {
+            "id": "291",
+            "title": "David W. Chen and Pam Belluck, \"Wyoming Becomes First State to Outlaw the Use of Pills for Abortion,\" nytimes.com, Mar. 17, 2023",
+            "docid": 1258
+        },
+        {
+            "id": "292",
+            "title": "Jake Johnson, “Despicable”: Idaho Becomes First US State to Restrict Interstate Travel for Abortion Care,\" salon.com, Apr. 6, 2023",
+            "docid": 1259
+        },
+        {
+            "id": "293",
+            "title": "Pam Belluck, “Two Federal Judges Issued Opposing Rulings on Abortion Pills. Here’s What’s Going On.,” nytimes.com, Apr. 8, 2023",
+            "docid": 1260
+        },
+        {
+            "id": "294",
+            "title": "Anne Flaherty, Mireya Villarreal, and Ashley Riegle, “DOJ Files Appeal after Judge Reverses FDA Approval of Abortion Drug,” abcnews.go.com, Apr. 8, 2023",
+            "docid": 1261
+        },
+        {
+            "id": "295",
+            "title": "Tierney Sneed, “Rival Rulings on Medication Abortion Hypercharge the Post-Roe Legal War,” cnn.com, Apr. 8, 2023",
+            "docid": 1262
+        },
+        {
+            "id": "296",
+            "title": "Associated Press, \"Federal Appeals Court Preserves Access to Abortion Drug but with Tighter Rules,\" npr.org, Apr. 13, 2023",
+            "docid": 1263
+        },
+        {
+            "id": "297",
+            "title": "Ximena Bustillo and Lexie Schapitl, \"Supreme Court Briefly Puts On Hold Lower Court’s Limits on Abortion Drug Mifepristone,\" npr.org, Apr, 14, 2023",
+            "docid": 1264
+        },
+        {
+            "id": "298",
+            "title": "Nina Totenberg, \"Supreme Court Blocks Lower Court Decision in Case on FDA Approval of Abortion Pill,\" npr.org, Apr. 21, 2023",
+            "docid": 1265
+        },
+        {
+            "id": "299",
+            "title": "Claire Cain Miller and Margot Sanger-Katz, \"Despite State Bans, Legal Abortions Didn’t Fall Nationwide in Year After Dobbs,\" nytimes.com, Oct. 24, 2023",
+            "docid": 1266
+        },
+        {
+            "id": "300",
+            "title": "Catherine Porter, \"French Lawmakers Enshrine Constitutional Right to Abortion,\" nytimes.com, Mar. 4, 2024",
+            "docid": 1267
+        },
+        {
+            "id": "301",
+            "title": "Jaclyn Diaz and Alina Selyukh, \"CVS and Walgreens to Start Dispensing Abortion Pill in States Where It’s Legal,\" npr.org, Mar. 1, 2024",
+            "docid": 1268
+        },
+        {
+            "id": "302",
+            "title": "Selena Simmons-Duffin, \"Despite Bans in Some States, More than a Million Abortions Were Provided in 2023,\" npr.org, Mar. 19, 2023",
+            "docid": 1269
+        },
+        {
+            "id": "303",
+            "title": "Carter Sherman, \"Kamala Harris Puts Abortion Front and Center with Visit to Minnesota Clinic,\" theguardian.com, Mar. 14, 2024",
+            "docid": 1270
+        }
+    ],
+    "url": "https://abortion.procon.org/"
+}

@@ -1,0 +1,684 @@
+{
+    "title": "Is a College Education Worth It?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "US Census Bureau, \"After a Recent Upswing, College Enrollment Declines, Census Bureau Reports,\" census.gov, Sep. 3, 2013",
+            "docid": 9528
+        },
+        {
+            "id": "2",
+            "title": "Marvin Lazerson, \"The Disappointments of Success: Higher Education after World War II,\"The History of Higher Education, Eds. Harold Wechsler, Lester F. Goodchild, and Linda Eisenmann, 2007",
+            "docid": 9529
+        },
+        {
+            "id": "3",
+            "title": "John R. Thelin,A History of American Education, 2004",
+            "docid": 9530
+        },
+        {
+            "id": "4",
+            "title": "Amanda M. Fairbanks, \"2011 College Grads Moving Home, Saddled with Historic Levels of Student Loan Debt,\" huffingtonpost.com, May 13, 2011",
+            "docid": 9531
+        },
+        {
+            "id": "5",
+            "title": "Richard Vedder, \"Going to College Is a Mistake for Many,\" usnews.com, Nov. 17, 2011",
+            "docid": 9532
+        },
+        {
+            "id": "6",
+            "title": "Richard Vedder, \"Twelve Inconvenient Truths about Higher Education,\" theccap.org, Mar. 2012",
+            "docid": 9533
+        },
+        {
+            "id": "7",
+            "title": "US Department of Education, \"Database of Accredited Programs and Institutions,\" ed.gov, Aug. 16, 2013",
+            "docid": 9534
+        },
+        {
+            "id": "8",
+            "title": "Michael Greenstone and Adam Looney, \"Is Starting College and Not Finishing Really That Bad?,\" thehamiltonproject.org, June 2013",
+            "docid": 9535
+        },
+        {
+            "id": "9",
+            "title": "Michael Greenstone and Adam Looney, \"Where Is the Best Place to Invest $102,000—In Stocks, Bonds, or a College Degree?,\" hamiltonproject.org, June 25, 2011",
+            "docid": 9536
+        },
+        {
+            "id": "10",
+            "title": "College Board, \"Trends in College Pricing, 2011,\" advocacy.collegeboard.org, 2011",
+            "docid": 9537
+        },
+        {
+            "id": "11",
+            "title": "Sandy Baum, Jennifer Ma, and Kathleen Pays, \"Education Pays 2010: The Benefits of Higher Education for Individuals and Society,\" collegeboard.com, 2010",
+            "docid": 9538
+        },
+        {
+            "id": "12",
+            "title": "Christian Yang, \"DON’T Drop out to Do a Startup,\" blogchristianyang.com, Jan. 2, 2013",
+            "docid": 9539
+        },
+        {
+            "id": "13",
+            "title": "Lumina Foundation, \"A Stronger Nation through Higher Education,\" luminafoundation.org, June 2013",
+            "docid": 9540
+        },
+        {
+            "id": "14",
+            "title": "Anthony P. Carnevale, Nicole Smith, and Jeff Strohl, \"Help Wanted: Projections of Jobs and Education Requirements through 2018,\" georgetown.edu, June 2010",
+            "docid": 9541
+        },
+        {
+            "id": "15",
+            "title": "Marcelina Hardy, \"7 Benefits of Earning a College Degree,\" education.yahoo.net, 2013",
+            "docid": 9542
+        },
+        {
+            "id": "16",
+            "title": "Arthur Chickering, \"The Seven Vectors: An Overview,\" cabrini.edu (accessed Sep. 5, 2013)",
+            "docid": 9543
+        },
+        {
+            "id": "17",
+            "title": "Cooperative Institutional Research Program, \"1994 Nine Year Follow-Up Survey (of 1985 Freshmen),\" Higher Education Research Institute at UCLA, 1995",
+            "docid": 9544
+        },
+        {
+            "id": "18",
+            "title": "60 Minutes, \"Partying and Its Benefits,\" cbsnews.com, May 20, 2012",
+            "docid": 9545
+        },
+        {
+            "id": "19",
+            "title": "Robert A. Hummer and Elaine M. Hernandez, \"The Effect of Educational Attainment on Adult Mortality in the U.S.,\" prb.org, July 2013",
+            "docid": 9546
+        },
+        {
+            "id": "20",
+            "title": "Brian L. Rostron, John L. Boies, and Elizabeth Arias, \"Education Reporting and Classification on Death Certificates in the United States,\" Vital and Health Statistics, cdc.gov, May 2010",
+            "docid": 9547
+        },
+        {
+            "id": "21",
+            "title": "Sandy Baum and Jennifer Ma, \"Education Pays 2007: The Benefits of Higher Education for Individuals and Society,\" collegeboard.com, 2007",
+            "docid": 9548
+        },
+        {
+            "id": "22",
+            "title": "Intelligence Squared US, \"Too Many Kids Go to College,\" intelligencesquaredus.org, Oct. 12, 2011",
+            "docid": 9549
+        },
+        {
+            "id": "23",
+            "title": "Andrew Sum, et al, \"The Consequences of Dropping Out of High School: Joblessness and Jailing for High School Dropouts and the High Cost for Taxpayers,\" americaspromise.org, Oct. 2009",
+            "docid": 9550
+        },
+        {
+            "id": "24",
+            "title": "Rebecca Mead, \"Learning by Degrees,\" newyorker.com, June 7, 2010",
+            "docid": 9551
+        },
+        {
+            "id": "25",
+            "title": "Pew Research, \"Is College Worth It?,\" pewsocialtrends.org, May 15, 2011",
+            "docid": 9552
+        },
+        {
+            "id": "26",
+            "title": "Jonathan D. Fitzgerald, \"The Real Value of a College Education,\" huffingtonpost.com, Feb. 23, 2012",
+            "docid": 9553
+        },
+        {
+            "id": "27",
+            "title": "Indiana University at Bloomington, \"Internship Experiences of IUB Psychology Majors – 50+ Examples,\" indiana.edu (accessed Sep. 26, 2013)",
+            "docid": 9554
+        },
+        {
+            "id": "28",
+            "title": "Clive R. Belfield, Henry M. Levin, and Rachel Rosen, \"The Economic Value of Opportunity Youth,\" serve.gov, Jan. 2012",
+            "docid": 9555
+        },
+        {
+            "id": "29",
+            "title": "Derek Thompson, \"What’s More Expensive Than College? Not Going to College,\" theatlantic.com, Mar. 27, 2012",
+            "docid": 9556
+        },
+        {
+            "id": "30",
+            "title": "Harvard Business School, \"Networking,\" alumni.hbs.edu (accessed Sep. 5, 2013)",
+            "docid": 9557
+        },
+        {
+            "id": "31",
+            "title": "Whitman College, \"Networking,\" whitman.edu (accessed Sep. 26, 2013)",
+            "docid": 9558
+        },
+        {
+            "id": "32",
+            "title": "Dylan Matthews, \"Going to College Is Worth It – Even if You Drop out,\" washingtonpost.com, June 10, 2013",
+            "docid": 9559
+        },
+        {
+            "id": "33",
+            "title": "College Board, \"Average Published Undergraduate Charges by Sector, 2012-13,\" trends.collegeboard.org, 2013",
+            "docid": 9560
+        },
+        {
+            "id": "34",
+            "title": "Darrius Mind, \"Best Day of My Life,\" darriusmind.blogspot.com, May 4, 2009",
+            "docid": 9561
+        },
+        {
+            "id": "35",
+            "title": "Meta Brown and Sydnee Caldwell, \"Young Student Loan Borrowers Retreat from Housing and Auto Markets,\" libertystreeteconomics.newyorkfed.org, Apr. 17, 2013",
+            "docid": 9562
+        },
+        {
+            "id": "37",
+            "title": "Chris Denhart, \"How the $1.2 Trillion College Debt Crisis Is Crippling Students, Parents and the Economy,\" forbes.com, Aug. 7, 2013",
+            "docid": 9563
+        },
+        {
+            "id": "37",
+            "title": "US Congress Joint Economic Committee, \"The Causes and Consequences of Increasing Student Debt,\" jes.senate.gov, June 2013",
+            "docid": 9564
+        },
+        {
+            "id": "38",
+            "title": "Blake Ellis, \"Student Debt Delays Spending, Saving – and Marriage,\" money.cnn.com, May 9, 2013",
+            "docid": 9565
+        },
+        {
+            "id": "39",
+            "title": "Robin Marantz Henig, \"What Is It about 20-Somethings?,\" nytimes.com, Aug, 18, 2010",
+            "docid": 9566
+        },
+        {
+            "id": "40",
+            "title": "Andrew Sum, \"The Nation’s Recent College Graduates Face Significant Labor Market Problems,\" huffingtonpost.com, Oct. 19, 2010",
+            "docid": 9567
+        },
+        {
+            "id": "41",
+            "title": "Heidi Shierholz, Natalie Sabadish, and Nicholas Finio, \"The Class of 2013: Young Graduates Still Face Dim Job Prospects,\" epi.org, Apr. 10, 2013",
+            "docid": 9568
+        },
+        {
+            "id": "42",
+            "title": "Jordan Weissmann, \"44% of Young College Grads Are Underemployed (and That’s Good News),\" theatlantic.com, June 28, 2013",
+            "docid": 9569
+        },
+        {
+            "id": "43",
+            "title": "Bureau of Labor Statistics, \"Fastest Growing Occupations, 2010 and Projected 2020,\" bls.gov, Jan. 2012",
+            "docid": 9570
+        },
+        {
+            "id": "44",
+            "title": "Glen Stansberry, \"12 Business Founders Who Succeeded without a College Degree,\" openforum.com, Oct. 8, 2010",
+            "docid": 9571
+        },
+        {
+            "id": "45",
+            "title": "Mark Schneider, \"Colleges Waste Millions on Students Who Drop Out,\" aei-ideas.org, Aug. 19, 2010",
+            "docid": 9572
+        },
+        {
+            "id": "46",
+            "title": "Harvard Graduate School of Education, \"Pathways to Prosperity,\" harvard.edu, Feb. 2011",
+            "docid": 9573
+        },
+        {
+            "id": "47",
+            "title": "National Conference of State Legislatures, \"Reconsider Funding for Colleges and Universities,\" ncsl.org, Nov. 2010",
+            "docid": 9574
+        },
+        {
+            "id": "48",
+            "title": "New America Foundation, \"Federal Higher Education Programs – Overview,\" febp.newamerica.net, July 10, 2013",
+            "docid": 9575
+        },
+        {
+            "id": "49",
+            "title": "State Higher Education Executive Officers, \"State Higher Education Finance,\" sheeo.org, 2012",
+            "docid": 9576
+        },
+        {
+            "id": "50",
+            "title": "Mark Schneider and Lu (Michelle) Yin, \"The High Cost of Low Graduation Rates: How Much Does Dropping Out of College Really Cost?,\" air.org, Aug. 2011",
+            "docid": 9577
+        },
+        {
+            "id": "51",
+            "title": "Federal Reserve Bank of New York, \"Student Loan Debt by Age Group,\" newyorkfed.org, Mar. 29, 2013",
+            "docid": 9578
+        },
+        {
+            "id": "52",
+            "title": "Tamar Lewin, \"Child’s Education, but Parents’ Crushing Loans,\" nytimes.com, Nov. 11, 2012",
+            "docid": 9579
+        },
+        {
+            "id": "53",
+            "title": "Deloitte and The Manufacturing Institute, \"Boiling Point? The Skills Gap in U.S. Manufacturing,\" themanufacturinginstitute.com, 2011",
+            "docid": 9580
+        },
+        {
+            "id": "54",
+            "title": "Anthony P. Carnevale, Tamara Jayasundera, and Andrew R. Hanson, \"Along the Way to the B.A.,\" georgetown.edu, Sep. 2012",
+            "docid": 9581
+        },
+        {
+            "id": "55",
+            "title": "Felix W. Ortiz, III, \"The Middle-Skill Issue,\" huffingtonpost.com, Sep. 25, 2013",
+            "docid": 9582
+        },
+        {
+            "id": "56",
+            "title": "Craig Brandon, \"With College, Only the Motivated Need Apply,\" usnews.com, Nov. 17, 2011",
+            "docid": 9583
+        },
+        {
+            "id": "57",
+            "title": "NPR, \"A Lack of Rigor Leaves Students 'Adrift' in College,\" npr.org, Feb. 9, 2011",
+            "docid": 9584
+        },
+        {
+            "id": "58",
+            "title": "Eric Gorski, \"45% of Students Don’t Learn Much in College,\" huffingtonpost.com, Jan. 18, 2011",
+            "docid": 9585
+        },
+        {
+            "id": "59",
+            "title": "Hart Research Associates, \"It Takes More than a Major: Employer Priorities for College Learning and Student Success,\" aacu.org, Apr. 10, 2013",
+            "docid": 9586
+        },
+        {
+            "id": "60",
+            "title": "McKinsey & Company, \"Voice of the Graduate,\" mckinseyonsociety.com, May 2013",
+            "docid": 9587
+        },
+        {
+            "id": "61",
+            "title": "Consumer Financial Protection Bureau, \"Report: Private Student Loan Borrowers Face Roadblocks to Repayment,\" consumerfinance.gov, Oct. 16, 2012",
+            "docid": 9588
+        },
+        {
+            "id": "62",
+            "title": "National Association of Consumer Bankruptcy Attorneys (NACBA), \"The Student Loan ‘Debt Bomb’: America’s Next Mortgage-Style Economic Crisis,\" nacba.org, Feb. 7, 2012",
+            "docid": 9589
+        },
+        {
+            "id": "63",
+            "title": "William J. Bennett, \"The Looming Crisis of Student Loan Debt,\" cnn.com, Dec. 6, 2012",
+            "docid": 9590
+        },
+        {
+            "id": "64",
+            "title": "Joshua Zumbrun and Craig Torres, \"Bankers Warn Fed of Farm, Student Loan Bubbles Echoing Subprime,\" businessweek.com, May 7, 2013",
+            "docid": 9591
+        },
+        {
+            "id": "65",
+            "title": "Walter Hamilton, \"Student-Loan Delinquency Rate Hits Danger Zone, Report Says,\" latimes.com, Jan. 30, 2013",
+            "docid": 9592
+        },
+        {
+            "id": "66",
+            "title": "Phil Oliff, Vincent Palacios, Ingrid Johnson, and Michael Leachman, \"Recent Deep State Higher Education Cuts May Harm Students and the Economy for Years to Come,\" cbpp.org, Mar. 19, 2013",
+            "docid": 9593
+        },
+        {
+            "id": "67",
+            "title": "Phillip Elliott, \"College Costs Keep Rising Faster Than Inflation,\" csmonitor.com, Aug. 13, 2013",
+            "docid": 9594
+        },
+        {
+            "id": "68",
+            "title": "Rebekah Coleman, \"Bachelor’s Degree: Generation Y’s High School Diploma,\" loans.org, Mar. 18, 2013",
+            "docid": 9595
+        },
+        {
+            "id": "69",
+            "title": "Daniel B. Smith, \"The University Has No Clothes,\" nymag.com, May 1, 2011",
+            "docid": 9596
+        },
+        {
+            "id": "70",
+            "title": "Steve Rhode, \"4 out of 10 Actually Were Able to Discharge Student Loans in Bankruptcy—but Most Never Try,\" huffingtonpost.com, Jan. 7, 2013",
+            "docid": 9597
+        },
+        {
+            "id": "71",
+            "title": "Joe Valenti and David A. Bergeron, \"How Qualified Student Loans Could Protect Borrowers and Taxpayers,\" americanprogress.org, Aug. 20, 2013",
+            "docid": 9598
+        },
+        {
+            "id": "72",
+            "title": "William Hare, \"Ideological Indoctrination and Teacher Education,\" wce.wwu.edu, 2007",
+            "docid": 9599
+        },
+        {
+            "id": "73",
+            "title": "Scott Jaschik, \"Moving Further to the Left,\" insidehighered.com, Oct. 24, 2012",
+            "docid": 9600
+        },
+        {
+            "id": "74",
+            "title": "David Horowitz,The Professors: The 101 Most Dangerous Academics in America>, 2007",
+            "docid": 9601
+        },
+        {
+            "id": "75",
+            "title": "John H. Pryor, Kevin Eagan, Laura Palucki Blake, Sylvia Hurtado, Jennifer Berden, and Matthew H. Case, \"The American Freshman: National Norms Fall 2012,\" heri.ucla.edu, 2012",
+            "docid": 9602
+        },
+        {
+            "id": "76",
+            "title": "University of Florida Counseling & Wellness Center, \"Stress and College Students,\" counseling.ufl.edu (accessed Sep. 4, 2013)",
+            "docid": 9603
+        },
+        {
+            "id": "77",
+            "title": "Harmony Wheeler, \"UCLA Study Explores Cause and Effect of College Stress,\" chimes.biola.edu, Feb. 16, 2011",
+            "docid": 9604
+        },
+        {
+            "id": "78",
+            "title": "President & Fellows of Harvard College, \"About Harvard College,\" college.harvard.edu (accessed Sep. 27, 2013)",
+            "docid": 9605
+        },
+        {
+            "id": "79",
+            "title": "College of William & Mary, \"History & Traditions,\" wm.edu (accessed Sep. 27, 2013)",
+            "docid": 9606
+        },
+        {
+            "id": "80",
+            "title": "Yale University, \"History,\" yale.edu (accessed Sep. 27, 2013)",
+            "docid": 9607
+        },
+        {
+            "id": "81",
+            "title": "Trustees of Princeton University, \"Princeton’s History,\" princeton.edu (accessed Sep. 27, 2013)",
+            "docid": 9608
+        },
+        {
+            "id": "82",
+            "title": "Columbia University, \"History,\" columbia.edu (accessed Sep. 27, 2013)",
+            "docid": 9609
+        },
+        {
+            "id": "83",
+            "title": "Brown University, \"History,\" brown.edu (accessed Sep. 27, 2013)",
+            "docid": 9610
+        },
+        {
+            "id": "84",
+            "title": "Trustees of Dartmouth College, \"Dartmouth at a Glance,\" dartmouth.edu (accessed Sep. 27, 2013)",
+            "docid": 9611
+        },
+        {
+            "id": "85",
+            "title": "Rutgers, the State University of New Jersey, \"Rutgers History,\" rutgers.edu (accessed Sep. 27, 2013)",
+            "docid": 9612
+        },
+        {
+            "id": "86",
+            "title": "University of Pennsylvania, \"Penn’s Heritage,\" upenn.edu (accessed Sep. 27, 2013)",
+            "docid": 9613
+        },
+        {
+            "id": "87",
+            "title": "Harold Perkin, \"History of Universities,\"The History of Higher Education, Eds. Harold Wechsler, Lester F. Goodchild, and Linda Eisenmann, 2007",
+            "docid": 9614
+        },
+        {
+            "id": "88",
+            "title": "Yale University,Catalogue of the Officers and Graduates of Yale University in New Haven, 1701-1910, Jan. 1, 1910",
+            "docid": 9615
+        },
+        {
+            "id": "89",
+            "title": "Massachusetts Institute of Technology, \"MIT Highlights Timeline,\" mitstory.mit.edu (accessed Sep. 27, 2013)",
+            "docid": 9616
+        },
+        {
+            "id": "90",
+            "title": "Lester F. Goodchild, \"History of Higher Education in the United States,\"The History of Higher Education, Eds. Harold Wechsler, Lester F. Goodchild, and Linda Eisenmann, 2007",
+            "docid": 9617
+        },
+        {
+            "id": "91",
+            "title": "Douglas Sloan, \"Science, Society, and the Curriculum,\"The History of Higher Education, Eds. Harold Wechsler, Lester F. Goodchild, and Linda Eisenmann, 2007",
+            "docid": 9618
+        },
+        {
+            "id": "92",
+            "title": "Roger L. Geiger, \"The Era of Multipurpose Colleges in American Higher Education, 1850-1890,\"The History of Higher Education, Eds. Harold Wechsler, Lester F. Goodchild, and Linda Eisenmann, 2007",
+            "docid": 9619
+        },
+        {
+            "id": "93",
+            "title": "National Science Foundation, \"IPEDS Institutional Characteristics Survey Tuition Data,\" nsf.gov (accessed Aug. 20, 2013)",
+            "docid": 9620
+        },
+        {
+            "id": "94",
+            "title": "Martin A. Trow, \"American Higher Education: Past, Present, and Future,\"The History of Higher Education, Eds. Harold Wechsler, Lester F. Goodchild, and Linda Eisenmann, 2007",
+            "docid": 9621
+        },
+        {
+            "id": "95",
+            "title": "Title IX, \"History of Title IX,\" titleix.info (accessed Sep. 27, 2013)",
+            "docid": 9622
+        },
+        {
+            "id": "96",
+            "title": "National Archives, \"Affirmative Action: History and Rationale,\" nara.gov (accessed Aug. 20, 2013)",
+            "docid": 9623
+        },
+        {
+            "id": "97",
+            "title": "National Center for Education Statistics, \"Fast Facts: Enrollment,\" nces.ed.gov (accessed Sep. 27, 2013)",
+            "docid": 9624
+        },
+        {
+            "id": "98",
+            "title": "National Center for Education Statistics, \"Fast Facts: Tuition Costs of Colleges and Universities,\" nces.ed.gov (accessed Sep. 27, 2013)",
+            "docid": 9625
+        },
+        {
+            "id": "99",
+            "title": "National Center for Education Statistics, \"Digest of Education Statistics,\" nces.edu, June 1995",
+            "docid": 9626
+        },
+        {
+            "id": "100",
+            "title": "Oberlin College and Conservatory, \"History: Early History,\" oberlin.edu (accessed Sep. 30, 2013)",
+            "docid": 9627
+        },
+        {
+            "id": "101",
+            "title": "Anthony Carnevale and Nicole Smith, \"Sharp Decline in Underemployment for College Graduates,\" cew.georgetown.edu, Nov. 2015",
+            "docid": 9628
+        },
+        {
+            "id": "102",
+            "title": "National Center for Education Statistics, \"Fast Facts: Back to School Statistics,\" nces.ed.gov (accessed Jan. 30, 2020)",
+            "docid": 9629
+        },
+        {
+            "id": "103",
+            "title": "The Institute for College Access and Success, \"Student Debt and the Class of 2014,\" ticas.org, Oct. 2015",
+            "docid": 9630
+        },
+        {
+            "id": "104",
+            "title": "Anthony P. Carnevale, Tamara Jayasundera, and Artem Gulish, \"America's Divided Recovery: College Haves and Have-Nots 2016,\" cew.georgetown.edu, June 30, 2016",
+            "docid": 9631
+        },
+        {
+            "id": "105",
+            "title": "Anthony P. Carnevale and Nicole Smith, \"Trillion Dollar Infrastructure Proposals Could Create Millions of Jobs,\" Georgetown University Center on Education and the Workforce, 2017",
+            "docid": 9632
+        },
+        {
+            "id": "106",
+            "title": "Kevin Eagan, et al., \"The American Freshman: Fifty-Year Trends, 1966-2015,\" heri.ucla.edu, 2016",
+            "docid": 9633
+        },
+        {
+            "id": "107",
+            "title": "Consumer Reports, \"The Student Debt Crises: Lives on Hold,\"Consumer Reports, June 28, 2016",
+            "docid": 9634
+        },
+        {
+            "id": "108",
+            "title": "Josh Mitchell, \"Student-Loan Defaults Rose by 1.1 Million in 2016,\" wsj.com, Mar. 14, 2017",
+            "docid": 9635
+        },
+        {
+            "id": "109",
+            "title": "US Census Bureau, \"Highest Educational Levels Reached by Adults in the U.S. since 1940,\" census.gov, Mar. 30, 2017",
+            "docid": 9636
+        },
+        {
+            "id": "110",
+            "title": "US Census Bureau, \"Educational Attainment in the United States, 2016,\" census.gov, Mar. 2017",
+            "docid": 9637
+        },
+        {
+            "id": "111",
+            "title": "Sara Goldrick-Rab, Jed Richardson, and Anthony Hernandez, \"Hungry and Homeless in College,\" wihopelab.com, Mar. 2017",
+            "docid": 9638
+        },
+        {
+            "id": "112",
+            "title": "College Board, \"Tuition and Fees and Room and Board over Time, 1976-77 to 2016-17, Selected Years,\" collegeboard.org (accessed Apr. 10, 2017)",
+            "docid": 9639
+        },
+        {
+            "id": "113",
+            "title": "Federal Reserve Bank of St. Louis, \"Real Median Household Income in the United States,\" fred.stlouisfed.org, Sep. 13, 2016",
+            "docid": 9640
+        },
+        {
+            "id": "114",
+            "title": "Kirsten Gibson, \"Parents Pull Back on Help Financing Their Children's College Educations,\" thinkprogress.org, July 23, 2013",
+            "docid": 9641
+        },
+        {
+            "id": "115",
+            "title": "Sallie Mae, \"How America Pays for College 2016,\" salliemae.com, 2016",
+            "docid": 9642
+        },
+        {
+            "id": "116",
+            "title": "Bureau of Labor Statistics, \"The Employment Situation - December 2019,\" bls.gov, Jan. 10, 2020",
+            "docid": 9643
+        },
+        {
+            "id": "117",
+            "title": "National Center for Education Statistics, \"Undergraduate Retention and Graduation Rates,\" nces.ed.gov, Apr. 2017",
+            "docid": 9644
+        },
+        {
+            "id": "118",
+            "title": "National Center for Education Statistics, \"Fast Facts: Back to School Statistics,\" nces.ed.gov (accessed June 6, 2016)",
+            "docid": 9645
+        },
+        {
+            "id": "119",
+            "title": "The Institute for College Access and Success, \"Student Debt and the Class of 2014,\" ticas.org, Oct. 2015",
+            "docid": 9646
+        },
+        {
+            "id": "120",
+            "title": "Grace Bird, \"Study: College Education Can Delay Dementia,\" insidehighered.com, Apr. 17, 2018",
+            "docid": 9647
+        },
+        {
+            "id": "121",
+            "title": "National Association of Realtors, \"Student Debt Delaying Millennial Homeownership by 7 Years,\" nar.realtor.com, Sep. 18, 2017",
+            "docid": 9648
+        },
+        {
+            "id": "122",
+            "title": "Timothy K. Bartik and Brad K. Hershbein, \"Degrees of Poverty: The Relationship between Family Income Background and the Returns to Education,\" research.upjohn.org, Mar. 2018",
+            "docid": 9649
+        },
+        {
+            "id": "123",
+            "title": "Abigail Hess, \"Here's How Much the Average Student Loan Borrower Owes When They Graduate,\" cnbc.com, Feb. 15, 2018",
+            "docid": 9650
+        },
+        {
+            "id": "124",
+            "title": "National Center for Education Statistics, \"Fast Facts: Back to School Statistics,\" nces.ed.gov (accessed May 21, 2018)",
+            "docid": 9651
+        },
+        {
+            "id": "125",
+            "title": "Board of Governors for the Federal Reserve System, \"Consumer Credit Outstanding (Levels),\" federalreserve.gov, May 7, 2018",
+            "docid": 9652
+        },
+        {
+            "id": "126",
+            "title": "Erin Currier, \"How Generation X Could Change the American Dream,\" pewtrusts.org, Jan. 26, 2018",
+            "docid": 9653
+        },
+        {
+            "id": "127",
+            "title": "Zack Friedman, \"Student Loan Debt Statistics in 2019: A $1.5 Trillion Crisis,\" forbes.com, Feb. 25, 2019",
+            "docid": 9654
+        },
+        {
+            "id": "128",
+            "title": "Jaison R. Abel and Richard Deitz, \"Despite Rising Costs, College Is Still a Good Investment,\" libertystreeteconomics.newyorkfed.org, June 5, 2019",
+            "docid": 9655
+        },
+        {
+            "id": "129",
+            "title": "Federal Reserve Bank of New York, \"The Labor Market for Recent College Graduates,\" newyorkfed.org, Nov. 1, 2019",
+            "docid": 9656
+        },
+        {
+            "id": "130",
+            "title": "Elissa Nadworny, \"'Losing A Generation': Fall College Enrollment Plummets for 1st-Year Students,\" npr.org, Dec. 17, 2020",
+            "docid": 9657
+        },
+        {
+            "id": "131",
+            "title": "Ann Carrns, \"A Worrisome Drop in College Aid Applications,\" nytimes.com, Dec. 18, 2020",
+            "docid": 9658
+        },
+        {
+            "id": "132",
+            "title": "Anthony P. Carnevale, \"When Back to School Meets Stay at Home,\" medium.com, Jan. 13, 2021",
+            "docid": 9659
+        },
+        {
+            "id": "133",
+            "title": "National Student Clearinghouse Research Center, \"Overview: Spring 2023 Enrollment Estimates,\" nscresearchcenter.org, Spring 2023",
+            "docid": 9660
+        },
+        {
+            "id": "134",
+            "title": "Alicia Hahn, \"2023 Student Loan Debt Statistics: Average Student Loan Debt, forbes.com, May 9, 2023",
+            "docid": 9661
+        },
+        {
+            "id": "135",
+            "title": "Eliza Fawcett, \"The Pandemic Generation Goes to College. It Has Not Been Easy.,\" nytimes.com, June 20, 2023",
+            "docid": 9662
+        }
+    ],
+    "url": "https://college-education.procon.org/"
+}

@@ -7,12 +7,12 @@ Retrieval Augmented Argumentation or Retrieval Augmented Argument Generation inv
 - Evaluating RAG systems
 
 ## Statistics of ConQRet
-| Statistic                      | Train | Test |
-|---------------------------------|-------|------|
-| Total topics                    | 68    | 30   |
-| Avg. docs per topic             | 69    | 64   |
-| Avg. relevant docs per topic    | 34    | 32   |
-| Avg. docs per stance            | 17    | 16   |
+| Statistic                      |     |
+|---------------------------------|-----|
+| Total topics                    | 98  |
+| Avg. docs per topic             | 133 |
+| Avg. relevant docs per topic    | 66  |
+| Avg. docs per stance            | 33  |
 
 The total number of documents retrieved and scraped from the web are 6500.
 
@@ -21,10 +21,13 @@ The total number of documents retrieved and scraped from the web are 6500.
 
 ## Getting Started
 
-### Accessing the Data
-```python
-import utils
-train_qrels, train_queries, test_qrels, test_queries = utils.get_qrels(as_df=True, include_random_negs=True)
+Download the data from this [Google Drive link](https://drive.google.com/file/d/1jzNKVsc9VRc6kTOWFYdvp6NDoT4NQqak/view?usp=sharing), unzip it and copy it in the project home folder ("conqret-rag"). The password is provided at the end of the README. 
+### Reproducing the Retrieval Results
+```bash
+python retriever.py
+```
+OR
+```bash
 ```
 
 ### Running Sample Retrievers
@@ -33,4 +36,12 @@ train_qrels, train_queries, test_qrels, test_queries = utils.get_qrels(as_df=Tru
 ## Load the 
 
 ```ssh
-conda create -n my-env python=3.10.0
+pip install -r requirements.txt
+pip install --upgrade git+https://github.com/emory-irlab/pyterrier_genrank.git
+```
+
+
+### Password for Unzipping the Documents
+SaglyanchaVichaarVasudhaivaKutumbakam01293872
+
+Do not publicly upload elsewhere. We are sharing the documents separately to mitigate the possibility of it being used for training, although we do not guarantee that many of them might already be used by popular models through other means.

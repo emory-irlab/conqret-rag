@@ -1,0 +1,1059 @@
+{
+    "title": "Is Human Activity Primarily Responsible for Global Climate Change?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "John Cook, et al., \"Quantifying the Consensus on Anthropogenic Global Warming in the Scientific Literature,\"Environmental Research Letters, May 15, 2013",
+            "docid": 11427
+        },
+        {
+            "id": "2",
+            "title": "Nicola Scafetta, \"Multi-Scale Harmonic Model for Solar and Climate Cyclical Variation throughout the Holocene Based on Jupiter-Saturn Tidal Frequencies Plus the 11-Year Solar Dynamo Cycle,\"Journal of Atmospheric and Solar-Terrestrial Physics, May 2012",
+            "docid": 11428
+        },
+        {
+            "id": "3",
+            "title": "Shaun A. Marcott, Jeremy D. Shakun, Peter U. Clark, and Alan C. Mix, \"A Reconstruction of Regional and Global Temperature for the Past 11,300 Years,\"Science, Mar. 8, 2013",
+            "docid": 11429
+        },
+        {
+            "id": "4",
+            "title": "University of Leicester, \"An Ancient Earth Like Ours: Geologists Reconstruct the Earth's Climate Belts between 460 and 445 Million Years Ago,\" eurekaalert.org, Aug. 9, 2010",
+            "docid": 11430
+        },
+        {
+            "id": "5",
+            "title": "James L. Powell, \"Science and Global Warming,\" jamespowell.org (accessed Feb. 19, 2015)",
+            "docid": 11431
+        },
+        {
+            "id": "6",
+            "title": "Stephen J. Farnsworth and S. Robert Lichter, \"The Structure of Scientific Opinion on Climate Change,\"International Journal of Public Opinion, Oct. 2011",
+            "docid": 11432
+        },
+        {
+            "id": "7",
+            "title": "NASA, \"Scientific Consensus: Earth's Climate Is Warming,” climate.nasa.gov (accessed Apr. 1, 2020)",
+            "docid": 11433
+        },
+        {
+            "id": "8",
+            "title": "US Environmental Protection Agency, \"The Greenhouse Effect,\" epa.gov (accessed Feb. 19, 2015)",
+            "docid": 11434
+        },
+        {
+            "id": "9",
+            "title": "United Nations Environment Programme, \"Climate Change Information Sheet 22: How Human Activities Produce Greenhouse Gases,” unfit.int, July 18, 2000",
+            "docid": 11435
+        },
+        {
+            "id": "10",
+            "title": "NOAA Earth System Research Laboratory, \"Trends in Atmospheric Carbon Dioxide,\" ersl.noaa.gov (accessed Feb. 19, 2015)",
+            "docid": 11436
+        },
+        {
+            "id": "11",
+            "title": "Bobby Magill, \"Arctic Methane Emissions 'Certain to Trigger Warming,'\" climatecentral.org, May 1, 2014",
+            "docid": 11437
+        },
+        {
+            "id": "12",
+            "title": "Euan G. Nisbet, Edward J. Dlugokencky, and Philippe Bousquet, \"Methane on the Rise – Again,\"Science, Jan. 2014",
+            "docid": 11438
+        },
+        {
+            "id": "13",
+            "title": "US Environmental Protection Agency, \"Overview of Greenhouse Gases,\" epa.gov (accessed Feb. 19, 2015)",
+            "docid": 11439
+        },
+        {
+            "id": "14",
+            "title": "Dave S. Reay, et al., \"Global Agriculture and Nitrous Oxide Emissions,\"Nature Climate Change, June 2012",
+            "docid": 11440
+        },
+        {
+            "id": "15",
+            "title": "Rob Monroe, \"What Does This Number Mean?,\" scripps.ucsd.edu, Apr. 2013",
+            "docid": 11441
+        },
+        {
+            "id": "16",
+            "title": "US Global Change Research Program, \"US National Climate Assessment,\" nca2014.globalchange.gov, May 2014",
+            "docid": 11442
+        },
+        {
+            "id": "17",
+            "title": "Rob Monroe, \"What Does 400 PPM Look Like?,\" scripps.ucsd.edu, Dec. 3, 2013",
+            "docid": 11443
+        },
+        {
+            "id": "18",
+            "title": "US Environmental Protection Agency, \"Overview of Greenhouse Gases: Carbon Dioxide Emissions,\" epa.gov (accessed Feb. 19, 2015)",
+            "docid": 11444
+        },
+        {
+            "id": "19",
+            "title": "US Environmental Protection Agency, \"Sources of Greenhouse Gas Emissions,” epa.gov (accessed Apr. 1, 2020)",
+            "docid": 11445
+        },
+        {
+            "id": "20",
+            "title": "Aylin Woodward, \"Sea Levels Are Projected to Rise 3 Feet within 80 Years, According to a New UN Report. Hundreds of Millions of People Could Be Displaced.,” businessinsider.com, Sep. 25, 2019",
+            "docid": 11446
+        },
+        {
+            "id": "21",
+            "title": "Berkeley Earth, \"Summary of Findings,\" berkeleyearth.org (accessed Feb. 20, 2015)",
+            "docid": 11447
+        },
+        {
+            "id": "22",
+            "title": "Richard A. Muller, \"The Conversion of a Climate-Change Skeptic,\" nytimes.com, July 28, 2012",
+            "docid": 11448
+        },
+        {
+            "id": "23",
+            "title": "Michael E. Mann, et al., \"Proxy-Based Reconstructions of Hemispheric and Global Surface Temperature Variations over the past Two Millennia,\"Proceedings of the National Academy of Sciences, Sep. 9, 2008",
+            "docid": 11449
+        },
+        {
+            "id": "24",
+            "title": "NASA, \"Climate Change: How Do We Know?,” nasa.gov (accessed Apr. 1, 2020)",
+            "docid": 11450
+        },
+        {
+            "id": "25",
+            "title": "Oregon State University, \"Earth Warmer Today than During 70 to 80 Percent of the Past 11,300 years,\"ScienceDaily, Mar. 7, 2013",
+            "docid": 11451
+        },
+        {
+            "id": "26",
+            "title": "Andrew P. Schurer, Simon F. B. Tett, and Gabriele C. Hegerl, \"Small Influence of Solar Variability on Climate over the Past Millennium,\"Nature Geoscience, Dec. 22, 2013",
+            "docid": 11452
+        },
+        {
+            "id": "27",
+            "title": "T. Sloan and A.W. Wolfendale, \"Cosmic Rays, Solar Activity and the Climate,\"Environmental Research Letters, Nov. 7, 2013",
+            "docid": 11453
+        },
+        {
+            "id": "28",
+            "title": "NASA, “Is the Sun Causing Global Warming?,” nasa.gov (accessed Apr. 1, 2020)",
+            "docid": 11454
+        },
+        {
+            "id": "29",
+            "title": "Intergovernmental Panel on Climate Change (IPCC), \"Climate Change 2013: The Physical Science Basis,\" ipcc.ch, 2013",
+            "docid": 11455
+        },
+        {
+            "id": "30",
+            "title": "Kristina Pistone, Ian Eisenman, and V. Ramanathan, \"Observational Determination of Albedo Decrease Caused by Vanishing Arctic Sea Ice,\"Proceedings of the National Academy of Sciences, Mar. 4, 2014",
+            "docid": 11456
+        },
+        {
+            "id": "31",
+            "title": "Julie Brigham-Grette, et al., \"Pliocene Warmth, Polar Amplification, and Stepped Pleistocene Cooling Recorded in NE Arctic Russia,\"Science, June 21, 2013",
+            "docid": 11457
+        },
+        {
+            "id": "32",
+            "title": "Kurt Lambeck, et al., \"Sea Level and Global Ice Volumes from the Last Glacial Maximum to the Holocene,\"Proceedings of the National Academy of Sciences, Oct. 28, 2014",
+            "docid": 11458
+        },
+        {
+            "id": "33",
+            "title": "Oliver Milman, \"Sea Level Rise over Past Century Unmatched in 6,000 Years, Says Study,\" theguardian.com, Oct. 13, 2014",
+            "docid": 11459
+        },
+        {
+            "id": "34",
+            "title": "S. Jevrejeva, A. Grinsted, and J.C. Moore, \"Upper Limit for Sea Level Projections by 2100,\"Environmental Research Letters, Oct. 10, 2014",
+            "docid": 11460
+        },
+        {
+            "id": "35",
+            "title": "Marta Marcos and Angel Amores, \"Quantifying Anthropogenic and Natural Contributions to Thermosteric Sea Level Rise,”Geophysical Research Letters, Mar. 29, 2014",
+            "docid": 11461
+        },
+        {
+            "id": "36",
+            "title": "US Government Accountability Office, \"Ocean Acidification: Federal Response Under Way, but Actions Needed to Understand and Address Potential Impacts,\" gao.gov, Sep. 2014",
+            "docid": 11462
+        },
+        {
+            "id": "37",
+            "title": "World Meteorological Organization, \"WMO Greenhouse Gas Bulletin,\" wmo.int, Sep. 9, 2014",
+            "docid": 11463
+        },
+        {
+            "id": "38",
+            "title": "Ove Hoegh-Guldberg and John F. Bruno, \"The Impact of Climate Change on the World’s Marine Ecosystems,\"Science, June 18, 2010",
+            "docid": 11464
+        },
+        {
+            "id": "39",
+            "title": "UNEP Convention on Biological Diversity, \"An Updated Synthesis of the Impacts of Ocean Acidification on Marine Biodiversity,\" cbd.int, 2014",
+            "docid": 11465
+        },
+        {
+            "id": "40",
+            "title": "W. Llovel, et al., \"Deep-Ocean Contribution to Sea Level and Energy Budget Not Detectable over the Past Decade,\"Nature Climate Change, Oct. 2014",
+            "docid": 11466
+        },
+        {
+            "id": "41",
+            "title": "Paul J. Durack, et al., \"Quantifying Underestimates of Long-Term Upper-Ocean Warming,\"Nature Climate Change, Oct. 2014",
+            "docid": 11467
+        },
+        {
+            "id": "42",
+            "title": "Lawrence Livermore National Laboratory, \"Research Shows Humans Are Primary Cause of Global Ocean Warming over Past 50 Years,” llnl.gov, June 10, 2012",
+            "docid": 11468
+        },
+        {
+            "id": "43",
+            "title": "The Earth Institute Columbia University, \"Is Global Heating Hiding Out in the Oceans?,\" earthinstitute.columbia.edu, Oct. 31, 2013",
+            "docid": 11469
+        },
+        {
+            "id": "44",
+            "title": "National Snow and Ice Data Center (NSIDC), \"Glaciers and Climate Change,\" nsidc.org (accessed Feb. 23, 2015)",
+            "docid": 11470
+        },
+        {
+            "id": "45",
+            "title": "University of Innsbruck, \"Human Contribution to Glacier Mass Loss Increasing, \"ScienceDaily, Aug. 14, 2014",
+            "docid": 11471
+        },
+        {
+            "id": "46",
+            "title": "American Meteorological Society, \"Explaining Extreme Events of 2013 from a Climate Perspective,\"Bulletin of the American Meteorological Society, Sep. 2014",
+            "docid": 11472
+        },
+        {
+            "id": "47",
+            "title": "James Hansen, Makiko Sato, and Reto Ruedy, \"Perception of Climate Change,\"Proceedings of the National Academy of Sciences, Sep. 11, 2012",
+            "docid": 11473
+        },
+        {
+            "id": "48",
+            "title": "Kate Marvel and Céline Bonfils, \"Identifying External Influences on Global Precipitation,\"Proceedings of the National Academy of Sciences, Nov. 26, 2013",
+            "docid": 11474
+        },
+        {
+            "id": "49",
+            "title": "Intergovernmental Panel on Climate Change (IPCC), \"Climate Change 2014: Impacts, Adaptation, and Vulnerability,\" ipcc.ch, 2014",
+            "docid": 11475
+        },
+        {
+            "id": "50",
+            "title": "Bobby Magill, \"Arctic Methane Emissions 'Certain to Trigger Warming,'\" climatecentral.org, May 1, 2014",
+            "docid": 11476
+        },
+        {
+            "id": "51",
+            "title": "NOAA National Climatic Data Center, \"What Are Positive Feedbacks?,\" ncdc.noaa.gov (accessed Feb. 23, 2015)",
+            "docid": 11477
+        },
+        {
+            "id": "52",
+            "title": "Susan M. Natali, Edward A.G. Schuur, Elizabeth E. Webb, Caitlin E. Hicks Pries, and Kathryn G. Crummer, \"Permafrost Degradation Stimulates Carbon Loss from Experimentally Warmed Tundar,\"Ecology, Mar. 2014",
+            "docid": 11478
+        },
+        {
+            "id": "53",
+            "title": "United Nations Environment Programme (UNEP), \"Policy Implications of Warming Permafrost,\" unep.org, 2012",
+            "docid": 11479
+        },
+        {
+            "id": "54",
+            "title": "David Henderson, \"1.6%, Not 97%, Agree that Humans are the Main Cause of Global Warming,” econlib.org, Mar. 16, 2014",
+            "docid": 11480
+        },
+        {
+            "id": "55",
+            "title": "Climate Depot, \"More than 1000 International Scientists Dissent over Man-Made Global Warming Claims,\" cfact.org, Dec. 8, 2010",
+            "docid": 11481
+        },
+        {
+            "id": "56",
+            "title": "15 Scientists \"Scientists Respond to the Obama Administration's National Climate Assessment– 2014,\" scribd.com, May 15, 2014",
+            "docid": 11482
+        },
+        {
+            "id": "57",
+            "title": "Joseph Bast, \"The Myth of the 98 Percent,\" heartland.org, Oct. 2012",
+            "docid": 11483
+        },
+        {
+            "id": "58",
+            "title": "Joseph Bast and Roy Spencer, \"The Myth of the Climate Change '97%,’\" wsj.com, May 26, 2014",
+            "docid": 11484
+        },
+        {
+            "id": "59",
+            "title": "Leif Kullman, \"Ecological Tree Line History and Palaeoclimate - Review of Megafossil Evidence from the Swedish Scandes,\"Boreas, 2013",
+            "docid": 11485
+        },
+        {
+            "id": "60",
+            "title": "Patrick Moore, \"Natural Resource Adaptation: Protecting Ecosystems and Economies,\" epw.senate.gov, Feb. 25, 2014",
+            "docid": 11486
+        },
+        {
+            "id": "61",
+            "title": "Rob Monroe, \"How Much CO2 Can the Oceans Take Up?,\" scripps.ucsd.edu, July 3, 2013",
+            "docid": 11487
+        },
+        {
+            "id": "62",
+            "title": "Sean M. McMahon, Geoffrey G. Parker, and Dawn R. Miller, \"Evidence for a Recent Increase in Forest Growth,\"Proceedings of the National Academy of Sciences, Feb. 23, 2010",
+            "docid": 11488
+        },
+        {
+            "id": "63",
+            "title": "Craig D. Idso, \"A New Propaganda Film by the NRDC Fails the Acid Test of Real World Data,\" scienceandpublicpolicy.org, Jan. 5, 2010",
+            "docid": 11489
+        },
+        {
+            "id": "64",
+            "title": "A.P. Ballantyne, et al., \"Increase in Observed Net Carbon Dioxide Uptake by Land and Oceans during the Past 50 Years,\"Nature, Aug. 2012",
+            "docid": 11490
+        },
+        {
+            "id": "65",
+            "title": "Marc Morano, \"New Peer-Reviewed Scientific Studies Chill Global Warming Fears,\" epw.senate.gov, Aug. 20, 2007",
+            "docid": 11491
+        },
+        {
+            "id": "66",
+            "title": "William Happer, \"Climate Science in the Political Arena,\" globalwarming.house.gov, May 20, 2010",
+            "docid": 11492
+        },
+        {
+            "id": "67",
+            "title": "Nongovernmental International Panel on Climate Change (NIPCC), \"Climate Change Reconsidered II: Physical Science,\" nipccreport.org, Sep. 2013",
+            "docid": 11493
+        },
+        {
+            "id": "68",
+            "title": "O.M. Raspopov, et al., \"Deep Solar Activity Minima, Sharp Climate Changes, and Their Impact on Ancient Civilizations,\"Geomagnetism and Aeronomy, Dec. 2013",
+            "docid": 11494
+        },
+        {
+            "id": "69",
+            "title": "W.J.R. Alexander and F. Bailey, \"Solar Activity and Climate Change - A Summary,\"Energy & Environment, Nov. 2007",
+            "docid": 11495
+        },
+        {
+            "id": "70",
+            "title": "Willie Soon and David R. Legates, \"Solar Irradiance Modulation of Equator-to-Pole (Arctic) Temperature Gradients: Empirical Evidence for Climate Variation on Multi-Decadal Timescales,\"Journal of Atmospheric and Solar-Terrestrial Physics, Dec. 13, 2012",
+            "docid": 11496
+        },
+        {
+            "id": "71",
+            "title": "Nicola Scafetta, \"Multi-Scale Harmonic Model for Solar and Climate Cyclical Variation throughout the Holocene Based on Jupiter-Saturn Tidal Frequencies Plus the 11-Year Solar Dynamo Cycle,\"Journal of Atmospheric and Solar-Terrestrial Physics, 2012",
+            "docid": 11497
+        },
+        {
+            "id": "72",
+            "title": "Ross R. McKitrick, \"HAC-Robust Measurement of the Duration of a Trendless Subsample in a Global Climate Time Series,\"Open Journal of Statistics, Aug. 2014",
+            "docid": 11498
+        },
+        {
+            "id": "73",
+            "title": "Richard Lindzen, \"MIT Climate Scientist Dr. Richard Lindzen Rips UN IPCC Report,\" climatedepot.com, Sep. 28, 2013",
+            "docid": 11499
+        },
+        {
+            "id": "74",
+            "title": "Qian WeiHong and Lu Bo, \"Periodic Oscillations in Millennial Global-Mean Temperature and Their Causes,\"Chinese Science Bulletin, Dec. 2010",
+            "docid": 11500
+        },
+        {
+            "id": "75",
+            "title": "Richard S. Lindzen and Yong-Sang Choi, \"On the Observational Determination of Climate Sensitivity and Its Implications,\"Asia-Pacific Journal of Atmospheric Sciences, 2011",
+            "docid": 11501
+        },
+        {
+            "id": "76",
+            "title": "Nicholas Lewis and Judith A. Curry, \"The Implications for Climate Sensitivity of AR5 Forcing and Heat Uptake Estimates,\"Climate Dynamics, Sep. 25, 2014",
+            "docid": 11502
+        },
+        {
+            "id": "77",
+            "title": "Roy W. Spencer, \"95% of Climate Models Agree: The Observations Must Be Wrong,\" drroyspencer.com, Feb. 7, 2014",
+            "docid": 11503
+        },
+        {
+            "id": "78",
+            "title": "Tim Ball, \"A Simple Truth; Computer Climate Models Cannot Work,\" wattsupwiththat.com, Oct. 16, 2014",
+            "docid": 11504
+        },
+        {
+            "id": "79",
+            "title": "Willem P. de Lange and Robert M. Carter, \"Sea-Level Change: Living with Uncertainty,\" thegwpf.org, 2014",
+            "docid": 11505
+        },
+        {
+            "id": "80",
+            "title": "Judith Curry, \"Slowing Sea Level Rise,\" judithcurry.com, Apr. 24, 2014",
+            "docid": 11506
+        },
+        {
+            "id": "81",
+            "title": "Michael D. Lemonick, \"Freeman Dyson Takes on the Climate Establishment,\" e360.yale.edu, June 4, 2009",
+            "docid": 11507
+        },
+        {
+            "id": "82",
+            "title": "M.R. Palmer, P.N. Pearson, and S.J. Cobb, \"Reconstructing Past Ocean pH-Depth Profiles,\"Science, Nov. 1998",
+            "docid": 11508
+        },
+        {
+            "id": "83",
+            "title": "Fred Pearce, \"Claims Himalayan Glaciers Could Melt by 2035 Were False, Says UN Scientist,\" theguardian.com, Jan. 21, 2010",
+            "docid": 11509
+        },
+        {
+            "id": "84",
+            "title": "I.M. Bahuguna, et al., \"Are the Himalayan Glaciers Retreating?,\"Current Science, Apr. 2014",
+            "docid": 11510
+        },
+        {
+            "id": "85",
+            "title": "Eric J. Steig, et al., \"Recent Climate and Ice-Sheet Changes in West Antarctica Compared with the Past 2,000 Years,\"Nature Geoscience, Apr. 14, 2013",
+            "docid": 11511
+        },
+        {
+            "id": "86",
+            "title": "Brett Smith, \"Antarctic Glacial Melt Part of a Natural Cycle, Says New Study,\" redorbit.com, Apr. 15, 2013",
+            "docid": 11512
+        },
+        {
+            "id": "87",
+            "title": "Larry Bell, \"Receding Swiss Glaciers Inconveniently Reveal 4000 Year Old Forests - and Make It Clear That Glacier Retreat Is Nothing New,\" wattsupwiththat.com, Aug. 8, 2014",
+            "docid": 11513
+        },
+        {
+            "id": "88",
+            "title": "Don J. Easterbrook, \"Global Cooling Is Here,\" globalresearch.ca, June 28, 2014",
+            "docid": 11514
+        },
+        {
+            "id": "89",
+            "title": "Philip J. Klotzbach and William M. Gray, \"Qualitative Discussion of Atlantic Basin Seasonal Hurricane Activity for 2014,\" tropical.atmos.colstate.edu, Dec. 10, 2013",
+            "docid": 11515
+        },
+        {
+            "id": "90",
+            "title": "Judith Curry, \"Climate Change, Extreme Weather Linked(?) at Last,\" judithcurry.com, June 30, 2011",
+            "docid": 11516
+        },
+        {
+            "id": "91",
+            "title": "Ezra Klein, \"Al Gore Explains Why He's Optimistic about Stopping Global Warming,\" washingtonpost.com, Aug. 21, 2013",
+            "docid": 11517
+        },
+        {
+            "id": "92",
+            "title": "Richard S. Lindzen, \"The Political Assault on Climate Skeptics,\" wsj.com, Mar. 4, 2015",
+            "docid": 11518
+        },
+        {
+            "id": "93",
+            "title": "Craig D. Idso, \"Extreme Weather Events: Are They Influenced by Rising Atmospheric CO2?,\" co2science.org, Sep. 10, 2014",
+            "docid": 11519
+        },
+        {
+            "id": "94",
+            "title": "NOAA National Climactic Data Center, \"Annual Global Analysis for 2014 ,\" ncdc.noaa.gov, Jan. 2015",
+            "docid": 11520
+        },
+        {
+            "id": "95",
+            "title": "Nongovernmental International Panel on Climate Change (NIPCC), \"Climate Change Reconsidered II: Biological Impacts,\" nipccreport.org, 2014",
+            "docid": 11521
+        },
+        {
+            "id": "96",
+            "title": "Lyle Denniston, \"Opinion Analysis: EPA Mostly Wins, but with Criticism,\" scotusblog.com, June 23, 2014",
+            "docid": 11522
+        },
+        {
+            "id": "97",
+            "title": "Christopher Monckton, Willie W.H. Soon, David R. Legates, and William M. Briggs, \"Why Models Run Hot: Results from an Irreducibly Simple Climate Model,\"Science Bulletin, Jan. 2015",
+            "docid": 11523
+        },
+        {
+            "id": "98",
+            "title": "National Research Council of the National Academies, \"Surface Temperature Reconstructions for the Last 2,000 Years,\" nap.edu, 2006",
+            "docid": 11524
+        },
+        {
+            "id": "99",
+            "title": "National Oceanic and Atmospheric Administration (NOAA), \"Global Climate Change Indicators,\" ncdc.noaa.gov, Apr. 13, 2010",
+            "docid": 11525
+        },
+        {
+            "id": "100",
+            "title": "National Aeronautics and Space Administration (NASA), \"Global Climate Change: How Do We Know,\" climate.nasa.gov (accessed Apr. 7, 2015)",
+            "docid": 11526
+        },
+        {
+            "id": "101",
+            "title": "Robert Andres, and Gregg Marland, et al., \"Carbon Dioxide Emissions from Fossil Fuel Consumption and Cement Manufacture, 1751-1991,\" Oak Ridge National Laboratory, May 23, 1994",
+            "docid": 11527
+        },
+        {
+            "id": "102",
+            "title": "Intergovernmental Panel on Climate Change (IPCC), \"Climate Change 2007: Working Group I: The Physical Science Basis,\" ipcc.ch, 2007",
+            "docid": 11528
+        },
+        {
+            "id": "103",
+            "title": "Justin Gillis and Nadja Popovich, \"The U.S. Is the Biggest Carbon Polluter in History. It Just Walked away from the Paris Climate Deal.,” nytimes.com, June 1, 2017",
+            "docid": 11529
+        },
+        {
+            "id": "104",
+            "title": "Tihomir Novakov, et al., \"Aerosol Organic Carbon to Black Carbon Ratios: Analysis of Published Data and Implications for Climate Forcing,\"Journal of Geophysical Research, Nov. 8, 2005",
+            "docid": 11530
+        },
+        {
+            "id": "105",
+            "title": "Julienne Stroeve, et al., \"Arctic Sea Ice Decline: Faster than Forecast,\"Journal of Geophysical Research, May 1, 2007",
+            "docid": 11531
+        },
+        {
+            "id": "106",
+            "title": "John A. Church, and Neil J. White, \"A 20th Century Acceleration in Global Sea-Level Rise,\"Geophysical Research Letters, Jan. 6, 2006",
+            "docid": 11532
+        },
+        {
+            "id": "107",
+            "title": "James P. Barry, \"Marine Organisms and Ecosystems in a High CO2 Ocean,\" Monterey Bay Research Institute, Apr. 22, 2010",
+            "docid": 11533
+        },
+        {
+            "id": "108",
+            "title": "National Research Council, \"Ocean Acidification: A National Strategy to Meet the Challenges of a Changing Ocean,\" nap.edu, 2010",
+            "docid": 11534
+        },
+        {
+            "id": "109",
+            "title": "Johannes Oerlemans, \"Deriving Global Temperature from Glacier Length Records,\" phys.uu.nl (accessed May 6, 2010)",
+            "docid": 11535
+        },
+        {
+            "id": "110",
+            "title": "World Glacier Monitoring Service, \"Preliminary Glacier Mass Balance Data 2007/2008,\" geo.unizh.ch/wgms (accessed Apr. 27, 2010)",
+            "docid": 11536
+        },
+        {
+            "id": "111",
+            "title": "Tim P. Barnett, et al., \"Human-Induced Changes in the Hydrology of the Western United States,\"Science, Feb. 22, 2008",
+            "docid": 11537
+        },
+        {
+            "id": "112",
+            "title": "Andrew Dessler, et al., \"Water-Vapor Climate Feedback Inferred from Climate Fluctuations, 2003–2008,\"Geophysical ResearchLetters, Oct. 2008",
+            "docid": 11538
+        },
+        {
+            "id": "113",
+            "title": "NASA, \"Water Vapor Confirmed as Major Player in Climate Change,\" nasa.gov, Nov. 17, 2008",
+            "docid": 11539
+        },
+        {
+            "id": "114",
+            "title": "Arthur B. Robinson, et al., \"Environmental Effects of Increased Atmospheric Carbon Dioxide,\"Journal of American Physicians and Surgeons, Fall 2007",
+            "docid": 11540
+        },
+        {
+            "id": "115",
+            "title": "Willie Soon and Sallie Baliunas, \"Proxy Climatic and Environmental Changes of the Past 1000 Years,\"Climate Research, 2003",
+            "docid": 11541
+        },
+        {
+            "id": "116",
+            "title": "Anders Moberg, et al., \"Highly Variable Northern Hemisphere Temperatures Reconstructed from Low and High Resolution Proxy Data,\"Nature, Feb. 2005",
+            "docid": 11542
+        },
+        {
+            "id": "117",
+            "title": "Nicholas Caillon, and Jeffrey P. Severinghaus, et al., \"Timing of Atmospheric CO2 and Antarctic Temperature Changes across Termination III,\"Science, Mar. 14, 2003",
+            "docid": 11543
+        },
+        {
+            "id": "118",
+            "title": "US Senate Minority Environment and Public Works Committee, \"US Senate Report: Over 400 Prominent Scientists Disputed Man-Made Global Warming Claims in 2007,\" epw.senate.go, Dec. 20, 2007",
+            "docid": 11544
+        },
+        {
+            "id": "119",
+            "title": "Richard S. Lindzen, \"Testimony of Richard S. Lindzen before the Senate Environment and Public Works Committee,\" eaps.mit.edu, May 2, 2001",
+            "docid": 11545
+        },
+        {
+            "id": "120",
+            "title": "Keith Sherwood and Craig Idso, \"The Ocean Acidification Fiction,\" co2science.org, June 2009",
+            "docid": 11546
+        },
+        {
+            "id": "121",
+            "title": "Dennis Ambler, \"Acidified Shell Fish: A Distorted View,\" scienceandpublicpolicy.org, Apr. 27, 2010",
+            "docid": 11547
+        },
+        {
+            "id": "122",
+            "title": "William Gray, \"MIT Professor's Climate Change Op-Ed Proven False,\" globalwarmingheartland.org, Apr. 7, 2010",
+            "docid": 11548
+        },
+        {
+            "id": "123",
+            "title": "Roy W. Spencer, \"Global Warming as a Natural Response to Cloud Changes Associated with the Pacific Decadal Oscillation (PDO),\" drroyspencer.com, Oct. 20, 2008",
+            "docid": 11549
+        },
+        {
+            "id": "124",
+            "title": "Petr Chylek, et al., \"Arctic Air Temperature Change Amplification and the Atlantic Multidecadal Oscillation,\"Geophysical Research Letters, July 16, 2009",
+            "docid": 11550
+        },
+        {
+            "id": "125",
+            "title": "Max Mayfield, \"Oversight Hearing on the Lifesaving Role of Accurate Hurricane Prediction,\" US Senate Committee on Commerce, Science and Transportation Subcommittee on Disaster Prevention and Prediction, Sep. 20, 2005",
+            "docid": 11551
+        },
+        {
+            "id": "126",
+            "title": "NASA, \"John Tyndall (1820-1893),\" earthobservatory.nasa.gov (June 2, 2010)",
+            "docid": 11552
+        },
+        {
+            "id": "127",
+            "title": "G.S. Callendar, \"The Artificial Production of Carbon Dioxide and Its Influence on Temperature,\"Quarterly Journal of the Royal Meteorological Society, Feb. 16, 1938",
+            "docid": 11553
+        },
+        {
+            "id": "128",
+            "title": "National Oceanic and Atmospheric Administration (NOAA), \"Mauna Loa Carbon Dioxide Record,\" noaa.gov (accessed June 2, 2010)",
+            "docid": 11554
+        },
+        {
+            "id": "129",
+            "title": "Scripps Institution of Oceanography, \"Obituary Notice: Climate Science Pioneer: Charles David Keeling,\" scripps.ucsd.edu, June 22, 2005",
+            "docid": 11555
+        },
+        {
+            "id": "130",
+            "title": "National Academies of Sciences, \"Energy and Climate: Studies in Geophysics,\" nap.edu, 1977",
+            "docid": 11556
+        },
+        {
+            "id": "131",
+            "title": "James Hansen, \"The Greenhouse Effect: Impacts on Current Global Temperature and Regional Heat Waves,\" US Senate Committee on Energy and Natural Resources Hearing, June 23, 1988",
+            "docid": 11557
+        },
+        {
+            "id": "132",
+            "title": "James Hansen, et al., \"Global Climate Changes as Forecasted by Goddard Institute for Space Studies Three-Dimensional Model,\"Journal of Geophysical Research, Aug. 20, 1988",
+            "docid": 11558
+        },
+        {
+            "id": "133",
+            "title": "Richard A. Kerr, \"Greenhouse Skeptic Out in the Cold,\"Science, Dec. 1, 1989",
+            "docid": 11559
+        },
+        {
+            "id": "134",
+            "title": "National Snow and Ice Data Center (NSIDC), \"Feedback Loops: Interactions That Influence Arctic Climate,\" nsidc.org (accessed Apr. 29, 2010)",
+            "docid": 11560
+        },
+        {
+            "id": "135",
+            "title": "Intergovernmental Panel on Climate Change (IPCC), \"IPCC First Assessment Report,\" ipcc.ch, 1990",
+            "docid": 11561
+        },
+        {
+            "id": "136",
+            "title": "United Nations Framework Convention on Climate Change (UNFCCC), \"The Intergovernmental Panel on Climate Change,\" unfccc.int (accessed May 5, 2010)",
+            "docid": 11562
+        },
+        {
+            "id": "137",
+            "title": "United Nations (UN), \"United Nations Framework Convention on Climate Change,\" unfccc.int, 1992",
+            "docid": 11563
+        },
+        {
+            "id": "138",
+            "title": "US Environmental Protection Agency, \"Executive Summary - Inventory of Greenhouse Gas Emissions and Sinks: 1990-2008,\" epa.gov, Apr. 15, 2010",
+            "docid": 11564
+        },
+        {
+            "id": "139",
+            "title": "United Nations Framework Convention on Climate Change (UNFCCC), \"Kyoto Protocol to the United Nations Framework Convention on Climate Change,\" unfccc.int, 1998",
+            "docid": 11565
+        },
+        {
+            "id": "140",
+            "title": "United Nations Framework Convention on Climate Change (UNFCCC), \"Kyoto Protocol,\" unfccc.int (accessed May 6, 2010)",
+            "docid": 11566
+        },
+        {
+            "id": "141",
+            "title": "Christiaan Vrolijk, \"The Bonn Agreement - The World Agrees to Leave the US on the Sideline,\" chathamhouse.org.uk, Aug. 2001",
+            "docid": 11567
+        },
+        {
+            "id": "142",
+            "title": "United Nations Framework Convention on Climate Change, \"Copenhagen Accord,\" unfccc.int, Dec. 18, 2009",
+            "docid": 11568
+        },
+        {
+            "id": "143",
+            "title": "Al Jazeera English, \"Bolivian Climate Summit Gets UN Nod,\" aljazeera.com, Apr. 22, 2010",
+            "docid": 11569
+        },
+        {
+            "id": "144",
+            "title": "World People's Conference on Climate Change and the Rights of Mother Earth, \"Peoples Agreement,\" pwccc.wordpress.com, Apr. 22, 2010",
+            "docid": 11570
+        },
+        {
+            "id": "145",
+            "title": "Take Part, \"An Inconvenient Truth: About the Film,\" takepart.com (accessed Apr. 7, 2015)",
+            "docid": 11571
+        },
+        {
+            "id": "146",
+            "title": "Norwegian Noble Committee, \"The Nobel Peace Prize 2007,\" nobelprize.org, Oct. 12, 2007",
+            "docid": 11572
+        },
+        {
+            "id": "147",
+            "title": "S. Fred Singer, ed., \"Nature, Not Human Activity, Rules the Climate,\" heartland.org, 2008",
+            "docid": 11573
+        },
+        {
+            "id": "148",
+            "title": "Heartland Institute, \"About our Conferences,\" climateconference.heartland.org (accessed Apr. 7 2015)",
+            "docid": 11574
+        },
+        {
+            "id": "149",
+            "title": "Supreme Court of the United States, Massachusetts v. EPA, law.cornell.edu, Apr. 2, 2007",
+            "docid": 11575
+        },
+        {
+            "id": "150",
+            "title": "US Environmental Protection Agency, \"EPA: Greenhouse Gases Threaten Public Health and the Environment,\" epa.gov, Dec. 7, 2009",
+            "docid": 11576
+        },
+        {
+            "id": "151",
+            "title": "Congressional Budget Office (CBO), \"Federal Climate Change Programs: Funding History and Policy Issues,\" cbo.gov, Mar. 26, 2010",
+            "docid": 11577
+        },
+        {
+            "id": "152",
+            "title": "Kyle L. Swanson, George Sugihara, and Anastasios A. Tsonis, \"Long-Term Natural Variability and 20th Century Climate Change,\"Proceedings of the National Academy of Sciences, July 31, 2009",
+            "docid": 11578
+        },
+        {
+            "id": "153",
+            "title": "Stephen E. Schwartz, \"Uncertainty in Climate Sensitivity: Causes, Consequences, Challenges,\"Energy and Environmental Science, Aug. 2008",
+            "docid": 11579
+        },
+        {
+            "id": "154",
+            "title": "Peter Schwartz and Doug Randall, \"An Abrupt Climate Change Scenario and Its Implications for United States National Security,\" edf.org, Oct. 2003",
+            "docid": 11580
+        },
+        {
+            "id": "155",
+            "title": "Arthur B. Robinson, et al., \"Environmental Effects of Increased Atmospheric Carbon Dioxide,\"Journal of American Physicians and Surgeons, Fall 2007",
+            "docid": 11581
+        },
+        {
+            "id": "156",
+            "title": "Intergovernmental Panel on Climate Change (IPCC), \"Headline Statements from the Summary for Policy Makers,\" ipcc.ch, Sep. 27, 2013",
+            "docid": 11582
+        },
+        {
+            "id": "157",
+            "title": "Jim Inhofe, \"Inhofe Statement on President's National Climate Assessment,\" inhofe.senate.gov, May 6, 2014",
+            "docid": 11583
+        },
+        {
+            "id": "158",
+            "title": "Ed Hawkins and Phil Jones, \"On Increasing Global Temperatures: 75 Years After Callendar,\"Quarterly Journal of the Royal Meteorological Society, 2013",
+            "docid": 11584
+        },
+        {
+            "id": "159",
+            "title": "Intergovernmental Panel on Climate Change, “About the IPCC,” IPCC.ch (accessed Mar. 31, 2020)",
+            "docid": 11585
+        },
+        {
+            "id": "160",
+            "title": "United Nations Framework Convention on Climate Change, \"Report of the Conference of the Parties on its Eighteenth Session,\" unfcc.int, Feb. 28, 2013",
+            "docid": 11586
+        },
+        {
+            "id": "161",
+            "title": "Nick Visser, \"Hundreds of Thousands Turn Out for People's Climate March in New York City,\" huffingtonpost.com, Sep. 21, 2014",
+            "docid": 11587
+        },
+        {
+            "id": "162",
+            "title": "Pew Research Center, \"Section 7: Global Warming, Environment and Energy,\" people-press.org, June 26, 2014",
+            "docid": 11588
+        },
+        {
+            "id": "163",
+            "title": "National Snow and Ice Data Center, \"SOTC: Sea Ice,\" nsidc.org, Oct. 11, 2019",
+            "docid": 11589
+        },
+        {
+            "id": "164",
+            "title": "National Oceanic and Atmospheric Administration, \"Arctic Nearly Free of Summer Ice During First Half of 21st Century,\" noaanews.noaa.gov, Apr. 12, 2013",
+            "docid": 11590
+        },
+        {
+            "id": "165",
+            "title": "National Oceanic and Atmospheric Administration, \"Is Sea Level Rising,\" oceanservice.noaa.gov (accessed Apr. 1, 2015)",
+            "docid": 11591
+        },
+        {
+            "id": "166",
+            "title": "National Geographic, \"Sea Temperature Rise,\" ocean.nationalgeographic.com (accessed Apr. 1, 2015)",
+            "docid": 11592
+        },
+        {
+            "id": "167",
+            "title": "Union of Concerned Scientists, \"Hurricanes and Climate Change,\" ucsusa.org (according Apr. 1, 2015)",
+            "docid": 11593
+        },
+        {
+            "id": "168",
+            "title": "Andrea Thompson, \"Greenland Glaciers More Susceptible to Melt than Thought,\" climatecentral.org, May 18, 2014",
+            "docid": 11594
+        },
+        {
+            "id": "169",
+            "title": "United States Geological Service, \"Retreat of Glaciers in Glacier National Park,\" nrmsc.usgs.gov (accessed Apr. 1, 2015)",
+            "docid": 11595
+        },
+        {
+            "id": "170",
+            "title": "Intergovernmental Panel on Climate Change (IPCC), \"Climate Change 2007: Synthesis Report,\" ipcc.ch, 2007",
+            "docid": 11596
+        },
+        {
+            "id": "171",
+            "title": "Lydia Saad, \"Republican Skepticism Toward Global Warming Eases,\" gallup.com (accessed Apr. 10, 2015)",
+            "docid": 11597
+        },
+        {
+            "id": "172",
+            "title": "D. Bray and H. von Storch, \"A Survey of the Perspectives of Climate Scientists Concerning Climate Science and Climate Change,\" coastalatlas.de, Sep. 2010",
+            "docid": 11598
+        },
+        {
+            "id": "173",
+            "title": "Linda Stalker Prokopy, et al., \"Agricultural Stakeholder Views on Climate Change: Implications for Conducting Research and Outreach,\"Journal of the American Meteorological Society, Feb. 2015",
+            "docid": 11599
+        },
+        {
+            "id": "174",
+            "title": "E.M. Fischer and R. Knutti, \"Anthropogenic Contribution to Global Occurrence of Heavy-Precipitation and High-Temperature Extremes,\"Nature Climate Change, Apr. 21, 2015",
+            "docid": 11600
+        },
+        {
+            "id": "175",
+            "title": "Yale Project on Climate Change Communications, \"Yale Climate Opinion Maps,\" environment.yale.edu (accessed June 8, 2015)",
+            "docid": 11601
+        },
+        {
+            "id": "176",
+            "title": "New York Times, \"The Road to a Paris Climate Deal,\" nytimes.com, Dec. 12, 2015",
+            "docid": 11602
+        },
+        {
+            "id": "177",
+            "title": "United Nations Framework Convention on Climate Change, \"Summary of the Paris Agreement,\" unfccc.int (accessed June 2, 2017)",
+            "docid": 11603
+        },
+        {
+            "id": "178",
+            "title": "Coral Davenport, \"Nations Approve Landmark Climate Accord in Paris,\" nytimes.com, Dec. 12, 2015",
+            "docid": 11604
+        },
+        {
+            "id": "179",
+            "title": "Barack Obama, \"Statement by the President on the Paris Climate Agreement,\" obamawhitehouse.archives.gov, Dec. 12, 2015",
+            "docid": 11605
+        },
+        {
+            "id": "180",
+            "title": "Donald Trump, \"Statement by President Trump on the Paris Climate Accord,\" whitehouse.gov, June 1, 2017",
+            "docid": 11606
+        },
+        {
+            "id": "181",
+            "title": "Michael D. Shear, \"Trump Will Withdraw US from Paris Climate Agreement,\" nytimes.com, June 1, 2017",
+            "docid": 11607
+        },
+        {
+            "id": "182",
+            "title": "Alexander C. Kaufman, \"Syria Vows to Sign Paris Agreement, Leaving US Alone in Climate Denial,\" huffingtonpost.com, Nov. 7, 2017",
+            "docid": 11608
+        },
+        {
+            "id": "183",
+            "title": "US Global Change Research Program, \"Climate Science Special Report,\" science2017.globalchange.gov, Nov. 2017",
+            "docid": 11609
+        },
+        {
+            "id": "184",
+            "title": "Jonathan Watts, \"We Have 12 Years to Limit Climate Change Catastrophe, Warns Un,\" theguardian.com, Oct. 8, 2018",
+            "docid": 11610
+        },
+        {
+            "id": "185",
+            "title": "Umair Irfan, \"Report: We Have Just 12 Years to Limit Devastating Global Warming,\" vox.com, Oct. 8, 2018",
+            "docid": 11611
+        },
+        {
+            "id": "186",
+            "title": "US Global Change Research Program, \"Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment, Volume II,\" nca2018.globalchange.gov, Nov. 2018",
+            "docid": 11612
+        },
+        {
+            "id": "187",
+            "title": "Josh Dawsey, et al., \"Trump on Climate Change: 'People like Myself, We Have Very High Levels of Intelligence but We're Not Necessarily Such Believers,'\" washingtonpost.com, Nov. 27, 2018",
+            "docid": 11613
+        },
+        {
+            "id": "188",
+            "title": "Cary Funk and Meg Hefferon, \"Many Republican Millennials Differ with Older Party Members on Climate Change and Energy Issues,\" pewresearch.org, May 14, 2018",
+            "docid": 11614
+        },
+        {
+            "id": "189",
+            "title": "Cary Funk, et al., \"Majorities See Government Efforts to Protect the Environment as Insufficient,\" pewresearch.org, May 14, 2018",
+            "docid": 11615
+        },
+        {
+            "id": "190",
+            "title": "Lydia Saad, \"Global Warming Concern at Three-Decade High in US,\" gallup.com, Mar. 14, 2017",
+            "docid": 11616
+        },
+        {
+            "id": "191",
+            "title": "National Surveys on Energy and Environment, \"As Americans Experienced the Warmest May on Record Their Acceptance of Global Warming Reaches a New High,\" umich.edu, July 2018",
+            "docid": 11617
+        },
+        {
+            "id": "192",
+            "title": "Anthony Leiserowitz, et al., \"Climate Change in the American Mind: December 2018,\" climatecommunication.yale.edu, Jan. 22, 2019",
+            "docid": 11618
+        },
+        {
+            "id": "193",
+            "title": "Anthony Leiserowitz, et al., \"Politics & Global Warming, March 2018,\" climatecommunication.yale.edu, Mar. 2018",
+            "docid": 11619
+        },
+        {
+            "id": "194",
+            "title": "The Keeling Curve, \"Latest CO2 Reading,\" scripps.ucsd.edu, May 11, 2019",
+            "docid": 11620
+        },
+        {
+            "id": "195",
+            "title": "Washington Post, \"Washington Post-Kaiser Family Foundation Climate Change Survey, July 9-Aug. 5, 2019,\" washingtonpost.com, Sep. 16, 2019",
+            "docid": 11621
+        },
+        {
+            "id": "196",
+            "title": "Akshat Rathi, \"How Big Was the Global Climate Strike? Here’s the Best City-By-City Estimate,\" qz.com, Sep. 21, 2019",
+            "docid": 11622
+        },
+        {
+            "id": "197",
+            "title": "Eliza Barclay and Brian Resnick, “How Big Was the Global Climate Strike? 4 Million People, Activists Estimate,” vox.com, Sep. 22, 2019",
+            "docid": 11623
+        },
+        {
+            "id": "198",
+            "title": "Henry Fountain, \"2019 Was Second-Hottest Year on Record,” nytimes.com, Jan. 19, 2020",
+            "docid": 11624
+        },
+        {
+            "id": "199",
+            "title": "Josie Gathwaite, \"Global Fossil Fuel Emissions Have Climbed Upward for a Second Straight Year, Driven by Growing Energy Use,” news.stanford.edu, Dec. 5, 2018",
+            "docid": 11625
+        },
+        {
+            "id": "200",
+            "title": "Executive Office of the President, “The President’s Climate Action Plan,” whitehorse.gov, June 2013",
+            "docid": 11626
+        },
+        {
+            "id": "201",
+            "title": "EPA Press Office, \"U.S. DOT and EPA Put Safety and American Families First with Final Rule on Fuel Economy Standards,” epa.gov, Mar. 31, 2020",
+            "docid": 11627
+        },
+        {
+            "id": "202",
+            "title": "Hannah Pitt and Maggie Young, \"A Step Closer to a Rollback of Fuel Economy Standards,” rhg.com, Feb. 13, 2020",
+            "docid": 11628
+        },
+        {
+            "id": "203",
+            "title": "World Weather Attribution, \"Attribution of the Australian Bushfire Risk to Anthropogenic Climate Change,\" worldweatherattribution.org, Jan. 10, 2020",
+            "docid": 11629
+        },
+        {
+            "id": "204",
+            "title": "William Reville, Australian Bush Fires Were Not Caused by Climate Change Alone,” irishtimes.com, Feb. 20, 2020",
+            "docid": 11630
+        },
+        {
+            "id": "205",
+            "title": "NASA, \"NASA, NOAA Analyses Reveal 2019 Second Warmest Year on Record,” nasa.gov, Jan. 15, 2020",
+            "docid": 11631
+        },
+        {
+            "id": "206",
+            "title": "Katherine Ellen Foley, \"Those 3% of Scientific Papers That Deny Climate Change? A Review Found Them All Flawed,” qz.com, Sep. 5, 2017",
+            "docid": 11632
+        },
+        {
+            "id": "207",
+            "title": "Drew Kann, \"The US Is Officially out of the Paris Climate Agreement. Here's What Could Happen Next,\" cnn.com",
+            "docid": 11633
+        },
+        {
+            "id": "208",
+            "title": "Joseph R. Biden, “Paris Climate Agreement,” whitehouse.gov, Jan. 20, 2021",
+            "docid": 11634
+        },
+        {
+            "id": "209",
+            "title": "Drew Kann and Kylie Atwood, “Paris Climate Accord: Biden Announces US Will Rejoin Landmark Agreement,” cnn.com, Jan. 20, 2021",
+            "docid": 11635
+        },
+        {
+            "id": "210",
+            "title": "Veronica Stracqualursi and Michael Callahan, \"US Officially Rejoins the Paris Climate Accord,\" cnn.com, Feb. 19, 2021By",
+            "docid": 11636
+        }
+    ],
+    "url": "https://climatechange.procon.org/"
+}

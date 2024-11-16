@@ -1,0 +1,329 @@
+{
+    "title": "Police Body Cameras: Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Associated Press, \"Britain Straps Video Cameras to Police Helmets,\" nbcnews.com, July 13, 2007",
+            "docid": 9423
+        },
+        {
+            "id": "2",
+            "title": "Rory Carroll, \"California Police Use of Body Cameras Cuts Violence and Complaints,\" theguardian.com, Nov. 4, 2013",
+            "docid": 9424
+        },
+        {
+            "id": "3",
+            "title": "Vivian Hung, et al., \"A Market Survey on Body Worn Camera Technologies,\" ncjrs.gov, Nov. 2016",
+            "docid": 9425
+        },
+        {
+            "id": "4",
+            "title": "National Conference of State Legislatures, \"Body-Worn Camera Laws Database,\" ncsl.org, Oct. 27, 2017",
+            "docid": 9426
+        },
+        {
+            "id": "5",
+            "title": "Total Security Solutions, \"Police Body Camera Basics, Part 1,\" tssbulletproof.com, Sep. 14, 2015",
+            "docid": 9427
+        },
+        {
+            "id": "6",
+            "title": "US Department of Justice, \"BWC Program Update: Fiscal Year 2017,\" bja.gov, 2017",
+            "docid": 9428
+        },
+        {
+            "id": "7",
+            "title": "Tony Farrar, \"Self-Awareness to Being Watched and Socially-Desirable Behavior: A Field Experiment on the Effect of Body-Worn Cameras on Police Use-Of-Force,\" policefoundation.org, Mar. 2013",
+            "docid": 9429
+        },
+        {
+            "id": "8",
+            "title": "University of Nevada at Las Vegas, \"Study: Police Body-worn Cameras Reduce Reports of Misconduct, Use of Force,\" forensicmag.com, Nov. 30, 2017",
+            "docid": 9430
+        },
+        {
+            "id": "9",
+            "title": "Edmonton Police Service, \"Body Worn Video: Considering the Evidence,\" www.bwvsg.com, June 2015",
+            "docid": 9431
+        },
+        {
+            "id": "10",
+            "title": "Tom Ellis, et al., \"Evaluation of the Introduction of Personal Issue Body Worn Video Cameras (Operation Hyperion) on the Isle of Wight: Final Report to Hampshire Constabulary,\" researchportal.port.ac.uk, Feb. 2015",
+            "docid": 9432
+        },
+        {
+            "id": "11",
+            "title": "David Garrick, \"Report: SDPD Body Cameras Reducing Misconduct, Aggressive Use of Force,\" sandiegotribune.com, Feb. 9, 2017",
+            "docid": 9433
+        },
+        {
+            "id": "12",
+            "title": "Maya Wiley, \"Body Cameras Help Everyone - Including the Police,\" time.com, May 9, 2017",
+            "docid": 9434
+        },
+        {
+            "id": "13",
+            "title": "Charles M. Katz, et al., \"Evaluating the Impact of Officer Worn Body Cameras in the Phoenix Police Department,\" asu.edu, Dec. 2014",
+            "docid": 9435
+        },
+        {
+            "id": "14",
+            "title": "PBS SoCal, \"Three Police Misconduct Cases - All Involving Body Cameras - Had New Developments This Week. Here's What Happened,\" pbs.org, Aug. 11, 2017",
+            "docid": 9436
+        },
+        {
+            "id": "15",
+            "title": "Lynne Grossmith, \"Police, Camera, Evidence: London's Cluster Randomised Controlled Trial of Body Worn Video,\" college.police.ac.uk, Nov. 2015",
+            "docid": 9437
+        },
+        {
+            "id": "16",
+            "title": "Emily Ekins, \"Cato/YouGov Poll: 92% Support Police Body Cameras, 55% Willing to Pay More in Taxes to Equip Local Police,\" cato.org, Jan. 5, 2016",
+            "docid": 9438
+        },
+        {
+            "id": "17",
+            "title": "Michael D. White, \"Police Officer Body-Worn Cameras: Assessing the Evidence,\" nicic.gov, 2014",
+            "docid": 9439
+        },
+        {
+            "id": "18",
+            "title": "Barak Ariel, et al., \"Wearing Body Cameras Increases Assaults against Officers and Does Not Reduce Police Use of Force: Results from a Global Multi-Site Experiment,\" sagepub.com, 2016",
+            "docid": 9440
+        },
+        {
+            "id": "19",
+            "title": "Emmeline Taylor, \"Lights, Camera, Redaction... Police Body-Worn Cameras: Autonomy, Discretion and Accountability,\" queensu.ca, 2016",
+            "docid": 9441
+        },
+        {
+            "id": "20",
+            "title": "Home Office (UK), \"Guidance for the Police Use of Body-Worn Video Devices,\" college.police.ac.uk, July 2007",
+            "docid": 9442
+        },
+        {
+            "id": "21",
+            "title": "Stephen Henderson, \"Fourth Amendment Time Machines (and What They Might Say about Police Body Cameras),\" upenn.edu, 2016",
+            "docid": 9443
+        },
+        {
+            "id": "22",
+            "title": "Nancy La Vigne, \"Evaluating the Impact of Police Body Cameras,\" urban.org, Aug. 5, 2015",
+            "docid": 9444
+        },
+        {
+            "id": "23",
+            "title": "Lindsay Miller, et al., \"Implementing a Body-Worn Camera Program: Recommendations and Lessons Learned,\" policeforum.org, 2014",
+            "docid": 9445
+        },
+        {
+            "id": "24",
+            "title": "Jason Kotowski, \"Money, Storage Primary Obstacles in Police Body Camera Implementation,\" govtech.com, Mar. 8, 2016",
+            "docid": 9446
+        },
+        {
+            "id": "25",
+            "title": "Bobby Allyn, \"Philly Reaches $12.5m Deal with Taser Maker for Police Body Cameras,\" whyy.org, Oct. 23, 2017",
+            "docid": 9447
+        },
+        {
+            "id": "26",
+            "title": "National Institute of Justice, \"Research on Body-Worn Cameras and Law Enforcement,\" nij.gov, Dec. 5, 2017",
+            "docid": 9448
+        },
+        {
+            "id": "27",
+            "title": "Laura Giles, \"Pleasant Grove Officers Forced to Stop Using Body Cameras,\" heraldextra.com, Sep. 30, 2016",
+            "docid": 9449
+        },
+        {
+            "id": "28",
+            "title": "Rick Callahan, \"Why Two Police Departments Stopped Using Body Cameras,\" csmonitor.com, Sep. 10, 2016",
+            "docid": 9450
+        },
+        {
+            "id": "29",
+            "title": "Nichole Mann, \"Police Department Stops Using Body Cameras after Legislation,\" journalstar.com, Jan. 15, 2017",
+            "docid": 9451
+        },
+        {
+            "id": "30",
+            "title": "Benjamin Yount, \"Costs Pushing Some Police Departments to Stop Using Body Cameras,\" effinghamradio.com, Sep. 25, 2017",
+            "docid": 9452
+        },
+        {
+            "id": "31",
+            "title": "Jason Shueh, \"After Endless Glitches, Montgomery County Shelves Police Body Cameras,\" statescoop.com, Nov. 28, 2017",
+            "docid": 9453
+        },
+        {
+            "id": "32",
+            "title": "Reveal Media, \"Uruguay Police Partner with Reveal in South America's First Major Body Worn Video Study,\" revealmedia.com, July 12, 2016",
+            "docid": 9454
+        },
+        {
+            "id": "33",
+            "title": "Matt Pearce, \"Growing Use of Police Body Cameras Raises Privacy Concerns,\" latimes.com, Sep. 27, 2014",
+            "docid": 9455
+        },
+        {
+            "id": "34",
+            "title": "Reporters Committee for the Freedom of the Press, \"Access to Police Body-Worn Camera Video,\" rcfp.org (accessed May 23, 2018)",
+            "docid": 9456
+        },
+        {
+            "id": "35",
+            "title": "Business Tech Staff Writer, “South African Police Officers to Wear Body Cameras,” businesstech.co.za, June 24, 2019",
+            "docid": 9457
+        },
+        {
+            "id": "36",
+            "title": "Privacy International, “Every Police Force in the UK Will Soon Use Body Worn Video Cameras to Record Us in Public,” privacyinternational.org, Mar. 3, 2019",
+            "docid": 9458
+        },
+        {
+            "id": "37",
+            "title": "Metropolitan Police, “How and When Are BWV Cameras Are Used,” met.police.uk (accessed Aug. 12, 2020)",
+            "docid": 9459
+        },
+        {
+            "id": "38",
+            "title": "Carrie Dann and Andrew Rafferty, “Obama Requests $263 Million for Police Body Cameras, Training,” nbcnews.com, Dec. 1, 2014",
+            "docid": 9460
+        },
+        {
+            "id": "39",
+            "title": "US Department of Justice, “Body-Worn Camera Program Fact Sheet 2015,” bja.ojp.gov (accessed Aug. 12, 2020)",
+            "docid": 9461
+        },
+        {
+            "id": "40",
+            "title": "US Department of Justice, “Body-Worn Camera Program Fact Sheet 2016,” bja.ojp.gov (accessed Aug. 12, 2020)",
+            "docid": 9462
+        },
+        {
+            "id": "41",
+            "title": "Bureau of Justice Assistance, “Body-Worn Camera: Frequently Asked Questions,” bja.ojp.gov, 2015",
+            "docid": 9463
+        },
+        {
+            "id": "42",
+            "title": "US Department of Justice, “BWC Program Update: Fiscal Year 2017,” bja.ojp.gov (accessed Aug. 12, 2020)",
+            "docid": 9464
+        },
+        {
+            "id": "43",
+            "title": "Bureau of Justice Assistance, “Program Update: Body-Worn Camera Policy and Implementation Program, Fiscal Year 2019,” bja.ojp.gov, Oct. 2019",
+            "docid": 9465
+        },
+        {
+            "id": "44",
+            "title": "Bureau of Justice Assistance, “Program Update: Body-Worn Camera Policy and Implementation Program, Fiscal Year 2018,” bja.ojp.gov, Nov. 2018",
+            "docid": 9466
+        },
+        {
+            "id": "45",
+            "title": "Urban.org, “Police Body-Worn Camera Legislation Tracker,” apps.urban.org, Oct. 29, 2018",
+            "docid": 9467
+        },
+        {
+            "id": "46",
+            "title": "AP, “Timeline of Events in Shooting of Michael Brown in Ferguson,” apnews.com, Aug. 8, 2019",
+            "docid": 9468
+        },
+        {
+            "id": "47",
+            "title": "RAND, “Investigating the Effects of Body-Worn Cameras,” rand.org (accessed Aug. 13, 2020)",
+            "docid": 9469
+        },
+        {
+            "id": "48",
+            "title": "Faith Karimi and Emanuella Grinberg, “Texas Ex-Officer Is Sentenced to 15 Years for Killing an Unarmed Teen,” cnn.com, Aug. 30, 2018",
+            "docid": 9470
+        },
+        {
+            "id": "49",
+            "title": "Kevin Rector, “Caught Fabricating Evidence, Convicted Baltimore Police Officer Remains on Force 2 ½ Years Later,” baltimoresun.com, Mar. 9, 2020",
+            "docid": 9471
+        },
+        {
+            "id": "50",
+            "title": "Weston Publishing, LLC, “Researchers Find that Body-Worn Cameras Decrease Citizen Complaints Against Police Officers in Miami-Dade County,” prnewswire.com, Jan. 7, 2019",
+            "docid": 9472
+        },
+        {
+            "id": "51",
+            "title": "Shannon Prather, “Police Body Cameras Are Newest Tool against Domestic Violence,” startribune.com, Apr. 26, 2015",
+            "docid": 9473
+        },
+        {
+            "id": "52",
+            "title": "University of Leeds, “‘Tipping the Balance’ against Domestic Abuse,” phys.org, June 27, 2018",
+            "docid": 9474
+        },
+        {
+            "id": "53",
+            "title": "Axon, “Using Modern Technology to Combat Domestic Violence,” axon.com, Nov. 14, 2017",
+            "docid": 9475
+        },
+        {
+            "id": "54",
+            "title": "Chris Kahn, “Exclusive: Most Americans, Including Republicans, Support Sweeping Democratic Police Reform Proposals - Reuters/Ipsos Poll,” reuters.com, June 11, 2020",
+            "docid": 9476
+        },
+        {
+            "id": "55",
+            "title": "Nolan D. McCaskill, “Americans Agree on Police Reforms That Have Divided Washington, New Poll Shows,” politico.com, July 14, 2020",
+            "docid": 9477
+        },
+        {
+            "id": "56",
+            "title": "Carl E. Heastie, “Assembly Passes Legislation to Require Body Cameras for All New York State Police Officers,” nyassembly.gov, June 9, 2020",
+            "docid": 9478
+        },
+        {
+            "id": "57",
+            "title": "Ton Lutey, “Daines Backs Police Reform Bill That Includes More Body Cameras and Accountability,” billingsgazette.com, June 18, 2020",
+            "docid": 9479
+        },
+        {
+            "id": "58",
+            "title": "Andrew Cuomo, “Governor Cuomo Signs Legislation Requiring New York State Police Officers to Wear Body Cameras and Creating the Law Enforcement Misconduct Investigative Office,” governor.ny.gov, June 16, 2020",
+            "docid": 9480
+        },
+        {
+            "id": "59",
+            "title": "Mark Reutter, “Price of Baltimore’s Body Camera Program Triples to $35 Million,” baltimorebrew.com, June 25, 2020",
+            "docid": 9481
+        },
+        {
+            "id": "60",
+            "title": "Rick Callahan, “Some Police Departments Shelve Body Cameras, Cite Data Costs,” apnews.com, Sep. 10, 2016",
+            "docid": 9482
+        },
+        {
+            "id": "61",
+            "title": "Ashley Southall, “Police Body Camera Bursts into Flames; New York Pulls 2,990 from Use,” nytimes.com, Oct. 21, 2018",
+            "docid": 9483
+        },
+        {
+            "id": "62",
+            "title": "Matt Cagle, “California Just Blocked Police Body Cam Use of Face Recognition,” ACLU, aclu.org, Oct. 11, 2019",
+            "docid": 9484
+        },
+        {
+            "id": "63",
+            "title": "US Department of Justice Office of the Deputy Attorney General, \"Body-Worn Camera Policy,\" justice.gov, June 7, 2021",
+            "docid": 9485
+        },
+        {
+            "id": "64",
+            "title": "Urban.org, “Police Body-Worn Camera Legislation Tracker,” apps.urban.org, July 14, 2022",
+            "docid": 9486
+        }
+    ],
+    "url": "https://www.procon.org/headlines/police-body-cameras-top-3-pros-and-cons/"
+}

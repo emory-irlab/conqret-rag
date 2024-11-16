@@ -1,0 +1,395 @@
+{
+    "title": "DC and Puerto Rico Statehood — Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "US Capitol Visitor Center, “Territorial Hawaii,” visitthecapital.gov (accessed June 10, 2021)",
+            "url": null,
+            "docid": 8740
+        },
+        {
+            "id": "2",
+            "title": "National Constitution Center, “The Last Time Congress Created a New State,” constitutioncenter.org, March 12, 2021",
+            "url": null,
+            "docid": 8741
+        },
+        {
+            "id": "3",
+            "title": "Legal Information Institute of Cornell University, “Section 3. Admission of New States; Property of United States,” law.cornell.edu (accessed June 10, 2021)",
+            "url": null,
+            "docid": 8742
+        },
+        {
+            "id": "4",
+            "title": "Eric Biber and Thomas B. Colby, “Common Interpretation: The Admissions Clause,” constitutioncenter.org (accessed June 10, 2021)",
+            "url": null,
+            "docid": 8743
+        },
+        {
+            "id": "5",
+            "title": "Matt Glassman, “The Procedures for Adding States to the Union,” legislativeprocedure.com, Oct. 23, 2020",
+            "url": null,
+            "docid": 8744
+        },
+        {
+            "id": "6",
+            "title": "John S. Baker, Jr. and Aderson B. Francois, “Common Interpretation: The Twenty-Third Amendment,” constitutioncenter.org (accessed June 16, 2021)",
+            "url": null,
+            "docid": 8745
+        },
+        {
+            "id": "7",
+            "title": "DC Statehood, “Why Statehood for DC,” statehood.dc.gov (accessed June 16, 2021)",
+            "url": null,
+            "docid": 8746
+        },
+        {
+            "id": "8",
+            "title": "Ballotpedia, “Washington D.C. Marijuana Legalization, Initiative 71 (November 2014),” ballotpedia.org (accessed June 16, 2021)",
+            "url": null,
+            "docid": 8747
+        },
+        {
+            "id": "9",
+            "title": "Martin Austermuhle, “In Latest Spending Bill, Congress Still Won’t Let D.C. Legalize Sales Of Marijuana,” wamu.org, Dec.17, 2019",
+            "url": null,
+            "docid": 8748
+        },
+        {
+            "id": "10",
+            "title": "Kim Lyons, “Biden’s Proposed Budget Keeps a Block on Recreational Weed Sales in Washington, DC,” theverge.com, June 4, 2021",
+            "url": null,
+            "docid": 8749
+        },
+        {
+            "id": "11",
+            "title": "Morning Consult, “Morning Consult National Tracking Poll #170916 September 22-24, 2017,” morningconsult.com, Sep. 22-24, 2017",
+            "url": null,
+            "docid": 8750
+        },
+        {
+            "id": "12",
+            "title": "CIA World Factbook, “Puerto Rico,” cia.gov, June 8, 2021",
+            "url": null,
+            "docid": 8751
+        },
+        {
+            "id": "13",
+            "title": "Library of Congress, “Jones Act,” loc.gov (accessed June 17, 2021)",
+            "url": null,
+            "docid": 8752
+        },
+        {
+            "id": "14",
+            "title": "Christina Maxouris and Artemis Moshtaghian, “A Puerto Rican Man sued Georgia for Discriminatory Driver's License Policies. Now the State Is Making Changes,” cnn.com, Feb. 11, 2020",
+            "url": null,
+            "docid": 8753
+        },
+        {
+            "id": "15",
+            "title": "Susan Milligan, “A Territory in Limbo,” usnews.com, June 8, 2018",
+            "url": null,
+            "docid": 8754
+        },
+        {
+            "id": "16",
+            "title": "US Census Bureau, “QuickFacts District of Columbia,” census.gov (accessed June 16, 2021)",
+            "url": null,
+            "docid": 8755
+        },
+        {
+            "id": "17",
+            "title": "US Census Bureau, “QuickFacts Puerto Rico,” census.gov (accessed June 16, 2021)",
+            "url": null,
+            "docid": 8756
+        },
+        {
+            "id": "18",
+            "title": "David Litt, “The D.C. Statehood Fight Is Part of an Ugly Effort to Disenfranchise Black and Brown People,” nbcnews.com, June 26, 2020",
+            "url": null,
+            "docid": 8757
+        },
+        {
+            "id": "19",
+            "title": "Ileana I. Diaz, “Malignant Citizenship: Race, Imperialism, and Puerto Rico-United States Entanglements,” Jan. 28, 2021",
+            "url": null,
+            "docid": 8758
+        },
+        {
+            "id": "20",
+            "title": "Robert McCartney, “Even the GOP’s Three Best Arguments against D.C. Statehood Don’t Stand up to Scrutiny,” washingtonpost.com, Mar. 29, 2021",
+            "url": null,
+            "docid": 8759
+        },
+        {
+            "id": "21",
+            "title": "Republican National Convention, “Republican Platform 2016,” gop.com, 2020",
+            "url": null,
+            "docid": 8760
+        },
+        {
+            "id": "22",
+            "title": "US Congress Constitution Annotated, “Article I, Section 8, Clause 1,” constitution.congress.gov (accessed June 16, 2021)",
+            "url": null,
+            "docid": 8761
+        },
+        {
+            "id": "23",
+            "title": "The Avalon Project of the Yale Law School Lillian Goldman Law Library, “The Federalist Papers : No. 43,” avalon.law.yale.edu (accessed June 16, 2021)",
+            "url": null,
+            "docid": 8762
+        },
+        {
+            "id": "24",
+            "title": "Tessa Berenson,’ Here's Why Washington D.C. Isn't a State,” time.com, Apr. 15, 2016",
+            "url": null,
+            "docid": 8763
+        },
+        {
+            "id": "25",
+            "title": "Joseph L. Rauh, Jr., “D.C. Voting Rights: What Went Wrong? The Amendment Died Last Week. Now, Says a Longtime Advocate, Statehood Is the Only Game in Town.,” washingtonpost.com, Aug. 25, 1985",
+            "url": null,
+            "docid": 8764
+        },
+        {
+            "id": "26",
+            "title": "Roger Pilon, “Making D.C. the 51st State,” cato.org, Mar. 22, 2021",
+            "url": null,
+            "docid": 8765
+        },
+        {
+            "id": "27",
+            "title": "“Ending Taxation without Representation: The Constitutionality of S. 1257,” books.google.com, May 23, 2007",
+            "url": null,
+            "docid": 8766
+        },
+        {
+            "id": "28",
+            "title": "Wayne D. Bray, et al., “Panama Canal,” britannica.com, Feb. 26, 2021",
+            "url": null,
+            "docid": 8767
+        },
+        {
+            "id": "29",
+            "title": "Olga D. Wagenheim, et al., “Puerto Rico,” britannica.com, June 5, 2021",
+            "url": null,
+            "docid": 8768
+        },
+        {
+            "id": "30",
+            "title": "US House of Representatives: History, Art, and Archives, “Puerto Rico,” history.house.gov (accessed June 16, 2021)",
+            "url": null,
+            "docid": 8769
+        },
+        {
+            "id": "31",
+            "title": "Erin Doherty, “Why Don’t Americans Want D.C. to Be a State?,” fivethirtyeight.com, July 19, 2019",
+            "url": null,
+            "docid": 8770
+        },
+        {
+            "id": "32",
+            "title": "Jeffrey M. Jones, “Americans Reject D.C. Statehood,” gallup.com, July 15, 2019",
+            "url": null,
+            "docid": 8771
+        },
+        {
+            "id": "33",
+            "title": "Keith Naughton, “DC statehood is bad policy and worse politics,” thhill.com, Apr. 24, 2021",
+            "url": null,
+            "docid": 8772
+        },
+        {
+            "id": "34",
+            "title": "Beatrice Peterson and Benjamin Siegel, “Why Democrats want to make Washington, DC, the 51st state,” abcnews.go, Mar. 22, 2021",
+            "url": null,
+            "docid": 8773
+        },
+        {
+            "id": "35",
+            "title": "Justin McCarthy, “Americans Continue to Support Puerto Rico Statehood,” July 18, 2019",
+            "url": null,
+            "docid": 8774
+        },
+        {
+            "id": "36",
+            "title": "Fox News, “McConnell: I Am the 'Grim Reaper' of the Democratic Socialist Agenda,” foxnews.com, June 13, 2019",
+            "url": null,
+            "docid": 8775
+        },
+        {
+            "id": "37",
+            "title": "American Bar Association, “Statement of the American Bar Association Submitted to the Subcommittee on the Constitution Committee on the Judiciary U.S. House of Representatives on the Subject of H.R. 5388, the District of Columbia Fair and Equal House Voting Rights Act,” abanet.org, Sep. 14, 2006",
+            "url": null,
+            "docid": 8776
+        },
+        {
+            "id": "38",
+            "title": "Council of the District of Columbia, “D.C. Home Rule,” dccouncil.us (accessed June 14, 2021)",
+            "url": null,
+            "docid": 8777
+        },
+        {
+            "id": "39",
+            "title": "270toWin, “District of Columbia,” 270towin.com (accessed June 14, 2021)",
+            "url": null,
+            "docid": 8778
+        },
+        {
+            "id": "40",
+            "title": "Catherine Woodiwiss, “Remembering J. Edward Guinan, Passionate Advocate for D.C.’s Most Vulnerable,” sojo.net, Jan. 7, 2015",
+            "url": null,
+            "docid": 8779
+        },
+        {
+            "id": "41",
+            "title": "New Columbia Statehood Commission, “Draft Constitution Package Final,” statehood.dc.gov, 2016",
+            "url": null,
+            "docid": 8780
+        },
+        {
+            "id": "42",
+            "title": "Jenna Portnoy, “D.C. Statehood Approved by U.S. House for First Time in History,” washingtonpost.com, June 26, 2020",
+            "url": null,
+            "docid": 8781
+        },
+        {
+            "id": "43",
+            "title": "Eleanor Holmes Norton, “House Passes D.C. Statehood Bill in Historic Vote,” norton.house.gov, Apr. 22, 2021",
+            "url": null,
+            "docid": 8782
+        },
+        {
+            "id": "44",
+            "title": "US Congress, “H.R.51 - Washington, D.C. Admission Act,” congress.gov (accessed June 14, 2021)",
+            "url": null,
+            "docid": 8783
+        },
+        {
+            "id": "45",
+            "title": "Kevin Breuninger, “Biden Administration Backs D.C. Statehood, Urges ‘Swift’ Action as House Prepares to Vote on Bill,” cnbc.com, Apr. 20, 2021",
+            "url": null,
+            "docid": 8784
+        },
+        {
+            "id": "46",
+            "title": "Marty Johnson, “Senate to Hold Hearing on DC Statehood Bill,” thehill.com, June 15, 2021",
+            "url": null,
+            "docid": 8785
+        },
+        {
+            "id": "47",
+            "title": "Eli Yokley, “Support for D.C. Statehood Is Lukewarm, but Many Voters Haven’t Made up Their Minds,” morningconsult.com, Apr. 21, 2021",
+            "url": null,
+            "docid": 8786
+        },
+        {
+            "id": "48",
+            "title": "Violeta Stauffer-Rodriguez, “Who in Puerto Rico Should File a U.S. Tax Return?,” hrblock.com, Jan. 31, 2019",
+            "url": null,
+            "docid": 8787
+        },
+        {
+            "id": "49",
+            "title": "Frances Robles, “23% of Puerto Ricans Vote in Referendum, 97% of Them for Statehood,” nytimes.com, June 2017",
+            "url": null,
+            "docid": 8788
+        },
+        {
+            "id": "50",
+            "title": "Cristina Corujo, “Puerto Rico votes in favor of statehood. But what does it mean for the island?,” abcnews.go, Nov. 8, 2020",
+            "url": null,
+            "docid": 8789
+        },
+        {
+            "id": "51",
+            "title": "Sean Lowry, “Tax Policy and U.S. Territories: Overview and Issues for Congress,” fas.gov, Oct. 7, 2016",
+            "url": null,
+            "docid": 8790
+        },
+        {
+            "id": "52",
+            "title": "US Department of the Interior Office of Insular Affairs, “American Samoa,” doi.gov, 2020",
+            "url": null,
+            "docid": 8791
+        },
+        {
+            "id": "53",
+            "title": "Doug Mack, “The Biggest Issues in the Places Where Americans Can’t Vote for President,” slate.com, Oct. 1, 2020",
+            "url": null,
+            "docid": 8792
+        },
+        {
+            "id": "54",
+            "title": "John P. Caves, “In the Debate over Statehood for Washington DC, We Also Need to Consider Representation for US Territories,” thehill.com, July 20, 2020",
+            "url": null,
+            "docid": 8793
+        },
+        {
+            "id": "55",
+            "title": "US Census Bureau, “QuickFacts: Cleveland City, Ohio,” census.gov (accessed June 15, 2021)",
+            "url": null,
+            "docid": 8794
+        },
+        {
+            "id": "56",
+            "title": "CIA World Factbook, “American Samoa,” cia.gov, June 8, 2021",
+            "url": null,
+            "docid": 8795
+        },
+        {
+            "id": "57",
+            "title": "CIA World Factbook, “Guam,” cia.gov, June 8, 2021",
+            "url": null,
+            "docid": 8796
+        },
+        {
+            "id": "58",
+            "title": "CIA World Factbook, “Northern Mariana Islands,” cia.gov, June 8, 2021",
+            "url": null,
+            "docid": 8797
+        },
+        {
+            "id": "59",
+            "title": "CIA World Factbook, “Virgin Islands,” cia.gov, June 8, 2021",
+            "url": null,
+            "docid": 8798
+        },
+        {
+            "id": "60",
+            "title": "Meagan Flynn, \"At Senate Committee, D.C. Statehood Is Debated Anew,\" washingtonpost.com, June 22, 2021",
+            "url": null,
+            "docid": 8799
+        },
+        {
+            "id": "61",
+            "title": "Eleanor Holmes Norton, \"Norton Introduces Bill to Redesignate D.C. Mayor as Governor and D.C. Council as Legislative Assembly,\" norton.house.gov, Jan. 20, 2022",
+            "url": null,
+            "docid": 8800
+        },
+        {
+            "id": "62",
+            "title": "Ariane de Vogue, \"Supreme Court Rules Puerto Ricans Don’t Have Constitutional Right to Some Federal Benefits,\"cnn.com, Apr. 21, 2022",
+            "url": "https://www.cnn.com/2022/04/21/politics/puerto-rico-supreme-court-federal-disability-benefits/index.html",
+            "docid": 8801
+        }
+    ],
+    "discussion": [
+        "1. Should Washington, DC, be granted statehood? Should Puerto Rico be granted statehood? Why or why not?",
+        "2. What other policies could mitigate the problems seen by proponents of statehood? Explain your answer(s).",
+        "3. Should any or all of the other US territories be granted statehood? Why or why not? What other measures might be considered, if any, to resolve the lack of representation in Congress, citizenship, and other concerns?"
+    ],
+    "action": [
+        "1. Consider theDC government’s pagepromoting statehood.",
+        "2. Explore thePR51st campaignarguments for Puerto Rico statehood..",
+        "3. Analyze theSenate Republican Policy Committee’sarguments against DC statehood.",
+        "4. ConsiderDiego Panzardi Serra’sarguments against Puerto Rico statehood.",
+        "5. Explore arguments about granting statehood to the other US territories atNorthern Virginia Daily,Foreign Policy,Open Democracy, andThe Hill.",
+        "6. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "7. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/dc-and-puerto-rico-statehood/"
+}

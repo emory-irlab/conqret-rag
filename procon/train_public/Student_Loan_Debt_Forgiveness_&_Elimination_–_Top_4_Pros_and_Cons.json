@@ -1,0 +1,321 @@
+{
+    "title": "Student Loan Debt Forgiveness & Elimination – Top 4 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Board of Governors of the Federal Reserve System, “Consumer Credit - G.19,” federalreserve.gov, Apr. 7, 2021",
+            "url": null,
+            "docid": 9869
+        },
+        {
+            "id": "2",
+            "title": "Abigail Johnson Hess, “U.S. student debt has increased by more than 100% over the past 10 years,” cnbc.com, Dec. 22, 2020",
+            "url": null,
+            "docid": 9870
+        },
+        {
+            "id": "3",
+            "title": "US Department of Education Federal Student Aid, “Federal Student Loan Portfolio,” studentaid.gov, 2020",
+            "url": null,
+            "docid": 9871
+        },
+        {
+            "id": "4",
+            "title": "Dudley L. Poston, Jr., “3 Ways That the U.S. Population Will Change over the Next Decade,” pbs.org, Jan. 2, 2020",
+            "url": null,
+            "docid": 9872
+        },
+        {
+            "id": "5",
+            "title": "New York Federal Reserve Center for Microeconomic Data, “Quarterly Report on Household Debt and Credit 2020: Q1,” newyorkfed.org, May 2020",
+            "url": null,
+            "docid": 9873
+        },
+        {
+            "id": "6",
+            "title": "US Department of Education Federal Student Aid, “Coronavirus and Forbearance Info for Students, Borrowers, and Parents,” studentaid.gov (accessed May 6, 2021)",
+            "url": null,
+            "docid": 9874
+        },
+        {
+            "id": "7",
+            "title": "Carmen Maldonado, “Price Of College Increasing Almost 8 Times Faster Than Wages,” forbes.com, July 24, 2018",
+            "url": null,
+            "docid": 9875
+        },
+        {
+            "id": "8",
+            "title": "Hanneh Gundersen, “Federal student loan forgiveness update: See where the latest policies and proposals stand,” msn.com, May 5, 2021",
+            "url": null,
+            "docid": 9876
+        },
+        {
+            "id": "9",
+            "title": "Ashlee Kieler, “You Can’t Discharge Your Student Loans in Bankruptcy Because of Panicked 1970s Legislation,” consumerist.com, Mar. 17, 2015",
+            "url": null,
+            "docid": 9877
+        },
+        {
+            "id": "10",
+            "title": "John O’Connor, “Make Student Loan Debt Dischargeable in Bankruptcy… Again,” natlbankruptcy.com, Feb. 28, 2014",
+            "url": null,
+            "docid": 9878
+        },
+        {
+            "id": "11",
+            "title": "Federal Student Aid, “Discharge in Bankruptcy,” studentaid.ed.gov (accessed Jan. 4, 2018)",
+            "url": null,
+            "docid": 9879
+        },
+        {
+            "id": "12",
+            "title": "Bill Fay, “Bankruptcy & Student Loans,” debt.org (accessed Jan. 4, 2018)",
+            "url": null,
+            "docid": 9880
+        },
+        {
+            "id": "13",
+            "title": "Brett Greene, “The $1 Trillion Student Loan Debt Bubble: An Interview with Robert Applebaum,” huffingtonpost.com, Nov. 11, 2011",
+            "url": null,
+            "docid": 9881
+        },
+        {
+            "id": "14",
+            "title": "Christopher Ingraham, “7 Ways $1.6 Trillion in Student Loan Debt Affects the U.S. Economy,” washingtonpost.com, June 25, 2019",
+            "url": null,
+            "docid": 9882
+        },
+        {
+            "id": "15",
+            "title": "Elyssa Kirkham, “What Are the Effects of Student Loan Debt on the Economy? Experts Share Their Thoughts,” studentloanhero.com, Oct. 28, 2019",
+            "url": null,
+            "docid": 9883
+        },
+        {
+            "id": "16",
+            "title": "Chris Arnold, “Forgiving Student Debt Would Boost Economy, Economists Say,” npr.org, Nov. 25, 2019",
+            "url": null,
+            "docid": 9884
+        },
+        {
+            "id": "17",
+            "title": "Judith Scott-Clayton, “Shrinking Racial Gaps in Student Debt and Default: Recommendations to Congress,” ccrc.tc.columbia.edu, Mar. 6, 2019",
+            "url": null,
+            "docid": 9885
+        },
+        {
+            "id": "18",
+            "title": "Cristina Silva, “The Student Debt Crisis Is Crushing Black Americans. Here's How Loan Forgiveness Could Help,” usatoday.com, Apr. 15, 2021",
+            "url": null,
+            "docid": 9886
+        },
+        {
+            "id": "19",
+            "title": "Raphaël Charron-Chenier, Louise Seamster, Tom Shapiro, and Laura Sullivan, “Student Debt Forgiveness Options: Implications for Policy and Racial Equity,” rooseveltinstitute.org, Aug. 2020",
+            "url": null,
+            "docid": 9887
+        },
+        {
+            "id": "20",
+            "title": "Knowledge @ Wharton, “The Student Debt Crisis: Could It Slow the U.S. Economy?,” knowledge.wharton.upenn.edu, Oct. 22, 2018",
+            "url": null,
+            "docid": 9888
+        },
+        {
+            "id": "21",
+            "title": "US Supreme Court, Williams v. United States Fid. & Guar. Co., justia.com, 1915",
+            "url": null,
+            "docid": 9889
+        },
+        {
+            "id": "22",
+            "title": "Ethan Trex, “7 Wildly Successful People Who Survived Bankruptcy,” mentalfloss.com, Nov. 6, 2015",
+            "url": null,
+            "docid": 9890
+        },
+        {
+            "id": "23",
+            "title": "Mark Huelsman, “Want to Help Struggling Student Loan Borrowers? Start with Bankruptcy Reform,” demos.org, May 31, 2017",
+            "url": null,
+            "docid": 9891
+        },
+        {
+            "id": "24",
+            "title": "Jeffrey J. Selingo, “Did Your College Mislead You About Job Prospects? It Might Become Far Easier to Have Your Loans Forgiven.,” washingtonpost.com, July 20, 2016",
+            "url": null,
+            "docid": 9892
+        },
+        {
+            "id": "25",
+            "title": "Megan Thompson, “Are You Older Than 60 and Paying off Student Loans? Tell Us Your Story.,” pbs.org, Sep. 3, 2017",
+            "url": null,
+            "docid": 9893
+        },
+        {
+            "id": "26",
+            "title": "Rebecca Safier, “50% Say Mass Student Loan Forgiveness Unfair to Former Borrowers: Survey,” studentloanhero.com, Apr. 29, 2020",
+            "url": null,
+            "docid": 9894
+        },
+        {
+            "id": "27",
+            "title": "Matthew Noyes, “‘Canceling’ Student Debt is Unfair to Graduates Like Me Who Sacrificed to Pay Off Our Loans,” fee.org, Jan. 26, 2021",
+            "url": null,
+            "docid": 9895
+        },
+        {
+            "id": "28",
+            "title": "Zack Friedman, “Why Student Loans Should Not Get Cancelled,” forbes.com, Feb. 24, 2021",
+            "url": null,
+            "docid": 9896
+        },
+        {
+            "id": "29",
+            "title": "Knowledge @ Wharton, “How Student Loan Forgiveness Could Increase Inequality,” knowledge.wharton.upenn.edu, Dec. 15, 2020",
+            "url": null,
+            "docid": 9897
+        },
+        {
+            "id": "30",
+            "title": "Emma Ayers, “I Sold Bibles to Keep My Student Debt Low. Turns out, I Didn't even Need That Degree,” usatoday.com, Dec. 3, 2020",
+            "url": null,
+            "docid": 9898
+        },
+        {
+            "id": "31",
+            "title": "Adam Looney, “How Progressive Is Senator Elizabeth Warren’s Loan Forgiveness Proposal?,” brookings.edu, Apr. 24, 2019",
+            "url": null,
+            "docid": 9899
+        },
+        {
+            "id": "32",
+            "title": "Michelle Cheng, “What Will Canceling $10,000 in Student Debt Really Do?,” qz.com, Mar. 2, 2021",
+            "url": null,
+            "docid": 9900
+        },
+        {
+            "id": "33",
+            "title": "Anthony Carnevale, Stephen J. Rose, and Ban Cheah, “The College Payoff: Education, Occupation, Lifetime Earnings,” 2011",
+            "url": null,
+            "docid": 9901
+        },
+        {
+            "id": "34",
+            "title": "Kelsey Sheehy, “Undergrads Blow It with Student Loan Refunds,” usnews.com, July 24, 2013",
+            "url": null,
+            "docid": 9902
+        },
+        {
+            "id": "35",
+            "title": "Mike Brown, “Spring Break Student Loan Study,” lendedu.com, Mar. 8, 2017",
+            "url": null,
+            "docid": 9903
+        },
+        {
+            "id": "36",
+            "title": "Federal Student Aid, “Understanding Delinquency and Default,” studentaid.ed.gov (accessed Jan. 2, 2018)",
+            "url": null,
+            "docid": 9904
+        },
+        {
+            "id": "37",
+            "title": "Rajeev Darolia, “Should Student Loans Be Dischargeable in Bankruptcy?,” brookings.edu, Sep. 29, 2015",
+            "url": null,
+            "docid": 9905
+        },
+        {
+            "id": "38",
+            "title": "Grey Gordon and Aaron Hedlund, “Accounting for the Rise in College Tuition,” nber.org, Feb. 2016",
+            "url": null,
+            "docid": 9906
+        },
+        {
+            "id": "39",
+            "title": "Abigail Hall Blanco, “Don’t Forgive Us Our Debts: The Case against Student Loan Forgiveness,” insidesources.com, Apr. 14, 2015",
+            "url": null,
+            "docid": 9907
+        },
+        {
+            "id": "40",
+            "title": "Melanie Hanson, \"Student Loan Debt Statistics,\" educationdata.org, Nov. 17, 2021",
+            "url": null,
+            "docid": 9908
+        },
+        {
+            "id": "41",
+            "title": "Marcos Cabello, \"Biden Extends Pause on Student Loan Payments through August,\"cnet.com, Apr. 6, 2022",
+            "url": "https://www.cnet.com/personal-finance/loans/student-loan-pause-extension-gives-borrowers-in-default-a-fresh-start-heres-how/",
+            "docid": 9909
+        },
+        {
+            "id": "42",
+            "title": "Cory Turner and Sequoia Carrillo, \"Biden Is Canceling Up to $10K in Student Loans, $20K for Pell Grant Recipients,\"npr.org, Aug. 24, 2022",
+            "url": "https://www.npr.org/2022/08/24/1118879917/student-loan-forgiveness-biden",
+            "docid": 9910
+        },
+        {
+            "id": "43",
+            "title": "Junlei Chen, \"Forgiving Student Loans: Budgetary Costs and Distributional Impact,\"budgetmodel.wharton.upenn.edu, Aug. 23, 2022",
+            "url": "https://budgetmodel.wharton.upenn.edu/issues/2022/8/23/forgiving-student-loans",
+            "docid": 9911
+        },
+        {
+            "id": "44",
+            "title": "Junlei Chen, \"The Biden Student Loan Forgiveness Plan: Budgetary Costs and Distributional Impact,\"budgetmodel.wharton.upenn.edu, Aug. 26, 2022",
+            "url": "https://budgetmodel.wharton.upenn.edu/issues/2022/8/26/biden-student-loan-forgiveness",
+            "docid": 9912
+        },
+        {
+            "id": "45",
+            "title": "Inez Stepman, \"The Student Loan Forgiveness Scam,\"prageru.com, Aug. 8, 2022",
+            "url": "https://www.prageru.com/video/the-student-loan-forgiveness-scam",
+            "docid": 9913
+        },
+        {
+            "id": "46",
+            "title": "White House, \"Remarks by President Biden Announcing Student Loan Debt Relief Plan,\"whitehouse.gov, Aug. 25, 2022",
+            "url": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/25/remarks-by-president-biden-announcing-student-loan-debt-relief-plan/",
+            "docid": 9914
+        },
+        {
+            "id": "47",
+            "title": "Ayana Archie, \"Joe Biden’s Student Loan Forgiveness Plan Will Cost $400 Billion, Budget Office Says,\" npr.org, Sep. 27, 2022",
+            "url": null,
+            "docid": 9915
+        },
+        {
+            "id": "48",
+            "title": "Arlette Saenz and Katie Lobosco, \"Biden Extends Student Loan Repayment Freeze As Forgiveness Program Is Tied Up in Courts,\" cnn.com, Nov. 22, 2022",
+            "url": null,
+            "docid": 9916
+        },
+        {
+            "id": "49",
+            "title": "Ariane de Vogue, \"Supreme Court Says Biden’s Student Loan Forgiveness Program Remains Blocked for Now, Schedules Arguments for February,\" cnn.com, Dec. 1, 2022",
+            "url": null,
+            "docid": 9917
+        },
+        {
+            "id": "50",
+            "title": "Nina Totenberg and Meghanlata Gupta, \"Supreme Court Kills Biden’s Student Debt Plan in a Setback for Millions of Borrowers,\" npr.org, June 30, 2023",
+            "url": null,
+            "docid": 9918
+        }
+    ],
+    "discussion": [
+        "1. Should the U.S. federal government forgive student loan debt? How much? For whom? Explain your answers.",
+        "2. Should student loan debt be easier to discharge in bankruptcy? Explain your answer.",
+        "3. Explore the pros and cons of other programs to resolve the student loan debt issue, such as targeted relief programs, employment assistance, or aid to colleges in order to lower tuition. Explain why your chosen programs are better or worse than debt forgiveness."
+    ],
+    "action": [
+        "1. Analyze Senator Elizabeth Warren’sstudent loan forgiveness policy proposal.",
+        "2. Consider current student loan debt forgiveness programs at theU.S. Department of Education.",
+        "3. Explore Adam Looney’s position thattargeted student loan reliefis a better policy than forgiveness.",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing U.S. nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/should-student-loan-debt-be-easier-to-discharge-in-bankruptcy-top-3-pros-cons/"
+}

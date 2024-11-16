@@ -1,0 +1,597 @@
+{
+    "title": "Should Students Have to Wear School Uniforms?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Elisabetta Gentile and Scott A. Imberman, \"Dressed for Success? The Effect of School Uniforms on Student Achievement and Behavior,\" utdallas.edu, Jan. 15, 2010",
+            "url": null,
+            "docid": 6492
+        },
+        {
+            "id": "2",
+            "title": "Ryan Yeung, \"Are School Uniforms a Good Fit?: Results from the ECLS-K and the NELS,\" Educational Policy, Nov. 2009",
+            "url": null,
+            "docid": 6493
+        },
+        {
+            "id": "3",
+            "title": "Jennifer Weiss, \"Do Clothes Make the Student?,\" nytimes.com, Sep. 16, 2006",
+            "url": null,
+            "docid": 6494
+        },
+        {
+            "id": "4",
+            "title": "Dorothy Behling, \"School Uniforms and Person Perception,\" Perceptual and Motor Skills, Oct. 1994",
+            "url": null,
+            "docid": 6495
+        },
+        {
+            "id": "5",
+            "title": "University of North Texas, \"School Uniforms Equalize Students, Education Professors Say,\" news.unt.edu, Aug. 3, 2006",
+            "url": null,
+            "docid": 6496
+        },
+        {
+            "id": "6",
+            "title": "John A. Gavin, \"Schools Find Stricter Rules, Uniforms Can Lessen Bullying,\" northjersey.com, Feb. 8, 2011",
+            "url": null,
+            "docid": 6497
+        },
+        {
+            "id": "7",
+            "title": "Daily Herald Editorial Board, \"Uniforms Benefit Students,\" heraldnet.com, Sep. 4, 2012",
+            "url": null,
+            "docid": 6498
+        },
+        {
+            "id": "8",
+            "title": "NorthJersey.com, \"Editorial: Do Uniforms Make Better Students?,\" northjersey.com, Sep. 29, 2011",
+            "url": null,
+            "docid": 6499
+        },
+        {
+            "id": "9",
+            "title": "Madison Park, \"School Uniforms Poll Bares Generation Gap,\" baltimoresun.com, Dec. 23, 2007",
+            "url": null,
+            "docid": 6500
+        },
+        {
+            "id": "10",
+            "title": "Carol Motsinger, \"Ironing out Policies on School Uniforms,\" usatoday.com, Aug. 6, 2007",
+            "url": null,
+            "docid": 6501
+        },
+        {
+            "id": "11",
+            "title": "Ovetta Wiggins, \"Pr. George's Students Who Chose Pink, Not Uniforms, for Breast Cancer Month Punished,\" washingtonpost.com, Oct. 25, 2013",
+            "url": null,
+            "docid": 6502
+        },
+        {
+            "id": "12",
+            "title": "Linda Starr, \"Can Uniforms Save Our Schools?,\" educationworld.com, May 11, 1998",
+            "url": null,
+            "docid": 6503
+        },
+        {
+            "id": "13",
+            "title": "Glori Chaika, \"School Uniforms: Panacea or Band-Aid?,\" educationworld.com, Oct. 11, 1999",
+            "url": null,
+            "docid": 6504
+        },
+        {
+            "id": "14",
+            "title": "David L. Brunsma, The School Uniform Movement and What It Tells Us about American Education: A Symbolic Crusade, 2004",
+            "url": null,
+            "docid": 6505
+        },
+        {
+            "id": "15",
+            "title": "Peter Caruso, \"Individuality vs. Conformity: The Issue behind School Uniforms,\" NASSP (National Association of Secondary School Principals) Bulletin, Sep. 1996",
+            "url": null,
+            "docid": 6506
+        },
+        {
+            "id": "16",
+            "title": "American Civil Liberties Union, \"All Dressed Up and Nowhere to Go: Students and Their Parents Fight School Uniform Policies,\" aclu.org, Nov. 4, 1999",
+            "url": null,
+            "docid": 6507
+        },
+        {
+            "id": "17",
+            "title": "American Civil Liberties Union of Nevada, \"Four Reasons Public Schools Should Think Twice Before Instituting School Uniform Policies,\" aclunv.org, Dec. 19, 2008",
+            "url": null,
+            "docid": 6508
+        },
+        {
+            "id": "18",
+            "title": "David L. Hudson Jr., \"Clothing, Dress Codes & Uniforms,\" firstamendmentcenter.org, Apr. 1, 2002",
+            "url": null,
+            "docid": 6509
+        },
+        {
+            "id": "19",
+            "title": "French Toast Official School Wear, \"Why School Uniforms?,\" frenchtoast.com (accessed Aug. 15, 2014)",
+            "url": null,
+            "docid": 6510
+        },
+        {
+            "id": "20",
+            "title": "John A. Huss, \"The Role of School Uniforms in Creating an Academically Motivating Climate: Do Uniforms Influence Teacher Expectations,\" Journal of Ethnographic and Qualitative Research, 2007",
+            "url": null,
+            "docid": 6511
+        },
+        {
+            "id": "21",
+            "title": "Lisa Flam, \"Are School Uniforms Helping or Hindering?,\" today.com, Aug. 19, 2013",
+            "url": null,
+            "docid": 6512
+        },
+        {
+            "id": "22",
+            "title": "Greg Toppo, \"What to Wear? Schools Increasingly Making That Decision,\" usatoday.com, Aug. 18, 2013",
+            "url": null,
+            "docid": 6513
+        },
+        {
+            "id": "23",
+            "title": "US Department of Education and Bureau of Justice Statistics, \"Indicators of School Crime and Safety: 2013,\" nces.ed.gov, June 2014",
+            "url": null,
+            "docid": 6514
+        },
+        {
+            "id": "24",
+            "title": "Kathleen Kiley Wade and Mary E. Stafford, \"Public School Uniforms: Effect on Perceptions of Gang Presence, School Climate, and Student Self-Perceptions,\" Education and Urban Society, Aug. 2003",
+            "url": null,
+            "docid": 6515
+        },
+        {
+            "id": "25",
+            "title": "Claudene Wharton, \"College of Education Researchers Conduct Study on Impacts of School Uniforms,\" unr.edu, Apr. 23, 2013",
+            "url": null,
+            "docid": 6516
+        },
+        {
+            "id": "26",
+            "title": "J. Scott Granberg-Rademacker, Jeffrey Bumgarner, and Avra Johnson, \"Do School Violence Policies Matter? An Empirical Analysis of Four Approaches to Reduce School Violence,\" Southwest Journal of Criminal Justice, Spring 2007",
+            "url": null,
+            "docid": 6517
+        },
+        {
+            "id": "27",
+            "title": "Virginia Ann Bendel Draa, \"School Uniforms in Urban Public High Schools,\" eric.ed.gov, Nov. 30, 2005",
+            "url": null,
+            "docid": 6518
+        },
+        {
+            "id": "28",
+            "title": "US Supreme Court, Tinker v. Des Moines Independent Community School District, law.cornell.edu, Feb. 24, 1969",
+            "url": null,
+            "docid": 6519
+        },
+        {
+            "id": "29",
+            "title": "United States Court of Appeals for the Fifth Circuit, Canady v. Bossier Parish School Board, caselaw.findlaw.com, Jan. 23, 2001",
+            "url": null,
+            "docid": 6520
+        },
+        {
+            "id": "30",
+            "title": "Mike Wilson, \"Clinton Raps Teacher Merit Pay,\" Associated Press, Nov. 19, 2007",
+            "url": null,
+            "docid": 6521
+        },
+        {
+            "id": "31",
+            "title": "Camille Chatterjee, \"Uniform Improvements,\" psychologytoday.com, Sep. 1, 1999",
+            "url": null,
+            "docid": 6522
+        },
+        {
+            "id": "32",
+            "title": "National Association of Elementary School Principals, \"National Survey of School Leaders Reveals 2013 School Uniform Trends,\" naesp.org, July 30, 2013",
+            "url": null,
+            "docid": 6523
+        },
+        {
+            "id": "33",
+            "title": "Linda Abel Fosseen, \"School Uniforms in Middle Schools: Enhancing Identity and Security,\" Uniforms in Public Schools: A Decade of Research and Debate, Ed. David L. Brunsma, 2006",
+            "url": null,
+            "docid": 6524
+        },
+        {
+            "id": "34",
+            "title": "Mark Walsh and Karen Diegmueller, \"Law Update: Judge Upholds Mandatory Uniforms at Phoenix School,\" edweek.org, Nov. 15, 1995",
+            "url": null,
+            "docid": 6525
+        },
+        {
+            "id": "35",
+            "title": "US Department of Education, \"Creating Safe and Drug-Free Schools: An Action Guide: Uniforms,\" ed.gov, Sep. 1996",
+            "url": null,
+            "docid": 6526
+        },
+        {
+            "id": "36",
+            "title": "US Department of Justice and US Department of Health and Human Services, \"Changing Course: Preventing Gang Membership,\" ncjrs.gov, 2013",
+            "url": null,
+            "docid": 6527
+        },
+        {
+            "id": "37",
+            "title": "Jay Wheeler, \"Letters to the Editor: School Uniforms Discourage Gangs,\" orlandosentinel.com, Sep. 10, 2009",
+            "url": null,
+            "docid": 6528
+        },
+        {
+            "id": "38",
+            "title": "Larry Wilder, \"Pros and Cons of School Dress Code: Pros of School Dress Code: Helping Students Dress for Safety,\" fresno.edu, Nov. 11, 2007",
+            "url": null,
+            "docid": 6529
+        },
+        {
+            "id": "39",
+            "title": "Elin Hofverberg, \"Sweden: School Inspectorate Says School Uniforms Are Human Rights Violation,\" loc.gov, Feb. 1, 2018",
+            "url": null,
+            "docid": 6530
+        },
+        {
+            "id": "40",
+            "title": "George Carlin, You Are All Diseased (album), 1999",
+            "url": null,
+            "docid": 6531
+        },
+        {
+            "id": "41",
+            "title": "Angela Walmsley, \"What the United Kingdom Can Teach the United States about School Uniforms,\" Phi Delta Kappan, Mar. 2011",
+            "url": null,
+            "docid": 6532
+        },
+        {
+            "id": "42",
+            "title": "Tom Houlihan, \"School Uniform Debate: 'School Uniforms Are Just Another Distraction,'\" education.com (accessed Aug. 20, 2014)",
+            "url": null,
+            "docid": 6533
+        },
+        {
+            "id": "43",
+            "title": "Joe Mathews, \"In Uniforms, No Uniformity,\" latimes.com, July 11, 2001",
+            "url": null,
+            "docid": 6534
+        },
+        {
+            "id": "44",
+            "title": "Maria Halkias, \"Retail Sales' Dip Trims Merchants' Hopes for Back-to-School Season,\" dallasnews.com, Jan. 18, 2011",
+            "url": null,
+            "docid": 6535
+        },
+        {
+            "id": "45",
+            "title": "Laura Clark, \"School Uniform Improves Pupils' Behaviour Both in and out of School,\" dailymail.co.uk, July 10, 2007",
+            "url": null,
+            "docid": 6536
+        },
+        {
+            "id": "46",
+            "title": "US Department of Education, National Center for Education Statistics, \"Fast Facts: School Uniforms,\" nces.ed.gov (accessed Oct. 24, 2018)",
+            "url": null,
+            "docid": 6537
+        },
+        {
+            "id": "47",
+            "title": "Michael Colasanti, \"School Uniforms and Dress Codes: State Policies,\" ecs.org, Mar. 2008",
+            "url": null,
+            "docid": 6538
+        },
+        {
+            "id": "48",
+            "title": "Lee. A. Daniels, \"Uniforms a Hit at Four Public Schools,\" nytimes.com, Dec. 6, 1987",
+            "url": null,
+            "docid": 6539
+        },
+        {
+            "id": "49",
+            "title": "Jon Allan Reyhner, \"Indian Boarding Schools,\" californiaindianeducation.org (accessed Aug. 20, 2014)",
+            "url": null,
+            "docid": 6540
+        },
+        {
+            "id": "50",
+            "title": "New York Times, \"School Uniforms Growing in Favor in California,\" nytimes.com, Sep. 3, 1994",
+            "url": null,
+            "docid": 6541
+        },
+        {
+            "id": "51",
+            "title": "Bill Clinton, \"Address before a Joint Session of the Congress on the State of the Union,\" presidency.ucsb.edu, Jan. 23, 1996",
+            "url": null,
+            "docid": 6542
+        },
+        {
+            "id": "52",
+            "title": "Alison Mitchell, \"Clinton Will Advise Schools on Uniforms,\" nytimes.com, Feb. 25, 1996",
+            "url": null,
+            "docid": 6543
+        },
+        {
+            "id": "53",
+            "title": "Court of Appeals of Arizona, Division 2, Department B, Phoenix Elementary School District No. 1 v. Green, caselaw.findlaw.com, Mar. 27, 1997",
+            "url": null,
+            "docid": 6544
+        },
+        {
+            "id": "54",
+            "title": "United States District Court, North Carolina, Eastern Division, Hicks v. Halifax County Board of Education, law.justia.com, Dec. 15, 1999",
+            "url": null,
+            "docid": 6545
+        },
+        {
+            "id": "55",
+            "title": "American Civil Liberties Union, \"Student Prevails in NC School Uniform Dispute,\" aclu.org, Jan. 11, 2000",
+            "url": null,
+            "docid": 6546
+        },
+        {
+            "id": "56",
+            "title": "Cy Ryan, \"Appeals Court Sends School Uniform Lawsuit Back to Lower Court for Additional Review,\" lasvegassun.com, Feb. 14, 2014",
+            "url": null,
+            "docid": 6547
+        },
+        {
+            "id": "57",
+            "title": "Maura Dolan, \"Appeals Court Finds Nevada School's Uniform Policy Unconstitutional,\" latimes.com, Feb. 14, 2014",
+            "url": null,
+            "docid": 6548
+        },
+        {
+            "id": "58",
+            "title": "United States District Court, New Mexico, Bivens by Green v. Albuquerque Public Schools, leagle.com, Aug. 25, 1995",
+            "url": null,
+            "docid": 6549
+        },
+        {
+            "id": "59",
+            "title": "Charles Haynes, \"School Officials Ease up on Uniform Enforcement,\" freedomforum.org, Jan. 16, 2000",
+            "url": null,
+            "docid": 6550
+        },
+        {
+            "id": "60",
+            "title": "Kyler Sumter, \"History Repeating: Don't Censor What I Wear, Let Me Be,\" huffingtonpost.com, Feb. 27, 2014",
+            "url": null,
+            "docid": 6551
+        },
+        {
+            "id": "61",
+            "title": "Seventeen, \"Make Your School Uniform Unique!,\" seventeen.com (accessed Aug. 20, 2014)",
+            "url": null,
+            "docid": 6552
+        },
+        {
+            "id": "62",
+            "title": "Teen Vogue, \"How to Accessorize Your School Uniform,\" teenvogue.com (accessed Aug. 20, 2014)",
+            "url": null,
+            "docid": 6553
+        },
+        {
+            "id": "63",
+            "title": "Harold Howe II, \"Leaning toward the Spartans and Away from the Athenians,\" edweek.org, Apr. 3, 1996",
+            "url": null,
+            "docid": 6554
+        },
+        {
+            "id": "64",
+            "title": "M. Sue Stanley, \"School Uniforms and Safety,\" Education and Urban Society, Aug. 1996",
+            "url": null,
+            "docid": 6555
+        },
+        {
+            "id": "65",
+            "title": "Andrea Dashiell, \"School Uniforms: Conformity vs. Creativity,\" parentmap.com, Sep. 25, 2013",
+            "url": null,
+            "docid": 6556
+        },
+        {
+            "id": "66",
+            "title": "David L. Brunsma and Kerry A. Rockquemore, \"Effects of Student Uniforms on Attendance, Behavior Problems, Substance Use, and Academic Achievement,\" Journal of Educational Research, Sep./Oct. 1998",
+            "url": null,
+            "docid": 6557
+        },
+        {
+            "id": "67",
+            "title": "New York Times, \"American Topics: Mandatory School Uniforms May Reduce Crime by Pupils,\" nytimes.com, Sep. 25, 1995",
+            "url": null,
+            "docid": 6558
+        },
+        {
+            "id": "68",
+            "title": "Linda Lumsden and Gabriel Miller, \"Dress Codes and Uniforms,\" Research Roundup: National Association of Elementary School Principals, Summer 2002",
+            "url": null,
+            "docid": 6559
+        },
+        {
+            "id": "69",
+            "title": "Seunghee Han, \"A Mandatory Uniform Policy in Urban Schools: Findings from the School Survey on Crime and Safety: 2003-04,\" International Journal of Education Policy and Leadership, 2010",
+            "url": null,
+            "docid": 6560
+        },
+        {
+            "id": "70",
+            "title": "Joel Donofrio, \"Dressed to Distraction,\" cdapress.com, Nov. 16, 2012",
+            "url": null,
+            "docid": 6561
+        },
+        {
+            "id": "71",
+            "title": "Worthington Christian Schools, \"School Uniforms,\" worthingtonchristian.com (accessed Aug. 20, 2014)",
+            "url": null,
+            "docid": 6562
+        },
+        {
+            "id": "72",
+            "title": "Charles Badger, \"Report of Standard School Attire: A Look at the Issues,\" schoenml.org (accessed Aug. 20, 2014)",
+            "url": null,
+            "docid": 6563
+        },
+        {
+            "id": "73",
+            "title": "Lois K. Solomon, \"9 More Schools to Have Students Wear Uniforms,\" sun-sentinel.com, May 6, 2000",
+            "url": null,
+            "docid": 6564
+        },
+        {
+            "id": "74",
+            "title": "Dhanya Skariachan, \"Uniforms Seen as Bright Spot in Drab U.S. Back-to-School Season,\" reuters.com, Aug. 14, 2013",
+            "url": null,
+            "docid": 6565
+        },
+        {
+            "id": "75",
+            "title": "Beth Asaff, \"Pros and Cons of School Uniforms,\" kids.lovetoknow.com (accessed Aug. 20, 2014)",
+            "url": null,
+            "docid": 6566
+        },
+        {
+            "id": "76",
+            "title": "Grace Chen, \"Public School Uniforms: The Pros and Cons for Your Child,\" publicschoolreview.com, Apr. 24, 2014",
+            "url": null,
+            "docid": 6567
+        },
+        {
+            "id": "77",
+            "title": "United States Court of Appeals for the Ninth Circuit, Jacobs v. Clark County School District, May 12, 2008",
+            "url": null,
+            "docid": 6568
+        },
+        {
+            "id": "78",
+            "title": "US Department of Education, National Center for Education Statistics, \"Indicators of School Crime and Safety: 2012,\" nces.ed.gov, June 26, 2013",
+            "url": null,
+            "docid": 6569
+        },
+        {
+            "id": "79",
+            "title": "Erikson Institute, \"Erik H. Erikson: Erikson Institute's Namesake,\" erikson.edu (accessed Aug. 21, 2014)",
+            "url": null,
+            "docid": 6570
+        },
+        {
+            "id": "80",
+            "title": "Melinda Swafford, Lee Ann Jolley, and Leigh Southward, \"The Student Dress Code Debate,\" Techniques, Jan. 2011",
+            "url": null,
+            "docid": 6571
+        },
+        {
+            "id": "81",
+            "title": "188th General Court of the Commonwealth of Massachusetts, \"General Laws: Chapter 71: Public Schools,\" malegislature.gov (accessed Aug. 21, 2014)",
+            "url": null,
+            "docid": 6572
+        },
+        {
+            "id": "82",
+            "title": "St. Petersburg Times Editorial Board, \"Uniform Policy Goes Too Far,\" sptimes.com, July 23, 1999",
+            "url": null,
+            "docid": 6573
+        },
+        {
+            "id": "83",
+            "title": "Jenny Scott, \"School Uniforms: A History of 'Rebellion and Conformity,'\" bbc.com, Sep. 5, 2014",
+            "url": null,
+            "docid": 6574
+        },
+        {
+            "id": "84",
+            "title": "Chris Hush, \"Students Skipping Class Due to Cost of School Uniforms,\" wgal.com, Sep. 10, 2014",
+            "url": null,
+            "docid": 6575
+        },
+        {
+            "id": "85",
+            "title": "Shawn Jeffords, \"Uniforms Won't Stop School Bullies, Experts Say,\" stcatharinestandard.ca, Mar. 14, 2012",
+            "url": null,
+            "docid": 6576
+        },
+        {
+            "id": "86",
+            "title": "Peter McGuire, \"No Skirting the School Uniform Debate,\" irishtimes.com, Feb. 8, 2016",
+            "url": null,
+            "docid": 6577
+        },
+        {
+            "id": "87",
+            "title": "Schoolwear News, \"School Uniforms Costs Just 45p a Day--New Study Shows,\" schoolwearassociation.co.uk, Aug. 20, 2015",
+            "url": null,
+            "docid": 6578
+        },
+        {
+            "id": "88",
+            "title": "US Department of Education and US Department of Justice, \"Indicators of School Crime and Safety: 2015,\" nces.ed.gov, May 2016",
+            "url": null,
+            "docid": 6579
+        },
+        {
+            "id": "89",
+            "title": "Chris Baumann and Hana Krskova, \"School Discipline, School Uniforms and Academic Performance,\" International Journal of Educational Management, 2016",
+            "url": null,
+            "docid": 6580
+        },
+        {
+            "id": "90",
+            "title": "National Center for Education Statistics, \"Indicator 8: Students' Reports of Gangs at School,\" nces.ed.gov, May 2017",
+            "url": null,
+            "docid": 6581
+        },
+        {
+            "id": "91",
+            "title": "Printwear and Promotion, \"Schoolwear Association Research Reveals Uniforms Can Be a Powerful Tool,\" printwearandpromotion.co.uk, Sep. 13, 2017",
+            "url": null,
+            "docid": 6582
+        },
+        {
+            "id": "92",
+            "title": "Christian Sheckler, \"Washington High School May Do Away with Uniform Policy,\" southbendtribune.com, Apr. 25, 2017",
+            "url": null,
+            "docid": 6583
+        },
+        {
+            "id": "93",
+            "title": "Adam Sherwin, \"High Price of School Uniforms Leaves Children at Risk of Bullying,\" independent.co.uk, Feb. 24, 2015",
+            "url": null,
+            "docid": 6584
+        },
+        {
+            "id": "94",
+            "title": "Patrick Butler, \"Hidden Costs of State Schools Causing Hardship for Millions,\" theguardian.com, Oct. 28, 2014",
+            "url": null,
+            "docid": 6585
+        },
+        {
+            "id": "95",
+            "title": "National Center for Education Statistics and Bureau of Justice Statistics, \"Indicators of School Crime and Safety: 2018,\" nces.ed.gov, Apr. 2019",
+            "url": null,
+            "docid": 6586
+        },
+        {
+            "id": "96",
+            "title": "Sarah Mervosh, \"Girls at North Carolina School Don’t Have to Wear Skirts, Judge Rules,\" nytimes.com, Mar. 31, 2019",
+            "url": null,
+            "docid": 6587
+        },
+        {
+            "id": "97",
+            "title": "National Center for Education Statistics, “School Uniforms,” nces.ed.gov (accessed May 3, 2021)",
+            "url": null,
+            "docid": 6588
+        },
+        {
+            "id": "98",
+            "title": "McKenna Oxenden, \"Court Sides with Girls Who Sued over School’s Skirt Requirement,\"nytimes.com, June 17, 2022",
+            "url": "https://www.nytimes.com/2022/06/17/us/nc-school-dress-code-skirts-lawsuit.html",
+            "docid": 6589
+        }
+    ],
+    "url": "https://school-uniforms.procon.org/"
+}

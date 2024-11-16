@@ -1,0 +1,335 @@
+{
+    "title": "Should Bottled Water Be Banned? – Top 4 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Food & Water Watch, “Take Back the Tap: The Big Business Hustle of Bottled Water,” foodandwaterwatch.org, Feb. 2018",
+            "url": null,
+            "docid": 1349
+        },
+        {
+            "id": "2",
+            "title": "Tapp Water, “Water Consumption in the US,” tappwater.co, Apr. 6, 2018",
+            "url": null,
+            "docid": 1350
+        },
+        {
+            "id": "3",
+            "title": "4Ocean, “How Long Does It Take Trash to Decompose,” 4ocean.com, Jan. 20, 2017",
+            "url": null,
+            "docid": 1351
+        },
+        {
+            "id": "4",
+            "title": "Ellen MacArthur Foundation, “The New Plastics Economy: Rethinking the Future of Plastics,” ellenmacarthurfoundation.org, 2016",
+            "url": null,
+            "docid": 1352
+        },
+        {
+            "id": "5",
+            "title": "PETRA, “PET – What Is It and Where Does It Come From?,” petresin.org (accessed May 31, 2018)",
+            "url": null,
+            "docid": 1353
+        },
+        {
+            "id": "6",
+            "title": "Pacific Institute, “Integrity of Science: Bottled Water and Energy Factsheet: Getting to 17 Million Barrels,” pacinst.org, Dec. 2007",
+            "url": null,
+            "docid": 1354
+        },
+        {
+            "id": "7",
+            "title": "International Bottled Water Association, “Bottled Water Continues as Number 2 in 2007,” bottledwater.org, Apr. 2008",
+            "url": null,
+            "docid": 1355
+        },
+        {
+            "id": "8",
+            "title": "Beverage Marketing Corporation, “IBWA Press Release: Consumers Reaffirm Bottled Water Is America’s Favorite Drink,” beveragemarketing.com, May. 31, 2018",
+            "url": null,
+            "docid": 1356
+        },
+        {
+            "id": "9",
+            "title": "Marian Burros, “Fighting the Tide, a Few Restaurants Tilt to Tap Water,” nytimes.com, May 30, 2007",
+            "url": null,
+            "docid": 1357
+        },
+        {
+            "id": "10",
+            "title": "Christopher Tyree and Dan Morrison, “Plus Plastic: Microplastics Found in Global Bottled Water,” orbmedia.org (accessed May 30, 2018)",
+            "url": null,
+            "docid": 1358
+        },
+        {
+            "id": "11",
+            "title": "Sherri A. Mason, et al, “Synthetic Contamination in Bottled Water,” orbmedia.org (accessed May 30, 2018)",
+            "url": null,
+            "docid": 1359
+        },
+        {
+            "id": "12",
+            "title": "Amir Hossein Mahvi, et al, “Effects of Storage Time and Temperature on the Antimony and Some Trace Element Release from Polyethylene Terephthalate (Pet) into the Bottled Drinking Water,” springer.com, Dec. 2014",
+            "url": null,
+            "docid": 1360
+        },
+        {
+            "id": "13",
+            "title": "William Shotyk and Michael Krachler, “Contamination of Bottled Waters with Antimony Leaching from Polyethylene Terephthalate (PET) Increases upon Storage,” pubs.acs.org, 2007",
+            "url": null,
+            "docid": 1361
+        },
+        {
+            "id": "14",
+            "title": "Cody Benjamin, “2018 Winter Olympics: Pyeongchang Games Reportedly Cost $4b More Than Expected,” cbssports.com, Feb. 5, 2018",
+            "url": null,
+            "docid": 1362
+        },
+        {
+            "id": "15",
+            "title": "Mallory Sofastaii, “Americans Spend $16 Billion a Year on Bottled Water,” wmar2news.com, Oct. 10, 2017",
+            "url": null,
+            "docid": 1363
+        },
+        {
+            "id": "16",
+            "title": "Mathematics for Sustainability, “Plastic vs Reusable Water Bottles,” sites.psu.edu, Oct. 10, 2017",
+            "url": null,
+            "docid": 1364
+        },
+        {
+            "id": "17",
+            "title": "National Park Service, “‘Disposable Plastic Water Bottle Recycling and Reduction’ Program Evaluation Report,” nps.gov, May 2017",
+            "url": null,
+            "docid": 1365
+        },
+        {
+            "id": "18",
+            "title": "Andrew Gumbel, “California Drought Spurts Protest over ‘Unconscionable’ Bottled Water Business,” theguardian.com, Apr. 19, 2015",
+            "url": null,
+            "docid": 1366
+        },
+        {
+            "id": "19",
+            "title": "Julia Lurie, “Bottled Water Comes from the Most Drought-Ridden Places in the Country,” motherjones.com, Aug. 11, 2014",
+            "url": null,
+            "docid": 1367
+        },
+        {
+            "id": "20",
+            "title": "The Economist, “Source of Trouble: Is Bottled Water Hurting Aquifers?,” economist.com, Oct. 26, 2006",
+            "url": null,
+            "docid": 1368
+        },
+        {
+            "id": "21",
+            "title": "Alison Pugash, “7 Ugly Truths of Bottled Water,” globalgreen.org, July 23, 2014",
+            "url": null,
+            "docid": 1369
+        },
+        {
+            "id": "22",
+            "title": "Judy Stone, “Fracking Is Dangerous to Your Health – Here’s Why,” forbes.com, Feb. 23, 2017",
+            "url": null,
+            "docid": 1370
+        },
+        {
+            "id": "23",
+            "title": "Wenonah Hauter, “We Are Drowning in Plastic, and Fracking Companies Are Profiting,” yesmagazine.org, Feb. 14, 2018",
+            "url": null,
+            "docid": 1371
+        },
+        {
+            "id": "24",
+            "title": "Jessica Glenza, “Nestlé Pays $200 a Year to Bottle Water near Flint – Where Water Is Undrinkable,” theguardian.com, Sep. 29, 2017",
+            "url": null,
+            "docid": 1372
+        },
+        {
+            "id": "25",
+            "title": "Beverage Industry, “Bottled Water Consumption Results in Calorie Savings, BMC Report States,” bevindustry.com, June 7, 2016",
+            "url": null,
+            "docid": 1373
+        },
+        {
+            "id": "26",
+            "title": "Elizabeth R. Berman and Rachel K. Johnson, “The Unintended Consequences of Changes in Beverage Options and the Removal of Bottled Water on a University Campus,” ncbi.nlm.nih.gov, July 2015",
+            "url": null,
+            "docid": 1374
+        },
+        {
+            "id": "27",
+            "title": "International Bottled Water Association, “Proposed Bottled Water Ban Not in the Best Interest of San Franciscans,” bottledwater.org, Dec. 18, 2013",
+            "url": null,
+            "docid": 1375
+        },
+        {
+            "id": "28",
+            "title": "National Park Service, “National Park Service Ends Effort to Eliminate Sale of Disposable Water Bottles,” nps.gov, Aug. 16, 2017",
+            "url": null,
+            "docid": 1376
+        },
+        {
+            "id": "29",
+            "title": "Sara Ganim and Linh Tran, “How the Water Became Toxic in Flint, Michigan,” cnn.com, Jan. 13, 2016",
+            "url": null,
+            "docid": 1377
+        },
+        {
+            "id": "30",
+            "title": "CNN Library, “Flint Water Crisis Fast Facts,” cnn.com, Apr. 8, 2018",
+            "url": null,
+            "docid": 1378
+        },
+        {
+            "id": "31",
+            "title": "Christina Zdanowicz, “Flint Family Uses 151 Bottles of Water per Day,” cnn.com, Mar. 7, 2016",
+            "url": null,
+            "docid": 1379
+        },
+        {
+            "id": "32",
+            "title": "Julie Dermansky, “While One Louisiana Town’s Lead-Tainted Water System Is Replaced, Dozens of Others Deteriorate,” desmogblog.com, Mar. 18, 2017",
+            "url": null,
+            "docid": 1380
+        },
+        {
+            "id": "33",
+            "title": "Nick Picht, “St. Joseph’s New Water System Goes Online,” knoe.com, Mar. 13, 2018",
+            "url": null,
+            "docid": 1381
+        },
+        {
+            "id": "34",
+            "title": "Danielle McLean, “The Poland Spring Water Controversy, Explained,” bangordailynews.com, Apr. 28, 2017",
+            "url": null,
+            "docid": 1382
+        },
+        {
+            "id": "35",
+            "title": "Bottled Life, “The Story,” bottledlifefilm.com (accessed June 6, 2018)",
+            "url": null,
+            "docid": 1383
+        },
+        {
+            "id": "36",
+            "title": "David Kirby, “Ocean Plastic Pollution Costs $13 Billion a Year, and Your Face Scrub Is Part of the Problem,” takepart.com, June 30, 2014",
+            "url": null,
+            "docid": 1384
+        },
+        {
+            "id": "37",
+            "title": "Jonathan Dame, “Sudbury: Business Owner Seeks Repeal of Plastic Water Bottle Ban,” metrowestdailynews.com, Aug. 25, 2017",
+            "url": null,
+            "docid": 1385
+        },
+        {
+            "id": "38",
+            "title": "Winnie Hu, “Could New York City Parks Be Going Plastic Bottle-Free?,” nytimes.com, Apr. 20, 2018",
+            "url": null,
+            "docid": 1386
+        },
+        {
+            "id": "39",
+            "title": "International Bottled Water Association, “Consumers Prefer Bottled Water, Recognize It as a Healthy Choice, and Think It Should Be Available Wherever Drinks Are Sold,” bottledwater.org, Dec. 18, 2017",
+            "url": null,
+            "docid": 1387
+        },
+        {
+            "id": "40",
+            "title": "Michele Zollinger, et al, “Life Cycle Inventory and Environmental Footprint of Bottled Water for the North American Market: Executive Summary,” bottledwater.org, Oct. 24, 2017",
+            "url": null,
+            "docid": 1388
+        },
+        {
+            "id": "41",
+            "title": "Nestlé Waters North America, “Bottled Water Shown to Have Lightest Environmental Footprint among Packaged Drinks, New Study Finds,” nestle-watersna.com, Feb. 3, 2010",
+            "url": null,
+            "docid": 1389
+        },
+        {
+            "id": "42",
+            "title": "Beverage Marketing Corporation, “Press Release: Bottled Water Becomes Number-One Beverage in the US,” beveragemarketing.com, Mar. 10, 2017",
+            "url": null,
+            "docid": 1390
+        },
+        {
+            "id": "43",
+            "title": "The Business Research Company, “The Global Bottled Water Market: Expert Insights & Statistics,” marketresearch.com, Feb. 28, 2018",
+            "url": null,
+            "docid": 1391
+        },
+        {
+            "id": "44",
+            "title": "Lorraine Chow, “The Story of the First American City to Ban the Plastic Water Bottle,” nationswell.com. Dec. 22, 2014",
+            "url": null,
+            "docid": 1392
+        },
+        {
+            "id": "45",
+            "title": "New York City, “Water Fountain and Bottle Refill Stations,” nyc.gov (accessed June 11, 2018)",
+            "url": null,
+            "docid": 1393
+        },
+        {
+            "id": "46",
+            "title": "Ready.gov, “Water,” ready.gov (accessed June 11, 2019)",
+            "url": null,
+            "docid": 1394
+        },
+        {
+            "id": "47",
+            "title": "International Bottled Water Association, “Infographic Highlights Bottled Water’s Small Water Use and Big Health Benefits,” bottledwater.org, Oct. 7, 2014",
+            "url": null,
+            "docid": 1395
+        },
+        {
+            "id": "48",
+            "title": "J. Money, “I’m a Bottled Water Drinker & I’m Not Afraid to Admit It,” budgetsaresexy.com, May 8, 2018",
+            "url": null,
+            "docid": 1396
+        },
+        {
+            "id": "49",
+            "title": "Sandra Laville and Matthew Taylor, “A Million Bottles a Minute: World’s Plastic Binge ‘as Dangerous as Climate Change’,” theguardian.com, June 28, 2017",
+            "url": null,
+            "docid": 1397
+        },
+        {
+            "id": "50",
+            "title": "The Shelby Report, \"Data Shows Bottled Water Consumption Continues to Increase,\" theshelbyreport.com, May 1, 2020",
+            "url": null,
+            "docid": 1398
+        },
+        {
+            "id": "51",
+            "title": "Aaron Radford-Wattley, \"How Much Is the Bottled Water Industry Worth?,\" foxbusiness.com, June 15, 2020",
+            "url": null,
+            "docid": 1399
+        },
+        {
+            "id": "52",
+            "title": "Grand View Research, Inc., \"Bottled Water Market Size Worth $505.19 Billion By 2028 | CAGR: 11.1%: Grand View Research, Inc.,\" prnewswire.com, Feb. 2, 2021",
+            "url": null,
+            "docid": 1400
+        },
+        {
+            "id": "53",
+            "title": "Justine Calma, \"New York City Is Cracking Down on Plastic Bottles,\" theverge.com, Feb. 7, 2020",
+            "url": null,
+            "docid": 1401
+        }
+    ],
+    "discussion": [],
+    "action": [
+        "1. Consider the argument that single-use plastic is a “serious climate change hazard.”",
+        "2. Explore which cities and states havesingle-use plastic bag bans.",
+        "3. Evaluate the argument that bottled water bansharm the environment and public health.",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/should-bottled-water-be-banned-top-4-pros-and-cons/"
+}

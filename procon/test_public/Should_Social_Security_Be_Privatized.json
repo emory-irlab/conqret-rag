@@ -1,0 +1,591 @@
+{
+    "title": "Should Social Security Be Privatized?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Social Security Administration, \"Frequently Asked Questions: Ratio of Covered Workers to Beneficiaries,\" ssa.gov (accessed Aug. 17, 2015)",
+            "url": null,
+            "docid": 10829
+        },
+        {
+            "id": "2",
+            "title": "\"Projected Future Growth of the Older Population: By Age: 1900-2050,\" Administration on Aging website, July 16, 2009",
+            "url": null,
+            "docid": 10830
+        },
+        {
+            "id": "3",
+            "title": "Board of Trustees, Federal Old-Age and Survivors Insurance and Federal Disability Insurance Trust Funds, \"The 2015 Annual Report of the Board of Trustees of the Federal Old-Age and Survivors Insurance and Federal Disability Insurance Trust Funds,\" ssa.gov, July 22, 2015",
+            "url": null,
+            "docid": 10831
+        },
+        {
+            "id": "4",
+            "title": "AARP/John Rother, email to ProCon.org, Apr. 28, 2010",
+            "url": null,
+            "docid": 10832
+        },
+        {
+            "id": "5",
+            "title": "CNN and ORC International, \"CNN/ORC Poll,\" Turner Broadcasting System website, Sep. 29, 2011",
+            "url": null,
+            "docid": 10833
+        },
+        {
+            "id": "6",
+            "title": "Aswath Damodaran, \"Annual Returns on Stock, Bonds and T-bill’s: 1928 - Current,\" New York University Stern School of Business website, Jan. 5, 2015",
+            "url": null,
+            "docid": 10834
+        },
+        {
+            "id": "7",
+            "title": "Aaron Bernstein, \"Social Security: Are Private Accounts a Good Idea?,\" BusinessWeek.com, Jan. 24, 2005",
+            "url": null,
+            "docid": 10835
+        },
+        {
+            "id": "8",
+            "title": "Campaign for America's Future, \"Media Advisory: Former Thrift Savings Plan Director to Talk with Reporters about Problems of Privatized Social Security,\" Campaign for America's Future website, Aug. 22, 2001",
+            "url": null,
+            "docid": 10836
+        },
+        {
+            "id": "9",
+            "title": "Social Security Administration, \"Fast Facts & Figures about Social Security, 2009,\" Social Security Administration website, July 2009",
+            "url": null,
+            "docid": 10837
+        },
+        {
+            "id": "10",
+            "title": "Michael Clingman et al., \"Internal Real Rates of Return under the OASDI Program for Hypothetical Workers,\" ssa.gov, Dec. 2014",
+            "url": null,
+            "docid": 10838
+        },
+        {
+            "id": "11",
+            "title": "Social Security Administration, \"Report of the National Commission on Social Security Reform,\" Social Security Administration website, Jan. 1983",
+            "url": null,
+            "docid": 10839
+        },
+        {
+            "id": "12",
+            "title": "Mark Miller, \"What's Your Rate of Return on Social Security?,\" reuters.com, Oct. 18, 2012",
+            "url": null,
+            "docid": 10840
+        },
+        {
+            "id": "13",
+            "title": "Kathleen Romig, \"Social Security: What Would Happen if the Trust Funds Ran Out?,\" Congressional Research Service, aging.senate.gov, Apr. 25, 2008",
+            "url": null,
+            "docid": 10841
+        },
+        {
+            "id": "14",
+            "title": "Martin Feldstein, \"Private Accounts Can Save Social Security,\" wsj.com, May 2, 2011",
+            "url": null,
+            "docid": 10842
+        },
+        {
+            "id": "15",
+            "title": "Stephen Moore, \"Bold Deal for Social Security,\" cato.org, May 12, 2000",
+            "url": null,
+            "docid": 10843
+        },
+        {
+            "id": "16",
+            "title": "Peter Ferrara, \"A Progressive Proposal for Social Security Private Accounts,\" Institute for Policy Innovation website, June 13, 2003",
+            "url": null,
+            "docid": 10844
+        },
+        {
+            "id": "17",
+            "title": "José Piñera, \"How We Privatized Social Security in Chile,\" July 1, 1997",
+            "url": null,
+            "docid": 10845
+        },
+        {
+            "id": "18",
+            "title": "Social Security Administration, \"About Us,\" ssa.gov (accessed Aug. 17, 2015)",
+            "url": null,
+            "docid": 10846
+        },
+        {
+            "id": "19",
+            "title": "Social Security Administration, \"Organizational Structure of the Social Security Administration,\" ssa.gov (accessed Aug. 17, 2015)",
+            "url": null,
+            "docid": 10847
+        },
+        {
+            "id": "20",
+            "title": "Courtney Baird, \"Diving into the Deficit,\" Committee for Economic Development website, Nov. 6, 2014",
+            "url": null,
+            "docid": 10848
+        },
+        {
+            "id": "21",
+            "title": "Office of Management and Budget, \"Historical Tables,\" whitehouse.gov (accessed Aug. 28, 2015)",
+            "url": null,
+            "docid": 10849
+        },
+        {
+            "id": "22",
+            "title": "Gallup, \"Personal Finances: Social Security,\" gallup.com (accessed Aug. 17, 2015)",
+            "url": null,
+            "docid": 10850
+        },
+        {
+            "id": "23",
+            "title": "Joseph E. Stiglitz et al., The Economists' Voice: Top Economists Take on Today's Problems, 2013",
+            "url": null,
+            "docid": 10851
+        },
+        {
+            "id": "24",
+            "title": "Social Security Administration, \"Social Security History: Supreme Court Case: Flemming vs. Nestor,\" ssa.gov (accessed Aug. 17, 2015)",
+            "url": null,
+            "docid": 10852
+        },
+        {
+            "id": "25",
+            "title": "Michael D. Tanner, \"Is There a Right to Social Security?,\" cato.org, Nov. 25, 1998",
+            "url": null,
+            "docid": 10853
+        },
+        {
+            "id": "26",
+            "title": "George W. Bush, \"Text of President Bush's 2005 State of the Union Address,\" washingtonpost.com, Feb 2, 2005",
+            "url": null,
+            "docid": 10854
+        },
+        {
+            "id": "27",
+            "title": "President's Commission to Strengthen Social Security, \"Strengthening Social Security and Creating Personal Wealth for All Americans,\" ssa.gov, Dec. 21, 2001",
+            "url": null,
+            "docid": 10855
+        },
+        {
+            "id": "28",
+            "title": "Joseph Friedman and Herbert E. Phillips, \"The Portfolio Implications of Adding Social Security Private Account Options to Ongoing Investments,\" Temple University website, Mar. 2010",
+            "url": null,
+            "docid": 10856
+        },
+        {
+            "id": "29",
+            "title": "Bureau of Labor Statistics, \"CPI Inflation Calculator,\" bls.gov (accessed Aug. 17, 2015)",
+            "url": null,
+            "docid": 10857
+        },
+        {
+            "id": "30",
+            "title": "Social Security Administration, \"Contribution and Benefit Base,\" ssa.gov (accessed Aug. 17, 2015)",
+            "url": null,
+            "docid": 10858
+        },
+        {
+            "id": "31",
+            "title": "Daniel J. Mitchell, \"Why Critics of Social Security Personal Retirement Accounts Are Wrong,\" heritage.org, Feb. 4, 2000",
+            "url": null,
+            "docid": 10859
+        },
+        {
+            "id": "32",
+            "title": "Michael Tanner, \"Privatizing Social Security: A Big Boost for the Poor,\" cato.org, July 26, 1996",
+            "url": null,
+            "docid": 10860
+        },
+        {
+            "id": "33",
+            "title": "Nicole Woo, \"Scrapping the Social Security Payroll Tax Cap,\" thehill.com, May 8, 2014",
+            "url": null,
+            "docid": 10861
+        },
+        {
+            "id": "34",
+            "title": "George W. Bush, Decision Points, 2010",
+            "url": null,
+            "docid": 10862
+        },
+        {
+            "id": "35",
+            "title": "Richard W. Stevenson, \"Bush's Social Security Plan Is Said to Require Vast Borrowing,\" nytimes.com, Nov. 28, 2004",
+            "url": null,
+            "docid": 10863
+        },
+        {
+            "id": "36",
+            "title": "Barry P. Bosworth and Gary Burtless, \"Privatizing Social Security: The Troubling Trade-Offs,” brookings.edu, Mar. 1997",
+            "url": null,
+            "docid": 10864
+        },
+        {
+            "id": "37",
+            "title": "William A. Galston, \"Why President Bush's 2005 Social Security Initiative Failed, and What It Means for the Future of the Program,\" wagner.nyu.edu, Sep. 2007",
+            "url": null,
+            "docid": 10865
+        },
+        {
+            "id": "38",
+            "title": "Matt Krantz, \"Markets' Fall in 2008 Was Worst in Seven Decades,\" usatoday.com, Jan 2, 2009",
+            "url": null,
+            "docid": 10866
+        },
+        {
+            "id": "39",
+            "title": "National Committee to Preserve Social Security & Medicare, \"The Truth about Social Security and Privatization,\" ncpssm.org (accessed Aug. 17, 2015)",
+            "url": null,
+            "docid": 10867
+        },
+        {
+            "id": "40",
+            "title": "US Securities and Exchange Commission, \"Invest Wisely: An Introduction to Mutual Funds,\" sec.gov, July 2, 2008",
+            "url": null,
+            "docid": 10868
+        },
+        {
+            "id": "41",
+            "title": "Charisse Jones, \"Survey: Americans Have Big Gaps in Financial Knowledge,\" usatoday.com, May 2, 2015",
+            "url": null,
+            "docid": 10869
+        },
+        {
+            "id": "42",
+            "title": "Annamaria Lusardi and Olivia S. Mitchell, \"Financial Literacy and Planning: Implications for Retirement Wellbeing,\" dartmouth.edu, Oct. 2006",
+            "url": null,
+            "docid": 10870
+        },
+        {
+            "id": "43",
+            "title": "Aaron Bernstein, \"Social Security,\" Bloomberg.com, Jan. 23, 2005",
+            "url": null,
+            "docid": 10871
+        },
+        {
+            "id": "44",
+            "title": "Greg Anrig, \"Twelve Reasons Why Privatizing Social Security Is a Bad Idea,\" Century Foundation website, Dec. 13, 2004",
+            "url": null,
+            "docid": 10872
+        },
+        {
+            "id": "45",
+            "title": "Century Foundation, \"False Promise: How Social Security Privatization Would Sting Young Adults,\" tcf.org, Mar. 8, 2005",
+            "url": null,
+            "docid": 10873
+        },
+        {
+            "id": "46",
+            "title": "Dean Baker, \"Cutting Our Benefits,\" inthesetimes.com, Dec. 6, 2004",
+            "url": null,
+            "docid": 10874
+        },
+        {
+            "id": "47",
+            "title": "Federal Bureau of Investigation, \"Financial Crimes Report to the Public: Fiscal Years 2010-2011 (October 1, 2009 – September 30, 2011),\" fbi.gov (accessed Aug. 17, 2015)",
+            "url": null,
+            "docid": 10875
+        },
+        {
+            "id": "48",
+            "title": "Jason Furman and Betsey Stevenson, \"The Effects of Conflicted Investment Advice on Retirement Savings,\" whitehouse.gov, Feb. 23, 2015",
+            "url": null,
+            "docid": 10876
+        },
+        {
+            "id": "49",
+            "title": "Zach Carter, \"Elizabeth Warren Nails GOP Financial Exec,\" huffingtonpost.com, July 22, 2015",
+            "url": null,
+            "docid": 10877
+        },
+        {
+            "id": "50",
+            "title": "British Broadcasting Corporation (BBC), \"Business: Your Money: Watchdog Focus on Young Pension Victims,\" bbc.co.uk, Jan. 5, 1999",
+            "url": null,
+            "docid": 10878
+        },
+        {
+            "id": "51",
+            "title": "Sam Dunn, \"Six Scandals from the Darkest Days of an Already Murky Industry,\" theguardian.com, June 20, 2009",
+            "url": null,
+            "docid": 10879
+        },
+        {
+            "id": "52",
+            "title": "Mark Rice-Oxley and Jennifer Ross, \"In Britain and Chile, Lessons for Revamping Social Security,\" csmonitor.com, Mar. 14, 2005",
+            "url": null,
+            "docid": 10880
+        },
+        {
+            "id": "53",
+            "title": "Robert Genetski, \"Administration Costs and the Relative Efficiency of Public and Private Social Security Systems,\" cato.org, Mar. 9, 1999",
+            "url": null,
+            "docid": 10881
+        },
+        {
+            "id": "54",
+            "title": "Board of Trustees, Federal Old-Age and Survivors Insurance and Federal Disability Insurance Trust Funds, \"The 2014 Annual Report of the Board of Trustees of the Federal Old-Age and Survivors Insurance and Federal Disability Insurance Trust Funds,\" ssa.gov, July 28, 2014",
+            "url": null,
+            "docid": 10882
+        },
+        {
+            "id": "55",
+            "title": "Christian E. Weller and Edith Rasell, \"The Perils of Privatization: Bush’s Lethal Plan for Social Security,\" Economic Policy Institute website, May 1, 2000",
+            "url": null,
+            "docid": 10883
+        },
+        {
+            "id": "56",
+            "title": "Congressional Budget Office, \"Social Security Policy Options,\" cbo.gov, July 2010",
+            "url": null,
+            "docid": 10884
+        },
+        {
+            "id": "57",
+            "title": "Steve Vernon, \"Does Congress Raid Social Security?,\" cbsnews.com, Oct. 11, 2012",
+            "url": null,
+            "docid": 10885
+        },
+        {
+            "id": "58",
+            "title": "Becca Aaronson, \"How Privatized Social Security Works in Galveston,\" nytimes.com, Sep. 17, 2011",
+            "url": null,
+            "docid": 10886
+        },
+        {
+            "id": "59",
+            "title": "Vito Tanzi, Government versus Markets: The Changing Economic Role of the State, 2011",
+            "url": null,
+            "docid": 10887
+        },
+        {
+            "id": "60",
+            "title": "John Zogby, \"Public Opinion and Private Accounts: Measuring Risk and Confidence in Rethinking Social Security,\" Social Security and Its Discontents: Perspectives on Choice, Ed. Michael Tanner, 2004",
+            "url": null,
+            "docid": 10888
+        },
+        {
+            "id": "61",
+            "title": "Social Security Administration, \"FAQs,\" ssa.gov (accessed Aug. 18, 2015)",
+            "url": null,
+            "docid": 10889
+        },
+        {
+            "id": "62",
+            "title": "Social Security Administration, \"Social Insurance Programs,\" ssa.gov (accessed Aug. 18, 2015)",
+            "url": null,
+            "docid": 10890
+        },
+        {
+            "id": "63",
+            "title": "Social Security Administration, \"Historical Background and Development of Social Security,\" ssa.gov (accessed Aug. 18, 2015)",
+            "url": null,
+            "docid": 10891
+        },
+        {
+            "id": "64",
+            "title": "Jagadeesh Gokhale, \"Social Security Reform: Does Privatization Still Make Sense?,\" Harvard Journal on Legislation, 2013",
+            "url": null,
+            "docid": 10892
+        },
+        {
+            "id": "65",
+            "title": "Brendan Cushing-Daniels and Richard W. Johnson, \"Employer-Sponsored Pensions: A Primer,\" Urban Institute website, Jan. 2008",
+            "url": null,
+            "docid": 10893
+        },
+        {
+            "id": "66",
+            "title": "Social Security Administration, \"Social Security Basic Facts,\" ssa.gov, Apr. 2, 2014",
+            "url": null,
+            "docid": 10894
+        },
+        {
+            "id": "67",
+            "title": "Social Security Administration, \"Contribution and Benefit Base,\" ssa.gov (accessed Aug. 18, 2015)",
+            "url": null,
+            "docid": 10895
+        },
+        {
+            "id": "68",
+            "title": "Social Security Administration, \"Report of the 1994-1996 Advisory Council on Social Security: Volume I: Findings and Recommendations,\" ssa.gov, Jan. 1997",
+            "url": null,
+            "docid": 10896
+        },
+        {
+            "id": "69",
+            "title": "Alliance for Aging Research, \"Preparing for the Silver Tsunami,\" agingresearch.org, July 1, 2006",
+            "url": null,
+            "docid": 10897
+        },
+        {
+            "id": "70",
+            "title": "Elizabeth Arias, \"National Vital Statistics Reports: United States Life Tables, 2010,\" Centers for Disease Control and Prevention website, Nov. 6, 2014",
+            "url": null,
+            "docid": 10898
+        },
+        {
+            "id": "71",
+            "title": "Stephen C. Goss, \"The Future Financial Status of the Social Security Program,\" ssa.gov, 2010",
+            "url": null,
+            "docid": 10899
+        },
+        {
+            "id": "72",
+            "title": "Steven Pearlstein and Spencer Rich, \"Social Security Proposals May Come up Short, Create New Problems,\" washingtonpost.com, Jan. 8, 1997",
+            "url": null,
+            "docid": 10900
+        },
+        {
+            "id": "73",
+            "title": "Don Rich, \"Bush's Fiscal Policy: The Short and the Long of It,\" A Bird in the Bush: Failed Policies of the George W. Bush Administration, Ed. Dowling Campbell, 2005",
+            "url": null,
+            "docid": 10901
+        },
+        {
+            "id": "74",
+            "title": "Kathryn L. Moore, \"Partial Privatization of Social Security: Assessing Its Effect on Women, Minorities, and Lower-Income Workers,\" Missouri Law Review, Spring 2000",
+            "url": null,
+            "docid": 10902
+        },
+        {
+            "id": "75",
+            "title": "Steven Gillon, \"The Pact between Bill Clinton and Newt Gingrich,\" usnews.com, May 29, 2008",
+            "url": null,
+            "docid": 10903
+        },
+        {
+            "id": "76",
+            "title": "George W. Bush, \"George W. Bush on Social Security\" (speech excerpts), ontheissues.org (accessed Aug. 18, 2015)",
+            "url": null,
+            "docid": 10904
+        },
+        {
+            "id": "77",
+            "title": "Peter Ferrara, \"How George W. Bush Lost Personal Accounts for Social Security,\" forbes.com, Apr. 7, 2011",
+            "url": null,
+            "docid": 10905
+        },
+        {
+            "id": "78",
+            "title": "History Channel, \"This Day in History: George W. Bush Forms Commission on Social Security,\" history.com (accessed Aug. 18, 2015)",
+            "url": null,
+            "docid": 10906
+        },
+        {
+            "id": "79",
+            "title": "Laura Meckler, \"Key Seniors Association Pivots on Benefit Cut,\" wsj.com, June 17, 2011",
+            "url": null,
+            "docid": 10907
+        },
+        {
+            "id": "80",
+            "title": "Brain Dakss, \"AARP's Clout, and Social Security,\" cbsnews.com, Aug. 26, 2005",
+            "url": null,
+            "docid": 10908
+        },
+        {
+            "id": "81",
+            "title": "Jim Drinkard, \"Poll: Social Security Plan Support Drops,\" usatoday.com, Feb. 28, 2005",
+            "url": null,
+            "docid": 10909
+        },
+        {
+            "id": "82",
+            "title": "Brad Plumer, \"Ryan Supported Social Security Privatization in 2005. What Was That Again?,\" washingtonpost.com, Oct. 12, 2012",
+            "url": null,
+            "docid": 10910
+        },
+        {
+            "id": "83",
+            "title": "Jamie Hopkins, \"Congress Proposes Three Changes to Social Security That Make Sense,\" forbes.com, Oct. 29, 2014",
+            "url": null,
+            "docid": 10911
+        },
+        {
+            "id": "84",
+            "title": "Martha M. Hamilton, \"How You Would Fix Social Security: Tax Higher Earnings,\" washingtonpost.com, Oct. 27, 2014",
+            "url": null,
+            "docid": 10912
+        },
+        {
+            "id": "85",
+            "title": "Emily Brandon, \"5 Potential Social Security Fixes,\" usnews.com, Nov. 14, 2014",
+            "url": null,
+            "docid": 10913
+        },
+        {
+            "id": "86",
+            "title": "Jeffrey M. Jones, \"More U.S. Nonretirees Expect to Rely on Social Security,\" gallup.com, Apr. 29, 2015",
+            "url": null,
+            "docid": 10914
+        },
+        {
+            "id": "87",
+            "title": "Janet Novack, \"Gallup Poll: Workers Counting on Social Security More Than in 15 Years,\" forbes.com, Apr. 29, 2015",
+            "url": null,
+            "docid": 10915
+        },
+        {
+            "id": "88",
+            "title": "Pew Research, \"Millennials in Adulthood: Chapter 2: Generations and Issues,\" pewsocialtrends.org, Mar. 7, 2014",
+            "url": null,
+            "docid": 10916
+        },
+        {
+            "id": "89",
+            "title": "Michael Hiltzik, \"You Really Want to Privatize Social Security in THIS Market?,\" latimes.com, Aug. 24, 2015",
+            "url": null,
+            "docid": 10917
+        },
+        {
+            "id": "90",
+            "title": "Social Security Administration, \"FY 2016 Budget Overview,\" ssa.gov (accessed Aug. 28, 2015)",
+            "url": null,
+            "docid": 10918
+        },
+        {
+            "id": "91",
+            "title": "Thornburg Investment Management, \"A Study of Real Real Returns,\" thornburg.com, Aug. 2015",
+            "url": null,
+            "docid": 10919
+        },
+        {
+            "id": "92",
+            "title": "Center on Budget and Policy Priorities, \"Policy Basics: Where Do Our Federal Tax Dollars Go?,\" cbpp.org, Oct. 4, 2017",
+            "url": null,
+            "docid": 10920
+        },
+        {
+            "id": "93",
+            "title": "Peter J. Ferrara and Michael Tanner, A New Deal for Social Security, 1998",
+            "url": null,
+            "docid": 10921
+        },
+        {
+            "id": "94",
+            "title": "Center on Budget and Policy Priorities, \"Policy Basics: Where Do Our Federal Tax Dollars Go?,\" cbpp.org, Apr. 9, 2020",
+            "url": null,
+            "docid": 10922
+        },
+        {
+            "id": "95",
+            "title": "Social Security Administration, \"Fact Sheet: Social Security,\" ssa.gov (accessed May 24, 2021)",
+            "url": null,
+            "docid": 10923
+        },
+        {
+            "id": "96",
+            "title": "Kathleen Romig, \"What the 2020 Trustees’ Report Shows About Social Security,\" cbpp.org, May 13, 2020",
+            "url": null,
+            "docid": 10924
+        },
+        {
+            "id": "97",
+            "title": "America Counts Staff, \"2020 Census Will Help Policymakers Prepare for the Incoming Wave of Aging Boomers,\" census.gov, Dec. 10, 2019",
+            "url": null,
+            "docid": 10925
+        }
+    ],
+    "url": "https://socialsecurity.procon.org/"
+}

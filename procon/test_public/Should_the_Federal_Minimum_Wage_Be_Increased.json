@@ -1,0 +1,1039 @@
+{
+    "title": "Should the Federal Minimum Wage Be Increased?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "David Cooper, \"Raising the Federal Minimum Wage to $10.10 Would Lift Wages for Millions and Provide a Modest Economic Boost,\" Economic Policy Institute website, Dec. 19, 2013",
+            "docid": 9663
+        },
+        {
+            "id": "2",
+            "title": "Daniel Aaronson and Eric French, \"How Does a Federal Minimum Wage Hike Affect Aggregate Household Spending?,\"Chicago Fed Letter, Aug. 2013",
+            "docid": 9664
+        },
+        {
+            "id": "3",
+            "title": "David Card and Alan B. Krueger, \"Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania,\"The American Economic Review, Sep. 1994",
+            "docid": 9665
+        },
+        {
+            "id": "4",
+            "title": "Hristos Doucouliagos and T.D. Stanley, \"Publication Selection Bias in Minimum-Wage Research? A Meta-Regression Analysis,\"British Journal of Industrial Relations, June 2009",
+            "docid": 9666
+        },
+        {
+            "id": "5",
+            "title": "Congressional Budget Office, \"The Effects of Minimum-Wage Increase on Employment and Family Income,\" cbo.gov, Feb. 2014",
+            "docid": 9667
+        },
+        {
+            "id": "6",
+            "title": "Arindrajit Dube, \"Minimum Wages and the Distribution of Family Incomes,\" arindube.com, Dec. 30, 2013",
+            "docid": 9668
+        },
+        {
+            "id": "7",
+            "title": "US Department of Labor, \"History of Federal Minimum Wage Rates under theFair Labor Standards Act, 1938-2009,\" dol.gov (accessed Feb. 4, 2016)",
+            "docid": 9669
+        },
+        {
+            "id": "8",
+            "title": "US Census Bureau, \"Poverty Thresholds by Size of Family and Number of Children,\" census.gov (accessed Feb. 24, 2016)",
+            "docid": 9670
+        },
+        {
+            "id": "9",
+            "title": "Rachel West and Michael Reich, \"The Effects of Minimum Wages on SNAP Enrollments and Expenditures,\" Center for American Progress website, Mar. 2014",
+            "docid": 9671
+        },
+        {
+            "id": "10",
+            "title": "David Cooper, \"Raising the Federal Minimum Wage to $10.10 Would Save Safety Net Programs Billions and Help Ensure Businesses Are Doing Their Fair Share,\" Economic Policy Institute website, Oct. 16, 2014",
+            "docid": 9672
+        },
+        {
+            "id": "11",
+            "title": "Saving.org, \"Inflation Calculator,\" saving.org (accessed Feb. 3, 2016)",
+            "docid": 9673
+        },
+        {
+            "id": "12",
+            "title": "Drew DeSilver, \"Five Facts about the Minimum Wage,\" Pew Research Center website, July 23, 2015",
+            "docid": 9674
+        },
+        {
+            "id": "13",
+            "title": "Liana Fox, \"Indexing the Minimum Wage for Inflation,\" Economic Policy Institute website, Dec. 20, 2005",
+            "docid": 9675
+        },
+        {
+            "id": "14",
+            "title": "Salvaotre Babones, \"The Minimum Wage Is Stuck at $7.25; It Should Be $21.16 - or Higher,\" Inequality.org, July 24, 2012",
+            "docid": 9676
+        },
+        {
+            "id": "15",
+            "title": "National Economic Council, Council of Economic Advisors, Domestic Policy Council and the US Department of Labor, \"The Impact of Raising the Minimum Wage on Women; And the Importance of Ensuring a Robust Tipped Minimum Wage,\" whitehouse.gov, Mar. 2014",
+            "docid": 9677
+        },
+        {
+            "id": "16",
+            "title": "Caitlin Biegler, \"Why the Minimum Wage Should Be Indexed to Inflation,\"MinnPost, Mar. 10, 2014",
+            "docid": 9678
+        },
+        {
+            "id": "17",
+            "title": "John Schmitt, \"The Minimum Wage Is Too Damn Low,\" Center for Economic and Policy Research website, Mar. 2012",
+            "docid": 9679
+        },
+        {
+            "id": "18",
+            "title": "The Economist, \"Pay Dirt,\" economist.com, May 20, 2015",
+            "docid": 9680
+        },
+        {
+            "id": "19",
+            "title": "Organisation for Economic Cooperation and Development, \"OECD Income Distribution Database (IDD): Gini, Poverty, Income, Methods and Concepts,\" oecd.org (accessed Feb. 4, 2016)",
+            "docid": 9681
+        },
+        {
+            "id": "20",
+            "title": "Bernie Sanders, \"Income Wealth and Inequality,\" berniesanders.com (accessed Feb. 9, 2016)",
+            "docid": 9682
+        },
+        {
+            "id": "21",
+            "title": "David Autor, Alan Manning, and Christopher L. Smith, \"The Contribution of the Minimum Wage to U.S. Wage Inequality over Three Decades: A Reassessment,\" economics.mit.edu, Feb. 2015",
+            "docid": 9683
+        },
+        {
+            "id": "22",
+            "title": "Jeanne Sahadi, \"Will a Higher Minimum Wage Really Reduce Income Inequality?,\" money.cnn.com, Jan. 15, 2014",
+            "docid": 9684
+        },
+        {
+            "id": "23",
+            "title": "David Cooper and Douglas Hall, \"Raising the Federal Minimum Wage to $10.10 Would Give Working Families, and the Overall Economy, a Much-Needed Boost,\" Economic Policy Institute website, Mar. 13, 2013",
+            "docid": 9685
+        },
+        {
+            "id": "24",
+            "title": "Jens Manuel Krogstad, \"More Women than Men Earn the Federal Minimum Wage,\" Pew Research Center website, May 5, 2014",
+            "docid": 9686
+        },
+        {
+            "id": "25",
+            "title": "US Bureau of Labor Statistics, \"Labor Force Characteristics by Race and Ethnicity, 2013,\" bls.gov, Aug. 2014",
+            "docid": 9687
+        },
+        {
+            "id": "26",
+            "title": "US Bureau of Labor Statistics, \"Characteristics of Minimum Wage Workers: 2012,\" bls.gov, Feb. 23, 2016",
+            "docid": 9688
+        },
+        {
+            "id": "27",
+            "title": "Bourree Lam, \"Black, White, Asian, Hispanic: The Disparities in Household Income,\"The Atlantic, Sep. 16, 2014",
+            "docid": 9689
+        },
+        {
+            "id": "28",
+            "title": "Melissa S. Kearney and Benjamin H. Harris, \"The 'Ripple Effect' of a Minimum Wage Increase on American Workers,\" The Hamilton Project website, Jan. 10, 2014",
+            "docid": 9690
+        },
+        {
+            "id": "29",
+            "title": "Council of Economic Advisors, \"The Economic Case for Raising the Minimum Wage,\" whitehouse.gov, Feb. 12, 2014",
+            "docid": 9691
+        },
+        {
+            "id": "30",
+            "title": "Janet L. Yellen, \"Efficiency Wage Models of Unemployment,\"Information and Macroeconomics, May 1984",
+            "docid": 9692
+        },
+        {
+            "id": "31",
+            "title": "Alan Manning, \"Why Increasing the Minimum Wage Does Not Necessarily Reduce Employment,\"Social Europe, Jan. 27, 2014",
+            "docid": 9693
+        },
+        {
+            "id": "32",
+            "title": "Arindrajit Dube, T. William Lester, and Michael Reich, \"Minimum Wage Shocks, Employment Flows and Labor Market Frictions,\" irle.berkeley.edu, Oct. 2014",
+            "docid": 9694
+        },
+        {
+            "id": "33",
+            "title": "American Sustainable Business Council and Business for a Fair Minimum Wage, \"Small Business Owners Favor Raising Federal Minimum Wage,\" asbcouncil.org, July 2014",
+            "docid": 9695
+        },
+        {
+            "id": "34",
+            "title": "Ana Swanson, \"What You'd Need to Earn in Every State to Rent a Decent Apartment,\"Washington Post, June 9, 2015",
+            "docid": 9696
+        },
+        {
+            "id": "35",
+            "title": "Massachusetts Institute of Technology, \"Living Wage Calculator for Rawlins County, Kansas,\" livingwage.mit.edu (accessed Feb. 8, 2016)",
+            "docid": 9697
+        },
+        {
+            "id": "36",
+            "title": "Oxfam America, \"Hard Work, Hard Lives: Survey Exposes Harsh Reality Faced by Low-Wage Workers in the US,\" oxfamamerica.org, 2013",
+            "docid": 9698
+        },
+        {
+            "id": "37",
+            "title": "Allyson Fredericksen, \"Pay Up! Long Hours and Low Pay Leave Workers at a Loss,\" Alliance for a Just Society website, Oct. 2015",
+            "docid": 9699
+        },
+        {
+            "id": "38",
+            "title": "Rajiv Bhatia, \"Health Impacts of Raising California's Minimum Wage,\" Human Impact Partners website, May 2014",
+            "docid": 9700
+        },
+        {
+            "id": "39",
+            "title": "Bay Area Regional Health Inequities Initiative (BARHII) \"The Minimum Wage and Health: A Bay Area Analysis,\" barhii.org, Oct. 2014",
+            "docid": 9701
+        },
+        {
+            "id": "40",
+            "title": "Kim Krisberg, \"Raising Minimum Wage Good for Public Health, Not Just Wallets: Advocates Call for Federal Increase,\"The Nation's Health, Mar. 2015",
+            "docid": 9702
+        },
+        {
+            "id": "41",
+            "title": "Alex Smith \"Working Paper: The Minimum Wage and Schooling Decisions of Teenagers,\" curry.virginia.edu, Sep. 2014",
+            "docid": 9703
+        },
+        {
+            "id": "42",
+            "title": "Aaron Pacitti, \"Raising the Minimum Wage Boosts Growth and Does Not Cause Unemployment,\"Huffington Post, June 27, 2015",
+            "docid": 9704
+        },
+        {
+            "id": "43",
+            "title": "James Galbraith, \"How to Save the Global Economy: Raise the Minimum Wage. A Lot.,\"Foreign Policy, Jan. 3, 2012",
+            "docid": 9705
+        },
+        {
+            "id": "44",
+            "title": "Sherry Kast, \"New Express Employment Professionals Survey of Employers Shows 38% of Those Who Pay Minimum Wage Will Lay off Workers If Wage Is Hiked,\" prweb.com, Mar. 19, 2014",
+            "docid": 9706
+        },
+        {
+            "id": "45",
+            "title": "Office of the Controller, City and County of San Francisco, \"Increasing the Minimum Wage: Economic Impact Report,\" sfcontroller.org, July 17, 2014",
+            "docid": 9707
+        },
+        {
+            "id": "46",
+            "title": "Steve H. Hanke, \"Let the Data Speak: The Truth Behind Minimum Wage Laws,\" Cato Institute website, Apr. 2014",
+            "docid": 9708
+        },
+        {
+            "id": "47",
+            "title": "David Neumark, Mark Schweitzer, and William Wascher, \"The Effects of Minimum Wages throughout the Wage Distribution,\" citeseerx.ist.psu.edu, Dec. 1999",
+            "docid": 9709
+        },
+        {
+            "id": "48",
+            "title": "George Reisman, \"How Minimum Wage Laws Increase Poverty,\" Mises Institute website, Apr. 4, 2014",
+            "docid": 9710
+        },
+        {
+            "id": "49",
+            "title": "Thomas Grennes and Andris Strazds, \"Is the Minimum Wage an Effective Way to Reduce Poverty or Inequality?,\"EconoMonitor, June 2, 2015",
+            "docid": 9711
+        },
+        {
+            "id": "50",
+            "title": "Gallup, \"US Small-Business Owners Split on Raising Minimum Wage,\" gallup.com, Nov. 22, 2013",
+            "docid": 9712
+        },
+        {
+            "id": "51",
+            "title": "Sean Williams \"Bernie Sanders' Plan to Raise the Minimum Wage Has Plenty of Flaws,\"Business Insider, Aug. 23, 2015",
+            "docid": 9713
+        },
+        {
+            "id": "52",
+            "title": "Tim Worstall, \"Walmart's Oakland Store Closure: Oakland's Minimum Wage Is Blamed,\"Forbes, Jan. 18, 2016",
+            "docid": 9714
+        },
+        {
+            "id": "53",
+            "title": "Greg McClure, \"Study: Raising Wages to $15 an Hour for Limited-Service Restaurant Employees Would Raise Prices 4.3 Percent,\" purdue.edu, July 27, 2015",
+            "docid": 9715
+        },
+        {
+            "id": "54",
+            "title": "Allegra Abramo, \"Cost of Cup of Coffee Often Climbs after Minimum Wage Hikes,\" nbcnews.com, July 19, 2015",
+            "docid": 9716
+        },
+        {
+            "id": "55",
+            "title": "Alberta Hotel and Lodging Association, \"Alberta's Minimum Wage,\" ahla.ca (accessed Feb. 25. 2016)",
+            "docid": 9717
+        },
+        {
+            "id": "56",
+            "title": "Drew DeSilver, \"Who Makes Minimum Wage?,\" Pew Research Center website, Sep. 8, 2014",
+            "docid": 9718
+        },
+        {
+            "id": "57",
+            "title": "US Bureau of Labor Statistics, \"Civilian Labor Force by Age, Gender, Race, and Ethnicity,\" bls.gov, Dec. 8, 2015",
+            "docid": 9719
+        },
+        {
+            "id": "58",
+            "title": "Matthew Rousu, \"Let's Eliminate the Minimum Wage for Teenagers,\"Forbes, Apr. 7, 2014",
+            "docid": 9720
+        },
+        {
+            "id": "59",
+            "title": "Casey B. Mulligan, \"The Minimum Wage and Teenage Jobs,\"New York Times, Nov. 18, 2009",
+            "docid": 9721
+        },
+        {
+            "id": "60",
+            "title": "Thomas A. Mroz and Timothy H. Savage, \"The Long-Term Effects of Youth Unemployment,\" Employment Policies Institute website, Oct. 2001",
+            "docid": 9722
+        },
+        {
+            "id": "61",
+            "title": "David Brooks, \"The Minimum Wage Muddle,\"New York Times, July 24, 2015",
+            "docid": 9723
+        },
+        {
+            "id": "62",
+            "title": "Jeffrey Clemens and Michael Wither, \"The Minimum Wage and the Great Recession: Evidence of Effects on the Employment and Income Trajectories of Low-Skilled Workers,\" econoweb.ucsd.edu, Nov. 24, 2014",
+            "docid": 9724
+        },
+        {
+            "id": "63",
+            "title": "James Dorn, \"The Minimum Wage Delusion, and the Death of Common Sense,\"Forbes, May 7, 2013",
+            "docid": 9725
+        },
+        {
+            "id": "64",
+            "title": "Let's Go LA, \"The Minimum Wage & Housing Prices,\" letsgola.wordpress.com, May 31, 2015",
+            "docid": 9726
+        },
+        {
+            "id": "65",
+            "title": "Seth Zimmerman, \"Labor Market Institutions and Economic Mobility,\" urban.org (accessed Feb. 25, 2016)",
+            "docid": 9727
+        },
+        {
+            "id": "66",
+            "title": "John W. O'Neill, \"Extreme Wage Initiatives & the Hotel Industry: Impact on Local Communities and the Nation,\" ahla.com, June 2014",
+            "docid": 9728
+        },
+        {
+            "id": "67",
+            "title": "Carl Benedikt Frey and Michael A. Osborne, \"The Future of Employment: How Susceptible Are Jobs to Computerisation,\" oxfordmartin.ox.ac.uk, Sep. 17, 2013",
+            "docid": 9729
+        },
+        {
+            "id": "68",
+            "title": "Andrew Woodman, \"Automation Is the Elephant in the Room of the Minimum Wage Debate,\"Huffington Post, June 2, 2014",
+            "docid": 9730
+        },
+        {
+            "id": "69",
+            "title": "Lydia DePillis, \"Minimum-Wage Offensive Could Speed Arrival of Robot-Powered Restaurants,\"Washington Post, Aug. 16, 2015",
+            "docid": 9731
+        },
+        {
+            "id": "70",
+            "title": "Missouri Economic Research and Information Center (MERIC), \"Cost of Living Data Series: 2015 Annual Average,\" missourieconomy.org (accessed Feb. 8, 2016)",
+            "docid": 9732
+        },
+        {
+            "id": "71",
+            "title": "Andrew G. Biggs and Mark J. Perry, \"A National Minimum Wage Is a Bad Fit for Low-Cost Communities,\" American Enterprise Institute website, Mar. 26, 2014",
+            "docid": 9733
+        },
+        {
+            "id": "72",
+            "title": "Kristen Lepore, \"Minimum Wage Hike Could Increase LA Rents, Economists Say,\" scpr.org, May 21, 2015",
+            "docid": 9734
+        },
+        {
+            "id": "73",
+            "title": "Brian Davis, \"How Does the Minimum Wage Affect Rents?,\" ezlandlordforms.com, July 20, 2015",
+            "docid": 9735
+        },
+        {
+            "id": "74",
+            "title": "Jim Blasingame, \"It's Time to Tell the Truth about Minimum Wage,\"Forbes, June 26, 2015",
+            "docid": 9736
+        },
+        {
+            "id": "75",
+            "title": "Per Bylund, \"Raising the National Minimum Wage Would Destroy the Job Market,\" Library of Law and Liberty website, June 22, 2015",
+            "docid": 9737
+        },
+        {
+            "id": "76",
+            "title": "Mark J. Perry, \"Ten Reasons that Market-Determined Wages Are Better than Government-Mandated Minimum Wages,\" American Enterprise Institute website, Nov. 29, 2015",
+            "docid": 9738
+        },
+        {
+            "id": "77",
+            "title": "James Sherk, \"What Is Minimum Wage: Its History and Effects on the Economy,\" Heritage Foundation website, June 25, 2013",
+            "docid": 9739
+        },
+        {
+            "id": "78",
+            "title": "Washington Free Beacon, \"Duke Prof: $10/hour Minimum Wage Would Cause Mass Layoffs, Slash Benefits,\" freebeacon.com, Sep. 10, 2014",
+            "docid": 9740
+        },
+        {
+            "id": "79",
+            "title": "Natasha Chen, \"Nonprofit Employer: Workers Requested Reduced Hours to Stay in Subsidized Housing,\" kiro7.com, June 8, 2015",
+            "docid": 9741
+        },
+        {
+            "id": "80",
+            "title": "Mark J. Perry, \"Some Minimum Wage Research Showing Negative Effects on Both the Demand and Supply Side,\" American Enterprise Institute website, Dec. 8, 2014",
+            "docid": 9742
+        },
+        {
+            "id": "81",
+            "title": "Stephanie O. Crofton, William L. Anderson, and Emily C. Rawe, \"Do Higher Real Minimum Wages Lead to More High School Dropouts? Evidence from Maryland across Races, 1993-2004,\"American Journal of Economics and Sociology, Apr. 2009",
+            "docid": 9743
+        },
+        {
+            "id": "82",
+            "title": "Dan A. Black, Terra G. McKinnish, and Seth G. Sanders, \"Tight Labor Markets and the Demand for Education: Evidence from the Coal Boom and Bust,\"Industrial and Labor Relations Review, Oct. 2005",
+            "docid": 9744
+        },
+        {
+            "id": "83",
+            "title": "James Sherk, \"Raising the Minimum Wage Hurts Vulnerable Workers' Job Prospects without Reducing Poverty,\" Heritage Foundation website, July 25, 2006",
+            "docid": 9745
+        },
+        {
+            "id": "84",
+            "title": "Statistic Brain Research Institute, \"Jobs Overseas Outsourcing Statistics,\" statisticbrain.com (accessed Mar. 3, 2016)",
+            "docid": 9746
+        },
+        {
+            "id": "85",
+            "title": "US Department of Labor, \"Minimum Wage Laws in the States – January 1, 2018,\" dol.gov, Jan. 1, 2018",
+            "docid": 9747
+        },
+        {
+            "id": "86",
+            "title": "US Bureau of Labor Statistics, \"Characteristics of Minimum Wage Workers, 2014,\" bls.gov, Apr. 2015",
+            "docid": 9748
+        },
+        {
+            "id": "87",
+            "title": "Drew DeSilver and Steve Schwarzer, \"Making More than Minimum Wage, but Less than $10.10 an Hour,\" Pew Research Center website, Nov. 5, 2014",
+            "docid": 9749
+        },
+        {
+            "id": "88",
+            "title": "Economic Policy Institute, \"Over 600 Economists Sign Letter in Support of $10.10 Minimum Wage,\" Economic Policy Institute website, Jan. 14, 2014",
+            "docid": 9750
+        },
+        {
+            "id": "89",
+            "title": "Danielle Gewurz, \"Sharp Divisions in GOP Base on Raising the Minimum Wage,\" Pew Research Center website, Aug. 20, 2013",
+            "docid": 9751
+        },
+        {
+            "id": "90",
+            "title": "David Cooper, \"A Stagnating Minimum Wage Has Left Low-Wage Workers Facing a Longer Climb to Reach the Middle Class,\" Economic Policy Institute website, Apr. 1, 2015",
+            "docid": 9752
+        },
+        {
+            "id": "91",
+            "title": "New York Times-CBS News Poll, \"Americans’ Views on Income Inequality and Workers’ Rights,”New York Times, June 3, 2015",
+            "docid": 9753
+        },
+        {
+            "id": "92",
+            "title": "Lydia Saad, \"In U.S., 71% Back Raising Minimum Wage,\" gallup.com, Mar. 6, 2013",
+            "docid": 9754
+        },
+        {
+            "id": "93",
+            "title": "Office of the Chief Economist, US Department of Labor, \"Making Work Pay: The Case for Raising the Minimum Wage,\" dol.gov, Mar. 1996",
+            "docid": 9755
+        },
+        {
+            "id": "94",
+            "title": "Borderlands Books, \"Borderlands Books to Close in March,\" borderlands-books.blogspot.com, Feb. 1, 2015",
+            "docid": 9756
+        },
+        {
+            "id": "95",
+            "title": "Public Broadcasting Service (PBS), \"Gilded Age,\" pbs.org (accessed Jan. 20, 2016)",
+            "docid": 9757
+        },
+        {
+            "id": "96",
+            "title": "Kay Davis, \"Gilded Age Reform,\" xroads.virginia.edu (accessed Jan. 20, 2016)",
+            "docid": 9758
+        },
+        {
+            "id": "97",
+            "title": "George Washington University, \"The Progressive Era (1890-1920),\" gwu.edu (accessed Feb. 3, 2016)",
+            "docid": 9759
+        },
+        {
+            "id": "98",
+            "title": "Jerold Waltman,The Politics of the Minimum Wage, 2000",
+            "docid": 9760
+        },
+        {
+            "id": "99",
+            "title": "US Government Printing Office,Handbook of Labor Statistics: 1941 Edition – Volume 2: Wages and Wage Regulation, 1941",
+            "docid": 9761
+        },
+        {
+            "id": "100",
+            "title": "Kevin Lang,Poverty and Discrimination, 2011",
+            "docid": 9762
+        },
+        {
+            "id": "101",
+            "title": "Alice Kessler-Harris, \"Law and a Living: The Gendered Content of 'Free Labor',\" in Noralee Frankel and Nancy S. Dye,Gender, Class, Race, and Reform in the Progressive Era, 1991",
+            "docid": 9763
+        },
+        {
+            "id": "102",
+            "title": "Burdett A. Rich, Henry P. Farnham, and George H. Parmele,The Lawyers Reports Annotated: 1918F, 1918",
+            "docid": 9764
+        },
+        {
+            "id": "103",
+            "title": "Public Broadcasting Service (PBS), \"Landmark Cases:Adkins v. Children's Hospital(1923),\" pbs.org (accessed Jan. 21, 2016)",
+            "docid": 9765
+        },
+        {
+            "id": "104",
+            "title": "Public Broadcasting Service (PBS), \"Landmark Cases:Lochner v. New York(1905),\" pbs.org (accessed Jan. 20, 2016)",
+            "docid": 9766
+        },
+        {
+            "id": "105",
+            "title": "US Supreme Court, \"198 U.S. 45 (1905):Lochner v. New York,\" scholar.google.com, Apr. 17, 1905",
+            "docid": 9767
+        },
+        {
+            "id": "106",
+            "title": "Mary Elizabeth Pidgeon, \"Women in the United States,\" fraser.stlouisfed.org, 1937",
+            "docid": 9768
+        },
+        {
+            "id": "107",
+            "title": "US Congress, \"National Industrial Recovery Act,\" legisworks.org, June 16, 1933",
+            "docid": 9769
+        },
+        {
+            "id": "108",
+            "title": "Kenneth F. Warren,Encyclopedia of U.S. Campaigns, Elections, and Electoral Behavior, 2008",
+            "docid": 9770
+        },
+        {
+            "id": "109",
+            "title": "Paul Volpe, \"Industrial Recovery: Reviving the Heart of America,\" xroads.virginia.edu (accessed Jan. 20, 2016)",
+            "docid": 9771
+        },
+        {
+            "id": "110",
+            "title": "US Supreme Court, \"295 U.S. 495 (1935):A.L.A. Schechter v. United States,\" scholar.google.com, May 27, 1935",
+            "docid": 9772
+        },
+        {
+            "id": "111",
+            "title": "Hether C. Macfarlane, \"Walsh-Healy Public Contracts Act(1936),\" encyclopedia.com, 2004",
+            "docid": 9773
+        },
+        {
+            "id": "112",
+            "title": "Supreme Court of Oklahoma, \"Associated Industries of Oklahoma v. Industrial Welfare Commission, 1939 OK 155,\" law.justia.com, Mar. 21, 1939",
+            "docid": 9774
+        },
+        {
+            "id": "113",
+            "title": "Jonathan Grossman, \"Fair Labor Standards Act of 1938: Maximum Struggle for a Minimum Wage,\"Monthly Labor Review, June 1978",
+            "docid": 9775
+        },
+        {
+            "id": "114",
+            "title": "Harry S. Kantor, \"Two Decades of theFair Labor Standards Act,\"Monthly Labor Review, Oct. 1958",
+            "docid": 9776
+        },
+        {
+            "id": "115",
+            "title": "Public Broadcasting Service (PBS), \"Landmark Cases:West Coast Hotel v. Parrish(1937),\" pbs.org (accessed Jan. 20, 2016)",
+            "docid": 9777
+        },
+        {
+            "id": "116",
+            "title": "US Supreme Court, \"West Coast Hotel v. Parrish, 300 U.S. 379 (1937),\" supreme.justia.com, Mar. 29, 1937",
+            "docid": 9778
+        },
+        {
+            "id": "117",
+            "title": "US Department of Labor, \"Changes in Basic Minimum Wages in Non-Farm Employment under State Law: Selected Years 1968-2016,\" dol.gov (accessed Jan. 27, 2016)",
+            "docid": 9779
+        },
+        {
+            "id": "118",
+            "title": "US Supreme Court, \"Perkins v. Lukens Steel Co., 310 US 113 (1940),\" supreme.justia.com, Apr. 29, 1940",
+            "docid": 9780
+        },
+        {
+            "id": "119",
+            "title": "US Department of Labor, \"History of Changes to the Minimum Wage Law,\" dol.gov (accessed Feb. 3, 2016)",
+            "docid": 9781
+        },
+        {
+            "id": "120",
+            "title": "Gerald Mayer, Benjamin Collins, and David H. Bradley, \"TheFair Labor Standards Act(FLSA): An Overview,\" fas.org, June 4, 2013",
+            "docid": 9782
+        },
+        {
+            "id": "121",
+            "title": "Gillian B. White, \"Why the Gap between Worker Pay and Productivity Is So Problematic,\"The Atlantic, Feb. 25, 2015",
+            "docid": 9783
+        },
+        {
+            "id": "122",
+            "title": "US Department of Labor, \"About Minimum Wage,\" dol.gov (accessed July 21, 2015)",
+            "docid": 9784
+        },
+        {
+            "id": "123",
+            "title": "US Department of Labor, \"Percent of Hourly Paid Workers, Total at or below Prevailing Federal Minimum Wage,\" beta.bls.gov, Mar. 16, 2016",
+            "docid": 9785
+        },
+        {
+            "id": "124",
+            "title": "US Department of Labor, \"Employed Wage and Salary Workers Paid Hourly Rates, Total at or below Prevailing Federal Minimum Wage,\" beta.bls.gov, Mar. 16, 2016",
+            "docid": 9786
+        },
+        {
+            "id": "125",
+            "title": "US Department of Labor, \"Employed Wage and Salary Workers Paid Hourly Rates, Total at or below Prevailing Federal Minimum Wage, 16 to 24 Years,\" beta.bls.gov, Mar. 16, 2016",
+            "docid": 9787
+        },
+        {
+            "id": "126",
+            "title": "US Department of Labor, \"Employed Wage and Salary Workers Paid Hourly Rates, Total at or below Prevailing Federal Minimum Wage, 25 Years and Over,\" beta.bls.gov, Mar. 16, 2016",
+            "docid": 9788
+        },
+        {
+            "id": "127",
+            "title": "US Department of Labor, \"Employed Wage and Salary Workers Paid Hourly Rates, Total at or below Prevailing Federal Minimum Wage, Men,\" beta.bls.gov, Mar. 16, 2016",
+            "docid": 9789
+        },
+        {
+            "id": "128",
+            "title": "US Department of Labor, \"Employed Wage and Salary Workers Paid Hourly Rates, Total at or below Prevailing Federal Minimum Wage, Women,\" beta.bls.gov, Mar. 16, 2016",
+            "docid": 9790
+        },
+        {
+            "id": "129",
+            "title": "US Department of Labor, \"Employed Wage and Salary Workers Paid Hourly Rates, Total at or below Prevailing Federal Minimum Wage, White,\" beta.bls.gov, Mar. 16, 2016",
+            "docid": 9791
+        },
+        {
+            "id": "130",
+            "title": "US Department of Labor, \"Employed Wage and Salary Workers Paid Hourly Rates, Total at or below Prevailing Federal Minimum Wage, White,\" beta.bls.gov, Mar. 16, 2016",
+            "docid": 9792
+        },
+        {
+            "id": "131",
+            "title": "US Department of Labor, \"Employed Wage and Salary Workers Paid Hourly Rates, Total at or below Prevailing Federal Minimum Wage, Black or African American,\" beta.bls.gov, Mar. 16, 2016",
+            "docid": 9793
+        },
+        {
+            "id": "132",
+            "title": "US Department of Labor, \"Employed Wage and Salary Workers Paid Hourly Rates, Total at or below Prevailing Federal Minimum Wage, Asian,\" beta.bls.gov, Mar. 16, 2016",
+            "docid": 9794
+        },
+        {
+            "id": "133",
+            "title": "US Department of Labor, \"Employed Full Time, Wage and Salary Workers Paid Hourly Rates, Total at or below Prevailing Federal Minimum Wage,\" beta.bls.gov, Mar. 16, 2016",
+            "docid": 9795
+        },
+        {
+            "id": "134",
+            "title": "US Department of Labor, \"Employed Part Time, Wage and Salary Workers Paid Hourly Rates, Total at or below Prevailing Federal Minimum Wage,\" beta.bls.gov, Mar. 16, 2016",
+            "docid": 9796
+        },
+        {
+            "id": "135",
+            "title": "David Cooper, \"Raising the Federal Minimum Wage to $10.10 Would Lift Wages for Millions and Provide a Modest Economic Boost: Supplementary Data,\" Economic Policy Institute website, Dec. 19, 2013",
+            "docid": 9797
+        },
+        {
+            "id": "136",
+            "title": "University of California at Berkeley, \"Inventory of US City and County Minimum Wage Ordnances,\" laborcenter.berkeley.edu, Jan. 5, 2018",
+            "docid": 9798
+        },
+        {
+            "id": "137",
+            "title": "Sara Lemos, \"The Effect of the Minimum Wage on Prices,\" ftp.iza.org, Mar. 2004",
+            "docid": 9799
+        },
+        {
+            "id": "138",
+            "title": "Ted Egan and Asim Khan, \"Increasing the Minimum Wage: Economic Impact Report,\" sfcontroller.org, July 17, 2014",
+            "docid": 9800
+        },
+        {
+            "id": "139",
+            "title": "Harry J. Holzer, \"Harry J. Holzer: Use Caution in Raising the Minimum Wage,\"Washington Post, Dec. 9, 2013",
+            "docid": 9801
+        },
+        {
+            "id": "140",
+            "title": "Libertarian Party, \"Poverty and Welfare: Highlights of the Libertarian Party's 'Ending the Welfare State' Proposal,\" lp.org (accessed Jan. 20, 2016)",
+            "docid": 9802
+        },
+        {
+            "id": "141",
+            "title": "Jared Bernstein, \"Minimum Wage: Who Makes It?,\"New York Times, June 9, 2014",
+            "docid": 9803
+        },
+        {
+            "id": "142",
+            "title": "Oren M. Levin-Waldman, \"Why the Minimum Wage Is Important,\" laborpress.org, July 9, 2014",
+            "docid": 9804
+        },
+        {
+            "id": "143",
+            "title": "Caroline J. Gleason, \"A Living Wage by Legislation and the Oregon Experience,\" in F.G. Young, Ed.The Commonwealth Review of the University of Oregon, Jan. 1916",
+            "docid": 9805
+        },
+        {
+            "id": "144",
+            "title": "W.B. Wilson,Proceedings of the Sixth Annual Convention of the Association of Governmental Labor Officials of the United States and Canada: Held at Madison, Wis. June 2-4, 1919, 1920",
+            "docid": 9806
+        },
+        {
+            "id": "145",
+            "title": "Al Green, \"H.R.3041 -Living American Wage (LAW) Act of 2009,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9807
+        },
+        {
+            "id": "146",
+            "title": "Al Green, \"H.R.283 -Living American Wage (LAW) Act of 2011,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9808
+        },
+        {
+            "id": "147",
+            "title": "Al Green, \"H.R.6076 -Original Living American Wage (LAW) Act,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9809
+        },
+        {
+            "id": "148",
+            "title": "Al Green, \"H.R.3041 -Original Living American Wage (LAW) Act of 2015,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9810
+        },
+        {
+            "id": "149",
+            "title": "Cliff Stearns, \"H.R.3086 -Fair Wages for Workers with Disabilities Act of 2011,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9811
+        },
+        {
+            "id": "150",
+            "title": "George Miller, \"H.R.6211 -Fair Minimum Wage Act of 2012,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9812
+        },
+        {
+            "id": "151",
+            "title": "Tom Harkin, \"S.3453 -Fair Minimum Wage Act of 2012,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9813
+        },
+        {
+            "id": "152",
+            "title": "Jesse Jackson, \"H.R.5901 -Catching Up to 1968 Act of 2012,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9814
+        },
+        {
+            "id": "153",
+            "title": "George Miller, \"H.R.1010 -Fair Minimum Wage Act of 2013,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9815
+        },
+        {
+            "id": "154",
+            "title": "Tom Harkin, \"S.460 -Minimum Wage Fairness Act,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9816
+        },
+        {
+            "id": "155",
+            "title": "John Larson, \"H.R.3746 –Fair Minimum Wage Act of 2013,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9817
+        },
+        {
+            "id": "156",
+            "title": "Tom Harkin \"S.2223 –Minimum Wage Fairness Act,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9818
+        },
+        {
+            "id": "157",
+            "title": "Gregg Harper, \"H.R.188 -TIME Act,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9819
+        },
+        {
+            "id": "158",
+            "title": "Kelly Ayotte, \"S.2001 -TIME Act,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9820
+        },
+        {
+            "id": "159",
+            "title": "Patty Murray, \"S.1150 -Raise the Wage Act of 2015,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9821
+        },
+        {
+            "id": "160",
+            "title": "Bernie Sanders, \"S.1832 -PayWorkers a Living Wage Act,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9822
+        },
+        {
+            "id": "161",
+            "title": "Donald Norcross, \"H.R.4508 -Fair Wage Act of 2015,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9823
+        },
+        {
+            "id": "162",
+            "title": "Barbara Lee, \"H.R.2721 -Pathways out of Poverty Act,\" congress.gov (accessed Mar. 24, 2016)",
+            "docid": 9824
+        },
+        {
+            "id": "163",
+            "title": "Alabama State Government, \"HB 174 -Alabama Uniform Minimum Wage and Right-to-Work Act,\" alisondb.legislature.state.al.us (accessed Mar. 24, 2016)",
+            "docid": 9825
+        },
+        {
+            "id": "164",
+            "title": "General Assembly of North Carolina,Public Facilities Privacy & Security Act, ncleg.net (accessed Mar. 24, 2016)",
+            "docid": 9826
+        },
+        {
+            "id": "165",
+            "title": "Legislature of the State of Idaho, \"House Bill No. 463,\" legislature.idaho.gov (accessed Mar. 24, 2016)",
+            "docid": 9827
+        },
+        {
+            "id": "166",
+            "title": "Learn Liberty, \"Economics: Is Raising Minimum Wage a Bad Idea? - Learn Liberty,\" youtube.com, Jan. 14, 2016",
+            "docid": 9828
+        },
+        {
+            "id": "167",
+            "title": "Cora Lewis, \"States Are Barring Cities from Raising the Minimum Wage,\" buzzfeed.com, Mar. 26, 2016",
+            "docid": 9829
+        },
+        {
+            "id": "168",
+            "title": "Sean Sullivan, \"White House Official: Obama Supports Harkin/Miller Bid to Increase Minimum Wage,\"Washington Post, Nov. 7, 2013",
+            "docid": 9830
+        },
+        {
+            "id": "169",
+            "title": "New York Times, \"Senate Vote 117 - Blocks Minimum Wage Increase Proposal,\" politics.nytimes.com (accessed Mar. 29, 2016)",
+            "docid": 9831
+        },
+        {
+            "id": "170",
+            "title": "Peter J. Sammon, \"The Living Wage Movement,\"American Magazine, Aug. 26, 2000",
+            "docid": 9832
+        },
+        {
+            "id": "171",
+            "title": "New York TimesEditorial Board, \"New Minimum Wages in the New Year,\"New York Times, Dec. 26, 2015",
+            "docid": 9833
+        },
+        {
+            "id": "172",
+            "title": "Charlotte Alter, \"Transcript: Read the Full Text of the Fourth Republican Debate in Milwaukee,\"TIME, Nov. 11, 2015",
+            "docid": 9834
+        },
+        {
+            "id": "173",
+            "title": "US Chamber of Commerce, \"Labor,\" uschamber.com (accessed Mar. 16, 2016)",
+            "docid": 9835
+        },
+        {
+            "id": "174",
+            "title": "Associated Press, \"California Gov. Jerry Brown Hails Proposal to Raise Minimum Wage to $15,\" foxnews.com, Mar. 28, 2016",
+            "docid": 9836
+        },
+        {
+            "id": "175",
+            "title": "MoveOn, \"Raise the Minimum Wage to $15 per Hour,\" youtube.com, May 29, 2014",
+            "docid": 9837
+        },
+        {
+            "id": "176",
+            "title": "Clifford F. Thies, \"Minimum Wages for Women Only,\" Independent Institute website, Apr. 2001",
+            "docid": 9838
+        },
+        {
+            "id": "177",
+            "title": "US Department of Labor, \"Employed Wage and Salary Workers Paid Hourly Rates, Total at or below Prevailing Federal Minimum Wage, Food Preparation and Serving Related Occupations,\" beta.bls.gov, Mar. 30, 2016",
+            "docid": 9839
+        },
+        {
+            "id": "178",
+            "title": "Executive Office of the President, Council of Economic Advisors, \"Economic Perspectives on Incarceration and the Criminal Justice System,\" whitehouse.gov, Apr. 2016",
+            "docid": 9840
+        },
+        {
+            "id": "179",
+            "title": "Jose Fernandez, Thomas Holman, and John V. Pepper, \"The Impact of Living Wage Ordinances on Urban Crime,\" people.virginia.edu, July 5, 2013",
+            "docid": 9841
+        },
+        {
+            "id": "180",
+            "title": "Hope Corman and Naci Moran, \"Carrots, Sticks, and Broken Windows, \" nber.org, July 2002",
+            "docid": 9842
+        },
+        {
+            "id": "181",
+            "title": "Andrew Beauchamp and Stacey Chan, \"The Minimum Wage and Crime,\" bc.edu, Nov. 18, 2013",
+            "docid": 9843
+        },
+        {
+            "id": "182",
+            "title": "Dawn Fuller, \"Multilevel Study Finds No Link Between Minimum Wage and Crime Rates,\" uc.edu, Nov. 18, 2013",
+            "docid": 9844
+        },
+        {
+            "id": "183",
+            "title": "Adam Janofsky, \"Small-Business Owners Split on Raising Minimum Wage,\" blogs.wsj.com, June 12, 2015",
+            "docid": 9845
+        },
+        {
+            "id": "184",
+            "title": "Quinnipiac University Poll, \"U.S. Voters Say 68-27% Let Transgender People Serve, Quinnipiac University National Poll Finds; Voters Disapprove 5-1 Of GOP Handling Of Health Care,\" poll.qu.edu, Aug. 3, 2017",
+            "docid": 9846
+        },
+        {
+            "id": "185",
+            "title": "Program for Public Consultation, University of Maryland, \"Americans Support Greater Federal Efforts to Reduce Poverty,\" publicconsultation.org, June 1, 2017",
+            "docid": 9847
+        },
+        {
+            "id": "186",
+            "title": "US Department of Labor, Bureau of Labor Statistics, \"Characteristics of Minimum Wage Workers, 2017,\" bls.gov, Mar. 2018",
+            "docid": 9848
+        },
+        {
+            "id": "187",
+            "title": "Joseph Pisani, \"Amazon Ups Hourly Wage to $15, Will Advocate for Higher Pay,\" usnews.com, Oct. 2, 2018",
+            "docid": 9849
+        },
+        {
+            "id": "188",
+            "title": "Rich Duprey, \"20 Chains That Pay More Than Minimum Wage,\" fool.com, Mar. 20, 2018",
+            "docid": 9850
+        },
+        {
+            "id": "189",
+            "title": "Daniel B. Kline, \"Amazon, Target and More: Here Are the Companies Committed to $15 Hourly Minimum Wage,\" usatoday.com, Oct. 2, 2018",
+            "docid": 9851
+        },
+        {
+            "id": "190",
+            "title": "Ben & Jerry's, \"Livable Wage,\" benjerry.com (accessed Oct. 18, 2018)",
+            "docid": 9852
+        },
+        {
+            "id": "191",
+            "title": "Thomas Franck, \"Biden’s $1.9 Trillion Covid Relief Plan Calls for Stimulus Checks, Unemployment Support and More,\" cnbc.com, Jan. 15, 2021",
+            "docid": 9853
+        },
+        {
+            "id": "192",
+            "title": "Ella Nilsen, \"Biden Doesn’t Think the $15 Minimum Wage Will Make It into His Stimulus Bill,\" vox.com, Feb. 8, 2021",
+            "docid": 9854
+        },
+        {
+            "id": "193",
+            "title": "Noam Scheiber, \"President Biden Plans to Order a $15 Minimum Wage for Federal Contractors,\" nytimes.com, Apr. 27, 2021",
+            "docid": 9855
+        },
+        {
+            "id": "194",
+            "title": "Leslie Davis and Hannah Hartig, \"Two-Thirds of Americans Favor Raising Federal Minimum Wage to $15 an Hour,\" pewresearch.org, July 30, 2019",
+            "docid": 9856
+        },
+        {
+            "id": "195",
+            "title": "Amina Dunn, \"Most Americans Support a $15 Federal Minimum Wage,\" pewresearch.org, Apr. 22, 2021",
+            "docid": 9857
+        },
+        {
+            "id": "196",
+            "title": "Gianna Melillo, \"Most Americans Agree the Federal Minimum Wage Is Too Low: Poll,\" thehill.com, Dec. 2, 2022",
+            "docid": 9858
+        },
+        {
+            "id": "197",
+            "title": "U.S. Bureau of Labor Statistics, \"Characteristics of Minimum Wage Workers, 2021,\" bls.gov, Apr. 2022",
+            "docid": 9859
+        },
+        {
+            "id": "199",
+            "title": "National Low Income Housing Coalition, Out of Reach, nlihc.org (accessed Jan. 11, 2023)",
+            "docid": 9860
+        },
+        {
+            "id": "199",
+            "title": "Pamela Joshi, Abigail N. Walters, Clemens Noelke, and Dolores Acevedo-Garcia, Families’ Job Characteristics and Economic Self-Sufficiency: Differences by Income, Race-Ethnicity and Nativity, diversitydatakids.org, Aug. 31, 2022",
+            "docid": 9861
+        },
+        {
+            "id": "200",
+            "title": "Kimberly Amadeo, Minimum Wage: Its Purpose, History, and $15 Wage Battle, thebalancemoney.com, Mar. 29, 2022",
+            "docid": 9862
+        },
+        {
+            "id": "201",
+            "title": "Ben Zipperer, Gradually Raising the Minimum Wage to $15 Would Be Good for Workers, Good for Businesses, and Good for the Economy, epi.org, Feb. 7, 2019",
+            "docid": 9863
+        },
+        {
+            "id": "202",
+            "title": "Katie Bohn, Higher Minimum Wage May Reduce Rent Defaults but Raise Rent Payments, psu.edu, Mar. 3, 2022",
+            "docid": 9864
+        },
+        {
+            "id": "203",
+            "title": "James Sherk, $15 Minimum Wages Will Substantially Raise Prices, heritage.org, Jan. 19, 2017",
+            "docid": 9865
+        },
+        {
+            "id": "204",
+            "title": "Megan Cerullo, Most U.S. Workers Say Their Pay Isn’t Keeping Up with Inflation, cbsnews.com, Sep. 14, 2022",
+            "docid": 9866
+        },
+        {
+            "id": "205",
+            "title": "Qiuping Yu, Shawn Mankad, and Masha Shunko, Research: When a Higher Minimum Wage Leads to Lower Compensation, hbr.org, June 10, 2021",
+            "docid": 9867
+        },
+        {
+            "id": "206",
+            "title": "G. Acs, L. Giannarelli, K. Werner, and O. Biu, Exploring the Effects of a $15 an Hour Federal Minimum Wage on Poverty, Earnings, and Net Family Resources, rwjf.org, Sep. 7, 2022",
+            "docid": 9868
+        }
+    ],
+    "url": "https://minimum-wage.procon.org/"
+}

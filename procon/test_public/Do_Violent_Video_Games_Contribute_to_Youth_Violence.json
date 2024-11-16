@@ -1,0 +1,891 @@
+{
+    "title": "Do Violent Video Games Contribute to Youth Violence?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Entertainment Software Association, “Essential Facts about the Computer and Video Game Industry,” Entertainment Software Association website, Oct. 2014",
+            "url": null,
+            "docid": 10280
+        },
+        {
+            "id": "2",
+            "title": "Lawrence Kutner and Cheryl K. Olsen,Grand Theft Childhood: The Surprising Truth about Violent Video Games and What Parents Can Do, Apr. 2008",
+            "url": null,
+            "docid": 10281
+        },
+        {
+            "id": "3",
+            "title": "Dave Grossman and Gloria DeGaetano,Stop Teaching Our Kids to Kill: A Call to Action against TV, Movie & Video Game Violence, 2014",
+            "url": null,
+            "docid": 10282
+        },
+        {
+            "id": "4",
+            "title": "Susan Villani, Cheryl Olson, and Michael Jellinek, “Media Literacy for Clinicians and Parents,”Child Adolescent Psychiatric Clinics of North America, July 2005",
+            "url": null,
+            "docid": 10283
+        },
+        {
+            "id": "5",
+            "title": "Elizabeth Carll, “Violent Video Games: Rehearsing Aggression,”Chronicle of Higher Education, July 2007",
+            "url": null,
+            "docid": 10284
+        },
+        {
+            "id": "6",
+            "title": "Michael Reagan, “US Military Recruits Children: ‘America’s Army’ Video Game Violates International Law,” Truthout website, July 23, 2008",
+            "url": null,
+            "docid": 10285
+        },
+        {
+            "id": "7",
+            "title": "FBI, “Crime in the United States, 2008,” FBI website, Sep. 2009",
+            "url": null,
+            "docid": 10286
+        },
+        {
+            "id": "8",
+            "title": "Entertainment Software Association, “Essential Facts about the Computer and Video Game Industry,” Entertainment Software Association website, May 2009",
+            "url": null,
+            "docid": 10287
+        },
+        {
+            "id": "9",
+            "title": "Steven Malliet, “An Exploration of Adolescents’ Perceptions of Videogame Realism,”Learning Media and Technology, 2006",
+            "url": null,
+            "docid": 10288
+        },
+        {
+            "id": "10",
+            "title": "Steven Pinker,The Blank Slate: The Modern Denial of Human Nature, 2002",
+            "url": null,
+            "docid": 10289
+        },
+        {
+            "id": "11",
+            "title": "Computer Entertainment Supplier’s Association (CESA), “2008 CESA Game White Paper,” Computer Entertainment Supplier’s Association website, 2008",
+            "url": null,
+            "docid": 10290
+        },
+        {
+            "id": "12",
+            "title": "FBI, “Crime in the United States, 2005,” FBI website, Sep. 2006",
+            "url": null,
+            "docid": 10291
+        },
+        {
+            "id": "13",
+            "title": "Japan Ministry of Justice, “White Paper on Crime 2006,” Japan Ministry of Justice website, 2006",
+            "url": null,
+            "docid": 10292
+        },
+        {
+            "id": "14",
+            "title": "“Critics Zap Video Games: Senators Urge Government Action to Curb Video-game Violence,” Bnet website, Jan. 3, 1994",
+            "url": null,
+            "docid": 10293
+        },
+        {
+            "id": "15",
+            "title": "John Harlow and Sarah Baxter, “Hillary Opens up Morality War on Violent Video Games,”TimesOnline, Mar. 27, 2005",
+            "url": null,
+            "docid": 10294
+        },
+        {
+            "id": "16",
+            "title": "FBI, “Crime in the United States, 2008,” FBI website, Sep. 2009",
+            "url": null,
+            "docid": 10295
+        },
+        {
+            "id": "17",
+            "title": "David Wilkerson, “‘Call Of Duty 2’ Grosses $550M In First Five Days,” wsj.com, Nov. 18, 2009",
+            "url": null,
+            "docid": 10296
+        },
+        {
+            "id": "18",
+            "title": "Andrew Heining, “Modern Warfare 2 Airport Terror Attack Stirs Controversy,”Christian Science Monitorwebsite, Oct. 29, 2009",
+            "url": null,
+            "docid": 10297
+        },
+        {
+            "id": "19",
+            "title": "PricewaterhouseCoopers, \"Global Entertainment and Media Outlook: 2009-2013,\" July 2009",
+            "url": null,
+            "docid": 10298
+        },
+        {
+            "id": "20",
+            "title": "Bob Orr and Pat Milton, “Newtown Shooter Motivated by Norway Massacre, Sources Say,” cbsnews.com, Feb. 18, 2013",
+            "url": null,
+            "docid": 10299
+        },
+        {
+            "id": "21",
+            "title": "Pete Williams, “Police: ‘Mere Speculation’ That Adam Lanza Was Motivated by Obsession with Other Mass Killers,” usnews.nbcnews.com, Feb. 19, 2013",
+            "url": null,
+            "docid": 10300
+        },
+        {
+            "id": "22",
+            "title": "US Supreme Court, Brown vs. Entertainment Merchants Association, June 27, 2011",
+            "url": null,
+            "docid": 10301
+        },
+        {
+            "id": "23",
+            "title": "Tracy Dietz, “An Examination of Violence and Gender Role Portrayals in Video Games: Implications for Gender Socialization and Aggressive Behavior,”Sex Roles, 1998",
+            "url": null,
+            "docid": 10302
+        },
+        {
+            "id": "24",
+            "title": "Bruce Bartholow, Brad Bushman, and Marc Sestir, “Chronic Violent Video Game Exposure and Desensitization to Violence: Behavioral and Event-related Brain Potential Data,”Journal of Experimental Social Psychology, July 2006",
+            "url": null,
+            "docid": 10303
+        },
+        {
+            "id": "25",
+            "title": "Mary Ellen O’Toole, “The School Shooter: A Threat Assessment Perspective,” FBI website, 1999",
+            "url": null,
+            "docid": 10304
+        },
+        {
+            "id": "26",
+            "title": "Ingrid Moller and Barbara Krahe, “Exposure to Violent Video Games and Aggression in German Adolescents: A Longitudinal Analysis,”Aggressive Behavior, Oct. 2008",
+            "url": null,
+            "docid": 10305
+        },
+        {
+            "id": "27",
+            "title": "Christopher Barlett, Omar Branch, Christopher Rodeheffer, and Richard Harris, “How Long Do the Short-Term Violent Video Game Effects Last?,”Aggressive Behavior, Feb. 2009",
+            "url": null,
+            "docid": 10306
+        },
+        {
+            "id": "28",
+            "title": "Christopher Barlett, Richard Harris, and Callie Bruey, “The Effect of the Amount of Blood in a Violent Video Game on Aggression, Hostility, and Arousal,”Journal of Experimental Social Psychology, Oct. 2007",
+            "url": null,
+            "docid": 10307
+        },
+        {
+            "id": "29",
+            "title": "Jeanne B. Funk, “Exposure to Violent Video Games and Desensitization to Violence in Children and Adolescents,”Child and Adolescent Psychiatric Clinics of North America, July 2005",
+            "url": null,
+            "docid": 10308
+        },
+        {
+            "id": "30",
+            "title": "American Psychological Association, “Resolution on Violence in Video Games and Interactive Media,” American Psychological Association website, Aug. 17, 2005",
+            "url": null,
+            "docid": 10309
+        },
+        {
+            "id": "31",
+            "title": "Craig Anderson, et al., “Longitudinal Effects of Violent Video Games on Aggression in Japan and the United States,”Pediatrics, Nov. 2008",
+            "url": null,
+            "docid": 10310
+        },
+        {
+            "id": "32",
+            "title": "Jeanne Funk, et al., “Violence Exposure in Real-life, Video Games, Television, Movies, and the Internet: Is There Desensitization?,”Journal of Adolescence, 2004",
+            "url": null,
+            "docid": 10311
+        },
+        {
+            "id": "33",
+            "title": "American Academy of Pediatrics, “Joint Statement on the Impact of Entertainment Violence on Children Congressional Public Health Summit,” AAP website, July 26, 2000",
+            "url": null,
+            "docid": 10312
+        },
+        {
+            "id": "34",
+            "title": "Dmitri Williams and Marko Skoric, “Internet Fantasy Violence: A Test of Aggression in an Online Game,”Communication Monographs, June 2005",
+            "url": null,
+            "docid": 10313
+        },
+        {
+            "id": "35",
+            "title": "United States Secret Service, “The Final Report and Findings of the Safe School Initiative: Implications for the Prevention of School Attacks in the United States,” United States Secret Service website, July 2004",
+            "url": null,
+            "docid": 10314
+        },
+        {
+            "id": "36",
+            "title": "Cheryl Olson, Lawrence Kutner, and Dorothy Warner, “The Role of Violent Video Game Content in Adolescent Development: Boys’ Perspectives,”Journal of Adolescent Research, Jan. 2008",
+            "url": null,
+            "docid": 10315
+        },
+        {
+            "id": "37",
+            "title": "Cheryl Olson, et al., “Factors Correlated with Violent Video Game Use by Adolescent Boys and Girls,”Journal of Adolescent Health, July 2007",
+            "url": null,
+            "docid": 10316
+        },
+        {
+            "id": "38",
+            "title": "Dorothy Salonius-Pasternak and Holly Gelfond, “The Next Level of Research on Electronic Play: Potential Benefits and Contextual Influences for Children and Adolescents,”Human Technology, Apr. 2005",
+            "url": null,
+            "docid": 10317
+        },
+        {
+            "id": "39",
+            "title": "Jeffrey Goldstein, “Immortal Kombat: War Toys and Violent Video Games,”Why We Watch, 1998",
+            "url": null,
+            "docid": 10318
+        },
+        {
+            "id": "40",
+            "title": "Christopher Ferguson, et al., “Violent Video Games and Aggression: Causal Relationship or Byproduct of Family Violence and Intrinsic Violence Motivation?,”Criminal Justice and Behavior, Mar. 2008",
+            "url": null,
+            "docid": 10319
+        },
+        {
+            "id": "41",
+            "title": "Raymond Boyle and Matthew Hibberd, “Review of Research on the Impact of Violent Computer Games on Young People,”Stirling Media Research Institute, Mar. 2005",
+            "url": null,
+            "docid": 10320
+        },
+        {
+            "id": "42",
+            "title": "Amanda Lenhart, et al., “Teens, Video Games and Civics,” Pew Internet & American Life Project website, Sep. 2008",
+            "url": null,
+            "docid": 10321
+        },
+        {
+            "id": "43",
+            "title": "Karen Sternheimer, “Do Video Games Kill?,”Contexts, Feb. 2007",
+            "url": null,
+            "docid": 10322
+        },
+        {
+            "id": "44",
+            "title": "General Assembly of the Commonwealth of Pennsylvania Joint State Government Commission, “The Report of the Task Force on Violent Interactive Video Games,” Joint State Government Commission website, Dec. 2008",
+            "url": null,
+            "docid": 10323
+        },
+        {
+            "id": "45",
+            "title": "Report of the Virginia Tech Review Panel, “Chapter IV: Mental Health History of Seung Hui Cho,” governor.virginia.gov, Aug. 2007",
+            "url": null,
+            "docid": 10324
+        },
+        {
+            "id": "46",
+            "title": "Rachel Dinkes, et al., “Indicators of School Crime and Safety: 2008,” National Center for Education Statistics, Institute of Education Sciences, US Department of Education, and Bureau of Justice Statistics, bjs.gov, Apr. 2009",
+            "url": null,
+            "docid": 10325
+        },
+        {
+            "id": "47",
+            "title": "Phillip Kaufman, et al., “Indicators of School Crime and Safety, 2000,” US Departments of Education and Justice, Oct. 2000",
+            "url": null,
+            "docid": 10326
+        },
+        {
+            "id": "48",
+            "title": "Entertainment Software Association, “Video Games and the Economy,” Entertainment Software Association website, Nov. 2009",
+            "url": null,
+            "docid": 10327
+        },
+        {
+            "id": "49",
+            "title": "BBC News, “Grand Theft Auto Comes under Fire,” news.bbc.co.uk, May 4, 2004",
+            "url": null,
+            "docid": 10328
+        },
+        {
+            "id": "50",
+            "title": "Rebecca Leung, “Can a Video Game Lead to Murder?,” cbsnews.com, Mar. 4, 2005",
+            "url": null,
+            "docid": 10329
+        },
+        {
+            "id": "51",
+            "title": "Nicholas L. Carnagey, Craig A. Anderson, and Brad J. Bushman, “The Effect of Video Game Violence on Physiological Desensitization to Real-Life Violence,”Journal of Experimental Social Psychology, May 2007",
+            "url": null,
+            "docid": 10330
+        },
+        {
+            "id": "52",
+            "title": "Christopher R. Engelhardt, et al., “This Is Your Brain on Violent Video Games: Neural Desensitization to Violence Predicts Increased Aggression following Violent Video Game Exposure,”Journal of Experimental Social Psychology, Sep. 2011",
+            "url": null,
+            "docid": 10331
+        },
+        {
+            "id": "53",
+            "title": "Mike Jaccarino, “‘Training Simulation:’ Mass Killers Often Share Obsession with Violent Video Games,” foxnews.com, Sep. 12, 2013",
+            "url": null,
+            "docid": 10332
+        },
+        {
+            "id": "54",
+            "title": "Ingrid Möller and B. Krahé, “Exposure to Violent Video Games and Aggression in German Adolescents: A Longitudinal Analysis,”Aggressive Behavior, Jan.-Feb. 2009",
+            "url": null,
+            "docid": 10333
+        },
+        {
+            "id": "55",
+            "title": "Christopher L. Groves and Craig A. Anderson, “Video Game Violence and Offline Aggression,”Mental Health in the Digital Age, 2015",
+            "url": null,
+            "docid": 10334
+        },
+        {
+            "id": "56",
+            "title": "Laura St. John, “8 Ways Violent Games Are Bad for Your Kids,” huffingtonpost.com, Nov. 7, 2013",
+            "url": null,
+            "docid": 10335
+        },
+        {
+            "id": "57",
+            "title": "Benedict Carey, “Shooting in the Dark,” nytimes.com, Dec. 2, 2013",
+            "url": null,
+            "docid": 10336
+        },
+        {
+            "id": "58",
+            "title": "Tiffany Kaiser, “Study: Violent Video Games Desensitize Players, Cause Heightened Aggression,” dailytech.com, May 26, 2011",
+            "url": null,
+            "docid": 10337
+        },
+        {
+            "id": "59",
+            "title": "Douglas A. Gentile,Media Violence and Children: A Complete Guide for Parents and Professionals, 2014",
+            "url": null,
+            "docid": 10338
+        },
+        {
+            "id": "60",
+            "title": "Craig A. Anderson and Wayne A. Warburton, “The Impact of Violent Video Games: An Overview,”Growing Up Fast and Furious, 2012",
+            "url": null,
+            "docid": 10339
+        },
+        {
+            "id": "61",
+            "title": "Craig A. Anderson and Brad J. Bushman, “Effects of Violent Video Games on Aggressive Behavior, Aggressive Cognition, Aggressive Affect, Physiological Arousal, and Prosocial Behavior: A Meta-Analytic Review of the Scientific Literature,”Psychological Science, Sep. 2001",
+            "url": null,
+            "docid": 10340
+        },
+        {
+            "id": "62",
+            "title": "Douglas A. Gentile et al., “Well-Child Visits in the Video Age: Pediatricians and the American Academy of Pediatrics’ Guidelines for Children’s Media Use,”Pediatrics, Nov. 2004",
+            "url": null,
+            "docid": 10341
+        },
+        {
+            "id": "63",
+            "title": "Douglas A. Gentile et al., “Mediators and Moderators of Long-term Effects of Violent Video Games on Aggressive Behavior,”JAMA Pediatrics, Mar. 2014",
+            "url": null,
+            "docid": 10342
+        },
+        {
+            "id": "64",
+            "title": "Stephen Totilo, “The Doctor Who Said Video Games Cause Rape Explains What She Meant,” kotaku.com, Feb. 10, 2011",
+            "url": null,
+            "docid": 10343
+        },
+        {
+            "id": "65",
+            "title": "Yael Kidron and Steve Fleischman, “Research Matters / Promoting Adolescents’ Prosocial Behavior,”Educational Leadership, Apr. 2006",
+            "url": null,
+            "docid": 10344
+        },
+        {
+            "id": "66",
+            "title": "Craig A. Anderson et al., “Violent Video Game Effects on Aggression, Empathy, and Prosocial Behavior in Eastern and Western Countries: A Meta-Analytic Review,”Psychological Bulletin, Mar. 2010",
+            "url": null,
+            "docid": 10345
+        },
+        {
+            "id": "67",
+            "title": "American Academy of Pediatrics, “Media Violence,”Pediatrics, Nov. 1, 2009",
+            "url": null,
+            "docid": 10346
+        },
+        {
+            "id": "68",
+            "title": "Victoria Simpson Beck, et al., “Violence against Women in Video Games: A Prequel or Sequel to Rape Myth Acceptance?,”Journal of Interpersonal Violence, Oct. 2012",
+            "url": null,
+            "docid": 10347
+        },
+        {
+            "id": "69",
+            "title": "Mira Bajovic, “Violent Video Gaming and Moral Reasoning in Adolescents: Is There an Association?,”Educational Media International, Feb. 2014",
+            "url": null,
+            "docid": 10348
+        },
+        {
+            "id": "70",
+            "title": "Amelia Rosch. “Australian Retailer Pulls ‘Grand Theft Auto’ for Promoting Violence against Women,” thinkprogress.org, Dec. 3, 2014",
+            "url": null,
+            "docid": 10349
+        },
+        {
+            "id": "71",
+            "title": "David A. Wolfe, Peter G. Jaffe, and Claire V. Crooks,Adolescent Risk Behaviors: Why Teens Experiment and Strategies to Keep Them Safe, 2008",
+            "url": null,
+            "docid": 10350
+        },
+        {
+            "id": "72",
+            "title": "Nicholas L. Carnagey and Craig A. Anderson, “The Effects of Reward and Punishment in Violent Video Games on Aggressive Affect, Cognition, and Behavior,”Psychological Science, Mar. 2005",
+            "url": null,
+            "docid": 10351
+        },
+        {
+            "id": "73",
+            "title": "Crystal J. Dittrick et al., “Do Children Who Bully Their Peers Also Play Violent Video Games? A Canadian National Study,”Journal of School Violence, May 2013",
+            "url": null,
+            "docid": 10352
+        },
+        {
+            "id": "74",
+            "title": "Brad Bushman, Mario Gollwitzer, and Carlos Cruz, “There Is Broad Consensus: Media Researchers Agree That Violent Media Increase Aggression in Children, and Pediatricians and Parents Concur,”Psychology of Popular Media Culture, July 2015",
+            "url": null,
+            "docid": 10353
+        },
+        {
+            "id": "75",
+            "title": "Jeff Grabmeier, “‘Broad Consensus’ That Violent Media Increase Child Aggression,” news.osu.edu, Oct. 6, 2014",
+            "url": null,
+            "docid": 10354
+        },
+        {
+            "id": "76",
+            "title": "Paul J. Lynch et al., “The Effects of Violent Video Game Habits on Adolescent Aggressive Attitudes and Behaviors,” Paper presented at the Biennial Meeting of the Society for Research in Child Development, Apr. 19-22, 2001",
+            "url": null,
+            "docid": 10355
+        },
+        {
+            "id": "77",
+            "title": "Dave Grossman, “Conditioning Kids to Kill,” killology.com (accessed Sep. 16, 2015)",
+            "url": null,
+            "docid": 10356
+        },
+        {
+            "id": "78",
+            "title": "Corey Mead, “Shall We Play a Game?: The Rise of the Military-Entertainment Complex,” salon.com, Sep. 19, 2013",
+            "url": null,
+            "docid": 10357
+        },
+        {
+            "id": "79",
+            "title": "Brandon Keim, “What Science Knows about Video Games and Violence,” pbs.org, Feb. 28, 2013",
+            "url": null,
+            "docid": 10358
+        },
+        {
+            "id": "80",
+            "title": "Douglas A. Gentile, “The Multiple Dimensions of Video Game Effects,”Child Development Perspectives, June 2011",
+            "url": null,
+            "docid": 10359
+        },
+        {
+            "id": "81",
+            "title": "United States Supreme Court, Brown v. Entertainment Merchants Association, June 27, 2011",
+            "url": null,
+            "docid": 10360
+        },
+        {
+            "id": "82",
+            "title": "National Center for Juvenile Justice, “Juvenile Offenders and Victims: 2014 National Report,” ojjdp.gov, Dec. 2014",
+            "url": null,
+            "docid": 10361
+        },
+        {
+            "id": "83",
+            "title": "Office of Juvenile Justice and Deliquency Prevention, “Juvenile Arrest Rate Trends,” ojjdp.gov, Dec. 9, 2014",
+            "url": null,
+            "docid": 10362
+        },
+        {
+            "id": "84",
+            "title": "Patrick M. Markey, Charlotte N. Markey, and Juliana E. French, “Violent Video Games and Real-World Violence: Rhetoric Versus Data,”Psychology of Popular Media Culture, Oct. 2015",
+            "url": null,
+            "docid": 10363
+        },
+        {
+            "id": "85",
+            "title": "Jodi L. Whitaker and Brad J. Bushman, “‘Boom, Headshot!’ Effect of Video Game Play and Controller Type on Firing Aim and Accuracy,\"Communication Research, Oct. 2014",
+            "url": null,
+            "docid": 10364
+        },
+        {
+            "id": "86",
+            "title": "Katherine S. Newman,Rampage: The Social Roots of School Shootings, 2008",
+            "url": null,
+            "docid": 10365
+        },
+        {
+            "id": "87",
+            "title": "Mark Follman, Gavin Aronsen, and Deanna Pan, “A Guide to Mass Shootings in America,” motherjones.com, July 24, 2015",
+            "url": null,
+            "docid": 10366
+        },
+        {
+            "id": "88",
+            "title": "C. Barlett et al., “How Long Do the Short-Term Violent Video Game Effects Last?,”Aggressive Behavior, May-June 2009",
+            "url": null,
+            "docid": 10367
+        },
+        {
+            "id": "89",
+            "title": "Steve Levitt, “Who Runs the Internet? Full Transcript,” freakonomics.com, Nov. 14, 2013",
+            "url": null,
+            "docid": 10368
+        },
+        {
+            "id": "90",
+            "title": "Scott Cunningham, Benjamin Engelstätter, and Michael R. Ward, “Understanding the Effects of Violent Video Games on Violent Crime,” papers.ssrn.com, Apr. 7, 2011",
+            "url": null,
+            "docid": 10369
+        },
+        {
+            "id": "91",
+            "title": "Krista Lofgren, “2015 Video Game Statistics & Trends Who’s Playing What & Why?,” bigfishgames.com, Mar. 3, 2015",
+            "url": null,
+            "docid": 10370
+        },
+        {
+            "id": "92",
+            "title": "Pew Research Center, “Teens, Social Media & Technology Overview 2015,” pewinternet.org, Apr. 8, 2015",
+            "url": null,
+            "docid": 10371
+        },
+        {
+            "id": "93",
+            "title": "Christopher J. Ferguson, “Does Media Violence Predict Societal Violence? It Depends on What You Look at and When,”Journal of Communication, Feb. 2015",
+            "url": null,
+            "docid": 10372
+        },
+        {
+            "id": "94",
+            "title": "Kyle Hill, “The Most Objective Study Yet Finds No Link Between Video Games and Violence,” nerdist.com, Nov. 8, 2014",
+            "url": null,
+            "docid": 10373
+        },
+        {
+            "id": "95",
+            "title": "Christopher J. Ferguson, “Video Games Don’t Make Kids Violent,”TIME, Dec. 7, 2011",
+            "url": null,
+            "docid": 10374
+        },
+        {
+            "id": "96",
+            "title": "Andrew Przybylski, Scott Rigby and Richard Ryan, “A Motivational Model of Video Game Engagement,”Review of General Psychology, June 2010",
+            "url": null,
+            "docid": 10375
+        },
+        {
+            "id": "97",
+            "title": "Max Fisher, “Ten-Country Comparison Suggests There’s Little or No Link between Video Games and Gun Murders,”Washington Post, Dec. 17, 2012",
+            "url": null,
+            "docid": 10376
+        },
+        {
+            "id": "98",
+            "title": "Ronald Bailey, “Kill Pixels, Not People,” reason.com, Feb. 2015",
+            "url": null,
+            "docid": 10377
+        },
+        {
+            "id": "99",
+            "title": "Sasha Emmons, “Is Media Violence Damaging to Kids?,” cnn.com, Feb. 21, 2013",
+            "url": null,
+            "docid": 10378
+        },
+        {
+            "id": "100",
+            "title": "PBS, “Understanding and Raising Boys,” pbs.org (accessed Sep. 16, 2015)",
+            "url": null,
+            "docid": 10379
+        },
+        {
+            "id": "101",
+            "title": "David Leonhardt, “Do Video Games Equal Less Crime?,” nytimes.com, May 24, 2010",
+            "url": null,
+            "docid": 10380
+        },
+        {
+            "id": "102",
+            "title": "Morgan J. Tear and Mark Nielsen, “Failure to Demonstrate That Playing Violent Video Games Diminishes Prosocial Behavior,” PLOS One, July 3, 2013",
+            "url": null,
+            "docid": 10381
+        },
+        {
+            "id": "103",
+            "title": "Christopher J. Ferguson and Adolfo Garza, “Call of (Civic) Duty: Action Games and Civic Behavior in a Large Sample of Youth,”Computers in Human Behavior, Mar. 2011",
+            "url": null,
+            "docid": 10382
+        },
+        {
+            "id": "104",
+            "title": "Matthew Grizzard et al., “Being Bad in a Video Game Can Make Us More Morally Sensitive,”Cyberpsychology, Behavior, and Social Networking, July 2014",
+            "url": null,
+            "docid": 10383
+        },
+        {
+            "id": "105",
+            "title": "Child Trends Data Bank, “Physical Fighting by Youth,” childtrends.org, Aug. 2014",
+            "url": null,
+            "docid": 10384
+        },
+        {
+            "id": "106",
+            "title": "National Center for Education Statistics, “Indicators of School Crime and Safety: 2013,” nces.ed.gov, June 2014",
+            "url": null,
+            "docid": 10385
+        },
+        {
+            "id": "107",
+            "title": "Nicholas Lovell, “If Video Games Cause Violence, There Should Be a Correlation between Game Sales and Violent Crime, Right?,” gamesbrief.com, Aug. 6, 2010",
+            "url": null,
+            "docid": 10386
+        },
+        {
+            "id": "108",
+            "title": "Fisher Price, “Fantasy and Reality: Does Your Child Know the Difference?,” fisher-price.com (accessed Sep. 16, 2015)",
+            "url": null,
+            "docid": 10387
+        },
+        {
+            "id": "109",
+            "title": "Orrin G. Hatch, “Children Violence and the Media,” Senate Committee on the Judiciary, Sep. 14, 1999",
+            "url": null,
+            "docid": 10388
+        },
+        {
+            "id": "110",
+            "title": "Brad J. Bushman and Craig A. Anderson, “Comfortably Numb: Desensitizing Effects of Violent Media on Helping Others,”Psychological Science, 2009",
+            "url": null,
+            "docid": 10389
+        },
+        {
+            "id": "111",
+            "title": "Dave Munger, “Violent Video Games and Desensitization,”Cognitive Daily, Apr. 24, 2008",
+            "url": null,
+            "docid": 10390
+        },
+        {
+            "id": "112",
+            "title": "Chris LaVigne, “Why Video Game Research Is Flawed,”Maison Neuve, May 25, 2009",
+            "url": null,
+            "docid": 10391
+        },
+        {
+            "id": "113",
+            "title": "California Science Center, “Moral Panics,” fearexhibit.org (accessed Sep. 16, 2015)",
+            "url": null,
+            "docid": 10392
+        },
+        {
+            "id": "114",
+            "title": "Charles Krinsky, “The Moral Panic Concept,”The Ashgate Research Companion to Moral Panics, 2013",
+            "url": null,
+            "docid": 10393
+        },
+        {
+            "id": "115",
+            "title": "Christopher Ferguson, “The Great Video Game Moral Panic,” boston.com, Feb. 6, 2014",
+            "url": null,
+            "docid": 10394
+        },
+        {
+            "id": "116",
+            "title": "Andrew Przybylski, “Americans Skeptical of Link between Mass Shootings and Video Games,” yougov.com, Oct. 17, 2013",
+            "url": null,
+            "docid": 10395
+        },
+        {
+            "id": "117",
+            "title": "Rory McGloin, Kirstie M. Farrar, and Joshua Fishlock, “Triple Whammy! Violent Games and Violent Controllers: Investigating the Use of Realistic Gun Controllers on Perceptions of Realism, Immersion, and Outcome Aggression,”Journal of Communication, Apr. 2015",
+            "url": null,
+            "docid": 10396
+        },
+        {
+            "id": "118",
+            "title": "Office of the Surgeon General, “Youth Violence: A Report of the Surgeon General,” ncbi.nlm.nih.gov, 2001",
+            "url": null,
+            "docid": 10397
+        },
+        {
+            "id": "119",
+            "title": "American Psychological Association, “Resolution on Violent Video Games,” apa.org, Aug. 2015",
+            "url": null,
+            "docid": 10398
+        },
+        {
+            "id": "120",
+            "title": "American Psychological Association, “APA Review Confirms Link Between Playing Violent Video Games and Aggression,” apa.org, Aug. 13, 2015",
+            "url": null,
+            "docid": 10399
+        },
+        {
+            "id": "121",
+            "title": "Brad J. Bushman, Hannah Rothstein, and Craig A. Anderson, “Much Ado About Something: Violent Video Game Effects and a School of Red Herring: Reply to Ferguson and Kilburn,”Psychological Bulletin, 2010",
+            "url": null,
+            "docid": 10400
+        },
+        {
+            "id": "122",
+            "title": "Stephen Breyer, Dissenting opinion, Brown v. Entertainment Merchants Association, June 27, 2011",
+            "url": null,
+            "docid": 10401
+        },
+        {
+            "id": "123",
+            "title": "Christopher J. Ferguson et al., “Violent Video Games Don’t Increase Hostility in Teens, but They Do Stress Girls Out,”Psychiatric Quarterly, Apr. 2015",
+            "url": null,
+            "docid": 10402
+        },
+        {
+            "id": "124",
+            "title": "Craig A. Anderson, Brad J. Bushman, and Ralph W. Groom, “Hot Years and Serious Deadly Assault: Empirical Tests of the Heat Hypothesis,”Journal of Personality and Social Psychology, 1997",
+            "url": null,
+            "docid": 10403
+        },
+        {
+            "id": "125",
+            "title": "Paul Adachi and Teena Willoughby, “The Effect of Video Game Competition and Violence on Aggressive Behavior: Which Characteristic Has the Greatest Influence?,”Psychology of Violence, Aug. 2011",
+            "url": null,
+            "docid": 10404
+        },
+        {
+            "id": "126",
+            "title": "Paul Adachi and Teena Willoughby, “Demolishing the Competition: The Longitudinal Link Between Competitive Video Games, Competitive Gambling, and Aggression,”Journal of Youth and Adolescence, July 2013",
+            "url": null,
+            "docid": 10405
+        },
+        {
+            "id": "127",
+            "title": "Guardian US interactive team, “Violence and Guns in Best-selling Video Games,” theguardian.com, Apr. 30, 2013",
+            "url": null,
+            "docid": 10406
+        },
+        {
+            "id": "128",
+            "title": "Entertainment Software Rating Board, “ESRB Celebrates 20 Years of Rating Video Games and Apps,” esrb.org, Sep. 16, 2014",
+            "url": null,
+            "docid": 10407
+        },
+        {
+            "id": "129",
+            "title": "Entertainment Software Rating Board, “ESRB Ratings,” esrb.org (accessed Sep. 18, 2015)",
+            "url": null,
+            "docid": 10408
+        },
+        {
+            "id": "130",
+            "title": "Edwin Evans-Thirlwell, “Face-Stabbing and Cop-Killing: Inside 2015’s Most Controversial Video Game,” vice.com, Jan. 19, 2015",
+            "url": null,
+            "docid": 10409
+        },
+        {
+            "id": "131",
+            "title": "Lois Beckett, “Republicans Say No to CDC Gun Violence Research,” propublica.org, Apr. 21, 2014",
+            "url": null,
+            "docid": 10410
+        },
+        {
+            "id": "132",
+            "title": "“Global Games Market Will Reach $102.9 Billion in 2017,” newzoo.com, May 15, 2014",
+            "url": null,
+            "docid": 10411
+        },
+        {
+            "id": "133",
+            "title": "Ken Polsson, “Chronology of Video Game Systems,” vidgame.info, May 15, 2015",
+            "url": null,
+            "docid": 10412
+        },
+        {
+            "id": "134",
+            "title": "Chris Morris, “Video Games Spring Back on Strong Console Sales,” cnbc.com, Jan. 15, 2015",
+            "url": null,
+            "docid": 10413
+        },
+        {
+            "id": "135",
+            "title": "Ian Simpson, “Violent U.S. Crime Drops again, Reaches 1970s Level: FBI,” reuters.com, Nov. 10, 2014",
+            "url": null,
+            "docid": 10414
+        },
+        {
+            "id": "136",
+            "title": "NPD, \"According to The NPD Group, 73 Percent of U.S. Consumers Play Video Games,\" npd.com, Oct. 8, 2019",
+            "url": null,
+            "docid": 10415
+        },
+        {
+            "id": "137",
+            "title": "WePC, \"Video Game Industry Statistics, Trends and Data In 2021,\" wepc.com (accessed June 4, 2021)",
+            "url": null,
+            "docid": 10416
+        },
+        {
+            "id": "138",
+            "title": "Mae Anderson, \"No, There’s Still No Link between Video Games and Violence,\" apnews.com, Aug. 6, 2019",
+            "url": null,
+            "docid": 10417
+        },
+        {
+            "id": "139",
+            "title": "Arman Azad, \"Video Games Unlikely to Cause Real-World Violence, Experts Say,\" cnn.com, Aug. 5, 2019",
+            "url": null,
+            "docid": 10418
+        },
+        {
+            "id": "140",
+            "title": "Lauren Farrar, \"Are Video Games Really Making Us More Violent?,\" kqed.org, Jan 8, 2020",
+            "url": null,
+            "docid": 10419
+        },
+        {
+            "id": "141",
+            "title": "Villanova University Media Room, \"New Research Shows More People Blame Video Games on School Shootings by White Perpetrators,\" villanova.edu (accessed June 7, 2021)",
+            "url": null,
+            "docid": 10420
+        },
+        {
+            "id": "142",
+            "title": "Hillary Clinton, twitter.com, Aug. 5, 2019",
+            "url": null,
+            "docid": 10421
+        },
+        {
+            "id": "143",
+            "title": "US Department of Justice, \"The Decline in Arrests of Juveniles Continued through 2019,\" ojp.gov, Nov. 2020",
+            "url": null,
+            "docid": 10422
+        },
+        {
+            "id": "144",
+            "title": "Thomas Wilde, \"Analysis: Video Game Spending Is Setting Records, but Can the Industry Meet Increasing Demand?,\" geekwire.com, Apr. 16, 2021",
+            "url": null,
+            "docid": 10423
+        },
+        {
+            "id": "145",
+            "title": "Alana Rocha, \"After El Paso Shooting, Texas Lt. Gov. Dan Patrick Says Video Games Teach Young People \"to Kill,'\" texastribune.org, Aug. 4, 2019",
+            "url": null,
+            "docid": 10424
+        },
+        {
+            "id": "146",
+            "title": "Devan Cole, \"Trump, McCarthy Cite Video Games as a Driver behind Mass Shootings,\" cnn.com, Aug. 5, 2019",
+            "url": null,
+            "docid": 10425
+        },
+        {
+            "id": "147",
+            "title": "American Psychological Association, \"APA Reaffirms Position on Violent Video Games and Violent Behavior,\" apa.org, Mar. 3, 2020",
+            "url": null,
+            "docid": 10426
+        }
+    ],
+    "url": "https://videogames.procon.org/"
+}

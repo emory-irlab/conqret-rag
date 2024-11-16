@@ -1,0 +1,399 @@
+{
+    "title": "Vaping – Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Lisa Rapaport, “Almost One in 20 U.S. Adults Now Use E-Cigarettes,” reuters.com, Aug. 27, 2018",
+            "url": null,
+            "docid": 11017
+        },
+        {
+            "id": "2",
+            "title": "Jerome Adams, “Surgeon General’s Advisory on E-cigarette Use Among Youth,” e-cigarettes.surgeongeneral.gov, Jan. 10, 2019",
+            "url": null,
+            "docid": 11018
+        },
+        {
+            "id": "3",
+            "title": "National Institute on Drug Abuse, “Electronic Cigarettes (E-cigarettes),” drugabuse.gov, June 2018",
+            "url": null,
+            "docid": 11019
+        },
+        {
+            "id": "4",
+            "title": "Lori Higgins, “Your Kids Think It’s Cool to Vape at School. It’s a Big Problem.,” freep.com, Sep. 25, 2018",
+            "url": null,
+            "docid": 11020
+        },
+        {
+            "id": "5",
+            "title": "NBC News, “Vaping 101: How Do E-Cigarettes Work?,” nbcnews.com, Apr. 24, 2014",
+            "url": null,
+            "docid": 11021
+        },
+        {
+            "id": "6",
+            "title": "FDA, “The Facts on the FDA’s New Tobacco Rule,” fda.gov, Nov. 9, 2017",
+            "url": null,
+            "docid": 11022
+        },
+        {
+            "id": "7",
+            "title": "Richard Craver, “FDA Scrutiny of Juul Not Affecting Dominant Market Share,” journalnow.com, Jan. 23, 2019",
+            "url": null,
+            "docid": 11023
+        },
+        {
+            "id": "8",
+            "title": "Richard Craver, “Juul Market Share Slips following Removal of Fruity-flavored E-cigs,” journalnow.com, Feb. 5, 2019",
+            "url": null,
+            "docid": 11024
+        },
+        {
+            "id": "9",
+            "title": "Angelica LaVito, “Fda Chief Accuses Juul, Altria of Reneging on Promise to Combat ‘Epidemic’ Teen Vaping Use,” usatoday.com, Feb. 8, 2019",
+            "url": null,
+            "docid": 11025
+        },
+        {
+            "id": "10",
+            "title": "CDC, “Smoking & Tobacco Use,” cdc.gov, Feb. 6, 2019",
+            "url": null,
+            "docid": 11026
+        },
+        {
+            "id": "11",
+            "title": "National Academies of Science, Engineering, and Medicine, “Public Health Consequences of E-Cigarettes,” nap.edu, 2018",
+            "url": null,
+            "docid": 11027
+        },
+        {
+            "id": "12",
+            "title": "John Ross, “E-Cigarettes: Good News, Bad News,” health.harvard.edu, July 25, 2016",
+            "url": null,
+            "docid": 11028
+        },
+        {
+            "id": "13",
+            "title": "James Meikle, “Vaping: E-Cigarettes Safer Than Smoking, Says Public Health England,” theguardian.com, Aug. 19, 2015",
+            "url": null,
+            "docid": 11029
+        },
+        {
+            "id": "14",
+            "title": "Peter Hajek, Anna Phillips-Waller, Dunja Przulj, et al., “A Randomized Trial of E-Cigarettes versus Nicotine-Replacement Therapy,” New England Journal of Medicine, Jan. 30, 2019",
+            "url": null,
+            "docid": 11030
+        },
+        {
+            "id": "15",
+            "title": "Yue-Lin Zhuang, Sharon E. Cummins, Jessica Y. Sun, and Shu-Hong Zhu, “Long-Term E-Cigarette Use and Smoking Cessation: A Longitudinal Study with US Population,” Tobacco Control, 2016",
+            "url": null,
+            "docid": 11031
+        },
+        {
+            "id": "16",
+            "title": "Public Health England, “E-Cigarettes Around 95% Less Harmful Than Tobacco Estimates Landmark Review,” gov.uk, Aug. 19, 2015",
+            "url": null,
+            "docid": 11032
+        },
+        {
+            "id": "17",
+            "title": "Medical University of South Carolina, ” “Can E-Cigarettes Help Smokers Quit? Study Finds Smokers Who Are Willing to Use E-Cigarettes Tend to Smoke Less and Increase Their Quit Attempts,” sciencedaily.com, Dec. 29, 2017",
+            "url": null,
+            "docid": 11033
+        },
+        {
+            "id": "18",
+            "title": "D. Bush and M.L. Goniewicz, “A Pilot Study on Nicotine Residues in Houses of Electronic Cigarette Users, Tobacco Smokers, and Non-Users of Nicotine-Containing Products,” International Journal of Drug Policy, June 2015",
+            "url": null,
+            "docid": 11034
+        },
+        {
+            "id": "19",
+            "title": "Matthew L. Myers, “New U.S. Survey Shows Youth Cigarette Smoking Is at Record Lows, but E-Cigarettes and Cigars Threaten Progress,” tobaccofreekids.org, June 7, 2018",
+            "url": null,
+            "docid": 11035
+        },
+        {
+            "id": "20",
+            "title": "David Nutt, “Vaping Saves Lives. It’d Be Madness to Ban It,” theguardian.com, Oct. 14, 2016",
+            "url": null,
+            "docid": 11036
+        },
+        {
+            "id": "21",
+            "title": "Martin Dockrell, “Clearing up Some Myths Around E-Cigarettes,” publichealthmatters.blog.gov.uk, Feb. 20, 2018",
+            "url": null,
+            "docid": 11037
+        },
+        {
+            "id": "22",
+            "title": "Sally Satel, “How E-Cigarettes Could Save Lives,” washingtonpost.com, Feb. 14, 2014",
+            "url": null,
+            "docid": 11038
+        },
+        {
+            "id": "23",
+            "title": "Grover Norquist and Paul Blair, “Vaping for Tax Freedom,” nationalreview.com, Oct. 15, 2014",
+            "url": null,
+            "docid": 11039
+        },
+        {
+            "id": "24",
+            "title": "J. Scott Moody, “E-Cigarettes Poised to Save Medicaid Billions,” tobacco.ucsf.edu, Mar. 31, 2015",
+            "url": null,
+            "docid": 11040
+        },
+        {
+            "id": "25",
+            "title": "Grover Norquist, Lisa Nelson, Norm Singleton, et al., “Coalition Urges President Trump to Halt Regulatory Assault on Innovative Electronic Cigarette Industry,” atr.org, Feb. 4, 2019",
+            "url": null,
+            "docid": 11041
+        },
+        {
+            "id": "26",
+            "title": "Kaitlyn M. Berry, Jessica L. Fetterman, Emelia J. Benjamin, et al., “Association of Electronic Cigarette Use with Subsequent Initiation of Tobacco Cigarettes in US Youths,” JAMA Network Open, Feb. 1, 2019",
+            "url": null,
+            "docid": 11042
+        },
+        {
+            "id": "27",
+            "title": "American Lung Association, “E-cigarettes, ‘Vapes’ and JUULs: What Parents Should Know,” lung.org, Jan. 24, 2019",
+            "url": null,
+            "docid": 11043
+        },
+        {
+            "id": "28",
+            "title": "JUUL, “FAQS: JUULpod Basics,” support.juul.com (accessed Feb. 15, 2019)",
+            "url": null,
+            "docid": 11044
+        },
+        {
+            "id": "29",
+            "title": "JUUL, “JUUL Savings Calculator,” juul.com (accessed Feb. 15, 2019)",
+            "url": null,
+            "docid": 11045
+        },
+        {
+            "id": "30",
+            "title": "Maggie Fox, “Vaping, Juuling Are the New Smoking for High School Kids,” nbcnews.com, June 7, 2018",
+            "url": null,
+            "docid": 11046
+        },
+        {
+            "id": "31",
+            "title": "Dennis Thompson, “Vaping Tied to Rise in Stroke, Heart Attack Risk,” consumer.healthday.com, Jan. 30, 2019",
+            "url": null,
+            "docid": 11047
+        },
+        {
+            "id": "32",
+            "title": "Paul M. Ndunda and Tabitha M. Muutu, “9 – Electronic Cigarette Use Is Associated with a Higher Risk of Stroke,” abstractsonline.com, Feb. 6, 2019",
+            "url": null,
+            "docid": 11048
+        },
+        {
+            "id": "33",
+            "title": "Hanan Qasim Zubair, et al., “Short-Term E-Cigarette Exposure Increases the Risk of Thrombogenesis and Enhances Platelet Function in Mice,” Journal of the American Heart Association, Aug. 2018",
+            "url": null,
+            "docid": 11049
+        },
+        {
+            "id": "34",
+            "title": "Pablo Olmedo, et al., “Metal Concentrations in e-Cigarette Liquid and Aerosol Samples: The Contribution of Metallic Coils,” Environmental Health Perspectives, Feb. 21, 2018",
+            "url": null,
+            "docid": 11050
+        },
+        {
+            "id": "35",
+            "title": "Otmar Geiss, Ivana Bianchi, Josefa Barrero-Moreno, “Correlation of Volatile Carbonyl Yields Emitted by E-Cigarettes with the Temperature of the Heating Coil and the Perceived Sensorial Quality of the Generated Vapours,” International Journal of Hygiene and Environmental Health, May 2016",
+            "url": null,
+            "docid": 11051
+        },
+        {
+            "id": "36",
+            "title": "Matthew Rossheim, Melvin D. Livingston, Eric K. Soule, Helen A. Zeraye, and Dennis L. Thombs, “Electronic Cigarette Explosion and Burn Injuries, US Emergency Departments 2015–2017,” Tobacco Control, Sep. 2018",
+            "url": null,
+            "docid": 11052
+        },
+        {
+            "id": "37",
+            "title": "Mary Lee Clark, “Mason Report Finds E-Cigarette Explosions, Injuries Are More Common Than Previously Thought,” gmu.edu, Sep. 28, 2018",
+            "url": null,
+            "docid": 11053
+        },
+        {
+            "id": "38",
+            "title": "Rasha Ali, “E-Cigarette Battery Ignites Fire on American Airlines Flight from Las Vegas to Chicago,” usatoday.com, Jan. 6, 2019",
+            "url": null,
+            "docid": 11054
+        },
+        {
+            "id": "39",
+            "title": "David Williams, “A Man Dies After His E-Cigarette Explodes in His Face,” cnn.com, Feb. 5, 2019",
+            "url": null,
+            "docid": 11055
+        },
+        {
+            "id": "40",
+            "title": "Eli Rosenberg, “Exploding Vape Pen Caused Florida Man’s Death, Autopsy Says,” washingtonpost.com, May 17, 2018",
+            "url": null,
+            "docid": 11056
+        },
+        {
+            "id": "41",
+            "title": "Lawrence A. McKenna, Jr., “Electronic Cigarette Fires and Explosions in the United States 2009 – 2016,” usfa.fema.gov, July 2017",
+            "url": null,
+            "docid": 11057
+        },
+        {
+            "id": "42",
+            "title": "CDC, “About Electronic Cigarettes (E-Cigarettes),” cdc.gov, Nov. 29, 2018",
+            "url": null,
+            "docid": 11058
+        },
+        {
+            "id": "43",
+            "title": "FDA, “Vaporizers, E-Cigarettes, and Other Electronic Nicotine Delivery Systems (Ends),” fda.gov, Feb. 5, 2019",
+            "url": null,
+            "docid": 11059
+        },
+        {
+            "id": "44",
+            "title": "Blanca Myers, “What’s Inside Vape Juice?,” wired.co.uk, Apr. 25, 2017",
+            "url": null,
+            "docid": 11060
+        },
+        {
+            "id": "45",
+            "title": "Veppo, “What Is E-Juice or Vape Juice?,” veppocig.com (accessed Feb. 15, 2019)",
+            "url": null,
+            "docid": 11061
+        },
+        {
+            "id": "46",
+            "title": "Richard Harris and Carmel Wroth, “FDA to Banish Flavored E-Cigarettes to Combat Youth Vaping,” npr.org, Sep. 11, 2019",
+            "url": null,
+            "docid": 11062
+        },
+        {
+            "id": "47",
+            "title": "CDC, “Outbreak of Lung Illness Associated with Using E-cigarette Products,” cdc.gov, Sep. 11, 2019",
+            "url": null,
+            "docid": 11063
+        },
+        {
+            "id": "48",
+            "title": "Lisa Rapaport, “Vaping May Aid Smoking Cessation but Also Boost Relapse Risk,” physiciansweekly.com, July 15, 2019",
+            "url": null,
+            "docid": 11064
+        },
+        {
+            "id": "49",
+            "title": "Virginia Langmaid, \"FDA Chief Stays Mum on Plans for Banning Flavored Vapes,\" cnn.com, June 23, 2021",
+            "url": null,
+            "docid": 11065
+        },
+        {
+            "id": "50",
+            "title": "Grand View Research, \"E-cigarette and Vape Market Size, Share & Trends Analysis Report by Distribution Channel (Online, Retail), by Product (Disposable, Rechargeable), by Component, by Region, and Segment Forecasts, 2021 - 2028,\" grandviewresearch.com, May 2021",
+            "url": null,
+            "docid": 11066
+        },
+        {
+            "id": "51",
+            "title": "Sheila Kaplan, \"Juul Is Fighting to Keep Its E-Cigarettes on the U.S. Market,\" nytimes.com, July 5, 2021",
+            "url": null,
+            "docid": 11067
+        },
+        {
+            "id": "52",
+            "title": "Maria A. Villarroel, Amy E. Cha, and Anjel Vahratian, \"Electronic Cigarette Use Among U.S. Adults, 2018,\" cdc.gov, Apr. 2020",
+            "url": null,
+            "docid": 11068
+        },
+        {
+            "id": "53",
+            "title": "CDC, \"Youth and Tobacco Use,\" cdc.gov, Dec. 16, 2020",
+            "url": null,
+            "docid": 11069
+        },
+        {
+            "id": "54",
+            "title": "Megan Brenan, \"Smoking and Vaping Remain Steady and Low in U.S.,\" gallup.com, Aug, 12, 2021",
+            "url": null,
+            "docid": 11070
+        },
+        {
+            "id": "55",
+            "title": "Janet Woodcock and Mitch Zeller, \"FDA Makes Significant Progress in Science-Based Public Health Application Review, Taking Action on Over 90% of More Than 6.5 Million ‘Deemed’ New Tobacco Products Submitted,\" fda.gov, Sep. 9, 2021",
+            "url": null,
+            "docid": 11071
+        },
+        {
+            "id": "56",
+            "title": "Jacqueline Howard, \"FDA Takes More Time to Decide on E-Cigarettes,\" cnn.com, Sep. 9, 2021",
+            "url": null,
+            "docid": 11072
+        },
+        {
+            "id": "57",
+            "title": "Mitch Zeller, \"Perspective: FDA’s Preparations for the September 9 Submission Deadline,\" fda.gov, Aug. 31, 2020",
+            "url": null,
+            "docid": 11073
+        },
+        {
+            "id": "58",
+            "title": "Matt Richtel and Sheila Kaplan, \"F.D.A. Authorizes E-Cigarettes to Stay on U.S. Market for the First Time,\" nytimes.com, Oct. 13, 2021",
+            "url": null,
+            "docid": 11074
+        },
+        {
+            "id": "59",
+            "title": "Vanessa Romo, \"Marijuana Vaping among Teens Has More Than Doubled since 2013,\" npr.org, Oct. 25, 2021",
+            "url": null,
+            "docid": 11075
+        },
+        {
+            "id": "60",
+            "title": "Olufunmilayo H. Obisesan, Mohammadhassan Mirbolouk, and Albert D. Osei, \"Association Between e-Cigarette Use and Depression in the Behavioral Risk Factor Surveillance System, 2016-2017,\" jamanetwork.com, Dec. 4, 2019",
+            "url": null,
+            "docid": 11076
+        },
+        {
+            "id": "61",
+            "title": "Carma Hassan, \"FDA Orders Juul Labs to Remove Products from US Market,\"cnn.com, June 23, 2022",
+            "url": "https://www.cnn.com/2022/06/23/health/juul-taken-off-market-fda/index.html",
+            "docid": 11077
+        },
+        {
+            "id": "62",
+            "title": "Associated Press, \"Juul Can Keep Selling Its Vaping Products in the U.S. — for Now,'npr.org, June 24, 2022",
+            "url": "https://www.npr.org/2022/06/24/1107605984/juul-fda-vaping-e-cigarettes",
+            "docid": 11078
+        },
+        {
+            "id": "63",
+            "title": "Christina Jewett, \"Juul Settles Multistate Youth Vaping Inquiry for $438.5 Million,\"nytimes.com, Sep. 6, 2022",
+            "url": "https://www.nytimes.com/2022/09/06/health/juul-settlement-vaping-crisis.html",
+            "docid": 11079
+        }
+    ],
+    "discussion": [
+        "1. Is vaping safe? Explain your answer.",
+        "2. Should vaping restrictions or prohibitions be placed on teens? Why or why not?",
+        "3. While this article focuses on nicotine e-cigarettes, consider the safety of marijuana vaping."
+    ],
+    "action": [
+        "1. ConsiderConsumer Advocates for Smoke-free Alternatives Association’stake on vaping as a cigarette alternative",
+        "2. Learn aboute-cigarettesat Encyclopaedia Britannica.",
+        "3. Analyze the science of vaping at theAmerican Heart Association.",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/is-vaping-with-e-cigarettes-safe/"
+}

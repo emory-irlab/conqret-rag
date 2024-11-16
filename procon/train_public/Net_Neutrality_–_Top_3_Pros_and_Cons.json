@@ -1,0 +1,249 @@
+{
+    "title": "Net Neutrality – Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Federal Communications Commission, “FCC Acts to Restore Internet Freedom,” fcc.gov, Dec. 14, 2017",
+            "url": null,
+            "docid": 6767
+        },
+        {
+            "id": "2",
+            "title": "American Civil Liberties Union, “What Is Net Neutrality?,” aclu.org, Dec. 2017",
+            "url": null,
+            "docid": 6768
+        },
+        {
+            "id": "3",
+            "title": "Gerald R. Faulhaber, “Economics of Net Neutrality: A Review,” Communications & Convergence Review, 2011",
+            "url": null,
+            "docid": 6769
+        },
+        {
+            "id": "4",
+            "title": "Brian Fung, “The FCC Just Voted to Repeal Its Net Neutrality Rules, in a Sweeping Act of Deregulation,” washingtonpost.com, Dec. 14, 2017",
+            "url": null,
+            "docid": 6770
+        },
+        {
+            "id": "5",
+            "title": "Steve Lohr, “Net Neutrality Repeal: What Could Happen and How It Could Affect You,” nytimes.com, Nov. 21, 2017",
+            "url": null,
+            "docid": 6771
+        },
+        {
+            "id": "6",
+            "title": "David Shepardson, “21 States Sue to Keep Net Neutrality as Senate Democrats Reach 50 Votes,” reuters.com, Jan. 16, 2018",
+            "url": null,
+            "docid": 6772
+        },
+        {
+            "id": "7",
+            "title": "Roni Jacobson, “Internet Censorship Is Advancing under Trump,” wired.com, Apr. 12, 2017",
+            "url": null,
+            "docid": 6773
+        },
+        {
+            "id": "8",
+            "title": "Jessica Rosenworcel, “Dissenting Statement of Commissioner Jessica Rosenworcel,” fcc.gov, Dec. 14, 2017",
+            "url": null,
+            "docid": 6774
+        },
+        {
+            "id": "9",
+            "title": "Ajit Pai, “Oral Statement of Chairman Ajit Pai,” fcc.gov, Dec. 14, 2017",
+            "url": null,
+            "docid": 6775
+        },
+        {
+            "id": "10",
+            "title": "Federal Communications Commission, “FCC Fact Sheet: Restoring Internet Freedom Declaratory Ruling, Report and Order – WC Docket No. 17-108,” apps.fcc.gov, Nov. 2, 2017",
+            "url": null,
+            "docid": 6776
+        },
+        {
+            "id": "11",
+            "title": "Jon Brodkin, “Comcast Deleted Net Neutrality Pledge Same Day FCC Announced Repeal,” arstechnica.com, Nov. 29, 2017",
+            "url": null,
+            "docid": 6777
+        },
+        {
+            "id": "12",
+            "title": "Michael O’Rielly, “Oral Statement of Commissioner Michael O’Reilly,” fcc.gov, Dec. 14, 2017",
+            "url": null,
+            "docid": 6778
+        },
+        {
+            "id": "13",
+            "title": "George S. Ford, “Net Neutrality, Reclassification and Investment: A Counterfactual Analysis,” Perspectives, Apr. 25, 2017",
+            "url": null,
+            "docid": 6779
+        },
+        {
+            "id": "14",
+            "title": "NCTA, “Reaffirming Our Commitment to an Open Internet,” ncta.com, May 17, 2017",
+            "url": null,
+            "docid": 6780
+        },
+        {
+            "id": "15",
+            "title": "Verizon v. Federal Communications Commission, cadc.uscorts.gov, Jan. 14, 2014",
+            "url": null,
+            "docid": 6781
+        },
+        {
+            "id": "16",
+            "title": "Electronic Freedom Foundation, “Comments of the Electronic Freedom Foundation on Notice of Proposed Rulemaking,” eff.org, July 17, 2017",
+            "url": null,
+            "docid": 6782
+        },
+        {
+            "id": "17",
+            "title": "Ryan Singel, “Expect Fewer Great Startups if the FCC Kills Net Neutrality,” wired.com, Dec. 12, 2017",
+            "url": null,
+            "docid": 6783
+        },
+        {
+            "id": "18",
+            "title": "Internet Association, “Internet Association Files With FCC and Calls For Net Neutrality Rules to Be Kept in Place,” internetassociation.org, July 17, 2017",
+            "url": null,
+            "docid": 6784
+        },
+        {
+            "id": "19",
+            "title": "Startups for Net Neutrality, Letter to FCC Chairman Ajit Pai, engine.is, Apr. 26, 2017",
+            "url": null,
+            "docid": 6785
+        },
+        {
+            "id": "20",
+            "title": "Ajit Pai, “Remarks of FCC Chairman Ajit Pai at the Newseum: The Future of Internet Freedom,” fcc.gov, Apr. 26, 2017",
+            "url": null,
+            "docid": 6786
+        },
+        {
+            "id": "21",
+            "title": "Steve Kovach, “The FCC Plans to Repeal Net Neutrality This Week – and It Could Ruin the Internet,” businessinsider.com, Dec. 10, 2017",
+            "url": null,
+            "docid": 6787
+        },
+        {
+            "id": "22",
+            "title": "Jim Cicconi, “Who Should Pay for Netflix?,” attpublicpolicy.com, Mar. 21, 2014",
+            "url": null,
+            "docid": 6788
+        },
+        {
+            "id": "23",
+            "title": "Anna G. Eshoo, “Net Neutrality Repeal Means You’re Going to Hate Your Cable Company Even More,” usatoday.com, Dec. 12, 2017",
+            "url": null,
+            "docid": 6789
+        },
+        {
+            "id": "24",
+            "title": "Jordan Malter, “Google CEO: Net Neutrality ‘A Principle We All Need to Fight For,'” money.cnn.com, Jan. 24, 2018",
+            "url": null,
+            "docid": 6790
+        },
+        {
+            "id": "25",
+            "title": "Bill Chappell and Susan Davis, “Senate Approves Overturning FCC’s Net Neutrality Repeal,” npr.org, May 16, 2018",
+            "url": null,
+            "docid": 6791
+        },
+        {
+            "id": "26",
+            "title": "Erin Carson and Marguerite Reardon, “Net Neutrality Rules Will End June 11th with the FCC’s Final Say-So,” cnet.com, May 10, 2018",
+            "url": null,
+            "docid": 6792
+        },
+        {
+            "id": "27",
+            "title": "Federal Communications Commission, “Report and Order on Remand, Declaratory Ruling, and Order,” transition.fcc.gov, Mar. 12, 2015",
+            "url": null,
+            "docid": 6793
+        },
+        {
+            "id": "28",
+            "title": "Hal Singer, “Bad Bet by FCC Sparks Capital Flight from Broadband,” forbes.com, Mar. 2, 2017",
+            "url": null,
+            "docid": 6794
+        },
+        {
+            "id": "29",
+            "title": "Internet Association, “Principles to Preserve & Protect an Open Internet,” internetassociation.org (accessed May 23, 2018)",
+            "url": null,
+            "docid": 6795
+        },
+        {
+            "id": "30",
+            "title": "AT&T, “Open Internet,” about.att.com (accessed May 10, 2018)",
+            "url": null,
+            "docid": 6796
+        },
+        {
+            "id": "31",
+            "title": "National Review, “Net Neutrality: Let Congress Decide if It’s Needed,” nationalreview.com, Nov. 11, 2017",
+            "url": null,
+            "docid": 6797
+        },
+        {
+            "id": "32",
+            "title": "John W. Mayo, et al., “An Economic Perspective of Title II Regulation of the Internet,” cbpp.georgetown.edu, July 2017",
+            "url": null,
+            "docid": 6798
+        },
+        {
+            "id": "33",
+            "title": "The White House Office of the Press Secretary, “Statement by the President on Net Neutrality,” obamawhitehouse.archives.gov, Nov. 10, 2014",
+            "url": null,
+            "docid": 6799
+        },
+        {
+            "id": "34",
+            "title": "Jon Brodkin, \"Bill to Save Net NeutralityIis 46 Votes Short in US House,\" arstechnica.com, June 27, 2018",
+            "url": null,
+            "docid": 6800
+        },
+        {
+            "id": "35",
+            "title": "Cecilia Kang, \"Justice Department Sues to Stop California Net Neutrality Law,\" nytimes.com, Sep. 30, 2018",
+            "url": null,
+            "docid": 6801
+        },
+        {
+            "id": "36",
+            "title": "Federal Communications Commission, \"Statement of Acting Chairwoman Rosenworcel on Department of Justice Decision to Withdraw Lawsuit to Block California Net Neutrality Law,\" docs.fcc.gov, Feb. 8, 2021",
+            "url": null,
+            "docid": 6802
+        },
+        {
+            "id": "37",
+            "title": "National Law Review, \"State Net Neutrality Laws May Lead to Federal Legislation,\" natlawreview.com, Mar. 1, 2021",
+            "url": null,
+            "docid": 6803
+        },
+        {
+            "id": "38",
+            "title": "Oscar Gonzalez, \"FCC Votes to Begin Reinstatement of Net Neutrality,\" gizmodo.com, Oct. 19, 2023",
+            "url": null,
+            "docid": 6804
+        }
+    ],
+    "discussion": [
+        "1. Should the United States have federal net neutrality laws? Why or why not?",
+        "2. Do net neutrality regulations protect consumers? Explain your answer(s).",
+        "3. Do net neutrality regulations unfairly limit internet companies?"
+    ],
+    "action": [
+        "1. ExploreKevin Taglang’sposition that the internet needs net neutrality protections.",
+        "2. Consider which states have enacted (or considered enacting) net neutrality legislation according to theNational Conference of State Legislatures.",
+        "3. AnalyzeKen Engelhart’sposition that net neutrality laws are not needed because the internet is “inherently neutral.”",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/should-net-neutrality-be-restored-top-3-pros-and-cons/"
+}

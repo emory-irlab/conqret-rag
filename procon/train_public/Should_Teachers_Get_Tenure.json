@@ -1,0 +1,339 @@
+{
+    "title": "Should Teachers Get Tenure?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Carl E. Van Horn and Herbert A. Schaffner,Work in America: An Encyclopedia of History, Policy, and Society, 2003",
+            "url": null,
+            "docid": 8685
+        },
+        {
+            "id": "2",
+            "title": "Daniel Weisberg, et al., \"The Widget Effect: Our National Failure to Acknowledge and Act on Differences in Teacher Effectiveness,\" widgeteffect.org, June 1, 2009",
+            "url": null,
+            "docid": 8686
+        },
+        {
+            "id": "3",
+            "title": "Nanette Asimov, \"Teacher Job Security Fuels Prop. 74 Battle,\"San Francisco Chronicle, Sep. 30, 2005",
+            "url": null,
+            "docid": 8687
+        },
+        {
+            "id": "4",
+            "title": "Patrick McGuinn, \"Ringing the Bell for K-12 Teacher Tenure Reform,\" americanprogress.org, Feb. 2010",
+            "url": null,
+            "docid": 8688
+        },
+        {
+            "id": "5",
+            "title": "\"Special Statewide Election - November 8, 2005: State Ballot Measures,\" vote2005.sos.ca.gov, Dec. 19, 2005",
+            "url": null,
+            "docid": 8689
+        },
+        {
+            "id": "6",
+            "title": "Steven Brill, \"The Rubber Room,\"New Yorker, Aug. 31, 2009",
+            "url": null,
+            "docid": 8690
+        },
+        {
+            "id": "7",
+            "title": "Jennifer Medina, \"Last Day of 'Rubber Rooms' for Teachers,\" nytimes.com, June 28, 2010",
+            "url": null,
+            "docid": 8691
+        },
+        {
+            "id": "8",
+            "title": "Wanda Marie Thibodeaux, \"Pro & Cons of Teacher Tenure,\" ehow.com (accessed Dec. 28, 2010)",
+            "url": null,
+            "docid": 8692
+        },
+        {
+            "id": "9",
+            "title": "Ksenia Galouchko, \"Bloomberg’s New Tenure Plan Triggers Demo and Debate,\" theuptowner.org, Dec. 16, 2010",
+            "url": null,
+            "docid": 8693
+        },
+        {
+            "id": "10",
+            "title": "M.J. Stephey, \"A Brief History of Tenure,\" time.com, Nov. 17, 2008",
+            "url": null,
+            "docid": 8694
+        },
+        {
+            "id": "11",
+            "title": "David McGrath, \"Teacher-Tenure Proposal Would Weaken Florida Education,\"Sarasota Herald-Tribune, Apr. 15, 2010",
+            "url": null,
+            "docid": 8695
+        },
+        {
+            "id": "12",
+            "title": "Stephanie Banchero, \"Teacher-Tenure Row Reheats,\" wsj.com, May 3, 2010",
+            "url": null,
+            "docid": 8696
+        },
+        {
+            "id": "13",
+            "title": "Sylvia A. Allegretto, Sean P. Corcoran, Lawrence Mishel, \"The Teaching Penalty: Teacher Pay Losing Ground,\" epi.org, Mar. 2008",
+            "url": null,
+            "docid": 8697
+        },
+        {
+            "id": "14",
+            "title": "Heather Wolpert-Gawron, \"The Truth about Teacher Tenure,\" edutopia.org, Dec. 21, 2009",
+            "url": null,
+            "docid": 8698
+        },
+        {
+            "id": "15",
+            "title": "National Council on Teacher Quality, \"State Teacher Policy Yearbook: What States Can Do to Retain Effective New Teachers,\" nctq.org, 2008",
+            "url": null,
+            "docid": 8699
+        },
+        {
+            "id": "16",
+            "title": "\"Official Voter Registration Guide - Arguments and Rebuttals: Proposition 74,\" vote2005.sos.ca.gov (accessed Dec. 28, 2010)",
+            "url": null,
+            "docid": 8700
+        },
+        {
+            "id": "17",
+            "title": "Sam Dillon, \"A School Chief Takes On Tenure, Stirring a Fight,\" nytimes.com, Nov. 12, 2008",
+            "url": null,
+            "docid": 8701
+        },
+        {
+            "id": "18",
+            "title": "Thomas A. Kersten, \"Teacher Tenure: Illinois School Board Presidents' Perspectives and Suggestions for Improvement,\"Planning and Changing, Oct. 1, 2006",
+            "url": null,
+            "docid": 8702
+        },
+        {
+            "id": "19",
+            "title": "Fritz Machlup, \"In Defense of Academic Tenure,\"The Case for Tenure, Ed. Matthew W. Finkin, 1996",
+            "url": null,
+            "docid": 8703
+        },
+        {
+            "id": "20",
+            "title": "Julie Mack, \"Tenure Reform: Union Says It's Open to Streamlining Process for Firing Educators,\" mlive.com, Nov. 22, 2010",
+            "url": null,
+            "docid": 8704
+        },
+        {
+            "id": "21",
+            "title": "Michelle Rhee and Adrian Fenty, \"The Education Manifesto,\" wsj.com, Oct. 30, 2010",
+            "url": null,
+            "docid": 8705
+        },
+        {
+            "id": "22",
+            "title": "Adolfo Guzman-Lopez, \"ACLU Sues LAUSD to Stop Teacher Layoffs,\" scpr.org, Feb. 24, 2010",
+            "url": null,
+            "docid": 8706
+        },
+        {
+            "id": "23",
+            "title": "Associated Press, \"LAUSD, ACLU Reach ‘Groundbreaking’ Agreement on Layoffs,\" losangeles.cbslocal.com, Oct. 6, 2010",
+            "url": null,
+            "docid": 8707
+        },
+        {
+            "id": "24",
+            "title": "\"Tenure Reforms and NJSBA Policy: Report of the NJSBA Tenure Task Force,\" njsba.org, June 1994",
+            "url": null,
+            "docid": 8708
+        },
+        {
+            "id": "25",
+            "title": "Scott McLeod, JD, PhD, \"Does Teacher Tenure Have a Future?,\" dangerouslyirrelevant.org, Apr. 19, 2010",
+            "url": null,
+            "docid": 8709
+        },
+        {
+            "id": "26",
+            "title": "Evan Thomas and Pat Wingert, \"Why We Must Fire Bad Teachers,\" newsweek.com, Mar. 6, 2010",
+            "url": null,
+            "docid": 8710
+        },
+        {
+            "id": "27",
+            "title": "\"Rhee-Forming D.C. Schools,\" wsj.com, Nov. 22, 2008",
+            "url": null,
+            "docid": 8711
+        },
+        {
+            "id": "28",
+            "title": "Rose Garrett, \"What Is Teacher Tenure?,\" education.com (accessed Dec. 30, 2010)",
+            "url": null,
+            "docid": 8712
+        },
+        {
+            "id": "29",
+            "title": "Dan Goldhaber and Michael Hansen, \"Is It Just a Bad Class?: Assessing the Stability of Measured Teacher Performance,\" crpe.org, Nov. 21, 2008",
+            "url": null,
+            "docid": 8713
+        },
+        {
+            "id": "30",
+            "title": "Marcus A. Winters, \"Challenging Tenure in D.C.,\" manhattan-institute.org, Nov. 5, 2008",
+            "url": null,
+            "docid": 8714
+        },
+        {
+            "id": "31",
+            "title": "Steve Farkas and Ann Duffett, \"Cracks in the Ivory Tower? The Views of Education Professors Circa 2010,\" edexcellence.net, Sep. 2010",
+            "url": null,
+            "docid": 8715
+        },
+        {
+            "id": "32",
+            "title": "William G. Howell, Martin R. West, and Paul E. Peterson, \"The Public Weighs in on School Reform,\"EducationNext, Fall 2011",
+            "url": null,
+            "docid": 8716
+        },
+        {
+            "id": "323",
+            "title": "Marguerite Roza, \"Must Enrollment Declines Spell Financial Chaos for Districts?,\" crpe.org, Aug. 29, 2006",
+            "url": null,
+            "docid": 8717
+        },
+        {
+            "id": "34",
+            "title": "George A. Clowes, \"Teachers Like Tenure but Admit Its Flaws,\" heartland.org, July 1, 2003",
+            "url": null,
+            "docid": 8718
+        },
+        {
+            "id": "35",
+            "title": "David B. Tyack, Robert Lowe, and Elisabeth Hansot,Public Schools in Hard Times: the Great Depression and Recent Years, 1984",
+            "url": null,
+            "docid": 8719
+        },
+        {
+            "id": "36",
+            "title": "National Commission on Excellence in Education, \"A Nation at Risk: The Imperative for Educational Reform,\" eric.ed.gov, Apr. 1983",
+            "url": null,
+            "docid": 8720
+        },
+        {
+            "id": "37",
+            "title": "Walter C. Jones, \"Barnes Goes on Attack over Teacher Tenure,\" savannahnow.com, Feb. 4, 2000",
+            "url": null,
+            "docid": 8721
+        },
+        {
+            "id": "38",
+            "title": "US Department of Education, \"Race to the Top Program Executive Summary,\" ed.gov, Nov. 2009",
+            "url": null,
+            "docid": 8722
+        },
+        {
+            "id": "39",
+            "title": "Michelle Exstrom, \"The A+ Teacher: Deciding Who Is Effective in the Classroom Is Not as Easy as It Seems,\" ncls.org, Sep. 2010",
+            "url": null,
+            "docid": 8723
+        },
+        {
+            "id": "40",
+            "title": "Karen Matthews, \"NYC Takes Aim at Teachers' 'Tenure for Breathing,'\" usatoday.com, Oct. 8, 2010",
+            "url": null,
+            "docid": 8724
+        },
+        {
+            "id": "41",
+            "title": "Beth Barrett, \"LAUSD's Dance of the Lemons,\" laweekly.com, Feb. 11, 2010",
+            "url": null,
+            "docid": 8725
+        },
+        {
+            "id": "42",
+            "title": "John Heilemann, \"Schools: The Disaster Movie,\"New York Magazine, Sep. 5, 2010",
+            "url": null,
+            "docid": 8726
+        },
+        {
+            "id": "43",
+            "title": "New Jersey School Boards Association, \"Tenure Reform,\" njsba.org, Sep. 30, 2010",
+            "url": null,
+            "docid": 8727
+        },
+        {
+            "id": "44",
+            "title": "Diane D'Amico, \"NJEA Plans to Fight Gov. Christie Over Plan to Eliminate Teacher Tenure,\" pressofatlanticcity.com, Jan. 13, 2010",
+            "url": null,
+            "docid": 8728
+        },
+        {
+            "id": "45",
+            "title": "Kathy Christie and Jennifer Dounay Zinth, \"Teacher Tenure or Continuing Contract Laws,\" ecs.org, Aug. 2011",
+            "url": null,
+            "docid": 8729
+        },
+        {
+            "id": "46",
+            "title": "Jennifer Medina, \"California Teacher Tenure Laws Ruled Unconstitutional,\" nytimes.com, June 10, 2014",
+            "url": null,
+            "docid": 8730
+        },
+        {
+            "id": "47",
+            "title": "National Council on Teacher Quality, \"Policy Issue: Tenure, 2015 Tenure\" nctq.org (accessed May 24, 2016)",
+            "url": null,
+            "docid": 8731
+        },
+        {
+            "id": "48",
+            "title": "Sylvia Allegretto and Lawrence Mishel, \"The Teacher Pay Penalty Has Hit a New High: Trends in the Teacher Wage and Compensation Gaps through 2017,\" epi.org, Sep. 5, 2018",
+            "url": null,
+            "docid": 8732
+        },
+        {
+            "id": "49",
+            "title": "National Council on Teacher Quality, \"2017 State Teacher Policy Yearbook: National Summary,\" nctq.org, Dec. 2017",
+            "url": null,
+            "docid": 8733
+        },
+        {
+            "id": "50",
+            "title": "Thomas B. Fordham Institute, \"Undue Process: Why Bad Teachers in Twenty-Five Diverse Districts Rarely Get Fired,\" edexcellence.net, Dec. 8, 2016",
+            "url": null,
+            "docid": 8734
+        },
+        {
+            "id": "51",
+            "title": "Susan Edelman, \"City Pays Exiled Teachers to Snooze as 'Rubber Rooms' Return,\" nypost.com, Jan. 17, 2016",
+            "url": null,
+            "docid": 8735
+        },
+        {
+            "id": "52",
+            "title": "Matthew A. Kraft and Allison F. Gilmour, \"Revisiting the Widget Effect: Teacher Evaluation Reforms and the Distribution of Teacher Effectiveness,\" harvard.edu, 2017",
+            "url": null,
+            "docid": 8736
+        },
+        {
+            "id": "53",
+            "title": "Martin R. West, Michael B. Henderson, Paul E. Peterson, and Samuel Barrows, \"The 2017 EdNext Poll on School Reform: Public Thinking on School Choice, Common Core, Higher Ed, and More,\" educationnext.org, 2017",
+            "url": null,
+            "docid": 8737
+        },
+        {
+            "id": "54",
+            "title": "Paul Heiser, \"When Tenured Educators Break the Rules, One-Third of Districts Don't Seek Discipline,\" nyssba.org, May 7, 2018",
+            "url": null,
+            "docid": 8738
+        },
+        {
+            "id": "55",
+            "title": "Peter Hancock, \"Kansas Supreme Court Upholds Repeal of Teacher Tenure Rights,\" ljworld.com, June 15, 2018",
+            "url": null,
+            "docid": 8739
+        }
+    ],
+    "url": "https://teachertenure.procon.org/"
+}

@@ -1,0 +1,384 @@
+{
+    "title": "Should Churches (Including Mosques, Synagogues, etc.) Remain Tax-Exempt?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "US Internal Revenue Service (IRS),Tax Guide for Churches and Religious Organizations, (publication 1828 (11-2009) Catalog Number 21096G), irs.gov, 2009",
+            "docid": 4588
+        },
+        {
+            "id": "2",
+            "title": "Keith S. Blair, JD, \"Praying for a Tax Break: Churches Political Speech and the Loss of Section 501c3 Tax Exempt Status,\"Denver University Law Review, Feb. 2009",
+            "docid": 4589
+        },
+        {
+            "id": "3",
+            "title": "Averil Cameron, PhD,The Cambridge Ancient History, Volume 12: The Crisis of Empire, A.D. 193-337, histories.cambridge.org, 2005",
+            "docid": 4590
+        },
+        {
+            "id": "4",
+            "title": "Sophie Lunn-Rockliffe, \"Christianity and the Roman Empire,\" bbc.co.uk, Feb. 17, 2011",
+            "docid": 4591
+        },
+        {
+            "id": "5",
+            "title": "Warren E. Burger, US Supreme Court opinion,Walz v. Tax Commission of the City of New York, lp.findlaw.com, May 4, 1970",
+            "docid": 4592
+        },
+        {
+            "id": "6",
+            "title": "Michael Hatfield, \"Ignore the Rumors—Campaigning from the Pulpit Is Okay: Thinking Past the Symbolism of Section 501(c)(3),\"Notre Dame Journal of Law, Ethics & Public Policy, 2006",
+            "docid": 4593
+        },
+        {
+            "id": "7",
+            "title": "Pew Forum on Religion & Public Life, \"Politics and the Pulpit 2008,\" pewforum.org, 2008",
+            "docid": 4594
+        },
+        {
+            "id": "8",
+            "title": "Sarah Netter, \"Satanist Church Rents Out Oklahoma City Civic Center for Exorcism,\" abcnews.go.com, Sep. 1, 2010",
+            "docid": 4595
+        },
+        {
+            "id": "9",
+            "title": "Jeff Schweitzer, \"The Church of America,\" huffingtonpost.com, Oct. 11, 2011",
+            "docid": 4596
+        },
+        {
+            "id": "10",
+            "title": "Independent Budget Office of the City of New York, \"City’s Multitude of Property Tax Exemptions Add Up to a Wealth of Revenue Foregone,\" ibo.nyc.ny.us, July 15, 2011",
+            "docid": 4597
+        },
+        {
+            "id": "11",
+            "title": "David Seifman, \"New York City's Losing $13.5B in Property-Tax Breaks,\" nypost.com, July 16, 2011",
+            "docid": 4598
+        },
+        {
+            "id": "12",
+            "title": "Erik W. Stanley, \"IRS Rules Don't Trump the Constitution,\" townhall.com, Sep. 8, 2008",
+            "docid": 4599
+        },
+        {
+            "id": "13",
+            "title": "John Marshall, US Supreme Court opinion,McCulloch v. Maryland, supreme.justia.com, 1819",
+            "docid": 4600
+        },
+        {
+            "id": "14",
+            "title": "Austin Cline, \"Tax Exemptions Available to Churches,\" atheism.about.com (accessed Nov. 10, 2011)",
+            "docid": 4601
+        },
+        {
+            "id": "15",
+            "title": "John J. DiIulio, Jr., \"The Value of Nonprofits,\"Americamagazine, Feb. 7, 2011",
+            "docid": 4602
+        },
+        {
+            "id": "16",
+            "title": "Don Boys, \"Should Churches Pay Taxes?,\" Cornerstone Communications USA (Common Sense for Today) website, cstnews.com, 1997",
+            "docid": 4603
+        },
+        {
+            "id": "17",
+            "title": "Brian Quinn, \"Should Churches Pay Property Taxes?,\" wellsvilledaily.com, Mar. 1, 2011",
+            "docid": 4604
+        },
+        {
+            "id": "18",
+            "title": "Walz v. Tax Commission of the City of New York, lp.findlaw.com, May 4, 1970",
+            "docid": 4605
+        },
+        {
+            "id": "19",
+            "title": "Erik W. Stanley, \"Should Churches Be Taxed?,\" blog.speakupmovement.org, Mar. 10, 2010",
+            "docid": 4606
+        },
+        {
+            "id": "20",
+            "title": "Scott Tibbs, \"Should Churches Pay Taxes?\" ConservaTibbs.com, June 24, 2009",
+            "docid": 4607
+        },
+        {
+            "id": "21",
+            "title": "National Center for Charitable Statistics (NCCS), \"Quick Facts About Nonprofits,\" nccs.urban.org, 2009",
+            "docid": 4608
+        },
+        {
+            "id": "22",
+            "title": "Nicole Neroulias, \"Study: Churches Inching Back from Recession,\" usatoday.com, Apr. 20, 2011",
+            "docid": 4609
+        },
+        {
+            "id": "23",
+            "title": "Austin Cline, \"Religious Tax Exemptions vs. Government Policy: When Charities Aren't Charitable,\" atheism.about.com (accessed Nov. 10, 2011)",
+            "docid": 4610
+        },
+        {
+            "id": "24",
+            "title": "William O. Douglas, US Supreme Court dissenting opinion,Walz v. Tax Commission of the City of New York, lp.findlaw.com, May 4, 1970",
+            "docid": 4611
+        },
+        {
+            "id": "25",
+            "title": "Barry W. Lynn, \"Why Don't Churches Pay Taxes?: Counterpoint,\" latimes.com, Sep. 23, 2008",
+            "docid": 4612
+        },
+        {
+            "id": "26",
+            "title": "Mark Twain,Mark Twain's Notebook, 1935",
+            "docid": 4613
+        },
+        {
+            "id": "27",
+            "title": "William H. Rehnquist, US Supreme Court Opinion,Regan v. Taxation with Representation, supreme.justia.com, May 23, 1983",
+            "docid": 4614
+        },
+        {
+            "id": "28",
+            "title": "US Internal Revenue Service (IRS), \"IRS Warns of 'Corporation Sole' Tax Scam,\" irs.gov, Mar. 29, 2004",
+            "docid": 4615
+        },
+        {
+            "id": "29",
+            "title": "Richard Behar, \"The Thriving Cult of Greed and Power,\" time.com, May 6, 1991",
+            "docid": 4616
+        },
+        {
+            "id": "30",
+            "title": "Douglas Frantz, \"Scientology’s Puzzling Journey from Tax Rebel to Tax Exempt,\" nytimes.com, Mar. 9, 1997",
+            "docid": 4617
+        },
+        {
+            "id": "31",
+            "title": "Robert H. Jackson, US Supreme Court dissenting opinion,Everson v. Board of Education of the Township of Ewing, supreme.justia.com, Feb. 10, 1947",
+            "docid": 4618
+        },
+        {
+            "id": "32",
+            "title": "Karl Taro Greenfeld, \"God Wants Me to Be Rich,\" portfolio.com, July 16, 2008",
+            "docid": 4619
+        },
+        {
+            "id": "33",
+            "title": "L. Christopher Smith, \"Scientology’s Money Trail,\" portfolio.com, Nov. 19, 2008",
+            "docid": 4620
+        },
+        {
+            "id": "34",
+            "title": "US Internal Revenue Service (IRS), \"Charities, Churches and Politics,\" irs.gov, Oct. 19, 2011",
+            "docid": 4621
+        },
+        {
+            "id": "35",
+            "title": "Andy Birkey, \"Few Consequences Currently Faced by Pastors Who Endorse from Pulpit,\" iowaindependent.com, Oct. 6, 2011",
+            "docid": 4622
+        },
+        {
+            "id": "36",
+            "title": "Kathy Lohr, \"Senator Probes Megachurches' Finances,\" npr.org, Dec. 4, 2007",
+            "docid": 4623
+        },
+        {
+            "id": "37",
+            "title": "Carl Gregg, MDiv, \"Against 'Pulpit Freedom Sunday' (Unless Churches Pay Their Taxes First!)\" patheos.com, Oct. 2, 2011",
+            "docid": 4624
+        },
+        {
+            "id": "38",
+            "title": "Bruce R. Hopkins,The Law of Tax-Exempt Organizations, 10th edition, 2011",
+            "docid": 4625
+        },
+        {
+            "id": "39",
+            "title": "Edwin S. Gaustad,Church and State in America, 2nd edition, 2003",
+            "docid": 4626
+        },
+        {
+            "id": "40",
+            "title": "\"Tax Exemptions of Religious Property,\" supreme.justia.com (accessed Nov. 10, 2011)",
+            "docid": 4627
+        },
+        {
+            "id": "41",
+            "title": "Diana B. Henriques, \"Religion-based Tax Breaks: Housing to Paychecks to Books,\" nytimes.com, Oct. 11, 2006",
+            "docid": 4628
+        },
+        {
+            "id": "42",
+            "title": "US Internal Revenue Service (IRS), \"Exempt Organizations User Fees – 2011,\" irs.gov, Oct. 20, 2011",
+            "docid": 4629
+        },
+        {
+            "id": "43",
+            "title": "Kimberly Winston, \"Atheists Target Clergy Housing Tax Break,\" huffingtonpost.com, Sep. 20, 2011",
+            "docid": 4630
+        },
+        {
+            "id": "44",
+            "title": "US Internal Revenue Service (IRS), \"Topic 417 – Earnings for Clergy,\" irs.gov, Sep. 23, 2011",
+            "docid": 4631
+        },
+        {
+            "id": "45",
+            "title": "Paul H.K. Hageman, \"An Examination of Religious Tax Exemption Policy Under Section 501(c)(3) Internal Revenue Code,\"Valparaiso University Law Review, Winter 1983",
+            "docid": 4632
+        },
+        {
+            "id": "46",
+            "title": "Paul Arnsberger, et al., \"A History of the Tax-Exempt Sector: An SOI Perspective,\"Statistics of Income Bulletin, irs.gov, Winter 2008",
+            "docid": 4633
+        },
+        {
+            "id": "47",
+            "title": "Trinidad v. Sagrada Orden, supreme.justia.com, Jan. 14, 1924",
+            "docid": 4634
+        },
+        {
+            "id": "48",
+            "title": "William J. Brennan, Jr., US Supreme Court concurring opinion,Walz v. Tax Commission of City of New York, lp.findlaw.com, May 4, 1970",
+            "docid": 4635
+        },
+        {
+            "id": "49",
+            "title": "Madison C. Peters, \"Why Church Property Should Be Taxed,\" 1894, Cornell University Library archive, archive.org (accessed Nov. 10, 2011)",
+            "docid": 4636
+        },
+        {
+            "id": "50",
+            "title": "Humanist Society of Gainesville, \"Religion on Welfare: The Case for Taxing Churches in Alachua County,\" gainesvillehumanists.org, 1993",
+            "docid": 4637
+        },
+        {
+            "id": "51",
+            "title": "Elizabeth Livingston, \"A Bright Line Points Toward Legal Compromise: IRS Condoned Lobbying Activities for Religious Entities and Non-Profits,\"Rutgers Journal of Law and Religion, Spring 2008",
+            "docid": 4638
+        },
+        {
+            "id": "52",
+            "title": "US Internal Revenue Service (IRS), \"Exemption Requirements – Section 501(c)(3) Organizations,\" irs.gov, Nov. 15, 2010",
+            "docid": 4639
+        },
+        {
+            "id": "53",
+            "title": "University of Virginia Religious Freedom Page, \"Walz v. Tax Commission of the City of New York, 397 U.S. 664,\" religiousfreedom.lib.virginia.edu (accessed Nov. 10, 2011)",
+            "docid": 4640
+        },
+        {
+            "id": "54",
+            "title": "Douglas Frantz, \"$12.5 Million Deal with I.R.S. Lifted Cloud Over Scientologists,\" nytimes.com, Dec. 31, 1997",
+            "docid": 4641
+        },
+        {
+            "id": "55",
+            "title": "Matthai Kuruvila, \"Tax-exempt Benefit Disputed in Prop. 8 Campaign,\"San Francisco Chroniclewebsite, sfgate.com Nov. 28, 2008",
+            "docid": 4642
+        },
+        {
+            "id": "56",
+            "title": "Sandhya Bathija, \"Mormon Might: LDS Church Leaders Have Inappropriate Government Role in Utah,\" Americans United for Separation of Church and State website, au.org, Jan. 27, 2009",
+            "docid": 4643
+        },
+        {
+            "id": "57",
+            "title": "Dan Merica, \"Pastor Who Endorsed Perry Accused of Breaking Tax Rule,\" cnn.com, Oct. 12, 2011",
+            "docid": 4644
+        },
+        {
+            "id": "58",
+            "title": "Laura Bly, \"On a Wing and a Prayer,\" usatoday.com, Jan. 26, 2006",
+            "docid": 4645
+        },
+        {
+            "id": "59",
+            "title": "\"A Pastor's Salary,\" Crown Financial Ministries website (accessed Nov. 29, 2011)",
+            "docid": 4646
+        },
+        {
+            "id": "60",
+            "title": "Erwin Chemerinsky, \"The Parsonage Exemption Violates the Establishment Clause and Should Be Declared Unconstitutional,\"Whittier Law Review, 2003",
+            "docid": 4647
+        },
+        {
+            "id": "61",
+            "title": "Warren Bird, \"2010 Large Church Salary and Benefits Report: An Illustrated Leadership Network Research Study,\" Leadership Network website, 2010",
+            "docid": 4648
+        },
+        {
+            "id": "62",
+            "title": "Laura Saunders, \"Tax Break for Clergy Questioned,\"Wall Street Journalwebsite, Aug. 23, 2011",
+            "docid": 4649
+        },
+        {
+            "id": "63",
+            "title": "\"Senate Finance Committee, Minority Staff Review of World Changers Church International (WCCI) (Creflo and Taffi Dollar),\" finance.senate.gov, Jan. 5, 2011",
+            "docid": 4650
+        },
+        {
+            "id": "64",
+            "title": "Michael Luo, \"Preaching a Gospel of Wealth in a Glittery Market, New York,\" nytimes.com, Jan. 15, 2006",
+            "docid": 4651
+        },
+        {
+            "id": "65",
+            "title": "US Court of Appeals for the Eleventh Circuit,Commissioner of IRS v. Philip A. Driscoll and Lynn B. Driscoll, a.k.a. Donna L. Driscoll, ca11.uscourts.gov, Feb. 8, 2012",
+            "docid": 4652
+        },
+        {
+            "id": "66",
+            "title": "Gregory Korte and Fredreka Schouten, \"Trump's Religious Freedom Order Doesn't Change Law on Political Activity,\" usatoday.com, May 4, 2017",
+            "docid": 4653
+        },
+        {
+            "id": "67",
+            "title": "IRS, \"Annual Exempt Organization Return: Who Must File,\" irs.gov, June 17, 2022",
+            "docid": 4654
+        },
+        {
+            "id": "68",
+            "title": "IRS, \"Form 1023 and 1023-EZ: Amount of User Fee,\" irs.gov, Jan. 5, 2023",
+            "docid": 4655
+        },
+        {
+            "id": "69",
+            "title": "Jacqueline Thomsen, \"House Passes Measure Blocking IRS from Revoking Churches’ Tax-Exempt Status over Political Activity,\" thehill.com, July 19, 2018",
+            "docid": 4656
+        },
+        {
+            "id": "70",
+            "title": "Tara Isabella Burton and Alissa Wilkinson, \"Democrats Eke Out Small Win Over Church Provision in Tax Bill,\" vox.com, Dec. 15, 2017",
+            "docid": 4657
+        },
+        {
+            "id": "71",
+            "title": "Scott Greenberg, \"John Oliver Set Up His Own “Church” to Make a Point about the Tax Code,\" taxfoundation.org, Aug. 20, 2015",
+            "docid": 4658
+        },
+        {
+            "id": "72",
+            "title": "Peter J Reilly, Atheist Group Asks to Disclose to IRS What Churches Disclose: Nothing, forbes.com, Oct. 13, 2018",
+            "docid": 4659
+        },
+        {
+            "id": "73",
+            "title": "Tony Semerad, “LDS Wealth Spurs Question: Should Churches Be Tax-Exempt?,” sltrib.com, Apr. 17, 2022",
+            "docid": 4660
+        },
+        {
+            "id": "74",
+            "title": "Jared Walczak, What If We Taxed Churches?, taxfoundation.org, Sep. 9, 2021",
+            "docid": 4661
+        },
+        {
+            "id": "75",
+            "title": "Faith Communities Today, Twenty Years of Congregational Change: The 2020 Faith Communities Today Overview, faithcommunitiestoday.org, 2021",
+            "docid": 4662
+        }
+    ],
+    "url": "https://churchesandtaxes.procon.org/"
+}

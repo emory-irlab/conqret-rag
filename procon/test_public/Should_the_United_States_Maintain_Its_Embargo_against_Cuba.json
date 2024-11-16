@@ -1,0 +1,684 @@
+{
+    "title": "Should the United States Maintain Its Embargo against Cuba?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Peter Brookes, \"Keeping the Embargo, O,\" Heritage Foundation, heritage.org, Apr. 16, 2009",
+            "docid": 8255
+        },
+        {
+            "id": "2",
+            "title": "Angus Reid, \"Most Americans Willing to Re-establish Ties with Cuba,\" angus-reid.com, Feb. 6, 2012",
+            "docid": 8256
+        },
+        {
+            "id": "3",
+            "title": "Tony Karon, \"Do We Really Need an Embargo Against Cuba?,\"TIME, Apr. 21, 2010",
+            "docid": 8257
+        },
+        {
+            "id": "4",
+            "title": "Mark P. Sullivan, \"Cuba: Issues for the 112th Congress\", Congressional Research Service, fpc.state.gov, Nov. 6, 2012",
+            "docid": 8258
+        },
+        {
+            "id": "5",
+            "title": "Ileana Ros-Lehtinen, \"Fifty Years Later, Cuban Embargo Demonstrates US Solidarity with Cuban People,\" foreignaffairs.house.gov, Feb. 7, 2012",
+            "docid": 8259
+        },
+        {
+            "id": "6",
+            "title": "\"Cuban Democracy Act,\" Oct. 23, 1992",
+            "docid": 8260
+        },
+        {
+            "id": "7",
+            "title": "CCDHRN, \"Comision Cubana De Derechos Humanos Y Reconciliacion Nacional,\" cubanet.org, June 14, 2012",
+            "docid": 8261
+        },
+        {
+            "id": "8",
+            "title": "Mark Silva and Tracy Wilkinson, \"Obama Allows Unlimited Travel to Cuba by Relatives,\"LA Times, Apr. 14, 2009",
+            "docid": 8262
+        },
+        {
+            "id": "9",
+            "title": "US Department of State, \"State Sponsors of Terrorism,\" state.gov (accessed Dec. 19, 2012)",
+            "docid": 8263
+        },
+        {
+            "id": "10",
+            "title": "US Department of State, \"Chapter 3: State Sponsors of Terrorism,\" state.gov, July 31, 2012",
+            "docid": 8264
+        },
+        {
+            "id": "11",
+            "title": "The White House, \"Open for Questions with President Obama,\" whitehouse.gov, Sep. 28, 2011",
+            "docid": 8265
+        },
+        {
+            "id": "12",
+            "title": "Oscar Espinosa Chepe, \"Nuevamente el Show del Embargo,\" cubaencuentro.com, Sep. 25, 2012",
+            "docid": 8266
+        },
+        {
+            "id": "13",
+            "title": "AFP, \"Record Vote for UN Resolution Against Cuba Embargo,\" google.com, Nov. 30, 2012",
+            "docid": 8267
+        },
+        {
+            "id": "14",
+            "title": "Merco Press, \"Tourism Second Largest Contributor to Cuban Economy; 2.7 Million Expected in 2011,\" en.mercopress.com, Aug. 10, 2011",
+            "docid": 8268
+        },
+        {
+            "id": "15",
+            "title": "Marc Frank, \"More Cubans Have Local Intranet, Mobile Phones,\" reuters.com, June 15, 2012",
+            "docid": 8269
+        },
+        {
+            "id": "16",
+            "title": "Andrea Rodriguez, \"Cuba Criticizes Microsoft Blocking Messenger,\" news.smh.com.au, May 30, 2009",
+            "docid": 8270
+        },
+        {
+            "id": "17",
+            "title": "AFP, \"Citing Sanctions, Google Blocks Analytics Tool in Cuba,\" google.com, June 20, 2012",
+            "docid": 8271
+        },
+        {
+            "id": "18",
+            "title": "BBC, \"Pope Benedict Criticises US Trade Embargo on Cuba,\" bbc.co.uk, Mar. 28, 2012",
+            "docid": 8272
+        },
+        {
+            "id": "19",
+            "title": "US Chamber of Commerce, \"International Agenda: Oppose Unilateral Economic Sanctions,\" uschamber.com (accessed Dec. 19, 2012)",
+            "docid": 8273
+        },
+        {
+            "id": "20",
+            "title": "Cuba Policy Foundation, \"America's Farmers Bearing Heavy Burden for U.S. Embargo Against Cuba: New Report,\" cubafoundation.org, Jan. 28, 2002",
+            "docid": 8274
+        },
+        {
+            "id": "21",
+            "title": "John Hughes, \"'Spring' Delayed as Cuba Follows China's Model,\"Christian Science Monitor, Apr. 9, 2012",
+            "docid": 8275
+        },
+        {
+            "id": "22",
+            "title": "Bill Clinton, \"State on Signing the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996,\" presidency.ucsb.edu, Mar. 12, 1996",
+            "docid": 8276
+        },
+        {
+            "id": "23",
+            "title": "Defense Intelligence Agency, \"The Cuban Threat to U.S. National Security,\" fas.org, Nov. 18, 1997",
+            "docid": 8277
+        },
+        {
+            "id": "24",
+            "title": "American Association for World Health, \"Denial of Food and Medicine: The Impact of the U.S. Embargo on the Health and Nutrition in Cuba,\" cubasolidarity.net, Mar. 1997",
+            "docid": 8278
+        },
+        {
+            "id": "25",
+            "title": "Guillermo Grenier, \"Panther Voices: Sentiment Toward Cuba Embargo Changing as Community Changes,\" news.fiu.edu, Feb. 10, 2012",
+            "docid": 8279
+        },
+        {
+            "id": "26",
+            "title": "Cuban Research Institute, \"2011 Cuba Poll,\" cri.fiu.edu, 2011",
+            "docid": 8280
+        },
+        {
+            "id": "27",
+            "title": "Carol J. Williams, \"Widely Condemned U.S. Policy on Cuba Unlikely to Change Soon,\"Los Angeles Times, Nov. 16, 2012",
+            "docid": 8281
+        },
+        {
+            "id": "28",
+            "title": "Robert Wright,Three Nights in Havana: Pierre Trudeau, Fidel Castro and the Cold War World, June 1, 2010",
+            "docid": 8282
+        },
+        {
+            "id": "29",
+            "title": "Ann Louise Bardach, \"How Cuban Repression Benefits Fidel Castro,\"Toronto Star, June 22, 2003",
+            "docid": 8283
+        },
+        {
+            "id": "30",
+            "title": "Michael Hutchison, \"The U.S. Trade Embargo on Cuba: Lesson Plan,\" pbs.org (accessed Dec. 19, 2012)",
+            "docid": 8284
+        },
+        {
+            "id": "31",
+            "title": "Natasha Del Toro, \"Before the Revolution,\" smithsonianmag.com, Aug. 1, 2007",
+            "docid": 8285
+        },
+        {
+            "id": "32",
+            "title": "History Channel, \"Fidel Castro,\" history.com (accessed Dec. 19, 2012)",
+            "docid": 8286
+        },
+        {
+            "id": "33",
+            "title": "John F. Kennedy Presidential Library and Museum, \"The Bay of Pigs,\" jfklibrary.org (accessed Dec. 19, 2012)",
+            "docid": 8287
+        },
+        {
+            "id": "34",
+            "title": "Graham Allison, \"The Cuban Missile Crisis at 50: Lessons for U.S. Foreign Policy Today,\" foreignaffairs.com, July/Aug. 2012",
+            "docid": 8288
+        },
+        {
+            "id": "35",
+            "title": "John F. Kennedy, \"Proclamation 3447 - Embargo on All Trade with Cuba,\" presidency.ucsb.edu, Feb. 3, 1962",
+            "docid": 8289
+        },
+        {
+            "id": "36",
+            "title": "Department of the Treasury, \"Cuban Assets Control Regulations,\" gpo.gov, Dec. 3, 2012",
+            "docid": 8290
+        },
+        {
+            "id": "37",
+            "title": "Humberto Corzo, \"Lift the Cuba Embargo?,\" cubanet.org (accessed Dec. 19, 2012)",
+            "docid": 8291
+        },
+        {
+            "id": "38",
+            "title": "Pierre Salinger, \"Great Moments: Kennedy, Cuba and Cigars,\"Cigar Aficionado, Autumn 1982",
+            "docid": 8292
+        },
+        {
+            "id": "39",
+            "title": "United States Diplomacy Center, \"U.S. Interests Section Havana, Cuba,\" diplomacy.state.gov (accessed Dec. 19, 2012)",
+            "docid": 8293
+        },
+        {
+            "id": "40",
+            "title": "Guillermo Martinez and Helga Silva, \"Carter Aides, Cubans Met Secretly,\"Miami Herald, Oct. 12, 1981",
+            "docid": 8294
+        },
+        {
+            "id": "41",
+            "title": "Aileen S. Yoo, \"The Mariel Boatlift,\"Washington Post, Dec. 1998",
+            "docid": 8295
+        },
+        {
+            "id": "42",
+            "title": "John Adams and David W. Jones, \"Is Cuba a State Sponsor of Terrorism? Let's Get Real, State Department,\" thehill.com, Mar. 21, 2012",
+            "docid": 8296
+        },
+        {
+            "id": "43",
+            "title": "Oracle ThinkQuest, \"The Soviet Union,\" library.thinkquest.org (accessed Dec. 19, 2012)",
+            "docid": 8297
+        },
+        {
+            "id": "44",
+            "title": "PBS NOW, \"Cuba/United States Timeline,\" pbs.org (accessed Dec. 19, 2012)",
+            "docid": 8298
+        },
+        {
+            "id": "45",
+            "title": "Global Edge, \"Cuba: Economy,\" globaledge.msu.edu (accessed Dec. 19, 2012)",
+            "docid": 8299
+        },
+        {
+            "id": "46",
+            "title": "Hartford Courant, \"A More Realistic Policy Toward Cuba,\"Hartford Courant, Oct. 13, 1995",
+            "docid": 8300
+        },
+        {
+            "id": "47",
+            "title": "Taylor Branch,The Clinton Tapes: Wrestling History with the President, 2009",
+            "docid": 8301
+        },
+        {
+            "id": "48",
+            "title": "United States Code, \"Cuba Democracy Act ('CDA'),\" treasury.gov (accessed Dec. 19, 2012)",
+            "docid": 8302
+        },
+        {
+            "id": "49",
+            "title": "One Hundred Fourth Congress of the United States of America, \"Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996,\" gpo.gov, Jan. 3, 1996",
+            "docid": 8303
+        },
+        {
+            "id": "50",
+            "title": "PBS, \"Cuban Discord & Helms-Burton,\" pbs.org, July 19, 1996",
+            "docid": 8304
+        },
+        {
+            "id": "51",
+            "title": "Stephanie Hanson, \"U.S.-Cuba Relations,\" cfr.org, Jan. 11, 2010",
+            "docid": 8305
+        },
+        {
+            "id": "52",
+            "title": "Cuba Study Group, \"Lifting Restrictions on Travel and Remittances to Cuba: A Case for Unilateral Action,\" studygroup.org, Dec. 10, 2008",
+            "docid": 8306
+        },
+        {
+            "id": "53",
+            "title": "GLASSBOOTHdotORG, \"Barack Obama on Cuba Embargo,\" youtube.com, Feb. 20, 2008",
+            "docid": 8307
+        },
+        {
+            "id": "54",
+            "title": "The White House Office of the Press Secretary, \"Remarks by the President in an 'Open for Questions' Roundtable,\" whitehouse.gov, Sep. 28, 2011",
+            "docid": 8308
+        },
+        {
+            "id": "55",
+            "title": "Doug Bandow, \"Time to End the Cuba Embargo,\" cato.org, Dec. 11, 2012",
+            "docid": 8309
+        },
+        {
+            "id": "56",
+            "title": "Ginger Thompson, \"Restrictions on Travel to Cuba Are Eased,\"New York Times, Jan. 14, 2011",
+            "docid": 8310
+        },
+        {
+            "id": "57",
+            "title": "Andrew Quinn, \"Castros Sabatoge Ending U.S. Cuba Enbargo: Clinton,\" reuters.com, Apr. 9, 2010",
+            "docid": 8311
+        },
+        {
+            "id": "58",
+            "title": "Ronald D. Godard, \"Explanation of Vote by Ambassador Ronald D. Godard, U.S. Senior Advisor for Western Hemisphere Affairs, on the Cuba Resolution in the General Assembly Hall,\" usun.state.gov, Nov. 13, 2012",
+            "docid": 8312
+        },
+        {
+            "id": "59",
+            "title": "Jaime Suchlicki, \"Don't Lift the Cuba Travel Ban,\" frontpagemag.com, Apr. 11, 2007",
+            "docid": 8313
+        },
+        {
+            "id": "60",
+            "title": "AP, \"Bush: U.S. to Lift Key North Korea Sanctions,\" msnbc.com, June 26, 2008",
+            "docid": 8314
+        },
+        {
+            "id": "61",
+            "title": "Nick Miroff, \"U.S. Travel to Cuba Grows as Restrictions Are Eased,\" npr.org, Feb. 6, 2012",
+            "docid": 8315
+        },
+        {
+            "id": "62",
+            "title": "Amy Maness, \"Should We Trade with Cuba?,\" ncpa.org, Jan. 14, 2003",
+            "docid": 8316
+        },
+        {
+            "id": "63",
+            "title": "GlobalSecurity.org, \"Cuba's Economy,\" globalsecurity.org (accessed Dec. 19, 2012)",
+            "docid": 8317
+        },
+        {
+            "id": "64",
+            "title": "Richard E. Feinberg, \"The New Cuban Economy: What Roles for Foreign Investment,\" brookings.edu, Dec. 2012",
+            "docid": 8318
+        },
+        {
+            "id": "65",
+            "title": "Morgan Neill, Pam Benson, and Shasta Darlington, \"Cuba Quiet After Castro Announces Resignation,\" edition.cnn.com, Feb. 19, 2008",
+            "docid": 8319
+        },
+        {
+            "id": "66",
+            "title": "Robert Johnson, \"END OF AN ERA: Castro Resigns From Party Leadership and Calls for Liberalization,\" businessinsider.com, Apr. 19, 2011",
+            "docid": 8320
+        },
+        {
+            "id": "67",
+            "title": "Alain-Pierre Hovasse, \"20 Years Since the Fall of the Soviet Union,\"The Atlantic, Dec. 23, 2011",
+            "docid": 8321
+        },
+        {
+            "id": "68",
+            "title": "Brandon Amash, \"Evaluating the Cuban Embargo,\" prospectjournal.org, July 23, 2012",
+            "docid": 8322
+        },
+        {
+            "id": "69",
+            "title": "Office of Foreign Assets Control, \"Cuba: What You Need to Know about US Sanctions Against Cuba,\" Jan. 24, 2012",
+            "docid": 8323
+        },
+        {
+            "id": "70",
+            "title": "Cuba Policy Foundation, \"History of US Policy,\" cubafoundation.org (accessed Dec. 19, 2012)",
+            "docid": 8324
+        },
+        {
+            "id": "71",
+            "title": "US Department of State, \"U.S. Relations with Cuba,\" state.gov, June 21, 2012",
+            "docid": 8325
+        },
+        {
+            "id": "72",
+            "title": "Ryan Villarreal, \"Chile's Own 9/11: When the U.S. Backed a Brutal Dictator,\"International Business Times, Sep. 11, 2012",
+            "docid": 8326
+        },
+        {
+            "id": "73",
+            "title": "Mayra Gómez,Human Rights in Cuba, El Salvador, and Nicaragua: A Sociological Perspective on Human Rights Abuse, 2003",
+            "docid": 8327
+        },
+        {
+            "id": "74",
+            "title": "Phil Davison, \"Cuba's American Refugees,\" independent.co.uk, May 2, 1998",
+            "docid": 8328
+        },
+        {
+            "id": "75",
+            "title": "Peter Orsi, \"Castro: Obama Is 'Stupid,'\" huffingtonpost.com, Sep. 29, 2011",
+            "docid": 8329
+        },
+        {
+            "id": "76",
+            "title": "Amy Maness, \"Should We Trade with Cuba?,\" National Center for Policy Analysis website, Jan. 14, 2003",
+            "docid": 8330
+        },
+        {
+            "id": "77",
+            "title": "Democracy Now!, \"Bill Clinton on Sanctions with Cuba,\" interview with host Amy Goodman, available at globalpolicy,org, Nov. 8, 2000",
+            "docid": 8331
+        },
+        {
+            "id": "78",
+            "title": "Nick Mirodd, \"U.S. Travel to Cuba Grows as Restrictions Are Eased,\" npr.org, Feb. 6, 2012",
+            "docid": 8332
+        },
+        {
+            "id": "79",
+            "title": "Amnesty International, \"Annual Report 2011: Cuba,\" amnesty.org (accessed Dec. 19, 2012)",
+            "docid": 8333
+        },
+        {
+            "id": "80",
+            "title": "PBS, \"Transcript: Distant Neighbors,\" pbs.org, Sep. 20, 2002",
+            "docid": 8334
+        },
+        {
+            "id": "81",
+            "title": "Nick Miroff, \"For Alan Gross, It's Hard Time in Havana,\" globalpost.com, Nov. 28, 2012",
+            "docid": 8335
+        },
+        {
+            "id": "82",
+            "title": "Ruth Ellen Wasem, \"Cuban Migration to the United States: Policy and Trends,\" Congressional Research Service, fas.org, June 2, 2009",
+            "docid": 8336
+        },
+        {
+            "id": "83",
+            "title": "George Gedda, \"Diplomat Recalls Cuba Break in 1961,\" Associated Press, available at fiu.edu, Jan. 1, 2001",
+            "docid": 8337
+        },
+        {
+            "id": "84",
+            "title": "Frances Robles, \"Cuba Keeps More Political Prisoners per Capita,\" Associated Press, available at freerepublic.com, July 8, 2007",
+            "docid": 8338
+        },
+        {
+            "id": "85",
+            "title": "Joint Corporate Committee on Cuban Claims, \"Understanding US Claims,\" certifiedcubanclaims.org (accessed Dec. 20, 2012)",
+            "docid": 8339
+        },
+        {
+            "id": "86",
+            "title": "Reuters, \"Cuban Commission for Human Rights and National Reconciliation: Political Detentions Rose in 2012,\" thecubaneconomy.com, Jan. 3, 2013",
+            "docid": 8340
+        },
+        {
+            "id": "87",
+            "title": "NorthStar News & Analysis, \"U.S. Leads World in Rate of Incarceration,\" thenorthstarnews.com, Apr. 30, 2013",
+            "docid": 8341
+        },
+        {
+            "id": "88",
+            "title": "Peter James Spielmann, \"UN General Assembly Votes against US Cuba Embargo,\" Associated Press, Oct. 29, 2013",
+            "docid": 8342
+        },
+        {
+            "id": "89",
+            "title": "BBC, \"Cuban President Raul Castro to Retire in 2018,\" bbc.co.uk, Feb. 24, 2013",
+            "docid": 8343
+        },
+        {
+            "id": "90",
+            "title": "Peter Baker, \"U.S. and Cuba, in Breakthrough, Will Resume Diplomatic Relations,\"New York Times, Dec. 17, 2014",
+            "docid": 8344
+        },
+        {
+            "id": "91",
+            "title": "Barack Obama, \"Charting a New Course on Cuba,\" whitehouse.gov, July 1, 2015",
+            "docid": 8345
+        },
+        {
+            "id": "92",
+            "title": "Halimah Abdullah, \"Obama Announces Embassy Deal with Cuba,\" MSNBC.com, July 1, 2015",
+            "docid": 8346
+        },
+        {
+            "id": "93",
+            "title": "Oren Dorell, \"Cuban Flag Flies at Embassy in Washington,\"USA Today, July 20, 2015",
+            "docid": 8347
+        },
+        {
+            "id": "94",
+            "title": "Halimah Abdullah, \"American Flag Flies at Embassy in Cuba for First Time since 1961,\" nbcnews.com, Aug. 14, 2015",
+            "docid": 8348
+        },
+        {
+            "id": "95",
+            "title": "Fox News Latino, \"Cuba Arrests 90 Dissidents during Peaceful March; 'It's All [Obama's] Fault,' Protesters Say,\" latino.foxnews.com, Aug. 10, 2015",
+            "docid": 8349
+        },
+        {
+            "id": "96",
+            "title": "Elliott Abrams, \"John Kerry, George Shultz, and the Kerry Visit to Cuba,\" cfr.org, Aug. 6, 2015",
+            "docid": 8350
+        },
+        {
+            "id": "97",
+            "title": "Nat Hentoff, \"Normalizing U.S. Relations with Cuba Leads to Escalation in Repression of Cuban Dissidents,\" cato.org, Oct. 7, 2015",
+            "docid": 8351
+        },
+        {
+            "id": "98",
+            "title": "Agencia EFE, \"Nine U.S. Governors Ask Congressional Leaders to End Cuban Embargo,\" latino.foxnews.com, Oct. 15, 2015",
+            "docid": 8352
+        },
+        {
+            "id": "99",
+            "title": "Michelle Hackman, \"Barack Obama Will Be the First Sitting President to Visit Cuba in 88 Years,\" vox.com, Feb. 18, 2016",
+            "docid": 8353
+        },
+        {
+            "id": "100",
+            "title": "Merrit Kennedy, \"First U.S.-Cuba Commercial Flight in More Than 50 Years Has Landed,\" npr.org, Aug. 31, 2016",
+            "docid": 8354
+        },
+        {
+            "id": "101",
+            "title": "Alan Gomez, \"Obama Lifts Restrictions on Cuban Rum, Cigars,\" usatoday, Oct. 14, 2016",
+            "docid": 8355
+        },
+        {
+            "id": "102",
+            "title": "Merrit Kennedy, \"For First Time, U.S. Abstains on U.N. Resolution Criticizing Cuba Embargo,\" npr.org, Oct. 26, 2016",
+            "docid": 8356
+        },
+        {
+            "id": "103",
+            "title": "Barack Obama, \"Statement by the President on Cuban Immigration Policy,\" whitehouse.gov, Jan. 12, 2017",
+            "docid": 8357
+        },
+        {
+            "id": "104",
+            "title": "Donald Trump, \"President Trump Speaks and Participates in a Signing on the United States' Policy Towards Cuba,\" whitehouse.gov, June 16, 2017",
+            "docid": 8358
+        },
+        {
+            "id": "105",
+            "title": "White House, \"Fact Sheet on Cuba Policy,\" whitehouse.gov, June 16, 2017",
+            "docid": 8359
+        },
+        {
+            "id": "106",
+            "title": "US Department of the Treasury, \"Treasury, Commerce, and State Implement Changes to the Cuba Sanctions Rules,” treasury.gov, Nov. 8, 2017",
+            "docid": 8360
+        },
+        {
+            "id": "107",
+            "title": "White House, \"President Donald J. Trump Is Taking a Stand for Democracy and Human Rights in the Western Hemisphere,\" whitehouse.gov, Apr. 17, 2019",
+            "docid": 8361
+        },
+        {
+            "id": "108",
+            "title": "US Department of State, \"United States Restricts Travel and Vessels to Cuba,\" state.gov, June 4, 2019",
+            "docid": 8362
+        },
+        {
+            "id": "109",
+            "title": "U.S. Embassy Havana, \"United States Restricts Scheduled Air Service to Cuban Airports,\" cu.usembassy.gov, Oct. 25, 2019",
+            "docid": 8363
+        },
+        {
+            "id": "110",
+            "title": "Patrick Oppmann and Maegan Vazquez, \"With an Eye on a Tight Florida Race, Trump Announces New Restrictions on Cuban Hotels, Cigars, and Rum,\" cnn.com, Sep. 23, 2020",
+            "docid": 8364
+        },
+        {
+            "id": "111",
+            "title": "Human Rights Watch, \"World Report 2020: Cuba Events of 2019,\" hrw.org, 2020",
+            "docid": 8365
+        },
+        {
+            "id": "112",
+            "title": "Congressional Research Service, \"Cuba: U.S. Policy in the 116th Congress,\" fas.org, May 15, 2020",
+            "docid": 8366
+        },
+        {
+            "id": "113",
+            "title": "Carmen Sesin, \"Majority of Cuban Americans Don't Think Embargo Works, but There's Slight Increase in Support,\" nbcnews.com, Jan. 10, 2019",
+            "docid": 8367
+        },
+        {
+            "id": "114",
+            "title": "US Department of State, \"Country Reports on Terrorism 2019: Cuba,\" state.gov, 2019",
+            "docid": 8368
+        },
+        {
+            "id": "115",
+            "title": "Matt Spetalnick, \"Exclusive: U.S. Considers Returning Cuba to List of State Sponsors of Terrorism - Source,\" reuters.com, May 14, 2020",
+            "docid": 8369
+        },
+        {
+            "id": "116",
+            "title": "Human Rights Watch, \"World Report 2019: Cuba Events of 2018\" hrw.org, 2020",
+            "docid": 8370
+        },
+        {
+            "id": "117",
+            "title": "Patrick Oppmann, \"Cuba's National Assembly Announces Miguel Diaz-Canel as New President,\" cnn.com, Apr. 19, 2018",
+            "docid": 8371
+        },
+        {
+            "id": "118",
+            "title": "Carmen Sesin, \"Cuba Says U.S. Embargo Is 'Obstacle' to Getting Coronavirus-Fighting Supplies. Not So, Says U.S.,\" nbcnews.com, Apr. 11, 2020",
+            "docid": 8372
+        },
+        {
+            "id": "119",
+            "title": "Edith M. Lederer, \"UN Votes Overwhelmingly to Condemn US Embargo on Cuba,\" apnews.com, Nov. 7, 2019",
+            "docid": 8373
+        },
+        {
+            "id": "120",
+            "title": "Morgan Babbs, \"Robin Hoods of Internet Access in Cuba,\" medium.com, June 30, 2020",
+            "docid": 8374
+        },
+        {
+            "id": "121",
+            "title": "Brandon Conradis, \"Trump Administration Names Cuba a 'State Sponsor of Terrorism,'\" thehill.com, Jan. 11, 2021",
+            "docid": 8375
+        },
+        {
+            "id": "122",
+            "title": "Patrick Oppmann and Tatiana Arias, \"Cubans Take to Streets in Rare Protests over Lack of Freedoms and Worsening Economy,\" cnn.com, July 13, 2021",
+            "docid": 8376
+        },
+        {
+            "id": "123",
+            "title": "Patrick Oppmann, \"After Historic Protests, Defiant Cubans Face Mass Trials,\" cnn.com, July 29, 2021",
+            "docid": 8377
+        },
+        {
+            "id": "124",
+            "title": "Ernesto Londoño and Frances Robles, \"Biden Ramps Up Pressure on Cuba, Abandoning Obama’s Approach,\" nytimes.com, Aug. 9, 2021",
+            "docid": 8378
+        },
+        {
+            "id": "125",
+            "title": "White House, \"Statement by President Joseph R. Biden, Jr. on Continuing Crackdown in Cuba,\" whitehouse.gov, July 22, 2021",
+            "docid": 8379
+        },
+        {
+            "id": "126",
+            "title": "Patrick Oppmann, Marlon Sorto, and Valentina Di Donato, \"Cuba’s Anti-government Protesters Sentenced Up to 30 Years behind Bars,\"cnn.com, Mar. 17, 2022",
+            "docid": 8380
+        },
+        {
+            "id": "127",
+            "title": "Maria Abi-Habib and Eileen Sullivan, \"Cuban Migrants Arrive to U.S. in Record Numbers, on Foot, Not by Boat,\"nytimes.com, May 3, 2022",
+            "docid": 8381
+        },
+        {
+            "id": "128",
+            "title": "Franco Ordoñez, \"Biden Eases Restrictions on Cuban Travel and Remittances,\"npr.org, May. 16, 2022",
+            "docid": 8382
+        },
+        {
+            "id": "129",
+            "title": "Reuters, \"US Lifts Cuba Flight Restrictions Imposed under Trump,\"cnn.com, June 2, 2022",
+            "docid": 8383
+        },
+        {
+            "id": "130",
+            "title": "Juan Carlos Albizu-Campos Espiñeira and Sergio Díaz-Briquets, \"Cuba and its Emigration: Exit as Voice,\" horizontecubano.law.columbia.edu, Mar. 10, 2023",
+            "docid": 8384
+        },
+        {
+            "id": "131",
+            "title": "Reuters, “U.N. Votes To End Us Embargo on Cuba; Us and Israel Oppose,” reuters.com, Nov. 2, 2023",
+            "docid": 8385
+        },
+        {
+            "id": "132",
+            "title": "Human Rights Watch, \"World Report 2022: Cuba,\" hrw.org (accessed Nov. 30, 2023)",
+            "docid": 8386
+        },
+        {
+            "id": "133",
+            "title": "Human Rights Watch, \"Prison or Exile: Cuba’s Systematic Repression of July 2021 Demonstrators,\" hrw.org, July 11, 2022",
+            "docid": 8387
+        },
+        {
+            "id": "134",
+            "title": "U.S. Department of State, \"State Sponsors of Terrorism,\" state.gov (accessed Nov. 30, 2023)",
+            "docid": 8388
+        },
+        {
+            "id": "135",
+            "title": "UN News, \"General Assembly Votes Overwhelmingly Against U.S. Cuba Embargo,\" news.un.org, Nov. 2, 2023",
+            "docid": 8389
+        }
+    ],
+    "url": "https://cuba-embargo.procon.org/"
+}

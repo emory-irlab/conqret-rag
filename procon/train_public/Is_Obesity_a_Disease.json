@@ -1,0 +1,344 @@
+{
+    "title": "Is Obesity a Disease?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Centers for Disease Control and Prevention (CDC), \"Defining Overweight and Obesity,\" cdc.gov, last updated Dec. 8, 2009",
+            "docid": 8580
+        },
+        {
+            "id": "2",
+            "title": "Goodard Danai, et al., \"The Preventable Causes of Death in the United States: Comparative Risk Assessment of Dietary, Lifestyle, and Metabolic Risk Factors,\" plosmedicine.org, Apr. 28, 2009",
+            "docid": 8581
+        },
+        {
+            "id": "3",
+            "title": "USDA, \"What We Eat in America, NHANES 2009-2010,\" usda.gov, 2012",
+            "docid": 8582
+        },
+        {
+            "id": "4",
+            "title": "Prospective Studies Collaboration, \"Body-Mass Index and Cause-Specific Mortality in 900,000 Adults: Collaborative Analyses of 57 Prospective Studies,\"Lancet, Mar. 28, 2009",
+            "docid": 8583
+        },
+        {
+            "id": "5",
+            "title": "Jeffrey M. Friedman, MD, PhD, \"The Real Cause of Obesity,\"Newsweek, Sep. 10, 2009",
+            "docid": 8584
+        },
+        {
+            "id": "6",
+            "title": "Albert J. Stunkard, MD, et al., \"The Body-Mass Index of Twins Who Have Been Reared Apart,\"New England Journal of Medicine, May 4, 1990",
+            "docid": 8585
+        },
+        {
+            "id": "7",
+            "title": "USDA, \"How Many Can I Have?,\" choosemyplate.gov (accessed Apr. 21, 2014)",
+            "docid": 8586
+        },
+        {
+            "id": "8",
+            "title": "AAFP, \"Diagnosis and Management of Obesity,\" aafp.org, 2013",
+            "docid": 8587
+        },
+        {
+            "id": "9",
+            "title": "David B. Allison, PhD, et al., \"Obesity as a Disease: A White Paper on Evidence and Arguments Commissioned by the Council of the Obesity Society,\" obesityjournal.org, Apr. 2008",
+            "docid": 8588
+        },
+        {
+            "id": "10",
+            "title": "National Institutes of Health (NIH), \"Understanding Adult Obesity,\" win.niddk.nih.gov, Nov. 2008",
+            "docid": 8589
+        },
+        {
+            "id": "11",
+            "title": "World Health Organization, \"Obesity and Overweight Fact Sheet No311,\" who.int, Mar. 2013",
+            "docid": 8590
+        },
+        {
+            "id": "12",
+            "title": "CDC, \"Adult Obesity Facts,\" cdc.gov, Mar. 28, 2014",
+            "docid": 8591
+        },
+        {
+            "id": "13",
+            "title": "Cynthia L. Ogden, Margaret D. Carroll, Brian K. Kit, and Katherine M. Flegal, \"Prevalence of Childhood and Adult Obesity in the United States, 2011-2012,\"JAMA, Feb. 26, 2014",
+            "docid": 8592
+        },
+        {
+            "id": "14",
+            "title": "MayoClinic, \"Obesity: Definition,\" mayoclinic.com, June 7, 2013",
+            "docid": 8593
+        },
+        {
+            "id": "15",
+            "title": "Hilary Parker, \"A Sweet Problem: Princeton Researchers Find That High-Fructose Corn Syrup Prompts Considerably More Weight Gain,\" princeton.edu, Mar. 22, 2010",
+            "docid": 8594
+        },
+        {
+            "id": "16",
+            "title": "S.W. Keith, D.T. Redden, and P.T. Katzmarzyk, et al., \"Putative Contributors to the Secular Increase in Obesity: Exploring the Roads Less Traveled,\"International Journal of Obesity, nature.com, June 27, 2006",
+            "docid": 8595
+        },
+        {
+            "id": "17",
+            "title": "Mayo Clinic, \"Obesity: Causes,\" mayoclinic.com, June 7, 2013",
+            "docid": 8596
+        },
+        {
+            "id": "18",
+            "title": "Tara Parker Pope, \"Less Active at Work, Americans Have Packed on Pounds,\" nytimes.com, May 25, 2011",
+            "docid": 8597
+        },
+        {
+            "id": "19",
+            "title": "American Medical Association House of Delegates, \"Recognition of Obesity as a Disease,\" npr.org, June 19, 2013",
+            "docid": 8598
+        },
+        {
+            "id": "20",
+            "title": "Internal Revenue Service (IRS), 26CFR1.213-1, .irs.gov, 2002",
+            "docid": 8599
+        },
+        {
+            "id": "21",
+            "title": "National Health Center for Health Statistics (NCHS), \"NCHS Data on Obesity,\"cdc.gov, updated May 2009",
+            "docid": 8600
+        },
+        {
+            "id": "22",
+            "title": "Eric A. Finkelstein, MD, Justin G. Trogdon, PhD, Joel W. Cohen, PhD, and William Dietz, MD, PhD, \"Annual Medical Spending Attributable to Obesity: Payer-And Service-Specific Estimates,\"Health Affairs, July 27, 2009",
+            "docid": 8601
+        },
+        {
+            "id": "23",
+            "title": "National Consumers League, \"New Obesity Survey: Many Americans Think They're 'Lighter' Than They Are, Most Not Being Told by a Doctor They Need to Lose Weight,\" nclnet.org, June 19, 2007",
+            "docid": 8602
+        },
+        {
+            "id": "24",
+            "title": "Gallup, \"Public: Lifestyle, Not Disease, Causes Obesity,\" gallup.com, Aug. 10, 2004",
+            "docid": 8603
+        },
+        {
+            "id": "25",
+            "title": "H.R. 3962, \"The Affordable Health Care for America Act,\"thomas.gov, Oct. 29, 2009",
+            "docid": 8604
+        },
+        {
+            "id": "26",
+            "title": "Rachel Rettner, \"Is Obesity a Disease? Doctors Debate,\" livescience.com, June 27, 2012",
+            "docid": 8605
+        },
+        {
+            "id": "27",
+            "title": "Food and Drug Administration (FDA), \"Regulations on Statements Made for Dietary Supplements Concerning the Effect of the Product on the Structure or Function of the Body; Final Rule,\"fda.gov, Jan. 6, 1999",
+            "docid": 8606
+        },
+        {
+            "id": "28",
+            "title": "National Institutes of Health (NIH), \"Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults,\"nih.gov, Sep. 1998",
+            "docid": 8607
+        },
+        {
+            "id": "29",
+            "title": "World Health Organization (WHO), \"Obesity: Preventing and Managing the Global Epidemic,\" who.int, 2000",
+            "docid": 8608
+        },
+        {
+            "id": "30",
+            "title": "American College of Gastroenterology (ACG), \"Obesity: A Growing & Dangerous Public Health Challenge,\" gi.org, 2008",
+            "docid": 8609
+        },
+        {
+            "id": "31",
+            "title": "US Department of Health and Human Service (HHS) Centers for Medicare & Medicaid Services (CMS), \"CMS Manual System Pub. 100-03 Medicare National Coverage Determinations,\"cms.hhs.gov, Oct. 1, 2009",
+            "docid": 8610
+        },
+        {
+            "id": "32",
+            "title": "Gallup, \"Mississippians Most Obese, Montanans Least Obese,\" gallup.com, Mar. 4, 2014",
+            "docid": 8611
+        },
+        {
+            "id": "33",
+            "title": "\"American Medical Association House of Delegates Resolution: 420: Recognition of Obesity as a Disease,\" npr.org, June 19, 2013",
+            "docid": 8612
+        },
+        {
+            "id": "34",
+            "title": "Robert Thomas, \"Dr. Thomas's Opinions on Corpulence,\"The Medical Advisor and Guide to Health and Long Life, Feb. 12, 1825",
+            "docid": 8613
+        },
+        {
+            "id": "35",
+            "title": "G.A. Bray, \"Obesity Is a Chronic, Relapsing Neurochemical Disease,\"International Journal of Obesity, 2004",
+            "docid": 8614
+        },
+        {
+            "id": "36",
+            "title": "Surgeon General, \"Overweight and Obesity: Health Consequences,\" surgeongeneral.com, Nov. 19, 2013",
+            "docid": 8615
+        },
+        {
+            "id": "37",
+            "title": "Jeffrey Friedman, \"Obesity Is Genetic,\" newsweek.com, Sep. 9, 2009",
+            "docid": 8616
+        },
+        {
+            "id": "38",
+            "title": "Albert J. Stunkard, Jennifer R. Harris, Nancy L. Pedersen, and Gerald E. McClearn, \"The Body-Mass Index of Twins Who Have Been Reared Apart,\"New England Journal of Medicine, May 24, 1990",
+            "docid": 8617
+        },
+        {
+            "id": "39",
+            "title": "American Medical Association, \"AMA Adopts New Policies on Second Day of Voting at Annual Meeting,\" ama-assn.org, June 18, 2013",
+            "docid": 8618
+        },
+        {
+            "id": "40",
+            "title": "Laurel Herold, \"High BMI Might Mean a Longer Life. Eat Up?,\" healthtalk.umn.edu, Jan. 17, 2013",
+            "docid": 8619
+        },
+        {
+            "id": "41",
+            "title": "Patrick J. Skerrett, \"Overweight and Healthy: The Concept of Metabolically Healthy Obesity,\" health.harvard.edu, Sep. 24, 2013",
+            "docid": 8620
+        },
+        {
+            "id": "42",
+            "title": "Centers for Disease Control and Prevention, \"Obesity: Halting the Epidemic by Making Health Easier, At a Glance 2011,\" cdc.gov, May 26, 2011",
+            "docid": 8621
+        },
+        {
+            "id": "43",
+            "title": "Mayo Clinic, \"Obesity: Causes,\" mayoclinic.com, June 7, 2013",
+            "docid": 8622
+        },
+        {
+            "id": "44",
+            "title": "Huffington Post, \"The New (Ab)Normal: Portion Sizes Today vs. In the 1950s (Infographic),\" huffingtonpost.com, May 23, 2012",
+            "docid": 8623
+        },
+        {
+            "id": "45",
+            "title": "Helen W. Wu and Roland Sturm, \"What's on the Menu? A Review of the Energy and Nutritional Content of US Chain Restaurant Menus,\"Public Health Nutrition, Jan. 2013",
+            "docid": 8624
+        },
+        {
+            "id": "46",
+            "title": "American College of Gastroenterology, \"ACG Obesity Initiative,\" gi.org, 2014",
+            "docid": 8625
+        },
+        {
+            "id": "47",
+            "title": "American Heart Association, \"Treating Obesity as a Disease,\" heart.org, Apr. 14, 2014",
+            "docid": 8626
+        },
+        {
+            "id": "48",
+            "title": "Harvard School of Public Health, \"Obesity Prevention Source: Health Risks,\" hsph.harvard.edu (accessed Jan. 10, 2014)",
+            "docid": 8627
+        },
+        {
+            "id": "49",
+            "title": "Curt Anderson, \"IRS Recognizes Obesity as a Disease,\" americanobesity.org, Apr. 2, 2002",
+            "docid": 8628
+        },
+        {
+            "id": "50",
+            "title": "FDA, \"Questions and Answers - The FDA's Obesity Working Group Report,\" fda.gov, June 2, 2013",
+            "docid": 8629
+        },
+        {
+            "id": "51",
+            "title": "Mary MacVean, \"Medical Cost of Childhood Obesity Is $19,000, Researchers Say,\" latimes.com, Apr. 7, 2014",
+            "docid": 8630
+        },
+        {
+            "id": "52",
+            "title": "Food and Agriculture Organization of the United Nations, \"The State of Food and Agriculture,\" fao.org, 2013",
+            "docid": 8631
+        },
+        {
+            "id": "53",
+            "title": "CIA, \"The World Factbook: Nauru,\" cia.gov, Mar. 27, 2014",
+            "docid": 8632
+        },
+        {
+            "id": "54",
+            "title": "National Bureau of Economic Research (NBER), \"Economic Explanations of Increased Obesity,\" nber.org (accessed Apr. 24, 2014)",
+            "docid": 8633
+        },
+        {
+            "id": "55",
+            "title": "David S. Ludwig and Mark I. Friedman, \"Always Hungry? Here's Why,\" nytimes.com, May 16, 2014",
+            "docid": 8634
+        },
+        {
+            "id": "56",
+            "title": "Lizzie Parry, \"Do YOU Have the Obesity Gene? Scientists Discover Defective DNA Affects Impulse Eating and Food Choices,\" dailymail.co.uk, May 28, 2014",
+            "docid": 8635
+        },
+        {
+            "id": "57",
+            "title": "Centers for Disease Control and Prevention, \"National Health and Nutrition Examination Survey: NCHS Factsheet,\" cdc.gov, Jan. 2016",
+            "docid": 8636
+        },
+        {
+            "id": "58",
+            "title": "Global BMI Mortality Collaboration, \"Body-Mass Index and All-Cause Mortality: Individual-Participant-Data Meta-Analysis of 239 Prospective Studies in Four Continents,\" thelancet.com, July 13, 2016",
+            "docid": 8637
+        },
+        {
+            "id": "59",
+            "title": "Sarah Boseley, \"Obesity Causes Premature Death, Concluded Study of Studies,\" theguardian.com, July 13, 2016",
+            "docid": 8638
+        },
+        {
+            "id": "60",
+            "title": "Susan Scutti, \"The Weirder Side of Obesity: Genetic Forms of Obesity Are Rare Yet Numerous,\" cnn.com, Mar. 27, 2017",
+            "docid": 8639
+        },
+        {
+            "id": "61",
+            "title": "Y. Kaur, R.J. de Souza, W.T. Gibson, and D. Meyre, \"A Systematic Review of Genetic Syndromes with Obesity,\"Obesity Reviews, Mar. 27, 2017",
+            "docid": 8640
+        },
+        {
+            "id": "62",
+            "title": "Trust for America's Health and the Robert Wood Johnson Foundation, \"The State of Obesity 2018: Better Policies for a Healthier America,\" tfah.org, Sep. 2018",
+            "docid": 8641
+        },
+        {
+            "id": "63",
+            "title": "Andrew Stokes and Samuel H. Preston, \"How Smoking Affects the Proportion of Deaths Attributable to Obesity: Assessing the Role of Relative Risks and Weight Distributions,\"BMJ Open, 2016",
+            "docid": 8642
+        },
+        {
+            "id": "64",
+            "title": "World Health Organization, \"Prevalence of Obesity among Adults, BMI [Greater than or Equal to] 30, Age-Standardized Estimates by Country,\" who.int, Sep, 22, 2017",
+            "docid": 8643
+        },
+        {
+            "id": "65",
+            "title": "The State of Obesity, \"Obesity Rates among Youth Ages 10 to 17),\" stateofobesity.org, Oct. 2018",
+            "docid": 8644
+        },
+        {
+            "id": "66",
+            "title": "The State of Obesity, \"Healthcare Costs of Obesity,\" stateofobesity.org (accessed Jan. 3, 2019)",
+            "docid": 8645
+        },
+        {
+            "id": "67",
+            "title": "Roni Caryn Rabin, \"Obesity Linked to Severe Coronavirus Disease, Especially for Younger Patients,\" nytimes.com, Apr. 16, 2020",
+            "docid": 8646
+        }
+    ],
+    "url": "https://obesity.procon.org/"
+}

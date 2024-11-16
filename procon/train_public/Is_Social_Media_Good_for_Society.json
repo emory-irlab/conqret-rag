@@ -1,0 +1,2001 @@
+{
+    "title": "Is Social Media Good for Society?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Kristin Marino, \"Social Media: The New News Source,\" schools.com, Apr. 16, 2012",
+            "url": null,
+            "docid": 5684
+        },
+        {
+            "id": "2",
+            "title": "Sabrina Kidwali and Catherine Imperatore, \"Social Media as an Advocacy Tool,\"Techniques: Connecting Education & Careers, Sep. 2011",
+            "url": null,
+            "docid": 5685
+        },
+        {
+            "id": "3",
+            "title": "John D. Sutter, \"Theater Shooting Unfolds in Real Time on Social Media,\" cnn.com, July 20, 2012",
+            "url": null,
+            "docid": 5686
+        },
+        {
+            "id": "4",
+            "title": "Trevor Hughes and Carolyn Pesce, \"Motive Sought in Deadly Shooting Rampage at Colorado Theater,\" usatoday.com, July 21, 2012",
+            "url": null,
+            "docid": 5687
+        },
+        {
+            "id": "5",
+            "title": "LexisNexis Risk Solutions, \"Role of Social Media in Law Enforcement Significant and Growing,\" lexisnexis.com, July 18, 2012",
+            "url": null,
+            "docid": 5688
+        },
+        {
+            "id": "6",
+            "title": "Dan Evon, \"NYPD Adding Twitter Tracking Unit to Police Force,\" socialnewsdaily.com (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5689
+        },
+        {
+            "id": "7",
+            "title": "Richard Dalke, \"Social Media Case Study: The Stanley Cup Hockey Riots,\" freshnetworks.com, June 27, 2011",
+            "url": null,
+            "docid": 5690
+        },
+        {
+            "id": "8",
+            "title": "Global Post, \"Vancouver Riots: The Shame and the Blame Spread Online,\" globalpost.com, June 17, 2012",
+            "url": null,
+            "docid": 5691
+        },
+        {
+            "id": "9",
+            "title": "National School Boards Association, \"Creating and Connecting: Research and Guidelines on Online Social - and Educational - Networking,\" nsba.org, July 2007",
+            "url": null,
+            "docid": 5692
+        },
+        {
+            "id": "10",
+            "title": "Sarah Kessler, \"The Case for Social Media in Schools,\" mashable.com, Sep. 29, 2010",
+            "url": null,
+            "docid": 5693
+        },
+        {
+            "id": "11",
+            "title": "Elizabeth Delmatoff, \"How Social Media Transformed Our School Community,\" oregoned.org, Apr. 2010",
+            "url": null,
+            "docid": 5694
+        },
+        {
+            "id": "12",
+            "title": "Brian Solis, \"People Use Social Networks to Connect with Friends and Family, Sometimes Brands,\" briansolis.com, Sep. 13, 2011",
+            "url": null,
+            "docid": 5695
+        },
+        {
+            "id": "13",
+            "title": "Megan Sponcil and Priscilla Gitimu, \"Use of Social Media by College Students: Relationship to Communication and Self-concept,\" <emJournal of Technology Research, 2012",
+            "url": null,
+            "docid": 5696
+        },
+        {
+            "id": "14",
+            "title": "Common Sense Media, \"Social Media, Social Life: How Teens View Their Digital Lives,\" commonsensemedia.org, 2012",
+            "url": null,
+            "docid": 5697
+        },
+        {
+            "id": "15",
+            "title": "Bianca Bosker, \"Fortune 500 List Boasts More Female CEOs Than Ever Before,\" huffingtonpost.com, May 7, 2012",
+            "url": null,
+            "docid": 5698
+        },
+        {
+            "id": "16",
+            "title": "Huffington Post, \"Social Media by Gender: Women Dominate Pinterest, Twitter, Men Dominate Reddit, YouTube (Infographic),\" huffingtonpost.com, June 21, 2012",
+            "url": null,
+            "docid": 5699
+        },
+        {
+            "id": "17",
+            "title": "Laura Said-Moorhouse and Stina Backer, \"Why Women in Business Are Flocking to Twitter Chat,\" cnn.com, Sep. 27, 2012",
+            "url": null,
+            "docid": 5700
+        },
+        {
+            "id": "18",
+            "title": "One.org, \"Helping African Women Business Leaders Connect with Social Media,\" one.org (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5701
+        },
+        {
+            "id": "19",
+            "title": "Jobvite, \"The Essential Guide to Developing a Social Recruiting Strategy,\" jobvite.com, Mar. 3, 2012",
+            "url": null,
+            "docid": 5702
+        },
+        {
+            "id": "20",
+            "title": "HR Focus, \"Certain Tools Are Helping HR Connect Swiftly with the Right Job Candidates,\" ivyexec.com, Sep. 1, 2012",
+            "url": null,
+            "docid": 5703
+        },
+        {
+            "id": "21",
+            "title": "Jobvite, \"2012 Social Job Seeker Survey,\" jobvite.com, 2012",
+            "url": null,
+            "docid": 5704
+        },
+        {
+            "id": "22",
+            "title": "Sharon Jayson, \"'Flocking' Behavior Lands on Social Networking Sites,\" USA TODAY, Sep. 27, 2009",
+            "url": null,
+            "docid": 5705
+        },
+        {
+            "id": "23",
+            "title": "Morgan, \"5 Ways Social Media Can Facilitate Offline Networking,\" sociableboost.com, May 8, 2012",
+            "url": null,
+            "docid": 5706
+        },
+        {
+            "id": "24",
+            "title": "Annalisa Rodriguez, \"Social Media Doesn't Mean Social Isolation,\" usatodayeducate.com, Oct. 16, 2012",
+            "url": null,
+            "docid": 5707
+        },
+        {
+            "id": "25",
+            "title": "Robert M. Bond, et al., \"A 61-million-person Experiment in Social Influence and Political Mobilization,\" Nature, Sep. 13, 2012",
+            "url": null,
+            "docid": 5708
+        },
+        {
+            "id": "26",
+            "title": "Keith Hampton, et al., \"Social Networking Sites and Our Lives,\" pewinternet.org, June 16, 2011",
+            "url": null,
+            "docid": 5709
+        },
+        {
+            "id": "27",
+            "title": "Lee Rainie, \"Social Media and Voting,\" Pew Internet, pewinternet.org, Nov. 6, 2012",
+            "url": null,
+            "docid": 5710
+        },
+        {
+            "id": "28",
+            "title": "Xiaolin Zhou, Barry Wellman, and Justine Yu, \"Egypt: The First Internet Revolt?,\"Peace Magazine, July-Sep. 2011",
+            "url": null,
+            "docid": 5711
+        },
+        {
+            "id": "29",
+            "title": "Stuart Schaar, \"Revolutionary Challenges in Tunisia and Egypt: Generations in Conflict,\"New Politics, Summer 2011",
+            "url": null,
+            "docid": 5712
+        },
+        {
+            "id": "30",
+            "title": "Todd Wasserman, \"The Architect of #OccupyWallStreet Praises the Power of 'Magical Hashtags,'\" mashable.com, Oct. 27, 2011",
+            "url": null,
+            "docid": 5713
+        },
+        {
+            "id": "31",
+            "title": "Andy Nathan, \"How Social Media Saved the Economy,\" technorati.com, June 14, 2011",
+            "url": null,
+            "docid": 5714
+        },
+        {
+            "id": "32",
+            "title": "Quentin Hardy, \"McKinsey Says Social Media Could Add $1.3 Million to the Economy,\" bits.blogs.nytimes.com, July 25, 2012",
+            "url": null,
+            "docid": 5715
+        },
+        {
+            "id": "33",
+            "title": "Chris Crum, \"Facebook Now Has 1.01 Billion Active Users, Brought in $1.26 Billion in Q3 Revenue,\" webpronews.com, Oct. 24, 2012",
+            "url": null,
+            "docid": 5716
+        },
+        {
+            "id": "34",
+            "title": "New York Times, \"Twitter,\" topics.nytimes.com (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5717
+        },
+        {
+            "id": "35",
+            "title": "Raquel Recuero, \"Facebook, Public Education and Equity: A 13-year-old Fights for a 'Better School,'\" dmlcentral.net, Oct. 8, 2012",
+            "url": null,
+            "docid": 5718
+        },
+        {
+            "id": "36",
+            "title": "Rheana Murray, \"Families Find Photos Lost During Sandy,\" nydailynews.com, Nov. 27, 2012",
+            "url": null,
+            "docid": 5719
+        },
+        {
+            "id": "37",
+            "title": "Peter Jordan, \"We Are All Daniel Cui,\" facebookstories.com, Oct. 1, 2012",
+            "url": null,
+            "docid": 5720
+        },
+        {
+            "id": "38",
+            "title": "Sarah Medina, \"Daniel Cui, High School Goalie, Gets Support of Peers After Mean Prank (Video),\" huffingtonpost.com, Oct. 3, 2012",
+            "url": null,
+            "docid": 5721
+        },
+        {
+            "id": "39",
+            "title": "University of Alabama at Birmingham, \"Move Over Youngsters, Grandma’s on Facebook,\" newswise.com, Oct. 27, 2011",
+            "url": null,
+            "docid": 5722
+        },
+        {
+            "id": "40",
+            "title": "Aylin Zafar, \"Facebook for Centenarians: Senior Citizens Learn Social Media,\" theatlantic.com, Aug. 31, 2011",
+            "url": null,
+            "docid": 5723
+        },
+        {
+            "id": "41",
+            "title": "Kathryn Zickuhr, \"Generations 2010,\" pewinternet.org, Dec. 16, 2010",
+            "url": null,
+            "docid": 5724
+        },
+        {
+            "id": "42",
+            "title": "Anxiety UK, \"Anxiety UK Study Finds Technology Can Increase Anxiety,\" anxietyuk.org.uk, July 9, 2012",
+            "url": null,
+            "docid": 5725
+        },
+        {
+            "id": "43",
+            "title": "Mary Wilks, \"Online Social Networking’s Effect on Adolescent Social Development,\" eckerd.edu (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5726
+        },
+        {
+            "id": "44",
+            "title": "Jewish Action, \"The Social Media Revolution: What Does It Mean for Our Children?,\" ou.org, Aug. 24, 2012",
+            "url": null,
+            "docid": 5727
+        },
+        {
+            "id": "45",
+            "title": "Levi R. Baker and Debra L. Oswald, \"Shyness and Online Social Networking Services,\"Journal of Social and Personal Relationships, Nov. 2010",
+            "url": null,
+            "docid": 5728
+        },
+        {
+            "id": "46",
+            "title": "D. D. Luxton, J. D. June, and J. M. Fairall, \"Social Media and Suicide: A Public Health Perspective,\"American Journal of Public Health, May 2012",
+            "url": null,
+            "docid": 5729
+        },
+        {
+            "id": "47",
+            "title": "World Health Organization, \"Mixed Uptake of Social Media Among Public Health Specialists,\" who.int, Nov. 2011",
+            "url": null,
+            "docid": 5730
+        },
+        {
+            "id": "48",
+            "title": "Charlotte Tucker, \"Social Media, Texting Play New Role in Response to Disasters: Preparedness, Communication Targeted,\" thenationshealth.aphapublications.org, May – June 2011",
+            "url": null,
+            "docid": 5731
+        },
+        {
+            "id": "49",
+            "title": "5 Boroughs Partnership, \"Stamp Out Stigma,\" 5boroughspartnership.nhs.uk (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5732
+        },
+        {
+            "id": "50",
+            "title": "The Stigma Project, \"Our Mission & Vision,\" thestigmaproject.org (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5733
+        },
+        {
+            "id": "51",
+            "title": "The Economist, \"Economist Debates: Social Networking,\" economist.com, Feb. 13, 2012",
+            "url": null,
+            "docid": 5734
+        },
+        {
+            "id": "52",
+            "title": "Wipe Out Homophobia, facebook.com (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5735
+        },
+        {
+            "id": "53",
+            "title": "Jenny Lawson, \"The Bloggess,\" thebloggess.com (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5736
+        },
+        {
+            "id": "54",
+            "title": "Ginny Graves, \"Miracle on Facebook,\"Good Housekeeping, July 2012",
+            "url": null,
+            "docid": 5737
+        },
+        {
+            "id": "55",
+            "title": "Planet Hunters, \"PH1: A Planet in a Four-star System,\" blog.planethunters.org, Oct. 15, 2012",
+            "url": null,
+            "docid": 5738
+        },
+        {
+            "id": "56",
+            "title": "Anick Jesdanun, \"The Best Crowdfunding Site for Hurricane Sandy Relief,\" huffingtonpost.com, Nov. 12, 2012",
+            "url": null,
+            "docid": 5739
+        },
+        {
+            "id": "57",
+            "title": "Crowdwise, \"About Us,\" crowdwise.com (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5740
+        },
+        {
+            "id": "58",
+            "title": "Pencils of Promise, \"Our Approach,\" pencilsofpromise.org (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5741
+        },
+        {
+            "id": "59",
+            "title": "Bigger Brains, \"Get Noticed. Disseminate Your Research Better,\" biggerbrains.com (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5742
+        },
+        {
+            "id": "60",
+            "title": "Intuit Websites, \"How Small Businesses Are Using Social Media,\" s1.intuitstatic.com (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5743
+        },
+        {
+            "id": "61",
+            "title": "Tim Mullaney, \"Social Media Is Reinventing How Business Is Done,\" usatoday.com, May 6, 2012",
+            "url": null,
+            "docid": 5744
+        },
+        {
+            "id": "62",
+            "title": "Harry Rollason, \"Why Social Media Makes Customer Service Better,\" mashable.com, Sep. 29, 2012",
+            "url": null,
+            "docid": 5745
+        },
+        {
+            "id": "63",
+            "title": "Meris Stansbury, \"Ten Ways Schools Are Using Social Media Effectively,\" eschoolnews.com, Oct. 21, 2011",
+            "url": null,
+            "docid": 5746
+        },
+        {
+            "id": "64",
+            "title": "OnlineUniversities.com, \"Pros and Cons of Social Media in Education,\" socialtimes.com, 2012",
+            "url": null,
+            "docid": 5747
+        },
+        {
+            "id": "65",
+            "title": "National School Boards Association, \"Creating and Connecting: Research and Guidelines on Online Social - and Educational - Networking,\" nsba.org, July 2007",
+            "url": null,
+            "docid": 5748
+        },
+        {
+            "id": "66",
+            "title": "Mark Blankenship, \"How Social Media Can and Should Impact Higher Education,\"Education Digest: Essential Readings Condensed for Quick Review, Mar. 2011",
+            "url": null,
+            "docid": 5749
+        },
+        {
+            "id": "67",
+            "title": "Diane Cordell, \"Skype and the Embedded Librarian,\"Library Technology Reports, Feb. 2012",
+            "url": null,
+            "docid": 5750
+        },
+        {
+            "id": "68",
+            "title": "Tim Childers, \"From Social Networking to Academic Networking… A Paradigm Shift,\"Internet@Schools, May-June 2011",
+            "url": null,
+            "docid": 5751
+        },
+        {
+            "id": "68",
+            "title": "Edmodo, \"About Edmodo,\" edmodo.com (accessed Mar. 24, 2015)",
+            "url": null,
+            "docid": 5752
+        },
+        {
+            "id": "70",
+            "title": "Greg Rollett, \"How Musicians Are Using Social Media to Connect with Fans,\" mashable.com, Mar. 12, 2010",
+            "url": null,
+            "docid": 5753
+        },
+        {
+            "id": "71",
+            "title": "Ben Sisario, \"Digital Notes: 50,000 Are Owed Royalties, Agency Says,\" mediacoder.blogs.nytimes.com, Aug. 15, 2012",
+            "url": null,
+            "docid": 5754
+        },
+        {
+            "id": "72",
+            "title": "Ben Sisario, \"The New Rise of a Summer Hit: Tweet It Maybe\" nytimes.com, Aug. 21, 2012",
+            "url": null,
+            "docid": 5755
+        },
+        {
+            "id": "73",
+            "title": "Desiree Adib, \"Pop Star Justin Bieber Is on the Brink of Superstardom,\" abcnews.go.com, Nov. 14, 2009",
+            "url": null,
+            "docid": 5756
+        },
+        {
+            "id": "74",
+            "title": "Zack O’Malley Greenburg, \"Justin Bieber, Venture Capitalist,\"Forbes Asia Magazine, June 4, 2012",
+            "url": null,
+            "docid": 5757
+        },
+        {
+            "id": "75",
+            "title": "National Endowment for the Arts, \"NEA Chairman Rocco Landesman Announces New Report on How Americans Use Electronic Media to Participate in the Arts,\" nea.gov, June 25, 2010",
+            "url": null,
+            "docid": 5758
+        },
+        {
+            "id": "76",
+            "title": "Kaplan Test Prep, \"Kaplan Test Prep Survey: Percentage of College Admissions Officers Who Visit Applicants' Social Networking Pages Continues to Grow — But Most Students Shrug,\" press.kaptest.com, Nov. 20, 2014",
+            "url": null,
+            "docid": 5759
+        },
+        {
+            "id": "77",
+            "title": "Dana Flavelle, \"Worries Follow Rise of Facebook,\" thestar.com, May 4, 2007",
+            "url": null,
+            "docid": 5760
+        },
+        {
+            "id": "78",
+            "title": "Tabitha Whissemore, \"Students Connect through Social Media Project,\" communitycollegetimes.com, Nov. 28, 2011",
+            "url": null,
+            "docid": 5761
+        },
+        {
+            "id": "79",
+            "title": "Olga R. Rodriguez, \"Mexico Tweets Cause Massive Shootout Panic,\" huffingtonpost.com, Sep. 8, 2012",
+            "url": null,
+            "docid": 5762
+        },
+        {
+            "id": "80",
+            "title": "Sam Laird, \"Twitter Troll Who Posted Fake Sandy News Apologizes to Internet,\" mashable.com, Oct. 30, 2012",
+            "url": null,
+            "docid": 5763
+        },
+        {
+            "id": "81",
+            "title": "ConsumerReports.org, \"Facebook & Your Privacy: Who Sees the Data You Share on the Biggest Social Network,\"Consumer Reports, June 2012",
+            "url": null,
+            "docid": 5764
+        },
+        {
+            "id": "82",
+            "title": "Declan McCullagh, \"Feds Snoop on Social-Network Accounts without Warrants,\" news.cnet.com, Sep. 27, 2012",
+            "url": null,
+            "docid": 5765
+        },
+        {
+            "id": "83",
+            "title": "Sheryl Nance-Nash, \"What Insurers Could Do with Your 'Social Media Score,'\" dailyfinance.com, Dec. 12, 2011",
+            "url": null,
+            "docid": 5766
+        },
+        {
+            "id": "84",
+            "title": "Paul A. Kirschner and Aryn C. Karpinski, \"Facebook and Academic Performance,\"Computers in Human Behavior, Nov. 2010",
+            "url": null,
+            "docid": 5767
+        },
+        {
+            "id": "85",
+            "title": "Jimmy Daly, \"How Is Facebook Affecting College Students' Grades [Infographic],\" edtechmagazine.com, July 2, 2012",
+            "url": null,
+            "docid": 5768
+        },
+        {
+            "id": "86",
+            "title": "Leslie Lanir, \"Digital Information Overwhelms and Distracts Students,\" decodedscience.com, Nov. 4, 2012",
+            "url": null,
+            "docid": 5769
+        },
+        {
+            "id": "87",
+            "title": "David Gutierrez, \"Facebook Is Making You Miserable, Scientists Find,\" naturalnews.com, Nov. 29, 2012",
+            "url": null,
+            "docid": 5770
+        },
+        {
+            "id": "88",
+            "title": "Lee Rainie, Amanda Lenhart, and Aaron Smith, \"The Tone of Life on Social Networking Sites,\" pewinternet.org, Feb. 9, 2012",
+            "url": null,
+            "docid": 5771
+        },
+        {
+            "id": "89",
+            "title": "Victoria J. Rideout, Ulla G. Foehr, and Donald F. Roberts, \"Generation M2L Media in the Lives of 8- to 18-Year-Olds,\" kff.org, Jan. 2010",
+            "url": null,
+            "docid": 5772
+        },
+        {
+            "id": "90",
+            "title": "Mark Dolliver, \"Social Networking: A Waste of Time?,\" adweek.com, Oct. 7, 2010",
+            "url": null,
+            "docid": 5773
+        },
+        {
+            "id": "91",
+            "title": "Urs Gasser and John Palfrey, \"Mastering Multitasking,\"Educational Leadership, Mar. 2009",
+            "url": null,
+            "docid": 5774
+        },
+        {
+            "id": "92",
+            "title": "David P. Willis, \"Social Media Games Have Become Big Business,\" usatoday.com, Feb. 24, 2012",
+            "url": null,
+            "docid": 5775
+        },
+        {
+            "id": "93",
+            "title": "Chris Cuomo, \"Rep. Anthony Weiner: 'The Picture Was of Me and I Sent It,'\" abcnews.go.com, June 6, 2011",
+            "url": null,
+            "docid": 5776
+        },
+        {
+            "id": "94",
+            "title": "Raquel Recuero, \"Social Media Discourse: Violence, Olympiads and Our Everyday Life,\" dmlcentral.net, Aug. 23, 2012",
+            "url": null,
+            "docid": 5777
+        },
+        {
+            "id": "95",
+            "title": "K. Wolfling, M. E. Beutel, and K. W. Muller, \"Construction of a Standardized Clinical Interview to Assess Internet Addiction: First Findings Regarding the Usefulness of AICA-C,\"Journal of Addiction Research & Therapy, 2012",
+            "url": null,
+            "docid": 5778
+        },
+        {
+            "id": "96",
+            "title": "Tony Dokoupil, \"Is the Onslaught Making Us Crazy?,\"Newsweek, July 16, 2012",
+            "url": null,
+            "docid": 5779
+        },
+        {
+            "id": "97",
+            "title": "David Derbyshire, \"Social Websites Harm Children's Brains: Chilling Warning to Parents from Top Neuroscientist,\"Daily Mail, Feb. 24, 2009",
+            "url": null,
+            "docid": 5780
+        },
+        {
+            "id": "98",
+            "title": "USC Annenberg School Center for the Digital Future, \"Special Report: America at the Digital Turning Point,\" annenberg.usc.edu, Jan, 2012",
+            "url": null,
+            "docid": 5781
+        },
+        {
+            "id": "99",
+            "title": "Joann Pan, \"Tweets at the Tables? More of Us Mix Social Media and Food,\" mashable.com, Feb. 29, 2012",
+            "url": null,
+            "docid": 5782
+        },
+        {
+            "id": "100",
+            "title": "Barb Dybwad, \"10% of Under 25s Think It’s OK to Text During Sex,\" mashable.com, May 5, 2010",
+            "url": null,
+            "docid": 5783
+        },
+        {
+            "id": "101",
+            "title": "Matt McKinney, \"Gangs Sometimes Fire First Shots Online,\" startribune.com, July 14, 2012",
+            "url": null,
+            "docid": 5784
+        },
+        {
+            "id": "102",
+            "title": "Javelin Strategy & Research, \"2012 Identity Fraud Industry Report: Social Media and Mobile Forming the New Fraud Frontier,\" javelinstrategy.com, 2012",
+            "url": null,
+            "docid": 5785
+        },
+        {
+            "id": "103",
+            "title": "Alexandra Topping, \"Social Networking Sites Fuelling Stalking, Report Warns,\" guardian.co.uk, Feb. 1, 2012",
+            "url": null,
+            "docid": 5786
+        },
+        {
+            "id": "104",
+            "title": "US Army, \"Social Media Roundup: Dangers of Location-Based Social Networking and Geotagging,\" slideshare.net, Feb. 22, 2012",
+            "url": null,
+            "docid": 5787
+        },
+        {
+            "id": "105",
+            "title": "Daniel Hernandez, \"Mexico: Decapitated Woman Mourned by Social Media Website,\" latimes.com, Sep. 25, 2011",
+            "url": null,
+            "docid": 5788
+        },
+        {
+            "id": "106",
+            "title": "ValleyCentral.com, \"Fourth Social Media Murder Reported in Nuevo Laredo,\" valleycentral.com, Nov. 10, 2011",
+            "url": null,
+            "docid": 5789
+        },
+        {
+            "id": "107",
+            "title": "Nucleus Research, \"Facebook: Measuring the Cost to Business of Social Networking,\" nucleusresearch.com, July 2009",
+            "url": null,
+            "docid": 5790
+        },
+        {
+            "id": "108",
+            "title": "GFI Software, \"Social Networking at Work: Thanks, but No Thanks?,\" gfi.com, June 3, 2011",
+            "url": null,
+            "docid": 5791
+        },
+        {
+            "id": "109",
+            "title": "David Schepp, \"Employees Admit Social Media Is a Waste of Their Time [Infographic],\" jobs.aol.com, June 13, 2012",
+            "url": null,
+            "docid": 5792
+        },
+        {
+            "id": "110",
+            "title": "F. Mishna, et al., \"Cyber Bullying Behaviors Among Middle and High School Students,\"American Journal of Orthopsychiatry, July 2010",
+            "url": null,
+            "docid": 5793
+        },
+        {
+            "id": "111",
+            "title": "Kathryn Anderson, \"Workplace Aggression and Violence: Nurses and Midwives Say No,\"Australian Nursing Journal, July 2011",
+            "url": null,
+            "docid": 5794
+        },
+        {
+            "id": "112",
+            "title": "Janis Wolak, David Finkelhor, and Kimberly J. Mitchell, \"How Often Are Teens Arrested for Sexting? Data from a National Sample of Police Cases,\"Pediatrics, Jan. 2012",
+            "url": null,
+            "docid": 5795
+        },
+        {
+            "id": "113",
+            "title": "Nancy V. Gifford, \"Sexting in the USA,\" fosi.org (accessed Dec. 6, 2012)",
+            "url": null,
+            "docid": 5796
+        },
+        {
+            "id": "114",
+            "title": "Ben Weitsenkorn, \"Private Porn Pics Aren’t Private for Long,\" nbcnews.com, Oct. 2012",
+            "url": null,
+            "docid": 5797
+        },
+        {
+            "id": "115",
+            "title": "Stephen Marche, \"Is Facebook Making Us Lonely?,\"Atlantic Monthly, May 2012",
+            "url": null,
+            "docid": 5798
+        },
+        {
+            "id": "116",
+            "title": "National Research Corporation, \"1 in 5 Americans Use Social Media for Health Care Information,\" hcmg.nationalresearch.com, Feb. 28, 2011",
+            "url": null,
+            "docid": 5799
+        },
+        {
+            "id": "117",
+            "title": "Megan Garber, \"Health Blogger Could be Jailed for Giving Health Advice While Unlicensed,\" theatlantic.com, Apr. 24, 2012",
+            "url": null,
+            "docid": 5800
+        },
+        {
+            "id": "118",
+            "title": "Jeffrey Benabio, \"Why Twitter Is Bad for Your Health,\" thedermblog.com, Apr. 6, 2010",
+            "url": null,
+            "docid": 5801
+        },
+        {
+            "id": "119",
+            "title": "Mia Moody, \"New Media-Same Stereotypes: An Analysis of Social Media Depictions of President Barack Obama and Michelle Obama,\"The Journal of New Media & Culture, Summer 2012",
+            "url": null,
+            "docid": 5802
+        },
+        {
+            "id": "120",
+            "title": "Matthew Johnson, \"Facing Online Hate: Preparing Youth to Deal with Hate on the Internet,\" medialiteracyweek.ca (accessed Dec. 6, 2012)",
+            "url": null,
+            "docid": 5803
+        },
+        {
+            "id": "121",
+            "title": "Heidi Beirich and Laurie Wood, \"Robert Killian’s Years of Posing as a Neo-Nazi Biker Cost Him Dearly,\" splcenter.org, Fall 2012",
+            "url": null,
+            "docid": 5804
+        },
+        {
+            "id": "122",
+            "title": "Ryan Owens and Chris Murphey, \"Growing Number of ‘Project X’ Party Copycats Lead to Arrests Nationwide,\" abcnews.go.com, Mar. 17, 2012",
+            "url": null,
+            "docid": 5805
+        },
+        {
+            "id": "123",
+            "title": "NBC News, \"Thousands Descend on Tiny Dutch Town after Facebook Invitation Goes Viral,\" worldnews.nbcnews.com, Sep. 22, 2012",
+            "url": null,
+            "docid": 5806
+        },
+        {
+            "id": "124",
+            "title": "CBS Local, \"USC Study Examines Whether Social Networking Exacerbates Risky Behavior Among Teens,\" losangeles.cbslocal.com, Apr. 2, 2012",
+            "url": null,
+            "docid": 5807
+        },
+        {
+            "id": "125",
+            "title": "Howard Blume, \"Students’ Online Photos of California Tests Delay Release of Scores,\" latimes.com, July 18, 2012",
+            "url": null,
+            "docid": 5808
+        },
+        {
+            "id": "126",
+            "title": "Sal Bommarito, \"New York City High School Cheating Scandal Sparks Fear That Facebook Can Be Used to Cheat,\" policymic.com, July 2012",
+            "url": null,
+            "docid": 5809
+        },
+        {
+            "id": "127",
+            "title": "ExactTarget, \"Digital Morning Report,\" exacttarget.com, 2010",
+            "url": null,
+            "docid": 5810
+        },
+        {
+            "id": "128",
+            "title": "Jim Giles, \"The Oracle of Facebook,\"New Scientist, Apr. 28, 2012",
+            "url": null,
+            "docid": 5811
+        },
+        {
+            "id": "129",
+            "title": "Lindsey Stiner, \"Is Social Media to Blame for Inappropriate Student-Teacher Relationships?,\" connectamarillo.com, Oct. 16, 2012",
+            "url": null,
+            "docid": 5812
+        },
+        {
+            "id": "130",
+            "title": "Abbie Alford, \"Social Media Fueling Teacher & Student Sexual Relationships,\" fox23.com, May 24, 2012",
+            "url": null,
+            "docid": 5813
+        },
+        {
+            "id": "131",
+            "title": "I am Baker, \"The Ugly Truth about Instagram,\" iambaker.net, June 26, 2012",
+            "url": null,
+            "docid": 5814
+        },
+        {
+            "id": "132",
+            "title": "Angela West, \"What You Should Know about Pinterest and Copyright,\" pcworld.com, Feb. 26, 2012",
+            "url": null,
+            "docid": 5815
+        },
+        {
+            "id": "133",
+            "title": "Nancy Messieh, \"How Not to Run an Instagram Account: Vogue Spain Caught Stealing from Well-Known Street Photographer,\" thenextweb.com, Apr. 22, 2012",
+            "url": null,
+            "docid": 5816
+        },
+        {
+            "id": "134",
+            "title": "Michael J. Bugeja, \"Facing the Facebook,\" chronicle.com, Jan. 23. 2006",
+            "url": null,
+            "docid": 5817
+        },
+        {
+            "id": "135",
+            "title": "Janet Kornblum and Mary Beth Marklein, \"What You Say Online Could Haunt You,\" usatoday.com, Mar. 8, 2006",
+            "url": null,
+            "docid": 5818
+        },
+        {
+            "id": "136",
+            "title": "Matt Raymond, \"How Tweet It Is!: Library Acquires Entire Twitter Archive,\" blogs.loc.gov, Apr. 14, 2010",
+            "url": null,
+            "docid": 5819
+        },
+        {
+            "id": "137",
+            "title": "Shendl Tuchman, \"Divorce and Social Networking Sites,\" goodtherapy.org, Aug. 27, 2012",
+            "url": null,
+            "docid": 5820
+        },
+        {
+            "id": "138",
+            "title": "Rob Waugh, \"Beware the New Computer Virus Spreading Via Chat Messaging Window on Facebook,\" dailymail.co.uk, May 21, 2012",
+            "url": null,
+            "docid": 5821
+        },
+        {
+            "id": "139",
+            "title": "Kyle Christie, \"Going Viral: Using Social Media to Publicise Academic Research,\" guardian.co.uk, Apr. 11, 2011",
+            "url": null,
+            "docid": 5822
+        },
+        {
+            "id": "140",
+            "title": "Emily Johns, \"Dangers Faced by Journalists Extend to Social Media Users,\" silha.umn.edu, Fall 2011",
+            "url": null,
+            "docid": 5823
+        },
+        {
+            "id": "141",
+            "title": "Martha Payne, \"Martha Payne: Diary of a Girl Who Fed the Starving,\" telegraph.co.uk, Oct. 4, 2012",
+            "url": null,
+            "docid": 5824
+        },
+        {
+            "id": "142",
+            "title": "Aaron Smith, Laurie Segall, and Stacy Cowley, \"Facebook Reaches One Billion Users,\" cnnmoney.com, Oct. 4, 2012",
+            "url": null,
+            "docid": 5825
+        },
+        {
+            "id": "143",
+            "title": "Ashlee Vance, \"Facebook: The Making of 1 Billion Users,\" businessweek.com, Oct. 4, 2012",
+            "url": null,
+            "docid": 5826
+        },
+        {
+            "id": "144",
+            "title": "Semiocast, \"Brazil Becomes 2nd Country on Twitter, Japan 3rd Netherlands Most Active Country,\" semiocast.com, Jan. 1, 2012",
+            "url": null,
+            "docid": 5827
+        },
+        {
+            "id": "145",
+            "title": "Chenda Ngak, \"Pinterest CEO Says Key to Success Was Marketing, Not Engineering,\" cbsnews.com, Oct. 22, 2012",
+            "url": null,
+            "docid": 5828
+        },
+        {
+            "id": "146",
+            "title": "Sean Ludwig, \"Pinterest Now the Third Most Popular Social Network After Facebook & Twitter,\" venturebeat.com, Apr. 5, 2012",
+            "url": null,
+            "docid": 5829
+        },
+        {
+            "id": "147",
+            "title": "Nielsen Wire, \"Social Media Report 2012: Social Media Comes of Age,\" blog.nielsen.com, Dec. 3, 2012",
+            "url": null,
+            "docid": 5830
+        },
+        {
+            "id": "148",
+            "title": "Seer Interactive, \"How Do They Make Money?,\" seerinteractive.com (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5831
+        },
+        {
+            "id": "149",
+            "title": "Tineka Smith, \"Social Media Revenue Predicted to Reach $16.9bn in 2012,\" cbronline.com, July 25, 2012",
+            "url": null,
+            "docid": 5832
+        },
+        {
+            "id": "150",
+            "title": "Gartner, \"Gartner Says Worldwide Social Media Revenue Forecast to Reach $16.9 Billion in 2012,\" gartner.com, July 25, 2012",
+            "url": null,
+            "docid": 5833
+        },
+        {
+            "id": "151",
+            "title": "Pew Research Center, \"Internet’s Broader Role in Campaign 2008: Social Networking and Online Videos Take Off,\" people-press.org, Jan. 11, 2008",
+            "url": null,
+            "docid": 5834
+        },
+        {
+            "id": "152",
+            "title": "Jeremiah Owyang, \"Snapshot of Presidential Candidate Social Networking Stats: Nov 3, 2008,\" web-strategist.com, Nov. 3, 2008",
+            "url": null,
+            "docid": 5835
+        },
+        {
+            "id": "153",
+            "title": "Vivek Kundra and Katie Stanton, \"New Technologies and Participation,\" whitehouse.gov, June 12, 2009",
+            "url": null,
+            "docid": 5836
+        },
+        {
+            "id": "154",
+            "title": "White House Office of the Press Secretary, \"Weekly Address: President Obama Announces Steps to Reform Government and Promote Fiscal Discipline,\" whitehouse.gov, Apr. 25, 2009",
+            "url": null,
+            "docid": 5837
+        },
+        {
+            "id": "155",
+            "title": "Audrey Hudson, \"Exclusive: W.H. Collects Web Users’ Data Without Notice,\" washingtontimes.com, Sep. 16, 2009",
+            "url": null,
+            "docid": 5838
+        },
+        {
+            "id": "156",
+            "title": "Liz Gannes, \"Twitter CEO Dick Costolo: We’re Not a Media Company. We’re in the Media Business.,\" allthingsd.com, Jan. 30, 2012",
+            "url": null,
+            "docid": 5839
+        },
+        {
+            "id": "157",
+            "title": "Twitter Blog, \"One Hundred Million Voices,\" blog.twitter.com, Sep. 8, 2011",
+            "url": null,
+            "docid": 5840
+        },
+        {
+            "id": "158",
+            "title": "Barack Obama, twitter.com, Nov. 6, 2012",
+            "url": null,
+            "docid": 5841
+        },
+        {
+            "id": "159",
+            "title": "Shea Bennett, \"Revealed: Twitter’s 10 Most Retweeted Tweets of All Time,\" mediabistro.com, Sep. 27, 2012",
+            "url": null,
+            "docid": 5842
+        },
+        {
+            "id": "160",
+            "title": "Tim Lister, \"Tunisian Protests Fueled by Social Media Networks,\" cnn.com, Jan. 12, 2011",
+            "url": null,
+            "docid": 5843
+        },
+        {
+            "id": "161",
+            "title": "Garry Blight, Sheila Pulham, and Paul Torpey, \"Arab Spring: An Interactive Timeline of Middle East Protests,\" guardian.co.uk, Jan. 5, 2012",
+            "url": null,
+            "docid": 5844
+        },
+        {
+            "id": "162",
+            "title": "ENTRTNMNT, \"Hillary Clinton Supports Twitter Use in Iran,\" youtube.com, June 18, 2009",
+            "url": null,
+            "docid": 5845
+        },
+        {
+            "id": "163",
+            "title": "Michael Falcone, \"In Iraq: To Twitter or Not to Twitter?,\" thecaucus.blogs.nytimes.com, Feb. 9, 2009",
+            "url": null,
+            "docid": 5846
+        },
+        {
+            "id": "164",
+            "title": "Aaron Gouveia, \"Wasting Time at Work,\" salary.com (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5847
+        },
+        {
+            "id": "165",
+            "title": "Illinois General Assembly, \"HB1314,\" ilga.gov, Aug. 2009",
+            "url": null,
+            "docid": 5848
+        },
+        {
+            "id": "166",
+            "title": "Internet Safety Technical Task Force, \"Enhancing Child Safety & Online Technologies,\" cyber.law.harvard.edu, Dec. 31, 2008",
+            "url": null,
+            "docid": 5849
+        },
+        {
+            "id": "167",
+            "title": "Martin O’Malley, \"Chapter 233: Labor and Employment – User Name and Password Privacy Protection and Exclusions,\" mlis.state.md.us, May 2, 2012",
+            "url": null,
+            "docid": 5850
+        },
+        {
+            "id": "168",
+            "title": "Illinois General Assembly, \"Bill Status of HB3782,\" ilga.gov (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5851
+        },
+        {
+            "id": "169",
+            "title": "Jerry Brown, twitter.com, Sep. 27, 2012",
+            "url": null,
+            "docid": 5852
+        },
+        {
+            "id": "170",
+            "title": "State of Delaware, \"House Bill # 309 w/HA 1 + SA 2 + HA 2,\" legis.delaware.gov, July 20, 2012",
+            "url": null,
+            "docid": 5853
+        },
+        {
+            "id": "171",
+            "title": "National Conference of State Legislatures, \"Employer Access to Social Media Usernames and Passwords,\" ncsl.org (accessed Dec. 5, 2012)",
+            "url": null,
+            "docid": 5854
+        },
+        {
+            "id": "172",
+            "title": "Metro, \"Instagram Attracts More Mobile Visitors Than Twitter for First Time,\" metro.co.uk, Sep. 28, 2012",
+            "url": null,
+            "docid": 5855
+        },
+        {
+            "id": "173",
+            "title": "Beth Snyder Bulik, \"Apparently That Text Can't Wait -- Not Even During Sex: Report Reveals Surprising News about Social Media and Its Grip on Our Lives,\" adage.com, May 5, 2010",
+            "url": null,
+            "docid": 5856
+        },
+        {
+            "id": "174",
+            "title": "Pew Research Center, \"Social Networking Fact Sheet,\" pewinternet.org (accessed Mar. 24, 2015)",
+            "url": null,
+            "docid": 5857
+        },
+        {
+            "id": "175",
+            "title": "Zephoria, \"The Top 20 Valuable Facebook Statistics,\" zephoria.com, Feb. 2015",
+            "url": null,
+            "docid": 5858
+        },
+        {
+            "id": "176",
+            "title": "Josh Constine, \"Facebook's Growth Since IPO in 12 Big Numbers,\" techcrunch.com, May 17, 2013",
+            "url": null,
+            "docid": 5859
+        },
+        {
+            "id": "177",
+            "title": "Maeve Duggan, et al., \"Social Media Update 2014,\" pewinternet.org, Jan. 9, 2015",
+            "url": null,
+            "docid": 5860
+        },
+        {
+            "id": "178",
+            "title": "Twitter, \"About,\" twitter.com (accessed Mar. 24, 2015)",
+            "url": null,
+            "docid": 5861
+        },
+        {
+            "id": "179",
+            "title": "Michael Arrington, \"Facebook Just Launched Open Registrations,\" techcrunch.com, Sep. 26, 2006",
+            "url": null,
+            "docid": 5862
+        },
+        {
+            "id": "180",
+            "title": "DJ Saul, \"3 Million Teens Leave Facebook in 3 Years: The 2014 Facebook Demographic Report,\" istrategylabs.com, Jan. 15, 2014",
+            "url": null,
+            "docid": 5863
+        },
+        {
+            "id": "181",
+            "title": "The Nielsen Company, \"The Digital Consumer,\" Nielsen.com, Feb. 2014",
+            "url": null,
+            "docid": 5864
+        },
+        {
+            "id": "182",
+            "title": "Reynol Junco, \"Student Class Standing, Facebook Use, and Academic Performance,\"Journal of Applied Developmental Psychology, Jan. 2015",
+            "url": null,
+            "docid": 5865
+        },
+        {
+            "id": "183",
+            "title": "Ruffalo Noel Levitz, \"2014 E-Recruiting Practices Report for Four-Year and Two-Year Institutions,\" noellevitz.com, 2014",
+            "url": null,
+            "docid": 5866
+        },
+        {
+            "id": "184",
+            "title": "Robert M. Pressman, et al., \"Examining the Interface of Family and Personal Traits, Media, and Academic Imperatives Using the Learning Habit Study,\"American Journal of Family Therapy, Sep. 2, 2014",
+            "url": null,
+            "docid": 5867
+        },
+        {
+            "id": "185",
+            "title": "Reuters, \"Maryland Students Accused of Using Twitter to Cheat on Test,\" reuters.com, Mar. 23, 2015",
+            "url": null,
+            "docid": 5868
+        },
+        {
+            "id": "186",
+            "title": "Carol Robinson, \"Student-Teacher Sex: Are More Female Teachers Being Charged?,\" al.com, Mar. 4, 2014",
+            "url": null,
+            "docid": 5869
+        },
+        {
+            "id": "187",
+            "title": "Associated Press, \"Teacher-Student Sex Investigations Rising in Texas, 74 New Cases since Sept.,\" ksat.com, Mar. 16, 2015",
+            "url": null,
+            "docid": 5870
+        },
+        {
+            "id": "188",
+            "title": "Merrill Hope, \"41% Increase in Texas Teacher-Student Sexual Misconduct Cases,\" breitbart.com, Mar. 19, 2015",
+            "url": null,
+            "docid": 5871
+        },
+        {
+            "id": "189",
+            "title": "Pew Research Center, \"Social Media Fact Sheet,\" pewresearch.org, June 12, 2019",
+            "url": null,
+            "docid": 5872
+        },
+        {
+            "id": "190",
+            "title": "Lars Willnat and David H. Weaver, \"The American Journalist in the Digital Age: Key Findings,” news.indiana.edu, 2014",
+            "url": null,
+            "docid": 5873
+        },
+        {
+            "id": "191",
+            "title": "Michael Barthel, et al., \"The Evolving Role of News on Twitter and Facebook,\" journalism.org, July 14, 2015",
+            "url": null,
+            "docid": 5874
+        },
+        {
+            "id": "192",
+            "title": "Nic Newman, et al., \"Reuters Institute Digital News Report 2016 Tracking the Future of News,\" reutersinstitute.politics.ox.ac.uk, 2016",
+            "url": null,
+            "docid": 5875
+        },
+        {
+            "id": "193",
+            "title": "BBC Trending \"How the Paris Attacks Unfolded on Social Media,\" bbc.com, Nov. 17, 2015",
+            "url": null,
+            "docid": 5876
+        },
+        {
+            "id": "194",
+            "title": "Nichole Tucker, \"Study Shows That Twitter Broke the Ebola Outbreak Story Before Health Officials,\" inquisitr.com, June 3, 2015",
+            "url": null,
+            "docid": 5877
+        },
+        {
+            "id": "195",
+            "title": "Sam Thielman, \"Twitter Breaks News of the Boston Marathon Explosions: Injuries Reported, Photos Disseminated, Google Launches Person Finder,\" adweek.com, Apr. 15, 2013",
+            "url": null,
+            "docid": 5878
+        },
+        {
+            "id": "196",
+            "title": "LexisNexis, \"Social Media Use in Law Enforcement: Crime Prevention and Investigative Activities Continue to Drive Usage,\" lexisnexis.com, Nov. 2014",
+            "url": null,
+            "docid": 5879
+        },
+        {
+            "id": "197",
+            "title": "Alex Murray \"How Messaging and Social Apps Helped Convict Adam Johnson,\" bbc.com, Mar. 24, 2016",
+            "url": null,
+            "docid": 5880
+        },
+        {
+            "id": "198",
+            "title": "Anna Orso \"This Tweet May Be Used against You: Kathryn Knott, Social Media and Criminal Justice in 2015,\" billypenn.com, Dec. 22, 2015",
+            "url": null,
+            "docid": 5881
+        },
+        {
+            "id": "199",
+            "title": "McClatchy-Tribune News Service \"More Departments Using Facebook to Catch Criminals,\" policeone.com, May 14, 2016",
+            "url": null,
+            "docid": 5882
+        },
+        {
+            "id": "201",
+            "title": "Amanda Lenhart, et al., \"Teens, Technology & Friendships: Video Games, Social Media and Mobile Phones Play a Role in How Teens Meet and Interact with Friends,\" pewinternet.org, Aug. 2015",
+            "url": null,
+            "docid": 5883
+        },
+        {
+            "id": "202",
+            "title": "Pew Research Center, \"Women and Leadership,\" pewsocialtrends.org, Jan. 14, 2015",
+            "url": null,
+            "docid": 5884
+        },
+        {
+            "id": "203",
+            "title": "Rachel Hyde, \"Pinterest and the Male Market: How to Make a Move,\" investopedia.com, Jan. 26, 2016",
+            "url": null,
+            "docid": 5885
+        },
+        {
+            "id": "204",
+            "title": "Cooper Smith, \"Here's Why Instagram's Demographics Are So Attractive to Brands,\" businessinsider.com, Aug. 17, 2014",
+            "url": null,
+            "docid": 5886
+        },
+        {
+            "id": "204",
+            "title": "Douglas MacMillan, \"Snapchat CEO: 70% of Users Are Women,\" blogs.wsj.com, Nov. 20, 2013",
+            "url": null,
+            "docid": 5887
+        },
+        {
+            "id": "205",
+            "title": "JD Rucker, \"Facebook Has More Female Users but Much More Male Journalists Covering It,\" techi.com, Mar. 8, 2013",
+            "url": null,
+            "docid": 5888
+        },
+        {
+            "id": "206",
+            "title": "Jobvite, \"The Jobvite Recruiter Nation Survey 2015,\" jobvite.com, 2015",
+            "url": null,
+            "docid": 5889
+        },
+        {
+            "id": "207",
+            "title": "JobVite, \"Americans Uncertain About the Future of Work, 2016 Jobvite Job Seeker Nation Shows,\" jobvite.com, 2016",
+            "url": null,
+            "docid": 5890
+        },
+        {
+            "id": "208",
+            "title": "Jobvite, \"Job Seeker Nation Study 2015,\" jobvite.com, 2015",
+            "url": null,
+            "docid": 5891
+        },
+        {
+            "id": "209",
+            "title": "LookSharp, \"State of College Hiring 2015,\" usatcollege.files.wordpress.com, 2015",
+            "url": null,
+            "docid": 5892
+        },
+        {
+            "id": "210",
+            "title": "Refuel Agency, \"2015 College Explorer,\" research.refuelagency.com, Jan. 2016",
+            "url": null,
+            "docid": 5893
+        },
+        {
+            "id": "211",
+            "title": "Rubina Madan Fillion, \"The Five Biggest Social Media Movements of 2014,\" blogs.wsj.com, Dec. 3, 2014",
+            "url": null,
+            "docid": 5894
+        },
+        {
+            "id": "212",
+            "title": "Frank, \"Movements That Defined 2015,\" frank.jou.ufl.edu, Dec. 31, 2015",
+            "url": null,
+            "docid": 5895
+        },
+        {
+            "id": "213",
+            "title": "Facebook, \"Facebook Reports First Quarter 2016 Results and Announces Proposal for New Class of Stock,\" investor.fb.com, Apr. 27, 2016",
+            "url": null,
+            "docid": 5896
+        },
+        {
+            "id": "214",
+            "title": "Ugochi Onwuanibe, \"The Global Impact of Social Media,\" themarketmoghul.com, Sep. 7, 2015",
+            "url": null,
+            "docid": 5897
+        },
+        {
+            "id": "215",
+            "title": "Andrew Perrin, \"Social Media Usage 2005-2015,\" pewinternet.org, Oct. 8, 2015",
+            "url": null,
+            "docid": 5898
+        },
+        {
+            "id": "216",
+            "title": "PlanetHunters, \"A New Paper and New Planet Discoveries,\" blog.planethunters.org, Oct. 30, 2014",
+            "url": null,
+            "docid": 5899
+        },
+        {
+            "id": "217",
+            "title": "Pencils of Promise, \"Annual Report 2015,\" pencilsofpromise.org, 2015",
+            "url": null,
+            "docid": 5900
+        },
+        {
+            "id": "218",
+            "title": "ALS Association, \"The ALS Association Expresses Sincere Gratitude to Over Three Million Donors,\" alsa.org, Aug. 29, 2014",
+            "url": null,
+            "docid": 5901
+        },
+        {
+            "id": "219",
+            "title": "Nora Ganim Barnes, Ava M. Lescault, and Glenn Holmes, \"The 2015 Fortune 500 and Social Media: Instagram Gains, Blogs Lose,\" umassd.edu, 2015",
+            "url": null,
+            "docid": 5902
+        },
+        {
+            "id": "220",
+            "title": "TopRank Marketing News, \"TopRank Fast Facts: 50+ Useful Consumer Insights & Statistics for Online Marketers,\" toprankmarketing.com, May 20, 2013",
+            "url": null,
+            "docid": 5903
+        },
+        {
+            "id": "221",
+            "title": "Rob Harris, \"What Are the Benefits for Customers of Major Companies Using Social Media?,\" smallbusiness.chron.com (accessed June 2, 2016)",
+            "url": null,
+            "docid": 5904
+        },
+        {
+            "id": "222",
+            "title": "Edmodo, \"About Edmodo,\" Edmodo.com (accessed June 2, 2016)",
+            "url": null,
+            "docid": 5905
+        },
+        {
+            "id": "223",
+            "title": "Laura Woods, \"Here's Justin Bieber's Net Worth on His 22nd Birthday,\" time.com, Feb. 29, 2016",
+            "url": null,
+            "docid": 5906
+        },
+        {
+            "id": "224",
+            "title": "Facebook, \"Safety Check,\" facebook.com (accessed June 2, 2016)",
+            "url": null,
+            "docid": 5907
+        },
+        {
+            "id": "225",
+            "title": "Deepa Seetharaman, \"Paris Attacks Push Facebook, Twitter Users to New Tools,\" wsj.com, Nov. 14, 2015",
+            "url": null,
+            "docid": 5908
+        },
+        {
+            "id": "226",
+            "title": "Jordan Valinsky, \"Australians Just Showed the World Exactly How to Respond to Terrorism with #IllRideWithYou,\" mic.com, Dec. 15, 2014",
+            "url": null,
+            "docid": 5909
+        },
+        {
+            "id": "227",
+            "title": "Tom Rosenstiel, et al., \"Twitter and the News: How People Use the Social Network to Learn About the World,\" americanpressinstitute.org, Sep. 1, 2015",
+            "url": null,
+            "docid": 5910
+        },
+        {
+            "id": "228",
+            "title": "Mary Madden, \"Public Perceptions of Privacy and Security in the Post-Snowden Era,\" pewinternet.org, Nov. 12, 2014",
+            "url": null,
+            "docid": 5911
+        },
+        {
+            "id": "229",
+            "title": "Mary Madden, \"Privacy Management on Social Media Sites,\" pewinternet.org, Feb. 24, 2012",
+            "url": null,
+            "docid": 5912
+        },
+        {
+            "id": "230",
+            "title": "Facebook, \"Government Requests Report,\" govtrequests.facebook.com (accessed June 8, 2016)",
+            "url": null,
+            "docid": 5913
+        },
+        {
+            "id": "231",
+            "title": "Twitter, \"Transparency Report: Information Requests – United States,\" transparency.twitter.com (accessed June 8, 2016)",
+            "url": null,
+            "docid": 5914
+        },
+        {
+            "id": "232",
+            "title": "Glenn Greenwald, \"XKeyscore: NSA Tool Collects 'Nearly Everything a User Does on the Internet',\" theguardian.com, July 31, 2013",
+            "url": null,
+            "docid": 5915
+        },
+        {
+            "id": "233",
+            "title": "Insurance Quotes, \"Your Social Media Could Affect Your Insurance Rates,\" insurancequotes.org (accessed June 8, 2016)",
+            "url": null,
+            "docid": 5916
+        },
+        {
+            "id": "234",
+            "title": "Louis-Philippe Beland and Richard Murphy, \"Ill Communication: Technology, Distraction & Student Performance,\" cep.lse.ac.uk, May 2015",
+            "url": null,
+            "docid": 5917
+        },
+        {
+            "id": "235",
+            "title": "Common Sense Media, \"The Common Sense Census: Media Use by Tweens and Teens,\" commonsensemedia.org, 2015",
+            "url": null,
+            "docid": 5918
+        },
+        {
+            "id": "236",
+            "title": "Amada Lenhart, \"Chapter 5: Conflict, Friendships and Technology,\" pewinternet.org, Aug. 6, 2015",
+            "url": null,
+            "docid": 5919
+        },
+        {
+            "id": "237",
+            "title": "Russell B. Clayton, Alexander Nagurney, and Jessica R. Smith, \"Cyberpsychology, Behavior, and Social Networking,\" online.liebertpub.com, Oct. 2013",
+            "url": null,
+            "docid": 5920
+        },
+        {
+            "id": "238",
+            "title": "Russell B. Clayton, \"The Third Wheel: The Impact of Twitter Use on Relationship Infidelity and Divorce,\" cs.vu.nl, 2014",
+            "url": null,
+            "docid": 5921
+        },
+        {
+            "id": "239",
+            "title": "Jason Mander, \"Daily Time Spent on Social Networks Rises to 1.72 Hours,\" globalwebindex.net, Jan. 26, 2015",
+            "url": null,
+            "docid": 5922
+        },
+        {
+            "id": "240",
+            "title": "International Social Games Association, \"About Social Games,\" i-sga.org (accessed June 15, 2016)",
+            "url": null,
+            "docid": 5923
+        },
+        {
+            "id": "241",
+            "title": "Kimberlee Morrison, \"52% of Recruiters Check Social Media During the Hiring Process [Infographic],\" adweek.com, Mar. 24, 2015",
+            "url": null,
+            "docid": 5924
+        },
+        {
+            "id": "242",
+            "title": "Richard Sandomir, \"Curt Schilling, ESPN Analyst, Is Fired Over Offensive Social Media Post,\" nytimes.com, Apr. 20, 2016",
+            "url": null,
+            "docid": 5925
+        },
+        {
+            "id": "243",
+            "title": "Liu Yi Lin, et al., \"Association Between Social Media Use and Depression Among U.S. Young Adults,\" ncbi.nlm.nih.gov, Apr. 2016",
+            "url": null,
+            "docid": 5926
+        },
+        {
+            "id": "244",
+            "title": "Cecilie Schou Andreassen, Ståle Pallesen, and Mark D. Griffiths, \"The Relationship Between Addictive Use of Social Media, Narcissism, and Self-Esteem: Findings from a Large National Survey,\" researchgate.net, Feb. 2016",
+            "url": null,
+            "docid": 5927
+        },
+        {
+            "id": "245",
+            "title": "Office for National Statistics, \"Insights into Children's Mental Health and Well-Being,\" ons.gov.uk, Oct. 20, 2015",
+            "url": null,
+            "docid": 5928
+        },
+        {
+            "id": "246",
+            "title": "Kostadin Kushlev, Jason Proulx, and Elizabeth W. Dunn, \"'Silence Your Phones': Smartphone Notifications Increase Inattention and Hyperactivity Symptoms,\" researchgate.net, 2016",
+            "url": null,
+            "docid": 5929
+        },
+        {
+            "id": "247",
+            "title": "University of North Carolina at Chapel Hill, \"Overusing Social Media as an Adolescent May Hurt Your Love Life Later On,\" uncnews.unc.edu, June 21, 2016",
+            "url": null,
+            "docid": 5930
+        },
+        {
+            "id": "248",
+            "title": "Conor Gallagher, \"Man Jailed After Having Sex with Girl (15) He Groomed Using Fake Social Media Profile,\" independent.ie, Jan. 12, 2016",
+            "url": null,
+            "docid": 5931
+        },
+        {
+            "id": "249",
+            "title": "Callum Jones, \"Man Jailed for Six Years After He Groomed Girls Online and Offered Money for Sex,\" northamptonchron.co.uk, Feb, 23, 2016",
+            "url": null,
+            "docid": 5932
+        },
+        {
+            "id": "250",
+            "title": "Ray Surette, \"Social Networks Set Off a 'Performance Crime' Spree,\" newsweek.com, Jan. 30, 2016",
+            "url": null,
+            "docid": 5933
+        },
+        {
+            "id": "251",
+            "title": "Ed Smith, \"Social Media and Crime,\" instantcheckmate.com, Aug. 21, 2013",
+            "url": null,
+            "docid": 5934
+        },
+        {
+            "id": "252",
+            "title": "SYRIA:Direct, \"Islamic State Executes Female Journalist in Raqqa,\" syriadirect.org, Jan. 4, 2016",
+            "url": null,
+            "docid": 5935
+        },
+        {
+            "id": "253",
+            "title": "Hawes Spencer, Sheryl Gay Stolberg, and Richard Perez-Pena, \"Concerns over Social Media Link to Virginia Girl's Killing,\" nytimes.com, Feb. 1, 2016",
+            "url": null,
+            "docid": 5936
+        },
+        {
+            "id": "254",
+            "title": "Ellen Barry and Maher Sattar, \"Bangladesh Activist Is Killed after Criticizing Militants,\" nytimes.com, Apr. 7, 2016",
+            "url": null,
+            "docid": 5937
+        },
+        {
+            "id": "255",
+            "title": "Kenneth Olmstead, Cliff Lampe, and Nicole B. Ellison, \"Social Media and the Workplace,\" pewinternet.org, June 22, 2016",
+            "url": null,
+            "docid": 5938
+        },
+        {
+            "id": "256",
+            "title": "Society for Human Resource Management, \"Does 24-Hour Connectedness Create Feelings of Guilt?,\" shrm.org, Apr. 23, 2015",
+            "url": null,
+            "docid": 5939
+        },
+        {
+            "id": "257",
+            "title": "Alicia Compton and Catherine O'Flynn, \"Employment Snapshot 2016: Social Media in the Workplace,\" williamfry.com, 2016",
+            "url": null,
+            "docid": 5940
+        },
+        {
+            "id": "258",
+            "title": "Cox, \"2014 Teen Internet Safety Survey,\" cox.com, 2014",
+            "url": null,
+            "docid": 5941
+        },
+        {
+            "id": "259",
+            "title": "Statistic Brain, \"Cyberbullying / Bullying Statistics,\" statisticbrain.com (accessed July 13, 2016)",
+            "url": null,
+            "docid": 5942
+        },
+        {
+            "id": "260",
+            "title": "Sameer Hinduja and Justin W. Patchin, \"State Cyberbullying Laws,\" cyberbullying.org, Jan. 2016",
+            "url": null,
+            "docid": 5943
+        },
+        {
+            "id": "261",
+            "title": "DoSomething.org, \"11 Facts About Sexting,\" dosomething.org (accessed July 13, 2016)",
+            "url": null,
+            "docid": 5944
+        },
+        {
+            "id": "262",
+            "title": "Sameer Hinduja and Justin W. Patchin, \"State Sexting Laws,\" cyberbullying.org, July 2015",
+            "url": null,
+            "docid": 5945
+        },
+        {
+            "id": "263",
+            "title": "Ryan J. Reilly, \"Domestic Terrorists Organizing Online Are 'Real Threat,' DOJ Warns,\" huffingtonpost.com, Oct. 14, 2015",
+            "url": null,
+            "docid": 5946
+        },
+        {
+            "id": "264",
+            "title": "Jamie Bartlett, Jeremy Reffin, Noelle Rumball, and Sarah Williamson, \"Anti-Social Media,\" demos.co.uk, Feb. 2014",
+            "url": null,
+            "docid": 5947
+        },
+        {
+            "id": "265",
+            "title": "David Martin Davies, \"Dramatic Increase of Improper Student-Teacher Relationships in Texas,\" houstonpublicmedia.org, Oct. 3, 2016",
+            "url": null,
+            "docid": 5948
+        },
+        {
+            "id": "266",
+            "title": "Kaplan Test Prep, \"Kaplan Test Prep Survey: College Admissions Officers Say Social Media Increasingly Affects Applicants' Chances,\" press.kaptest.com, Feb. 10, 2017",
+            "url": null,
+            "docid": 5949
+        },
+        {
+            "id": "267",
+            "title": "Andrew McGill, \"Can Twitter Fit Inside the Library of Congress?,\" theatlantic.com, Aug. 4, 2016",
+            "url": null,
+            "docid": 5950
+        },
+        {
+            "id": "268",
+            "title": "American Academy of Matrimonial Lawyers (AAML), \"Big Surge in Social Networking Evidence Says Survey of Nation's Top Divorce Lawyers,\" aaml.org, Feb. 10, 2010",
+            "url": null,
+            "docid": 5951
+        },
+        {
+            "id": "269",
+            "title": "Hunt Allcott and Matthew Gentzkow, \"Social Media and Fake News in the 2016 Election,\" web.stanford.edu, Jan. 2017",
+            "url": null,
+            "docid": 5952
+        },
+        {
+            "id": "270",
+            "title": "Doreen McCallister, \"Snapchat Parent's Stock Soars by 50 Percent on First Day of Trading,\" npr.org, Mar. 2, 2017",
+            "url": null,
+            "docid": 5953
+        },
+        {
+            "id": "271",
+            "title": "Michael Gove and Kai Diekmann, \"Full Transcript of Interview with Donald Trump,\" thetimes.co.uk, Jan. 16, 2017",
+            "url": null,
+            "docid": 5954
+        },
+        {
+            "id": "272",
+            "title": "Richard Gray, \"Lies, Propaganda and Fake News: A Challenge for Our Age,\" bbc.com, Mar. 1, 2017",
+            "url": null,
+            "docid": 5955
+        },
+        {
+            "id": "273",
+            "title": "BBC, \"Pizzagate: Gunman Fires in Restaurant at Centre of Conspiracy,\" bbc.com, Dec. 5, 2016",
+            "url": null,
+            "docid": 5956
+        },
+        {
+            "id": "274",
+            "title": "Maeve Duggan, et al., \"Demographics of Key Social Networking Platforms,\" pewinternet.org, Jan. 9, 2015",
+            "url": null,
+            "docid": 5957
+        },
+        {
+            "id": "275",
+            "title": "Rob Price, \"Facebook's New Video Business Is Awash with Copyright Infringement and Celebrities Are Some of the Biggest Offenders, \" businessinsider.com, May 6, 2015",
+            "url": null,
+            "docid": 5958
+        },
+        {
+            "id": "276",
+            "title": "James Estrin, \"Haitian Photographer Wins Major U.S. Copyright Victory,\" lens.blogs.nytimes.com, Nov. 23, 2013",
+            "url": null,
+            "docid": 5959
+        },
+        {
+            "id": "277",
+            "title": "Nicole Martinez, \"Video Creators Are Losing Millions from Facebook Video Posts,\" artlawjournal.com, Sep. 3, 2015",
+            "url": null,
+            "docid": 5960
+        },
+        {
+            "id": "278",
+            "title": "Soroush Vosoughi, Deb Roy, Sinan Aral, \"The Spread of True and False News Online,\" Science, Mar. 2018",
+            "url": null,
+            "docid": 5961
+        },
+        {
+            "id": "279",
+            "title": "United States of America v. Internet Research Agency LLC, et al., justice.gov, Feb. 16, 2018",
+            "url": null,
+            "docid": 5962
+        },
+        {
+            "id": "280",
+            "title": "Alyssa Newcomb, \"How Parkland's Social Media-Savvy Teens Took Back the Internet — and the Gun Control Debate,\" nbc.com, Feb. 22, 2018",
+            "url": null,
+            "docid": 5963
+        },
+        {
+            "id": "281",
+            "title": "Michelle Cottle, \"How Parkland Students Changed the Gun Debate,\" theatlantic.com, Feb. 28, 2018",
+            "url": null,
+            "docid": 5964
+        },
+        {
+            "id": "282",
+            "title": "German Lopez, \"It's Official: March for Our Lives Was One of the Biggest Youth Protests since the Vietnam War,\" vox.com, Mar. 26, 2018",
+            "url": null,
+            "docid": 5965
+        },
+        {
+            "id": "283",
+            "title": "Katanga Johnson, \"'Vote Them Out!' - Thousands Register to Vote at U.S. Gun-Control Marches,\" reuters.com, Mar. 24, 2018",
+            "url": null,
+            "docid": 5966
+        },
+        {
+            "id": "284",
+            "title": "New York Times, \"Facebook's Zuckerberg Braces for Two Days of Grueling Capitol Hill Questioning,\" nytimes.com, Apr. 10, 2018",
+            "url": null,
+            "docid": 5967
+        },
+        {
+            "id": "285",
+            "title": "Joseph Weber, \"Facebook's Zuckerberg Braces for Two Days of Grueling Capitol Hill Questioning,\" foxnews.com, Apr. 10, 2018",
+            "url": null,
+            "docid": 5968
+        },
+        {
+            "id": "286",
+            "title": "Editorial Team, \"How Much Time Do People Spend on Social Media in 2019?,\" famemass.com, Aug. 5, 2019",
+            "url": null,
+            "docid": 5969
+        },
+        {
+            "id": "287",
+            "title": "Kaplan Test Prep, \"College Admissions: The Complete Guide to Social Media,\" kaptest.com, July 31, 2018",
+            "url": null,
+            "docid": 5970
+        },
+        {
+            "id": "288",
+            "title": "Monica Anderson and Jingjing Jiang, \"Teens’ Social Media Habits and Experiences,\" pewresearch.org, Nov. 28, 2018",
+            "url": null,
+            "docid": 5971
+        },
+        {
+            "id": "289",
+            "title": "David A. Broniatowski, et al., \"Weaponized Health Communication: Twitter Bots and Russian Trolls Amplify the Vaccine Debate,\" ajph.aphapublications.org, Aug. 23, 2018",
+            "url": null,
+            "docid": 5972
+        },
+        {
+            "id": "290",
+            "title": "William Cummings, \"Trump Sets Record for Most Tweets in a Single Day Since He Took Office,” usatoday.com, Jan. 23, 2020",
+            "url": null,
+            "docid": 5973
+        },
+        {
+            "id": "291",
+            "title": "Flixed Team, \"The COVID-19 Media Diet,” flixed.io, Apr. 20, 2020",
+            "url": null,
+            "docid": 5974
+        },
+        {
+            "id": "292",
+            "title": "Neal Rothschild, \"Trump Rules Social Media, Crushes 2020 Democrats,” axios.com, Nov. 2, 2019",
+            "url": null,
+            "docid": 5975
+        },
+        {
+            "id": "293",
+            "title": "Brian Fung, \"Twitter Labeled Trump Tweets with a Fact Check for the First Time,\" cnn.com, May 27, 2020",
+            "url": null,
+            "docid": 5976
+        },
+        {
+            "id": "294",
+            "title": "Brian Fung, Ryan Nobles, and Kevin Liptak, \"Trump Signs Executive Order Targeting Social Media Companies,\" cnn.com, May 28, 2020",
+            "url": null,
+            "docid": 5977
+        },
+        {
+            "id": "295",
+            "title": "Donald Trump, Twitter.com, May 26, 2020",
+            "url": null,
+            "docid": 5978
+        },
+        {
+            "id": "296",
+            "title": "Donald Trump, \"Executive Order on Preventing Online Censorship,\" whitehouse.gov, May 28,2020",
+            "url": null,
+            "docid": 5979
+        },
+        {
+            "id": "297",
+            "title": "Megan Marples, \"Some Cyberbullies Show Signs of PTSD, According to UK Study,\" cnn.com, June 24, 2020",
+            "url": null,
+            "docid": 5980
+        },
+        {
+            "id": "298",
+            "title": "Olafimihan Oshin, \"Majority Says Social Media Does More to Divide than Unite: Poll,\" thehill.com, May 9, 2021",
+            "url": null,
+            "docid": 5981
+        },
+        {
+            "id": "299",
+            "title": "Common Sense Media, \"The Common Sense Census: Media Use by Tweens and Teens,\" commonsensemedia.org, 2022",
+            "url": null,
+            "docid": 5982
+        },
+        {
+            "id": "300",
+            "title": "Daniel Kolitz, “How Has Social Media Impacted Our Mental Health,” gizmodo.com, Aug. 16, 2021",
+            "url": null,
+            "docid": 5983
+        },
+        {
+            "id": "301",
+            "title": "Jean Philippe Décieux, Andreas Heinen, and Helmut Willems, “Social Media and Its Role in Friendship-Driven Interactions among Young People: A Mixed Methods Study,” YOUNG, journals.sagepub.com, 2018",
+            "url": null,
+            "docid": 5984
+        },
+        {
+            "id": "302",
+            "title": "Maya Massing-Schaffer, et al., “Adolescent Peer Experiences and Prospective Suicidal Ideation: The Protective Role of Online-Only Friendships,” Journal of Clinical Child & Adolescent Psychology, tandfonline.com, Apr. 23, 2020",
+            "url": null,
+            "docid": 5985
+        },
+        {
+            "id": "303",
+            "title": "Monica Anderson, et al., “Connection, Creativity and Drama: Teen Life on Social Media in 2022,” pewresearch.org, Nov. 16, 2022",
+            "url": null,
+            "docid": 5986
+        },
+        {
+            "id": "304",
+            "title": "Zawn Villines, “How Social Networking Changes Friendships,” goodtherapy.org, Nov. 23, 2012",
+            "url": null,
+            "docid": 5987
+        },
+        {
+            "id": "305",
+            "title": "Lori Wade, “How Social Media is Reshaping Today’s Education System,” csis.georgetown.edu (accessed Nov. 16, 2022)",
+            "url": null,
+            "docid": 5988
+        },
+        {
+            "id": "306",
+            "title": "UNICEF Office of Global Insight and Policy, “Digital Civic Engagement by Young People,” unicef.org, Feb. 2020",
+            "url": null,
+            "docid": 5989
+        },
+        {
+            "id": "307",
+            "title": "Joel Penney, “‘It’s My Duty to Be Like ‘This Is Wrong:’ Youth Political Social Media Practices in the Trump Era,” Journal of Computer-Mediated Communication, academic.oup.com, Nov. 2019",
+            "url": null,
+            "docid": 5990
+        },
+        {
+            "id": "308",
+            "title": "Maryville University, “A Guide to Activism in the Digital Age,” online.maryville.edu (accessed Nov. 17, 2022)",
+            "url": null,
+            "docid": 5991
+        },
+        {
+            "id": "309",
+            "title": "Shafaq Fatema, Li Yanbin, and Dong Fugui, “Social Media Influence on Politicians’ and Citizens’ Relationship through the Moderating Effect of Political Slogans,” Media Governance and the Public Sphere, frontiersin.org, Sep. 27, 2022",
+            "url": null,
+            "docid": 5992
+        },
+        {
+            "id": "310",
+            "title": "Shelley L. Craig, et al., “Can Social Media Participation Enhance LGBTQ+ Youth Well-Being? Development of the Social Media Benefits Scale,” Social Media + Society, journals.sagepub.com, Jan. 23, 2021",
+            "url": null,
+            "docid": 5993
+        },
+        {
+            "id": "311",
+            "title": "Laura Silver and Christine Huang, “In Emerging Economies, Smartphone and Social Media Users Have Broader Social Networks,” pewresearch.org, Aug. 22, 2019",
+            "url": null,
+            "docid": 5994
+        },
+        {
+            "id": "312",
+            "title": "Maria Ochoa, “How Bilingual Social Media Content Helps Promote Diversity, Equality, and Inclusion in Nonprofits,” emprendercreative.com, May 20, 2021",
+            "url": null,
+            "docid": 5995
+        },
+        {
+            "id": "313",
+            "title": "Merriam-Webster, “Cyberbullying,” merriam-webster.com (accessed Nov. 9, 2022)",
+            "url": null,
+            "docid": 5996
+        },
+        {
+            "id": "314",
+            "title": "McAfee, “Cyberbullying in Plain Sight: A McAfee Connected Family Report,” mcafee.com, Aug. 2022",
+            "url": null,
+            "docid": 5997
+        },
+        {
+            "id": "315",
+            "title": "Monica Anderson, “A Majority of Teens Have Experienced Some Form of Cyberbullying,” pewresearch.org, Sep. 27, 2018",
+            "url": null,
+            "docid": 5998
+        },
+        {
+            "id": "316",
+            "title": "Emily A. Vogels, “The State of Online Harassment,” pewresearch.org, Jan. 13, 2021",
+            "url": null,
+            "docid": 5999
+        },
+        {
+            "id": "317",
+            "title": "Swansea University, “Oung Victims of Cyberbullying Twice As Likely to Attempt Suicide and Self-Harm, Study Finds,” swansea.ac.uk, Apr. 19, 2018",
+            "url": null,
+            "docid": 6000
+        },
+        {
+            "id": "318",
+            "title": "UNICEF, “​​Cyberbullying: What Is It and How to Stop It,” unicef.org, Feb. 2022",
+            "url": null,
+            "docid": 6001
+        },
+        {
+            "id": "319",
+            "title": "Dell Cameron and Mack DeGeurin, “Meta’s Toxic Algorithm 'Substantially Contributed' to Ethnic Cleansing in Myanmar: Amnesty International,” gizmodo.com, Sep. 28, 2022",
+            "url": null,
+            "docid": 6002
+        },
+        {
+            "id": "320",
+            "title": "Daron Acemoğlu and Asuman Ozdaglar, “Misinformation: Strategic Sharing, Homophily, and Endogenous Echo Chambers,” cepr.org, June 30, 2021",
+            "url": null,
+            "docid": 6003
+        },
+        {
+            "id": "321",
+            "title": "Filippo Menczer and Thomas Hills, “Information Overload Helps Fake News Spread, and Social Media Knows It,” scientificamerican.com, Dec. 1, 2020",
+            "url": null,
+            "docid": 6004
+        },
+        {
+            "id": "322",
+            "title": "Chris Meserole, “How Misinformation Spreads on Social Media—and What to Do about It,” brookings.edu, May 9, 2018",
+            "url": null,
+            "docid": 6005
+        },
+        {
+            "id": "323",
+            "title": "Sadiq Muhammed and Saji K. Mathew, “ The Disaster of Misinformation: A Review of Research in Social Media,” International Journal of Data Science and Analytics, Feb. 15, 2022",
+            "url": null,
+            "docid": 6006
+        },
+        {
+            "id": "324",
+            "title": "Tedros Adhanom Ghebreyesus, “Munich Security Conference,” who.int, Feb. 15, 2020",
+            "url": null,
+            "docid": 6007
+        },
+        {
+            "id": "325",
+            "title": "Tulane University School of Professional Advancement, “Key Social Media Privacy Issues for 2020,” sopa.tulane.edu (accessed Nov. 11, 2022)",
+            "url": null,
+            "docid": 6008
+        },
+        {
+            "id": "326",
+            "title": "Lee Rainie, “Americans’ Complicated Feelings about Social Media in an Era of Privacy Concerns,” pewresearch.org, Mar. 27, 2018",
+            "url": null,
+            "docid": 6009
+        },
+        {
+            "id": "327",
+            "title": "EPIC, “Social Media Privacy,” epic.org (accessed Nov. 11, 2022)",
+            "url": null,
+            "docid": 6010
+        },
+        {
+            "id": "328",
+            "title": "Jomilė Nakutavičiūtė, “What Are the Most Common Social Media Privacy Issues?,” nordvpn.com, Mar. 18, 2022",
+            "url": null,
+            "docid": 6011
+        },
+        {
+            "id": "329",
+            "title": "Michelle Wilson, “8 Reasons Why Social Media is Bad for Your Data Security (And Why It’s Good),” hp.com, July 2, 2019",
+            "url": null,
+            "docid": 6012
+        },
+        {
+            "id": "330",
+            "title": "Associated Press, “Utah’s New Social Media Law Means Children Will Need Approval from Parents,” npr.org, Mar. 24, 2023",
+            "url": null,
+            "docid": 6013
+        },
+        {
+            "id": "331",
+            "title": "Samantha Murphy Kelly, “Utah Governor Signs Bill Requiring Teens to Get Parental Approval to Join Social Media Sites,” cnn.com, Mar. 23, 2023",
+            "url": null,
+            "docid": 6014
+        },
+        {
+            "id": "332",
+            "title": "Brian Fung, \"Arkansas Governor Signs Sweeping Bill Imposing a Minimum Age Limit for Social Media Usage,\" cnn.com, Apr. 12, 2023",
+            "url": null,
+            "docid": 6015
+        }
+    ],
+    "url": "https://socialnetworking.procon.org"
+}

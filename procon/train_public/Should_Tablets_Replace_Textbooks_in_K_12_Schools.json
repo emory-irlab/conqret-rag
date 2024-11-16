@@ -1,0 +1,693 @@
+{
+    "title": "Should Tablets Replace Textbooks in K-12 Schools?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "C. Claiborne Ray, \"The Weight of Memory,\" nytimes.com, Oct. 24, 2011",
+            "url": null,
+            "docid": 8431
+        },
+        {
+            "id": "2",
+            "title": "Associated Press, \"Cell Phone Theft on the Rise,\" wowt.com, Oct. 21, 2012",
+            "url": null,
+            "docid": 8432
+        },
+        {
+            "id": "3",
+            "title": "Daniel Goleman and Gregory Norris, \"How Green Is My iPad?,\" nytimes.com, Apr. 4, 2010",
+            "url": null,
+            "docid": 8433
+        },
+        {
+            "id": "4",
+            "title": "Janet Maragioglio, \"iPads Boost Math Scores, Benefit Education,\" mobiledia.com, Jan. 31, 2012",
+            "url": null,
+            "docid": 8434
+        },
+        {
+            "id": "5",
+            "title": "Mary Elizabeth Dallas, \"Overloaded Backpacks Can Injure Kids: Experts,\" nlm.nih.gov, Aug. 26, 2012",
+            "url": null,
+            "docid": 8435
+        },
+        {
+            "id": "6",
+            "title": "Federal Communications Commission, \"Digital Textbook Playbook,\" fcc.gov, Feb. 1, 2012",
+            "url": null,
+            "docid": 8436
+        },
+        {
+            "id": "7",
+            "title": "Public Broadcasting Service (PBS), \"National PBS Survey Finds Teachers Want More Access to Classroom Tech,\" pbs.org, Jan. 23, 2012",
+            "url": null,
+            "docid": 8437
+        },
+        {
+            "id": "8",
+            "title": "Emily Price, \"How Much Storage Does Your Tablet Need?,\" tecca.com, Mar. 3, 2012",
+            "url": null,
+            "docid": 8438
+        },
+        {
+            "id": "9",
+            "title": "Electronista, \"Digital Textbooks May Save Schools $250 Per Student Per Year,\" electronista.com, Mar. 30, 2012",
+            "url": null,
+            "docid": 8439
+        },
+        {
+            "id": "10",
+            "title": "Mikael Ricknas, \"Average Tablet Price Drops to $386, Says IMS Research,” computerworld.com, June 8, 2012",
+            "url": null,
+            "docid": 8440
+        },
+        {
+            "id": "11",
+            "title": "Patrick Thibodeau, \"Tablet Sales to Soar as Prices Drop Through 2015, Says Gartner,” computerworld.com, Mar. 30, 2011",
+            "url": null,
+            "docid": 8441
+        },
+        {
+            "id": "12",
+            "title": "Thomas Adams, \"Textbook Weight in California: Data and Analysis,\" California Department of Education website, Apr. 14, 2004",
+            "url": null,
+            "docid": 8442
+        },
+        {
+            "id": "13",
+            "title": "US Bureau of Labor Statistics, \"Occupational Outlook Handbook,\" bls.gov (accessed Nov. 9, 2012)",
+            "url": null,
+            "docid": 8443
+        },
+        {
+            "id": "14",
+            "title": "Del Williams, \"How Much Is Out-of-Control Printing Costing Your School?,\" softwareshelf.com (accessed Aug. 1, 2012)",
+            "url": null,
+            "docid": 8444
+        },
+        {
+            "id": "15",
+            "title": "Ben Johnson, \"Paper and Pencil Curriculum: How Much Do You Rely on It?,\" edutopia.org, Feb. 23, 2011",
+            "url": null,
+            "docid": 8445
+        },
+        {
+            "id": "16",
+            "title": "Tom Mendelsohn, \"Ten Great Free Education Apps for the iPad,\"The Independent, Jan. 30, 2012",
+            "url": null,
+            "docid": 8446
+        },
+        {
+            "id": "17",
+            "title": "LearnStuff, \"Graduating with Technology,\" learnstuff.com, Aug. 17, 2012",
+            "url": null,
+            "docid": 8447
+        },
+        {
+            "id": "18",
+            "title": "Kathryn Zickuhr, \"Younger Americans' Reading and Library Habits,\" libraries.pewinternet.org, Oct. 23, 2012",
+            "url": null,
+            "docid": 8448
+        },
+        {
+            "id": "19",
+            "title": "David Talbot, \"Given Tablets But No Teachers, Ethiopian Kids Teach Themselves,\" mashable.com, Oct. 29, 2012",
+            "url": null,
+            "docid": 8449
+        },
+        {
+            "id": "20",
+            "title": "New York Daily News, \"iStrain: Tablets and iPads Can Cause Eye Problems,\" articles.nydailynews.com, Mar. 14, 2012",
+            "url": null,
+            "docid": 8450
+        },
+        {
+            "id": "21",
+            "title": "I-Mei Lin, \"Psychophysiological Patterns During Cell Phone Text Messaging: A Preliminary Study,\"Applied Psychophysiological Biofeedback, Feb. 6, 2009",
+            "url": null,
+            "docid": 8451
+        },
+        {
+            "id": "22",
+            "title": "Dean Fishman, \"Neck Pain from Texting,\" The Text Neck Institute website, Nov. 2, 2010",
+            "url": null,
+            "docid": 8452
+        },
+        {
+            "id": "23",
+            "title": "Lee Wilson, \"Apple's iPad Textbooks Cost 5x More Than Print,\" educationbusinessblog.com, Feb. 23, 2012",
+            "url": null,
+            "docid": 8453
+        },
+        {
+            "id": "24",
+            "title": "Lesley Lanir, \"Digital Information Overload Overwhelms and Distracts Students,\" decodedscience.com, Nov. 4, 2012",
+            "url": null,
+            "docid": 8454
+        },
+        {
+            "id": "25",
+            "title": "Urs Gasser and John Palfrey, \"Mastering Multitasking,\" cf.linnbenton.edu, Mar. 2009",
+            "url": null,
+            "docid": 8455
+        },
+        {
+            "id": "26",
+            "title": "Kate Garland, \"Computer- vs. Paper-based Tasks: Are They Equivalent?,\"Ergonomics, Sep. 2008",
+            "url": null,
+            "docid": 8456
+        },
+        {
+            "id": "27",
+            "title": "Lorien Crow, \"Are E-Books Bad for Your Memory?,” mobiledia.com, Mar. 15, 2012",
+            "url": null,
+            "docid": 8457
+        },
+        {
+            "id": "28",
+            "title": "Nicholas Carr, \"Author Nicholas Carr: The Web Shatters Focus, Rewires Brains,\" wired.com, May 24, 2010",
+            "url": null,
+            "docid": 8458
+        },
+        {
+            "id": "29",
+            "title": "FindtheBest, \"What Is the Average Battery Life of a Tablet Computer?,” tablets.findthebest.com (accessed Aug. 6, 2012)",
+            "url": null,
+            "docid": 8459
+        },
+        {
+            "id": "30",
+            "title": "Associated Press, \"Cell Phone Theft on the Rise,\" wowt.com, Oct. 21, 2012",
+            "url": null,
+            "docid": 8460
+        },
+        {
+            "id": "31",
+            "title": "Mike Schmoker,Focus: Elevating the Essentials to Radically Improve Student Learning, 2011",
+            "url": null,
+            "docid": 8461
+        },
+        {
+            "id": "32",
+            "title": "Laura Hazard Owen, \"What Apple Is Wading Into: A Snapshot of the K-12 Textbook Business,” paidcontent.org, Jan. 21, 2012",
+            "url": null,
+            "docid": 8462
+        },
+        {
+            "id": "323",
+            "title": "Digital Book World, \"Publishers’ eBook Production Statistics,\" digitalbookworld-hub.com, Aug. 21, 2012",
+            "url": null,
+            "docid": 8463
+        },
+        {
+            "id": "34",
+            "title": "Book Industry Study Group and the Association of American Publishers, \"BookStats 2012,\" bisg.org, July 18, 2012",
+            "url": null,
+            "docid": 8464
+        },
+        {
+            "id": "35",
+            "title": "Dian Schaffhauser, \"The Price Is Right?,\" Campus Technology website, Apr. 1, 2012",
+            "url": null,
+            "docid": 8465
+        },
+        {
+            "id": "36",
+            "title": "Christopher F. Schuetze, \"Textbooks Finally Take a Big Leap to Digital,\" nytimes.com, Nov. 23, 2011",
+            "url": null,
+            "docid": 8466
+        },
+        {
+            "id": "37",
+            "title": "Aaron Smith, \"Smartphone Adoption and Usage,\" pewinternet.org, July 11, 2011",
+            "url": null,
+            "docid": 8467
+        },
+        {
+            "id": "38",
+            "title": "The New Media Consortium, \"The 2012 Horizon Report,\" net.educause.edu, 2012",
+            "url": null,
+            "docid": 8468
+        },
+        {
+            "id": "39",
+            "title": "California State Board of Education, \"Textbook Weight Standards: Adoption of Proposed Title 5 Regulations, Section 9517.2,\" cde.ca.gov, July 2007",
+            "url": null,
+            "docid": 8469
+        },
+        {
+            "id": "40",
+            "title": "AVG, \"The AVG Digital Diaries Report – How Has Technology Changed Childhood?,\" avgdigitaldiaries.com, Apr. 2012",
+            "url": null,
+            "docid": 8470
+        },
+        {
+            "id": "41",
+            "title": "Gautham Nagesh, \"Pew: Minorities Continue to Lead Twitter Adoption,\" thehill.com, June 1, 2011",
+            "url": null,
+            "docid": 8471
+        },
+        {
+            "id": "42",
+            "title": "Will Oremus, \"New Digital Divide: Whites Less Likely to Own Smartphones,\" slate.com, Aug. 7, 2012",
+            "url": null,
+            "docid": 8472
+        },
+        {
+            "id": "43",
+            "title": "Jane Weaver, \"Teens Tune Out TV, Log On Instead,\" msnbc.msn.com, July 24, 2012",
+            "url": null,
+            "docid": 8473
+        },
+        {
+            "id": "44",
+            "title": "Rob Reynolds, \"Digital Textbooks Reaching the Tipping Point in US Higher Education,\" Xplana Learning website, Mar. 2011",
+            "url": null,
+            "docid": 8474
+        },
+        {
+            "id": "45",
+            "title": "Government Accountability Office, \"College Textbooks: Enhanced Offerings Appear to Drive Recent Price Increases,\" gao.gov, July 2005",
+            "url": null,
+            "docid": 8475
+        },
+        {
+            "id": "46",
+            "title": "Nicole Allen, \"New Laws, Free Books and Textbook Rentals Could Help Curb Rising Costs This Fall,\" studentpirgs.org, Aug. 26, 2010",
+            "url": null,
+            "docid": 8476
+        },
+        {
+            "id": "47",
+            "title": "Geoffrey Fletcher, Dian Schaffhauser, and Douglas Levin, \"Out of Print: Reimagining the K-12 Textbook in a Digital Age,\" State Educational Technology Directors Association website, 2012",
+            "url": null,
+            "docid": 8477
+        },
+        {
+            "id": "48",
+            "title": "Association of American Publishers, \"School Size and Weight Policy,\" publishers.org (accessed Feb. 22, 2013)",
+            "url": null,
+            "docid": 8478
+        },
+        {
+            "id": "49",
+            "title": "LA Times, \"L.A. Unified Halts Contract for iPads,\" latimes.com, Aug. 25, 2014",
+            "url": null,
+            "docid": 8479
+        },
+        {
+            "id": "50",
+            "title": "Thomas Himes, \"Los Angeles Unified's iPad Contract to be Re-Bid among Favoritism Concerns,\" dailynews.com, Aug. 26, 2014",
+            "url": null,
+            "docid": 8480
+        },
+        {
+            "id": "51",
+            "title": "John Koetsier, \"L.A. Unified to Give Every Student an iPad in Deal Worth 'Hundreds of Millions,'\" venturebeat.com, June 19, 2013",
+            "url": null,
+            "docid": 8481
+        },
+        {
+            "id": "52",
+            "title": "Pam A. Mueller and Daniel M. Oppenheimer, \"The Pen Is Mightier Than the Keyboard: Advantages of Longhand over Laptop Note Taking,\"Psychological Science, May 22, 2014",
+            "url": null,
+            "docid": 8482
+        },
+        {
+            "id": "53",
+            "title": "Statista, \"Estimated Textbook Publishing Revenue in the United States from 2010 to 2016 (in Billion US Dollars),\" statista.com (accessed Oct. 12, 2018)",
+            "url": null,
+            "docid": 8483
+        },
+        {
+            "id": "54",
+            "title": "Chris Zook, \"Infographic: Textbook Costs Skyrocket 812% in 35 Years,\" aeseducation.com, Sep. 7, 2017",
+            "url": null,
+            "docid": 8484
+        },
+        {
+            "id": "55",
+            "title": "Grand View Research, \"US Tablet Market Size, Share & Trends Analysis Report by Operating System Type (Android, iOS), Competitive Landscape, and Segment Forecasts, 2018 - 2025,\" grandviewresearch.com, July 2018",
+            "url": null,
+            "docid": 8485
+        },
+        {
+            "id": "56",
+            "title": "Pew Research Center, \"Mobile Fact Sheet,\" pewinternet.org, Feb. 5, 2018",
+            "url": null,
+            "docid": 8486
+        },
+        {
+            "id": "57",
+            "title": "Common Sense Media, \"The Common Sense Census: Media Use By Kids Age Zero to Eight,\" commonsense.org, 2017",
+            "url": null,
+            "docid": 8487
+        },
+        {
+            "id": "58",
+            "title": "Hoang Nguyen, \"Three-Quarters of Kids Between Ages 8 and 11 Regularly Use a Tablet,\" yougov.com, Apr. 16, 2018",
+            "url": null,
+            "docid": 8488
+        },
+        {
+            "id": "59",
+            "title": "Andrew Perrin, \"Nearly One-in-Five Americans Now Listen to Audiobooks,\" pewresearch.org, Mar. 8, 2018",
+            "url": null,
+            "docid": 8489
+        },
+        {
+            "id": "60",
+            "title": "Taylor Soper, \"Amazon Passes Samsung for Second Place in Worldwide Tablet Shipments, Sees 50% Growth in 2017,\" geekwire.com, Feb. 5, 2018",
+            "url": null,
+            "docid": 8490
+        },
+        {
+            "id": "61",
+            "title": "Pew Research Center, \"The Rise of E-Reading,\" pewinternet.org, Apr. 4, 2012",
+            "url": null,
+            "docid": 8491
+        },
+        {
+            "id": "62",
+            "title": "Kinga Jenetics, \"Amazon EBook Market Share 2017 - Is it Big Enough?,\" publishdrive.com, Oct. 25, 2017",
+            "url": null,
+            "docid": 8492
+        },
+        {
+            "id": "63",
+            "title": "Author Earnings, \"February 2017 Big, Bad, Wide & International Report: Covering Amazon, Apple, B&N, and Kobo Ebook Sales in the US, UK, Canada, Australia, and New Zealand,\" authorearnings.com, Feb. 2017",
+            "url": null,
+            "docid": 8493
+        },
+        {
+            "id": "64",
+            "title": "Carl Straumsheim, \"A New Course,\" insidehighered.com, Mar. 4, 2014",
+            "url": null,
+            "docid": 8494
+        },
+        {
+            "id": "65",
+            "title": "VitalSource, \"VitalSource Acquires Data Platform Acrobatiq, Dramatically Expanding Analytics and Adaptive Learning Capabilities,\" press.vitalsource.com, Sep. 4, 2018",
+            "url": null,
+            "docid": 8495
+        },
+        {
+            "id": "66",
+            "title": "IDC, \"Worldwide Smartphone Volumes Will Remain Down in 2018 Before Returning to Growth in 2019 and Beyond, According to IDC,\" idc.com, May 30, 2018",
+            "url": null,
+            "docid": 8496
+        },
+        {
+            "id": "67",
+            "title": "VitalSource, \"K-12 Schools,\" vitalsource.com (accessed Oct. 26, 2018)",
+            "url": null,
+            "docid": 8497
+        },
+        {
+            "id": "68",
+            "title": "Sean Cavanagh, \"K-12 Print Needs Persist Despite Digital Growth,\" edweek.org, Apr. 14, 2015",
+            "url": null,
+            "docid": 8498
+        },
+        {
+            "id": "68",
+            "title": "Sean Cavanagh, \"K-12 Print Needs Persist Despite Digital Growth,\" edweek.org, Apr. 14, 2015",
+            "url": null,
+            "docid": 8499
+        },
+        {
+            "id": "70",
+            "title": "Alliance for Excellent Education, \"Every Student Succeeds Act Primer: Digital Learning,\" all4ed.org, Mar. 2016",
+            "url": null,
+            "docid": 8500
+        },
+        {
+            "id": "71",
+            "title": "Deloitte, \"2016 Digital Education Survey: After the Bell Rings: Expanding the Classroom,\" deloitte.com, 2016",
+            "url": null,
+            "docid": 8501
+        },
+        {
+            "id": "72",
+            "title": "CoSN, \"CoSN's 2017 Annual Infrastructure Survey Report,\" cosn.org, 2017",
+            "url": null,
+            "docid": 8502
+        },
+        {
+            "id": "73",
+            "title": "Education SuperHighway, \"2018 State of the States: Expanding Digital Learning to Every Classroom, Every Day,\" stateofthestates.educationsuperhighway.org, Oct. 2018",
+            "url": null,
+            "docid": 8503
+        },
+        {
+            "id": "74",
+            "title": "Doug Gross, \"Obama Wants High-Speed Internet in Schools by 2018,\" cnn.com, June 6, 2013",
+            "url": null,
+            "docid": 8504
+        },
+        {
+            "id": "75",
+            "title": "John B. Horrigan, \"The Numbers behind the Broadband 'Homework Gap',\" pewresearch.org, Apr. 20, 2015",
+            "url": null,
+            "docid": 8505
+        },
+        {
+            "id": "76",
+            "title": "Audrey Sumser, \"Discovery Education Makes E-Textbooks Easy / Reference Online,\" slj.com, Dec. 4, 2016",
+            "url": null,
+            "docid": 8506
+        },
+        {
+            "id": "77",
+            "title": "Lindsay McKenzie, \"Are Etextbooks Affordable Now?,\" insidehighered.com, May 1, 2018",
+            "url": null,
+            "docid": 8507
+        },
+        {
+            "id": "78",
+            "title": "American Academy of Orthopaedic Surgeons, \"Back-to-School: Smart Tips to Ease the Load of Kids' Backpacks,\" aaos.org, Aug. 9, 2017",
+            "url": null,
+            "docid": 8508
+        },
+        {
+            "id": "79",
+            "title": "Michele Molnar, \"Struggling to Compete in the K-12 Market, Apple Makes Big Product Announcement at a School,\" edweek.org, Mar. 27, 2018",
+            "url": null,
+            "docid": 8509
+        },
+        {
+            "id": "80",
+            "title": "Steve Olenski, \"Is the Data on Your Business' Digital Device Safe?,\" forbes.com, Dec. 8, 2017",
+            "url": null,
+            "docid": 8510
+        },
+        {
+            "id": "81",
+            "title": "Mirela Roncevic, \"Directory of E-book Platforms for Libraries,\" journals.ala.org, Apr. 2013",
+            "url": null,
+            "docid": 8511
+        },
+        {
+            "id": "82",
+            "title": "Schoology, \"The Global State of Digital Learning in K-12 Education,\" schoology.com, 2017",
+            "url": null,
+            "docid": 8512
+        },
+        {
+            "id": "83",
+            "title": "Scholastic, \"Kids & Family Reading Report: 5th Edition,\" scholastic.com, 2015",
+            "url": null,
+            "docid": 8513
+        },
+        {
+            "id": "84",
+            "title": "ASCD and OverDrive, \"Digital Content Goes to School: Trends in K-12 Classroom E-Learning,\" ascd.org, 2016",
+            "url": null,
+            "docid": 8514
+        },
+        {
+            "id": "85",
+            "title": "Janet Grenslitt, \"National Survey Awards School Districts for Innovative Technology Initiatives,\" govtech.com, Mar. 29, 2018",
+            "url": null,
+            "docid": 8515
+        },
+        {
+            "id": "86",
+            "title": "The Foundation for Blended and Online Learning and Evergreen Education Group, \"Digital Learning Strategies for Rural America: A Scan of Policy and Practice in K-12 Education,\" evergreenedgroup.com, Mar. 2018",
+            "url": null,
+            "docid": 8516
+        },
+        {
+            "id": "87",
+            "title": "Evergreen Education Group, \"Keeping Pace with K-12 Online & Blended Learning: An Annual Review of Policy and Practice,\" evergreenedgroup.com, 2012",
+            "url": null,
+            "docid": 8517
+        },
+        {
+            "id": "88",
+            "title": "Evergreen Education Group, \"Keeping Pace with K-12 Online Learning: 2016,\" evergreenedgroup.com, 2016",
+            "url": null,
+            "docid": 8518
+        },
+        {
+            "id": "89",
+            "title": "American Legislative Exchange Council (ALEC), \"Report Card on American Education: Ranking State K-12 Performance, Progress and Reform,\" alecreportcard.org, 2018",
+            "url": null,
+            "docid": 8519
+        },
+        {
+            "id": "90",
+            "title": "State Educational Technology Directors Association (SETDA), \"Navigating the Digital Shift 2018,\" setda.org, 2018",
+            "url": null,
+            "docid": 8520
+        },
+        {
+            "id": "91",
+            "title": "State Educational Technology Directors Association (SETDA), \"Digital Instructional Materials: Acquisition Policies for States,\" dmaps.setda.org (accessed Nov. 13, 2018)",
+            "url": null,
+            "docid": 8521
+        },
+        {
+            "id": "92",
+            "title": "Hallie Levine, \"Pick the Best School Backpack for Your Child,\" consumerreports.org, Sep. 1, 2017",
+            "url": null,
+            "docid": 8522
+        },
+        {
+            "id": "93",
+            "title": "Barack Obama, \"President Obama Speaks on Technology in Schools,\" obamawhitehouse.archives.gov, June 6, 2013",
+            "url": null,
+            "docid": 8523
+        },
+        {
+            "id": "94",
+            "title": "Lauren Camera, \"On Tech, Teacher Doesn't Know Best,\" usnews.com, Dec. 26, 2015",
+            "url": null,
+            "docid": 8524
+        },
+        {
+            "id": "95",
+            "title": "Mike Johnson, \"The Best Tablets for Reading – Our Top 10 Picks for Best E-Readers & Tablets,\" tabletunderbudget.com, Oct. 6, 2018",
+            "url": null,
+            "docid": 8525
+        },
+        {
+            "id": "96",
+            "title": "Elizabeth Harper, \"The Best Way to Take Notes,\" techlicious.com, May 31, 2018",
+            "url": null,
+            "docid": 8526
+        },
+        {
+            "id": "97",
+            "title": "Jennifer Groff, \"Technology-Rich Innovative Learning Environments,\" oecd.org, Feb. 2013",
+            "url": null,
+            "docid": 8527
+        },
+        {
+            "id": "98",
+            "title": "Apple, \"iPad in Education Results,\" apple.com, July 2016",
+            "url": null,
+            "docid": 8528
+        },
+        {
+            "id": "99",
+            "title": "Sharon Hurley Hall, \"8 Ways Teachers Can Benefit from Cloud Storage,\" cloudwards.net, Nov. 8, 2017",
+            "url": null,
+            "docid": 8529
+        },
+        {
+            "id": "100",
+            "title": "Liz Bowie, \"Librarians Share Their Best Book Repair Tips,\" demco.com (accessed Nov. 15, 2018)",
+            "url": null,
+            "docid": 8530
+        },
+        {
+            "id": "101",
+            "title": "John Keilman, \"New Technology Lets Students Cheat More Than Ever,\" businessinsider.com, Aug. 7, 2012",
+            "url": null,
+            "docid": 8531
+        },
+        {
+            "id": "102",
+            "title": "Rebecca Levey, \"5 Ways Students Use Technology to Cheat – What Parents Need to Know,\" mashable.com, Sep. 28, 2012",
+            "url": null,
+            "docid": 8532
+        },
+        {
+            "id": "103",
+            "title": "The Telegraph, \"Six in 10 Pupils Admit to Using Internet to Cheat in Homework,\" telegraph.co.uk, Sep. 10, 2009",
+            "url": null,
+            "docid": 8533
+        },
+        {
+            "id": "104",
+            "title": "Nick Pandolfo, \"As Some Schools Plunge into Technology, Poor Schools Are Left Behind,\" hechingerreport.org, Jan. 24, 2012",
+            "url": null,
+            "docid": 8534
+        },
+        {
+            "id": "105",
+            "title": "Meghan Bogardus Cortez, \"As Connectivity Improves, the Digital Divide Persists in Teacher Tech Preparation,\" edtechmagazine.com, July 18, 2017",
+            "url": null,
+            "docid": 8535
+        },
+        {
+            "id": "106",
+            "title": "TeachingTimes, \"Miss, A Lion Stole My Homework,\" teachingtimes.com (accessed Nov. 15, 2018)",
+            "url": null,
+            "docid": 8536
+        },
+        {
+            "id": "107",
+            "title": "Kevin Zahner, \"'My Dog Ate My Chromebook' and Other Excuses,\" zahnerhistory.com, Dec. 16, 2017",
+            "url": null,
+            "docid": 8537
+        },
+        {
+            "id": "108",
+            "title": "Christie Blazer, \"Literature Review Digital Textbooks,\" dadeschools.net, July 2013",
+            "url": null,
+            "docid": 8538
+        },
+        {
+            "id": "109",
+            "title": "Justin B. Hollander, \"Long Live Paper,\" nytimes.com, Oct. 9, 2012",
+            "url": null,
+            "docid": 8539
+        },
+        {
+            "id": "110",
+            "title": "Ken Myers, \"7 Potential Issues to Be Prepared for When Bringing Tablets into the Classroom,\" emergingtech.com, Feb. 13, 2014",
+            "url": null,
+            "docid": 8540
+        },
+        {
+            "id": "111",
+            "title": "Wylie Wong, \"Security at K–12 Schools Ramps up as More Devices Roll In,\" edtechmagazine.com, Mar. 31, 2016",
+            "url": null,
+            "docid": 8541
+        },
+        {
+            "id": "112",
+            "title": "Online Degree Programs, \"7 Good Reasons to Keep Your Old Textbooks,\" onlinedegreeprograms.com, July 17, 2012",
+            "url": null,
+            "docid": 8542
+        },
+        {
+            "id": "113",
+            "title": "US Department of Education Office of Educational Technology, \"Transforming American Education, Learning, Powered by Technology, National Education Technology Plan 2010,\" ed.gov, 2010",
+            "url": null,
+            "docid": 8543
+        },
+        {
+            "id": "114",
+            "title": "Claire McLaughlin, \"The Homework Gap: The 'Cruelest Part of the Digital Divide',\" neatoday.org, Apr. 20, 2016",
+            "url": null,
+            "docid": 8544
+        }
+    ],
+    "url": "https://tablets-textbooks.procon.org"
+}

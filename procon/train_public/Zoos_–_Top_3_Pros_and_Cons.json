@@ -1,0 +1,267 @@
+{
+    "title": "Zoos – Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "National Geographic, “Zoo,” nationalgeographic.org (accessed May 8, 2019)",
+            "url": null,
+            "docid": 9487
+        },
+        {
+            "id": "2",
+            "title": "Schönbrunn Palace, “Zoo,” schoenbrunn.at (accessed Apr. 23, 2019)",
+            "url": null,
+            "docid": 9488
+        },
+        {
+            "id": "3",
+            "title": "CBC, “Trapped in a Human Zoo,” cbc.ca, (accessed Apr. 23, 2019)",
+            "url": null,
+            "docid": 9489
+        },
+        {
+            "id": "4",
+            "title": "Krista Langlois, “Something Mysterious Is Killing Captive Gorillas,” theatlantic.com, Mar. 5, 2018",
+            "url": null,
+            "docid": 9490
+        },
+        {
+            "id": "5",
+            "title": "Association of Zoos & Aquariums, “Currently Accredited Zoos and Aquariums,” aza.org, Apr. 2019",
+            "url": null,
+            "docid": 9491
+        },
+        {
+            "id": "6",
+            "title": "Association of Zoos & Aquariums, “Visitor Demographics,” aza.org (accessed May 7, 2019)",
+            "url": null,
+            "docid": 9492
+        },
+        {
+            "id": "7",
+            "title": "Maury Brown, “Why MLB Attendance Dropped below 70 Million for the First Time in 15 Years,” forbes.com, Oct. 3, 2018",
+            "url": null,
+            "docid": 9493
+        },
+        {
+            "id": "8",
+            "title": "NHL, “NHL Attendance (1975-76 through 2018-2019),” records.nhl.com (accessed May. 7, 2019)",
+            "url": null,
+            "docid": 9494
+        },
+        {
+            "id": "9",
+            "title": "NBA, “NBA Breaks All-Time Attendance Record for Fourth Straight Year,” nba.com, Apr. 12, 2018",
+            "url": null,
+            "docid": 9495
+        },
+        {
+            "id": "10",
+            "title": "Brandon McClung, “NFL Attendance Lowest since ’10 Despite Chargers Rebound,” sportsbusinessdaily.com, Jan. 2, 2019",
+            "url": null,
+            "docid": 9496
+        },
+        {
+            "id": "11",
+            "title": "Andrew Moss, Eric Jensen, and Markus Gusset, “Evaluating the Contribution of Zoos and Aquariums to Aichi Biodiversity Target 1,” Conservation Biology, Aug. 22, 2014",
+            "url": null,
+            "docid": 9497
+        },
+        {
+            "id": "12",
+            "title": "Robin Ganzert, “Zoos Save Species — Visit One This World Wildlife Day,” thehill.com, Mar. 3, 2018",
+            "url": null,
+            "docid": 9498
+        },
+        {
+            "id": "13",
+            "title": "Tse-Lynn Loh, et al., “Quantifying the Contribution of Zoos and Aquariums to Peer-Reviewed Scientific Research,” facetsjournal.com, Mar. 15, 2018",
+            "url": null,
+            "docid": 9499
+        },
+        {
+            "id": "14",
+            "title": "Association of Zoos & Aquariums, “Research and Science,” aza.org (accessed May 7, 2019)",
+            "url": null,
+            "docid": 9500
+        },
+        {
+            "id": "15",
+            "title": "C. Robinette, L. Saffran, A. Ruple, and S.L. Deem, “Zoos and Public Health: A Partnership on the One Health Frontier,” One Health, Nov. 23, 2016",
+            "url": null,
+            "docid": 9501
+        },
+        {
+            "id": "16",
+            "title": "Taronga Conservation Society Australia, “10 Endangered Species Saved from Extinction by Zoos,” medium.com, May 18, 2017",
+            "url": null,
+            "docid": 9502
+        },
+        {
+            "id": "17",
+            "title": "Association of Zoos & Aquariums, “AZA and Animal Program Conservation Initiatives,” aza.org (accessed Apr. 17, 2019)",
+            "url": null,
+            "docid": 9503
+        },
+        {
+            "id": "18",
+            "title": "Association of Zoos & Aquariums, “Pollinator Conservation,” aza.org (accessed Apr. 17, 2019)",
+            "url": null,
+            "docid": 9504
+        },
+        {
+            "id": "19",
+            "title": "Association of Zoos & Aquariums, “Climate Change and Wildlife,” aza.org (accessed Apr. 17, 2019)",
+            "url": null,
+            "docid": 9505
+        },
+        {
+            "id": "20",
+            "title": "Association of Zoos & Aquariums, “Marine Mammal Conservation,” aza.org (accessed Apr. 17, 2019)",
+            "url": null,
+            "docid": 9506
+        },
+        {
+            "id": "21",
+            "title": "Michela Pacifici, et al., “Species Traits Influenced Their Response to Recent Climate Change,” nature.com, 2017",
+            "url": null,
+            "docid": 9507
+        },
+        {
+            "id": "22",
+            "title": "Association of Zoos & Aquariums, “Conservation Success Stories in AZA-Accredited Zoos and Aquariums,” aza.org, Apr. 20, 2017",
+            "url": null,
+            "docid": 9508
+        },
+        {
+            "id": "23",
+            "title": "US Fish & Wildlife Service, “California Condor Population Information,” fws.gov, May 7, 2018",
+            "url": null,
+            "docid": 9509
+        },
+        {
+            "id": "24",
+            "title": "Jan Flemr, “Long Way Home as Przewalski’s Horses Fly to Mongolia,” phys.org, July 19, 2018",
+            "url": null,
+            "docid": 9510
+        },
+        {
+            "id": "25",
+            "title": "Jane Palmer, “The World’s Last Truly Wild Horse,” bbc.com, Nov. 11, 2015",
+            "url": null,
+            "docid": 9511
+        },
+        {
+            "id": "26",
+            "title": "Lori Marino, et al., “Do Zoos and Aquariums Promote Attitude Change in Visitors? A Critical Evaluation of the American Zoo and Aquarium Study,” animalstudiesrepoistory.org, 2010",
+            "url": null,
+            "docid": 9512
+        },
+        {
+            "id": "27",
+            "title": "John H. Falk, et al., “Why Zoos and Aquariums Matter: Assessing the Impact of a Visit to a Zoo or Aquarium,” docplayer.net, 2007",
+            "url": null,
+            "docid": 9513
+        },
+        {
+            "id": "28",
+            "title": "Romesh Ranganathan, “Zoos Are Prisons for Animals — No One Needs to See a Depressed Penguin in the Flesh,” theguardian.com, Mar. 13, 2017",
+            "url": null,
+            "docid": 9514
+        },
+        {
+            "id": "29",
+            "title": "Edna Francisco, “Zoo Carnivores Need More Space,” sciencemag.org, Oct. 1, 2003",
+            "url": null,
+            "docid": 9515
+        },
+        {
+            "id": "30",
+            "title": "Ian Sample, “Stress and Lack of Exercise Are Killing Elephants Zoos Warned,” theguardian.com, Dec. 11, 2008",
+            "url": null,
+            "docid": 9516
+        },
+        {
+            "id": "31",
+            "title": "Alex Halberstadt, “Zoo Animals and Their Discontents,” nytimes.com, July 3, 2014",
+            "url": null,
+            "docid": 9517
+        },
+        {
+            "id": "32",
+            "title": "Daniel Engber, “The Tears of a Panda,” slate.com, Sep. 14, 2006",
+            "url": null,
+            "docid": 9518
+        },
+        {
+            "id": "33",
+            "title": "Jenni Laidman, “Zoos Using Drugs to Help Manage Anxious Animals,” toledoblade.com, Sep. 12, 2005",
+            "url": null,
+            "docid": 9519
+        },
+        {
+            "id": "34",
+            "title": "Lucy Birkett and Nicholas E. Newton-Fisher, “How Abnormal Is the Behavior of Captive, Zoo-Living Chimpanzees?,” journals.plos.org, June 16, 2011",
+            "url": null,
+            "docid": 9520
+        },
+        {
+            "id": "35",
+            "title": "John Jett, et al., “Tooth Damage in Captive Orcas,” sciencedirect.com, May 2018",
+            "url": null,
+            "docid": 9521
+        },
+        {
+            "id": "36",
+            "title": "Natasha Daly, “Orcas Don’t Do Well in Captivity. Here’s Why,” nationalgeographic.com, Mar. 25, 2019",
+            "url": null,
+            "docid": 9522
+        },
+        {
+            "id": "37",
+            "title": "Shelby Isaacson, “Mote Ranked No. 1 Nonprofit in Published Research by Top Zoos and Aquariums,” mote.org, Apr. 4, 2018",
+            "url": null,
+            "docid": 9523
+        },
+        {
+            "id": "38",
+            "title": "Zoo Atlanta, “Representative Research,” zooatlanta.org (accessed May 8, 2019)",
+            "url": null,
+            "docid": 9524
+        },
+        {
+            "id": "39",
+            "title": "Bronx Zoo, “Bridging the Gap,” bronxzoo.com (accessed May 8, 2019)",
+            "url": null,
+            "docid": 9525
+        },
+        {
+            "id": "40",
+            "title": "Emma Marris, \"Modern Zoos Are Not Worth the Moral Cost,: nytimes.com, June 11, 2021",
+            "url": null,
+            "docid": 9526
+        },
+        {
+            "id": "41",
+            "title": "Association of Zoos and Aquariums, \"Currently Accredited Zoos and Aquariums,\" aza.org, Apr. 2021",
+            "url": null,
+            "docid": 9527
+        }
+    ],
+    "discussion": [
+        "1. Should zoos exist? If you believe they should, consider whether they should remain the same or change. If you believe they should not, consider how else to accomplish zoo’s conservation efforts.",
+        "2. Extend the debate to other human-made animal habitats, such as safari parks and animal sanctuaries.",
+        "3. What other conservation efforts are important to saving wildlife? Explain your answer(s)."
+    ],
+    "action": [
+        "1. Analyze “Eight Reasons Zoos Are Good for Conservation” from conservation scientist James Borrell.",
+        "2. Consider the pros and cons with a video fromAbove the Noise.",
+        "3. Explore conservationistDamian Aspinall’sopinion that zoos are “outdated and cruel.”",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/zoos-top-3-pros-and-cons/"
+}

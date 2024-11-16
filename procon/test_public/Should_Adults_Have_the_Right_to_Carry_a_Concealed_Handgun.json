@@ -1,0 +1,559 @@
+{
+    "title": "Should Adults Have the Right to Carry a Concealed Handgun?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Ciara McCarthy, \"Concealed Carry Is Now Legal in All 50 States, and the NRA Doesn't Want Us to Know What That Really Means,\" slate.com, July 11, 2013",
+            "docid": 11745
+        },
+        {
+            "id": "2",
+            "title": "Jeff Dege, \"Progress in Right-to-Carry,\" Gun Nuttery website, May 18, 2008",
+            "docid": 11746
+        },
+        {
+            "id": "3",
+            "title": "Richard Getchall, \"Carrying Concealed Weapons in Self-Defense: Florida Adopts Uniform Regulations for the Issuance of Concealed Weapons Permits,\"Florida State University Law Review, 1987",
+            "docid": 11747
+        },
+        {
+            "id": "4",
+            "title": "National Rifle Association Institute for Legislative, \"Right-to-Carry 2009,\" nraila.org, May 7, 2009",
+            "docid": 11748
+        },
+        {
+            "id": "5",
+            "title": "\"Going for the Guns,\" msnbc.com, Mar. 18, 2010",
+            "docid": 11749
+        },
+        {
+            "id": "6",
+            "title": "John Lott, Jr.,More Guns, Less Crime, 1998",
+            "docid": 11750
+        },
+        {
+            "id": "7",
+            "title": "National Research Council,Firearms and Violence: A Critical Review, 2004",
+            "docid": 11751
+        },
+        {
+            "id": "8",
+            "title": "John Lott, Jr.,More Guns, Less Crime: Understanding Crime and Gun-control Laws, 2000",
+            "docid": 11752
+        },
+        {
+            "id": "9",
+            "title": "Gary Kleck,Targeting Guns: Firearms and Their Control, 1997",
+            "docid": 11753
+        },
+        {
+            "id": "10",
+            "title": "Students for Concealed Carry \"Common Arguments,\" concealedcampus.org (accessed Mar. 25, 2010)",
+            "docid": 11754
+        },
+        {
+            "id": "11",
+            "title": "Charles Branas, et al., \"Investigating the Link between Gun Possession and Gun Assault,\"American Journal of Public Health, Nov. 2009",
+            "docid": 11755
+        },
+        {
+            "id": "12",
+            "title": "David McDowell, et al., \"Easing Concealed Firearms Laws: Effects on Homicide in Three States,”Journal of Criminal Law and Criminology, Fall 1995",
+            "docid": 11756
+        },
+        {
+            "id": "13",
+            "title": "David Hemenway, Deborah Azrael, and Mathew Miller, \"Gun Use in the United States: Results from Two National Surveys,\"Injury Prevention, Dec. 2000",
+            "docid": 11757
+        },
+        {
+            "id": "14",
+            "title": "Violence Policy Center, \"Concealed Carry Killers,\" vpc.org (accessed Mar. 19, 2014",
+            "docid": 11758
+        },
+        {
+            "id": "15",
+            "title": "US Federal Bureau of Investigation, \"Crime in the United States, 2007,\" fbi.gov, Sep. 2008",
+            "docid": 11759
+        },
+        {
+            "id": "16",
+            "title": "Matthew Miller, Deborah Azrael, and David Hemenway, \"Firearm Availability and Unintentional Firearm Deaths,\"Accident Analysis and Prevention, July 2001",
+            "docid": 11760
+        },
+        {
+            "id": "17",
+            "title": "CBS News andNew York Times, \"Majority Support for Many Gun-Related Proposals,\" scribd.com, Jan. 11-15, 2013",
+            "docid": 11761
+        },
+        {
+            "id": "18",
+            "title": "John Lott, Jr., \"Analysis: Fact-Checkers Fall Short in Criticizing NRA's Anti-Obama Ads,\" FoxNews.com, Sep. 24, 2008",
+            "docid": 11762
+        },
+        {
+            "id": "19",
+            "title": "Brady Campaign to Prevent Gun Violence, \"Weaker Gun Laws, Lack of Leadership Earn President Obama a Failing Grade,\" bradycampaign.org, Jan. 19, 2010",
+            "docid": 11763
+        },
+        {
+            "id": "20",
+            "title": "Jeffrey Snyder, \"Fighting Back: Crime, Self-Defense, and the Right to Carry a Handgun,\" cato.org, Oct. 22, 1997",
+            "docid": 11764
+        },
+        {
+            "id": "21",
+            "title": "Ian Ayres, PhD, and John Donohue, PhD, \"Shooting Down the More Guns, Less Crime Hypothesis,\"Stanford Law Review, Apr. 2003",
+            "docid": 11765
+        },
+        {
+            "id": "22",
+            "title": "David Welna, \"Senate Rejects Concealed Weapons Measure,\" NPR.com, July 22, 2009",
+            "docid": 11766
+        },
+        {
+            "id": "23",
+            "title": "Lindsey Reiser, \"Arizona May Allow Faculty to Carry Guns on Campus,\" ABCNews.com, Feb. 5, 2010",
+            "docid": 11767
+        },
+        {
+            "id": "24",
+            "title": "Wayne Laugesen, \"Sheriff Says He'll Undermine Gun Ban,\"The Gazette, Feb. 23, 2010",
+            "docid": 11768
+        },
+        {
+            "id": "25",
+            "title": "Bruce Rushton, \"Gun-rights Activists Descend on Capitol,\"State Journal-Register, Mar. 11, 2010",
+            "docid": 11769
+        },
+        {
+            "id": "26",
+            "title": "\"Concealed Carry Permits Hit Ohio High,\"Mansfield News Journal, Mar. 1, 2010",
+            "docid": 11770
+        },
+        {
+            "id": "27",
+            "title": "Mike Wereschagin and David Brown, \"Candidates' Gun Control Positions May Figure in PA. Vote,\"Pittsburgh Tribune-Review, Apr. 2, 2008",
+            "docid": 11771
+        },
+        {
+            "id": "28",
+            "title": "Patrik Jonsson, \"UT Shooting Comes Just As Austin Campus Debates Concealed Weapons Law,\"Christian Science Monitor, Sep. 28, 2010",
+            "docid": 11772
+        },
+        {
+            "id": "29",
+            "title": "R.G. Ratcliffe and Gary Scharrer, \"Lockdown in Austin,\"Houston Chronicle, Sep. 28, 2010",
+            "docid": 11773
+        },
+        {
+            "id": "30",
+            "title": "William E. Sturdevant, PE, \"An Analysis of the Arrest Rate of Texas Concealed Handgun License Holders as Compared to the Arrest Rate of the Entire Texas Population,\" txchia.org, Sep. 1, 2000",
+            "docid": 11774
+        },
+        {
+            "id": "31",
+            "title": "Antonin Scalia, Majority Opinion,District of Columbia v. Heller,law.cornell.edu, June 26, 2008",
+            "docid": 11775
+        },
+        {
+            "id": "32",
+            "title": "Gary Kleck and Marc Gertz, \"Armed Resistance to Crime: The Prevalence and Nature of Self-Defense with a Gun,\"Journal of Criminal Law and Criminology, Autumn 1995",
+            "docid": 11776
+        },
+        {
+            "id": "33",
+            "title": "Ian Ayres and John J. Donohue III, \"More Guns, Less Crime Fails Again: The Latest Evidence from 1977 – 2006,\"Journal of the American Institute for Economic Research, May 2009",
+            "docid": 11777
+        },
+        {
+            "id": "34",
+            "title": "Violence Policy Center, \"License to Kill IV: More Guns, More Crime,\" vpc.org, June 2002",
+            "docid": 11778
+        },
+        {
+            "id": "35",
+            "title": "Matthew Miller, MD, and David Hemenway, PhD, \"Guns and Suicide in the United States,\"New England Journal of Medicine, Sep. 4, 2008",
+            "docid": 11779
+        },
+        {
+            "id": "36",
+            "title": "Clayton E. Cramer,Concealed Weapon Laws of the Early Republic: Dueling, Southern Violence, and Moral Reform, 1999",
+            "docid": 11780
+        },
+        {
+            "id": "37",
+            "title": "Carol Skalnik Leff and Mark H. Leff, \"The Politics of Ineffectiveness: Federal Firearms Legislation, 1919-38,\"Annals of the American Academy of Political and Social Science, May 1981",
+            "docid": 11781
+        },
+        {
+            "id": "38",
+            "title": "David M. Goldman, JD, \"The National Firearms Act,\" guntrustlawyer.com, May 4, 2008",
+            "docid": 11782
+        },
+        {
+            "id": "39",
+            "title": "Richard S. Grossman and Stephen A. Lee, \"May Issue vs. Shall Issue: Explaining the Pattern of Concealed Carry Handgun Laws, 1960-2001,\"Contemporary Economic Policy, Apr. 2008",
+            "docid": 11783
+        },
+        {
+            "id": "40",
+            "title": "Florenz Plassmann and T. Nicolaus Tideman, \"Does the Right to Carry Concealed Handguns Deter Countable Crimes? Only a Count Analysis Can Say,\"Journal of Law and Economics, Oct. 2001",
+            "docid": 11784
+        },
+        {
+            "id": "41",
+            "title": "Carlisle E. Moody and Thomas B. Marvell, \"The Debate on Shall-Issue Laws,\" econjournalwatch.com, Sep. 2008",
+            "docid": 11785
+        },
+        {
+            "id": "42",
+            "title": "Samuel Alito, Majority Opinion,McDonald v. Chicago,(1.1 MB) supremecourt.gov, June 28, 2010",
+            "docid": 11786
+        },
+        {
+            "id": "43",
+            "title": "Charlie Mathews, \"Wisconsin Concealed-Carry Law May Prompt New Ordinances,\" htrnews.com, July 8, 2011",
+            "docid": 11787
+        },
+        {
+            "id": "44",
+            "title": "Ray Long, \"With Deadline Approaching, Illinois Lawmakers Struggle to See Eye to Eye on Concealed Carry,\" articles.chicagotribune.com, Apr. 10, 2013",
+            "docid": 11788
+        },
+        {
+            "id": "45",
+            "title": "USA Carry, \"Concealed Carry Permit Information by State,\" usacarry.com (accessed Mar. 14, 2014)",
+            "docid": 11789
+        },
+        {
+            "id": "46",
+            "title": "National Conference of State Legislatures, \"Guns on Campus: Overview,\" ncsl.org, Mar. 2014",
+            "docid": 11790
+        },
+        {
+            "id": "47",
+            "title": "USA Carry, \"Washington D.C. Concealed Carry Permit Information,\" usacarry.com (accessed Mar. 19, 2014)",
+            "docid": 11791
+        },
+        {
+            "id": "48",
+            "title": "Ben Garrett, \"Concealed Carry: A Look at America's Handgun Permit Status,\" civilliberty.about.com (accessed Mar. 19, 2014)",
+            "docid": 11792
+        },
+        {
+            "id": "49",
+            "title": "Radical Gun Nuttery, \"Progress in Right-to-Carry,\" gun-nuttery.com, July 3, 2013",
+            "docid": 11793
+        },
+        {
+            "id": "50",
+            "title": "US Supreme Court,Robertson v. Baldwin, supreme.justia.com, 1897",
+            "docid": 11794
+        },
+        {
+            "id": "51",
+            "title": "Dinesh Ramde, \"Senate Votes to Legalize Concealed Carry,\" host.madison.com, June 15, 2011",
+            "docid": 11795
+        },
+        {
+            "id": "52",
+            "title": "Mark Gius, \"An Examination of the Effects of Concealed Weapons Laws and Assault Weapons Bans on State–Level Murder Rates,\"Applied Economics Letters, Nov. 26, 2013",
+            "docid": 11796
+        },
+        {
+            "id": "53",
+            "title": "National Archives, \"Constitution of the United States,\" archives.gov (accessed Apr. 22, 2014)",
+            "docid": 11797
+        },
+        {
+            "id": "54",
+            "title": "US 7th Circuit Court of Appeals,Moore v. Madigan, law.justicia.com, Dec. 11, 2012",
+            "docid": 11798
+        },
+        {
+            "id": "55",
+            "title": "US 9th Circuit Court of Appeals,Peruta v. San Diego, cdn.ca9.uscourts.gov, Feb. 13, 2014",
+            "docid": 11799
+        },
+        {
+            "id": "56",
+            "title": "Tom W. Smith, \"2001 National Gun Policy Survey of the National Opinion Research Center: Research Findings,\" hawaii.edu, Dec. 2001",
+            "docid": 11800
+        },
+        {
+            "id": "57",
+            "title": "Ed Marshall, \"Former Chicagoan: Concealed Guns Make Me Feel Safer,\" chicago.cbslocal.com, Mar. 10, 2011",
+            "docid": 11801
+        },
+        {
+            "id": "58",
+            "title": "Teresa Stepzinski, \"More Women Carrying Concealed Weapons in Florida,\" jacksonville.com, Mar. 23, 2014",
+            "docid": 11802
+        },
+        {
+            "id": "59",
+            "title": "Nick Leghorn, \"NY Times Proves Concealed Carry License Holders More Law-Abiding Than the Population. Unintentionally,\" thetruthaboutguns.com, Dec. 28, 2011",
+            "docid": 11803
+        },
+        {
+            "id": "60",
+            "title": "Patrik Jonsson, \"Gun Debate: Is Price of an Armed America a More Dangerous America?,\" csmonitor.com, Feb. 2, 2014",
+            "docid": 11804
+        },
+        {
+            "id": "61",
+            "title": "David B. Kopel, \"Colorado Consensus on Gun Laws,\" cato.org, July 26, 2012",
+            "docid": 11805
+        },
+        {
+            "id": "62",
+            "title": "University of Chicago Press, \"An Interview with John R. Lott, Jr.,\" press.uchicago.edu (accessed Apr. 22, 2014)",
+            "docid": 11806
+        },
+        {
+            "id": "63",
+            "title": "Linda Greenhouse, \"Justices Rule Police Do Not Have a Constitutional Duty to Protect Someone,\" nytimes.com, June 28, 2005",
+            "docid": 11807
+        },
+        {
+            "id": "64",
+            "title": "Ashley Woods, \"Police Chief James Craig Says What Detroit Needs Is More Guns,\" huffingtonpost.com, Jan. 23, 2014",
+            "docid": 11808
+        },
+        {
+            "id": "65",
+            "title": "Ipsos Public Affairs, \"Gun Rights/Regulations Poll,\" ipsos-na.com, Apr. 2012",
+            "docid": 11809
+        },
+        {
+            "id": "66",
+            "title": "Abhay Aneja, John J. Donohue III, and Alexandria Zhang, \"The Impact of Right to Carry Laws and the NRC Report: The Latest Lessons for the Empirical Evaluation of Law and Policy,\" nber.org, Aug. 2012",
+            "docid": 11810
+        },
+        {
+            "id": "67",
+            "title": "Law Center to Prevent Gun Violence, \"Guns in Public Places: The Increasing Threat of Hidden Guns in America,\" smartgunlaws.org, July 1, 2011",
+            "docid": 11811
+        },
+        {
+            "id": "68",
+            "title": "Ethan Bronner, \"Other States, and Other Times, Would Have Posed Obstacles for Gunman,\" nytimes.com, July 24, 2012",
+            "docid": 11812
+        },
+        {
+            "id": "69",
+            "title": "Violence Policy Center, \"States with Higher Gun Ownership and Weak Gun Laws Lead Nation in Gun Death,\" vpc.org, Feb. 7, 2013",
+            "docid": 11813
+        },
+        {
+            "id": "70",
+            "title": "US Supreme Court,District of Columbia v. Heller, supremecourt.gov, June 26, 2008",
+            "docid": 11814
+        },
+        {
+            "id": "71",
+            "title": "National Archives, \"Bill of Rights,\" archives.gov (accessed Apr. 22, 2014)",
+            "docid": 11815
+        },
+        {
+            "id": "72",
+            "title": "The Gainesville Sun, \"Felons Exploit Loopholes in Fla. Concealed Weapons Law,\" gainesville.com, Jan. 29, 2007",
+            "docid": 11816
+        },
+        {
+            "id": "73",
+            "title": "James Wright and Peter Rossi, \"Armed Criminals in America: A Survey of Incarcerated Felons, 1983,\" ncjrs.gov, 1985",
+            "docid": 11817
+        },
+        {
+            "id": "74",
+            "title": "Fred Clark, \"Concealed Carry Training Requirement Suspended,\" legis.wisconsin.gov, Nov. 8, 2011",
+            "docid": 11818
+        },
+        {
+            "id": "75",
+            "title": "United States Government Accountability Office (GAO), \"States' Laws and Requirements for Concealed Carry Permits Vary across the Nation,\" gao.gov, July 2012",
+            "docid": 11819
+        },
+        {
+            "id": "76",
+            "title": "Patrick Marley, \"Committee Suspends Training Requirement for Concealed Weapons,\" jsonline.com, Nov. 7, 2011",
+            "docid": 11820
+        },
+        {
+            "id": "77",
+            "title": "Southern Illinois University, \"Poll: Gun Related Issues Evenly Divide States Voters,\" news.siu.edu, Mar. 10, 2014",
+            "docid": 11821
+        },
+        {
+            "id": "78",
+            "title": "Amy Thompson, et al., \"Student Perceptions and Practices Regarding Carrying Concealed Handguns on University Campuses,\"Journal of American College Health, July 2013",
+            "docid": 11822
+        },
+        {
+            "id": "79",
+            "title": "Law Center to Reduce Gun Violence, \"Polling on Carrying Concealed Weapons,\" smartgunlaws.org, Sep. 9, 2012",
+            "docid": 11823
+        },
+        {
+            "id": "80",
+            "title": "PoliceOne.com, \"PoliceOne's 2013 Gun Policy & Law Enforcement Survey Results: Executive Summary,\" policeone.com, Apr. 8, 2013",
+            "docid": 11824
+        },
+        {
+            "id": "81",
+            "title": "Carl Bialik, \"Detroit Police Response Times No Guide to Effectiveness,\" wsj.com, Aug. 2, 2013",
+            "docid": 11825
+        },
+        {
+            "id": "82",
+            "title": "Richard W. Stevens, \"Just Dial 911? The Myth of Police Protection,\" fee.org, Apr. 1, 2000",
+            "docid": 11826
+        },
+        {
+            "id": "83",
+            "title": "Southern California Public Radio (89.3 KPCC), \"LAPD Chief Beck on Officer-Involved Shooting, California's Concealed Carry Gun Laws and Marijuana Enforcement,\" scpr.org, Feb. 19, 2014",
+            "docid": 11827
+        },
+        {
+            "id": "84",
+            "title": "Patrik Jonsson, \"Florida Popcorn Shooting: Are Concealed Guns About Self-Defense or Power?,\"The Christian Science Monitor, Jan. 15, 2014",
+            "docid": 11828
+        },
+        {
+            "id": "85",
+            "title": "Law Center to Prevent Gun Violence, \"Supreme Court Leaves in Place New Jersey Law Limiting Guns in Public Places,\" smartgunlaws.org, May 5, 2014",
+            "docid": 11829
+        },
+        {
+            "id": "86",
+            "title": "David Kopel, \"Licensed Handgun Carry Now Legal in District of Columbia: Palmer v. DC,\"Washington Post, July 28, 2014",
+            "docid": 11830
+        },
+        {
+            "id": "87",
+            "title": "Frederick J. Scullin Jr.,Palmer v. District of Columbia,July 26, 2014",
+            "docid": 11831
+        },
+        {
+            "id": "88",
+            "title": "California Right to Carry, \"Palmer v. District of Columbia,\" blog.californiarighttocarry.org (accessed Sep. 9, 2015)",
+            "docid": 11832
+        },
+        {
+            "id": "89",
+            "title": "Jim Irvine, \"2009 Attorney General Summary on Concealed Carry: Another Record Year for Ohio Concealed Handgun Licenses,\" buckeyefirearms.org, Feb. 26, 2010",
+            "docid": 11833
+        },
+        {
+            "id": "90",
+            "title": "National Conference of State Legislatures, \"Guns on Campus: Overview,\" ncsl.org, Nov. 1, 2019",
+            "docid": 11834
+        },
+        {
+            "id": "91",
+            "title": "John R. Lott and Rujun Wang, \"Concealed Carry Permit Holders across the United States: 2020,\" papers.ssrn.com, Nov. 21, 2020",
+            "docid": 11835
+        },
+        {
+            "id": "92",
+            "title": "John Malcolm and Amy Swearer, \"Here Are 8 Stubborn Facts on Gun Violence in America,\" heritage.org, Mar. 14, 2018",
+            "docid": 11836
+        },
+        {
+            "id": "93",
+            "title": "John J. Donohue, Abhay Aneja, and Kyle D. Weber, \"Right-to-Carry Laws and Violent Crime: A Comprehensive Assessment Using Panel Data and a State-Level Synthetic Control Analysis,\" nber.org, Nov. 2018",
+            "docid": 11837
+        },
+        {
+            "id": "94",
+            "title": "Maura Ewing, \"Do Right-to-Carry Gun Laws Make States Safer?,\" theatlantic.com, June 24, 2017",
+            "docid": 11838
+        },
+        {
+            "id": "95",
+            "title": "Larry Keane, \"Concealed Carry Permit Holders Are Making America Safer and Citizens More Self-Reliant,\" nssf.org, Aug. 8, 2017",
+            "docid": 11839
+        },
+        {
+            "id": "96",
+            "title": "Amy Swearer and Cooper Conway, \"Debunking the Myth of 'Concealed-Carry Killers,'\" heritage.org, Nov. 5, 2019",
+            "docid": 11840
+        },
+        {
+            "id": "97",
+            "title": "Adam Nagourney and Erik Eckholm, \"2nd Amendment Does Not Guarantee Right to Carry Concealed Guns, Court Rules,\" nytimes.com, June 9, 2016",
+            "docid": 11841
+        },
+        {
+            "id": "98",
+            "title": "Reuters Staff, \"U.S. Appeals Court Upholds Right to Carry Gun in Public,\" reuters.com, July 24, 2018",
+            "docid": 11842
+        },
+        {
+            "id": "99",
+            "title": "Joseph Greenlee, \"Concealed Carry and the Right to Bear Arms,\" fedsoc.org, Feb. 4, 2019",
+            "docid": 11843
+        },
+        {
+            "id": "100",
+            "title": "David French, \"What Critics Don't Understand about Gun Culture,\" theatlantic.com, Feb. 27, 2018",
+            "docid": 11844
+        },
+        {
+            "id": "101",
+            "title": "John R. Lott, Jr., \"Concealed Carry Permit Holders across the United States: 2018,\" papers.ssrn.com, Aug. 14, 2018",
+            "docid": 11845
+        },
+        {
+            "id": "102",
+            "title": "Carol W Runyan, et al., \"US Women's Choices of Strategies to Protect Themselves from Violence,\" ncbi.nlm.nih.gov, Aug. 13, 2007",
+            "docid": 11846
+        },
+        {
+            "id": "103",
+            "title": "Kim Parker, et al., \"America's Complex Relationship with Guns,\" pewresearch.org, June 22, 2017",
+            "docid": 11847
+        },
+        {
+            "id": "104",
+            "title": "Marquise Francis, \"Why Gun Sales Are Spiking among African-Americans,\" aol.com, Aug. 3, 2020",
+            "docid": 11848
+        },
+        {
+            "id": "105",
+            "title": "Christianna Silva, \"Some Black Americans Buying Guns: 'I'd Rather Go To Trial Than Go To The Cemetery,'\" npr.org, Sep. 27, 2020",
+            "docid": 11849
+        },
+        {
+            "id": "106",
+            "title": "Anna E. Kyriazis, \"Do Concealed Carry Laws Affect Police Shootings?,\" aeaweb.org, Dec. 30, 2019",
+            "docid": 11850
+        },
+        {
+            "id": "107",
+            "title": "Katie Zezima, \"More States Are Allowing People to Carry Concealed Handguns without a Permit,\" washingtonpost.com, Feb. 24, 2017",
+            "docid": 11851
+        },
+        {
+            "id": "108",
+            "title": "Everytown for Gun Safety, \"Require Permits to Carry Concealed Guns in Public,\" everytown.org (accessed Dec. 23, 2020)",
+            "docid": 11852
+        },
+        {
+            "id": "109",
+            "title": "Tierney Sneed and Ariane de Vogue, \"Supreme Court Strikes Down New York Concealed Gun Law,\"cnn.com, June 23, 2022",
+            "docid": 11853
+        },
+        {
+            "id": "110",
+            "title": "Amy Howe, \"In 6–3 Ruling, Court Strikes Down New York’s Concealed-Carry Law,SCOTUSblog.com, June 23, 2022",
+            "docid": 11854
+        }
+    ],
+    "url": "https://concealedguns.procon.org/"
+}

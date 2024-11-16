@@ -1,0 +1,387 @@
+{
+    "title": "Free College – Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Michelle Singletary, “U.S. Student Loan Debt Reaches a Staggering $1.53 Trillion,” washingtonpost.com, Oct. 3, 2018",
+            "url": null,
+            "docid": 6590
+        },
+        {
+            "id": "2",
+            "title": "Zack Friedman, “Student Loan Debt Statistics in 2018: A $1.5 Trillion Crisis,” forbes.com, June 13, 2018",
+            "url": null,
+            "docid": 6591
+        },
+        {
+            "id": "3",
+            "title": "Institute of Education Science, “Fast Facts: Back to School Statistics,” nces.gov (accessed Mar. 8, 2019)",
+            "url": null,
+            "docid": 6592
+        },
+        {
+            "id": "4",
+            "title": "Emmie Martin, “Here’s How Much More Expensive It Is for You to Go to College Than It Was for Your Parents,” cnbc.com, Nov. 29, 2017",
+            "url": null,
+            "docid": 6593
+        },
+        {
+            "id": "5",
+            "title": "Dan Caplinger, “Rising Cost of College Creating a Financial Hole for Parents, Students: Foolish Take,” usatoday.com, June 9, 2018",
+            "url": null,
+            "docid": 6594
+        },
+        {
+            "id": "6",
+            "title": "Harlan Green, “What Happened to Tuition-Free College?,” huffingtonpost.com, June 1, 2016",
+            "url": null,
+            "docid": 6595
+        },
+        {
+            "id": "7",
+            "title": "History Channel, “G.I. Bill,” history.com, Aug. 21, 2018",
+            "url": null,
+            "docid": 6596
+        },
+        {
+            "id": "8",
+            "title": "American RadioWorks, “The History of the GI Bill,” americanradioworks.org, Sep. 3, 2015",
+            "url": null,
+            "docid": 6597
+        },
+        {
+            "id": "9",
+            "title": "Suzanne Mettler, “How the GI Bill Built the Middle Class and Enhanced Democracy,” scholars.org, Jan. 1, 2012",
+            "url": null,
+            "docid": 6598
+        },
+        {
+            "id": "10",
+            "title": "Debs-Jones-Douglass Institute, “GI Bill of Rights: A Profitable Investment for the United States,” djdinstitute.org (accessed Mar. 7, 2019)",
+            "url": null,
+            "docid": 6599
+        },
+        {
+            "id": "11",
+            "title": "Dennis W. Johnson,The Laws That Shaped America: Fifteen Acts of Congress and Their Lasting Impact, 2009",
+            "url": null,
+            "docid": 6600
+        },
+        {
+            "id": "12",
+            "title": "Andrew Glass, “FDR Signs GI Bill, June 22, 1944,” politico.com, June 22, 2017",
+            "url": null,
+            "docid": 6601
+        },
+        {
+            "id": "13",
+            "title": "Megan Slack, “By the Numbers: 3,” obamawhitehouse.archives.gov, Apr. 27, 2012",
+            "url": null,
+            "docid": 6602
+        },
+        {
+            "id": "14",
+            "title": "Arne Duncan and John Bridgeland, “Free College for All Will Power 21st-Century Economy and Empower Our Democracy,” brookings.edu, Sep. 17, 2018",
+            "url": null,
+            "docid": 6603
+        },
+        {
+            "id": "15",
+            "title": "Claudio Sanchez, “Should Everyone Go to College?,” npr.org, July 15, 2009",
+            "url": null,
+            "docid": 6604
+        },
+        {
+            "id": "16",
+            "title": "Erin Currier, “How Generation X Could Change the American Dream,” pewtrusts.org, Jan. 26, 2018",
+            "url": null,
+            "docid": 6605
+        },
+        {
+            "id": "17",
+            "title": "Bureau of Labor Statistics, “Unemployment Rate 2.5 Percent for College Grads, 7.7 Percent for High School Dropouts, January 2017,” bls.gov, Feb. 7, 2017",
+            "url": null,
+            "docid": 6606
+        },
+        {
+            "id": "18",
+            "title": "Marcelina Hardy, “7 Benefits of Earning a College Degree,” education.yahoo.net, 2013",
+            "url": null,
+            "docid": 6607
+        },
+        {
+            "id": "19",
+            "title": "Sandy Baum, Jennifer Ma, and Kathleen Pays, “Education Pays 2010: The Benefits of Higher Education for Individuals and Society,” collegeboard.com, 2010",
+            "url": null,
+            "docid": 6608
+        },
+        {
+            "id": "20",
+            "title": "Trade Schools, Colleges and Universities, “Should College Be Free? Pros, Cons, and Alternatives,” trade-schools.net (accessed Feb. 27, 2019)",
+            "url": null,
+            "docid": 6609
+        },
+        {
+            "id": "21",
+            "title": "Max Page and Dan Clawson, “It’s Time to Push for Free College,” nea.org (accessed Mar. 7, 2019)",
+            "url": null,
+            "docid": 6610
+        },
+        {
+            "id": "22",
+            "title": "College Board, “Average Estimated Undergraduate Budgets, 2018-2019,” trends.collegeboard.org (accessed Feb. 25, 2019)",
+            "url": null,
+            "docid": 6611
+        },
+        {
+            "id": "23",
+            "title": "College Board, “Tuition and Fees and Room and Board over Time,” trends.collegeboard.org (accessed Feb. 25, 2019)",
+            "url": null,
+            "docid": 6612
+        },
+        {
+            "id": "24",
+            "title": "Matt Philips, “College in Sweden Is Free but Students Still Have a Ton of Debt. How Can That Be?,” qz.com, May 30, 2013",
+            "url": null,
+            "docid": 6613
+        },
+        {
+            "id": "25",
+            "title": "Bernie Sanders, “Summary for Sen. Sanders’ College for All Act,” sanders.senate.gov (accessed Mar. 4, 2019)",
+            "url": null,
+            "docid": 6614
+        },
+        {
+            "id": "26",
+            "title": "David H. Feldman and Robert B. Archibald, “Why Bernie Sanders’s Free College Plan Doesn’t Make Sense,” washingtonpost.com, Apr. 22, 2016",
+            "url": null,
+            "docid": 6615
+        },
+        {
+            "id": "27",
+            "title": "Campaign for Free College Tuition, “How Expensive Is Free College for States?,” freecollegenow.org, Sep. 30, 2016",
+            "url": null,
+            "docid": 6616
+        },
+        {
+            "id": "28",
+            "title": "Neal McCluskey, “Should College Education Be Free?,” wsj.com, Mar. 20, 2018",
+            "url": null,
+            "docid": 6617
+        },
+        {
+            "id": "29",
+            "title": "US Department of Education, “College Affordability and Completion: Ensuring a Pathway to Opportunity,” ed.gov (accessed Mar. 14, 2019)",
+            "url": null,
+            "docid": 6618
+        },
+        {
+            "id": "30",
+            "title": "Emily Deruy, “Measuring College (Un)affordability,” theatlantic.com, Mar. 23, 2017",
+            "url": null,
+            "docid": 6619
+        },
+        {
+            "id": "31",
+            "title": "Hillary Hoffower, “College Is More Expensive Than It’s Ever Been, and the 5 Reasons Why Suggest It’s Only Going to Get Worse,” businessinsider.com, July 8, 2018",
+            "url": null,
+            "docid": 6620
+        },
+        {
+            "id": "32",
+            "title": "Sattler College, “Why Is College So Expensive?,” sattlercollege.org, Nov. 29, 2017",
+            "url": null,
+            "docid": 6621
+        },
+        {
+            "id": "33",
+            "title": "Earnest, “Why Is College So Expensive? 4 Trends Contributing to the Rising Cost of College?,” earnest.com (accessed Mar. 7, 2019)",
+            "url": null,
+            "docid": 6622
+        },
+        {
+            "id": "34",
+            "title": "Jack Chambless, “Clinton’s Free-College Nonsense Would Plunder Taxpayers, Dupe Students,” dallasnews.com, Aug. 2016",
+            "url": null,
+            "docid": 6623
+        },
+        {
+            "id": "35",
+            "title": "Jennifer E. Walsh, “Why States Should Abandon the ‘Free College’ Movement,” nationalreview.com, Mar. 19, 2018",
+            "url": null,
+            "docid": 6624
+        },
+        {
+            "id": "36",
+            "title": "Vince Norton, “Why Free College Is a Bad Idea,” nortonnorris.com, Mar. 16, 2018",
+            "url": null,
+            "docid": 6625
+        },
+        {
+            "id": "37",
+            "title": "Amy Sherman, “Was College Once Free in the United States, as Bernie Sanders Says?,” politifact.com, Feb. 9, 2016",
+            "url": null,
+            "docid": 6626
+        },
+        {
+            "id": "38",
+            "title": "Michael Stone, “What Happened When American States Tried Providing Tuition-Free College,” time.com, Apr. 4, 2016",
+            "url": null,
+            "docid": 6627
+        },
+        {
+            "id": "39",
+            "title": "Digest of Education Statistics, “Table 302.60. Percentage of 18- to 24-year-olds Enrolled in College, by Level of Institution and Sex and Race/Ethnicity of Student: 1970 through 2016,” nces.ed.gov (accessed Mar. 7, 2019)",
+            "url": null,
+            "docid": 6628
+        },
+        {
+            "id": "40",
+            "title": "Ashley Smith, “Obama Steps up to Push for Free,” insiderhighered.com, Sep. 9, 2015",
+            "url": null,
+            "docid": 6629
+        },
+        {
+            "id": "41",
+            "title": "College Promise Plan, “About Us,” collegepromise.org (accessed Mar. 4, 2019)",
+            "url": null,
+            "docid": 6630
+        },
+        {
+            "id": "42",
+            "title": "Edvisors, “Countries with Free or Nearly Free Tuition,” edvisors.com (accessed Feb. 21, 2019)",
+            "url": null,
+            "docid": 6631
+        },
+        {
+            "id": "43",
+            "title": "Alanna Petroff, “New York Offers Free College Tuition. So Do These Countries,” money.cnn.com, Apr. 10, 2017",
+            "url": null,
+            "docid": 6632
+        },
+        {
+            "id": "44",
+            "title": "Lisa Goetz, “6 Countries with Virtually Free College Tuition,” investopedia.com, Feb. 12, 2019",
+            "url": null,
+            "docid": 6633
+        },
+        {
+            "id": "45",
+            "title": "Morning Consult and Politico, “National Tracking Poll #170911 September 14-17, 2017,” morningconsult.com, Sep. 2017",
+            "url": null,
+            "docid": 6634
+        },
+        {
+            "id": "46",
+            "title": "Elizabeth Warren, “The Affordability Crisis: Rescuing the Dream of College Education for the Working Class and Poor,” warren.senate.gov, June 10, 2015",
+            "url": null,
+            "docid": 6635
+        },
+        {
+            "id": "47",
+            "title": "Andrew Kreighbaum, “Free College Goes Mainstream,” insidehighered.com, Sep. 26, 2018",
+            "url": null,
+            "docid": 6636
+        },
+        {
+            "id": "48",
+            "title": "Sophie Quinton, “‘Free College’ Is Increasingly Popular — and Complicated for States,” pewtrusts.org, Mar. 5, 2019",
+            "url": null,
+            "docid": 6637
+        },
+        {
+            "id": "49",
+            "title": "National Center for Education Statistics, “Back to School Statistics,” nces.ed.gov (accessed Mar. 18, 2019)",
+            "url": null,
+            "docid": 6638
+        },
+        {
+            "id": "50",
+            "title": "Katie Lobosco, “6 Things to Know about Tuition-Free College,” money.cnn.com, Apr. 26, 2016",
+            "url": null,
+            "docid": 6639
+        },
+        {
+            "id": "51",
+            "title": "Campaign for Free College Tuition, homepage,freecollegenow.org(accessed Aug. 24, 2022)",
+            "url": "https://www.freecollegenow.org/",
+            "docid": 6640
+        },
+        {
+            "id": "52",
+            "title": "Hanneh Bareham, \"States with Free College Tuition,\"bankrate.com, Aug. 4, 2022",
+            "url": "https://www.bankrate.com/loans/student-loans/states-with-free-college-tuition/",
+            "docid": 6641
+        },
+        {
+            "id": "53",
+            "title": "National Center for Education Statistics, \"Undergraduate Enrollment,\"nces.ed.gov, May 2022",
+            "url": "https://nces.ed.gov/programs/coe/indicator/cha",
+            "docid": 6642
+        },
+        {
+            "id": "54",
+            "title": "Melanie Hanson, \"College Tuition Inflation Rate,\"educationdata.org, Aug. 10, 2022",
+            "url": "https://educationdata.org/college-tuition-inflation-rate",
+            "docid": 6643
+        },
+        {
+            "id": "55",
+            "title": "National Center for Education Statistics, \"College Enrollment Rates,\"nces.ed.gov, May 2022",
+            "url": "https://nces.ed.gov/programs/coe/indicator/cpb/college-enrollment-rate#:~:text=The%20overall%20college%20enrollment%20rate,was%2040%20percent%20in%202020.",
+            "docid": 6644
+        },
+        {
+            "id": "56",
+            "title": "David M. Houston, Paul E. Peterson, and Martin R. West, \"Partisan Rifts Widen, Perceptions of School Quality Decline,\"educationnext.org, Summer 2022",
+            "url": "https://www.educationnext.org/partisan-rifts-widen-perceptions-school-quality-decline-results-2022-education-next-survey-public-opinion/",
+            "docid": 6645
+        },
+        {
+            "id": "57",
+            "title": "Anna Helhoski and Ryan Lane, \"Student Loan Debt Statistics: 2022,\"nerdwallet.com, Aug. 24, 2022",
+            "url": "https://www.nerdwallet.com/article/loans/student-loans/student-loan-debt",
+            "docid": 6646
+        },
+        {
+            "id": "58",
+            "title": "Melanie Hanson, “Average Student Loan Debt by Year,”educationdata.org, Jan. 19, 2022",
+            "url": "https://educationdata.org/average-student-loan-debt-by-year",
+            "docid": 6647
+        },
+        {
+            "id": "59",
+            "title": "Brianna McGurran and Alicia Hahn, \"College Tuition Inflation: Compare the Cost of College over Time,\"forbes.com, Mar. 28, 2022",
+            "url": "https://www.forbes.com/advisor/student-loans/college-tuition-inflation/#:~:text=In%201980%2C%20the%20price%20to,That's%20a%20180%25%20increase.",
+            "docid": 6648
+        },
+        {
+            "id": "60",
+            "title": "College Board, \"Trends in College Pricing and Student Aid 2021,\"research.collegeboard.org, Feb. 3, 2022",
+            "url": "https://research.collegeboard.org/media/pdf/trends-college-pricing-student-aid-2021.pdf",
+            "docid": 6649
+        },
+        {
+            "id": "61",
+            "title": "",
+            "url": null,
+            "docid": 6650
+        }
+    ],
+    "discussion": [
+        "1. Should college tuition be free? For which colleges/universities? Explain your answers.",
+        "2. Brainstorm potential pros and cons of free college for individual students.",
+        "3. How would free college benefit (or disadvantage) college communities? Explain your answer(s)."
+    ],
+    "action": [
+        "1. Analyze the goals of theCampaign for Free College Tuition.",
+        "2. ExploreUS News’list of 16 colleges that do not charge tuition.",
+        "3. ConsiderMichael Poliakoff’sposition that free college could raise tuition costs.",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/free-college-top-3-pros-and-cons/"
+}

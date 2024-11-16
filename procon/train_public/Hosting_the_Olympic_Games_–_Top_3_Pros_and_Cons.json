@@ -1,0 +1,423 @@
+{
+    "title": "Hosting the Olympic Games – Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "International Olympic Committee, \"Olympic Games,\" olympic.org (accessed Jan. 22, 2018)",
+            "url": null,
+            "docid": 901
+        },
+        {
+            "id": "2",
+            "title": "International Olympic Committee, \"Passionate Start to Milano Cortina 2026’s Journey to Games,\" olympic.org, Dec. 11, 2019",
+            "url": null,
+            "docid": 902
+        },
+        {
+            "id": "3",
+            "title": "Christina Settimi, \"The 2016 Rio Summer Olympics: By the Numbers,\" forbes.com, Aug. 5, 2016",
+            "url": null,
+            "docid": 903
+        },
+        {
+            "id": "4",
+            "title": "Greg Oates, \"Brazil Tourism President on the Aftermath of Rio's Olympic Games,\" skift.com, Aug. 24, 2016",
+            "url": null,
+            "docid": 904
+        },
+        {
+            "id": "5",
+            "title": "Olympic Games, \"Rio Unveils Wall of Champions as Brazil Reveals Record Tourist Boost from 2016 Games,\" olympic.org, Jan. 11, 2017",
+            "url": null,
+            "docid": 905
+        },
+        {
+            "id": "6",
+            "title": "Nathalie Thomas, \"UK Tourism Hits Record 12 Months after Olympics,\" telegraph.co.uk, Aug. 15, 2013",
+            "url": null,
+            "docid": 906
+        },
+        {
+            "id": "7",
+            "title": "Adam Taylor, \"How the Olympic Games Changed Barcelona Forever,\" businessinsider.com, July 26, 2017",
+            "url": null,
+            "docid": 907
+        },
+        {
+            "id": "8",
+            "title": "Jesse Ashlock, \"The Top 15 Cities in Europe,\" travelandleisure.com, July 11, 2017",
+            "url": null,
+            "docid": 908
+        },
+        {
+            "id": "9",
+            "title": "Robert A. Baade and Victor A. Matheson, \"Going for the Gold: The Economics of the Olympics,\" aaeweb.org, Spring 2016",
+            "url": null,
+            "docid": 909
+        },
+        {
+            "id": "10",
+            "title": "James McBride, \"The Economics of Hosting the Olympic Games,\" cfr.org, July 20, 2016",
+            "url": null,
+            "docid": 910
+        },
+        {
+            "id": "11",
+            "title": "Jane Mower, \"London 2012: Olympic Success Is Key to National Pride,\" bbc.com, Jan. 1, 2012",
+            "url": null,
+            "docid": 911
+        },
+        {
+            "id": "12",
+            "title": "Roger Bannister, \"These Remarkable Games Have Filled My Heart with Pride. It Is as if the Golden Age of My Youth Had Never Gone Away,\" dailymail.co.uk, Aug. 13, 2012",
+            "url": null,
+            "docid": 912
+        },
+        {
+            "id": "13",
+            "title": "Moorad Choudhry, \"The Olympic Effect: Good for the Economy,\" cnbc.com, Aug. 7, 2012",
+            "url": null,
+            "docid": 913
+        },
+        {
+            "id": "14",
+            "title": "Andrew K. Rose and Mark M. Spiegel, \"The Olympic Effect,\" nber.org, Apr. 2009",
+            "url": null,
+            "docid": 914
+        },
+        {
+            "id": "15",
+            "title": "David Goldblatt, \"It Wasn't Always So Expensive to Host the Olympics. Here's What Changed,\" time.com, July 26, 2016",
+            "url": null,
+            "docid": 915
+        },
+        {
+            "id": "16",
+            "title": "Bent Flyvberg, Allison Stewart, and Alexander Budzier, \"The Oxford Olympics Study 2016: Cost and Cost Overrun at the Games,\" arxiv.org, July 2016",
+            "url": null,
+            "docid": 916
+        },
+        {
+            "id": "17",
+            "title": "Bent Flyvbjerg and Allison Stewart, \"Olympic Proportions: Cost and Cost Overrun at the Olympics 1960-2012,\" sbs.ox.ac.uk, June 2012",
+            "url": null,
+            "docid": 917
+        },
+        {
+            "id": "18",
+            "title": "Jack Todd, \"The 40-Year Hangover: How the 1976 Olympics Nearly Broke Montreal,\" theguardian, July 6, 2016",
+            "url": null,
+            "docid": 918
+        },
+        {
+            "id": "19",
+            "title": "Konrad Yakabuski, \"Summer Olympics: 40 Years on, Quebeckers Are Still Footing the Bill,\" theglobeandmail.com, Mar. 24, 2017",
+            "url": null,
+            "docid": 919
+        },
+        {
+            "id": "20",
+            "title": "Jasper Scherer and Audrey Shi, \"Here Are the 7 Biggest Financial Disasters in Modern Olympic History,\" fortune.com, Aug. 10, 2016",
+            "url": null,
+            "docid": 920
+        },
+        {
+            "id": "21",
+            "title": "AP, \"Did 2004 Olympics Spark Greek Financial Crisis?,\" cnbc.com, June 3, 2010",
+            "url": null,
+            "docid": 921
+        },
+        {
+            "id": "22",
+            "title": "Nick Malkoutzis, \"How the 2004 Olympics Triggered Greece's Decline,\" bloomberg.com, Aug. 2, 2012",
+            "url": null,
+            "docid": 922
+        },
+        {
+            "id": "23",
+            "title": "Sam Belden, \"What Abandoned Olympic Venues from around the World Look Like Today,” businessinsider.com, Aug. 3, 2017",
+            "url": null,
+            "docid": 923
+        },
+        {
+            "id": "24",
+            "title": "Kim Tong-Hyung, \"As Olympics Near, South Korea Agonizes over Post-Games Costs,\" apnews.com, Dec. 14, 2017",
+            "url": null,
+            "docid": 924
+        },
+        {
+            "id": "25",
+            "title": "Nick Zaccardi, \"Sydney Olympic Stadium to Be Torn Down,\" nbcsports.com, Nov. 27, 2017",
+            "url": null,
+            "docid": 925
+        },
+        {
+            "id": "26",
+            "title": "Owen Gibson, \"Bird's Nest Stands as an Empty Monument to China's Magnificence,\" theguardian.com, Aug. 22, 2015",
+            "url": null,
+            "docid": 926
+        },
+        {
+            "id": "27",
+            "title": "Louisa Lim, \"China's Post-Olympic Woe: How to Fill an Empty Nest,\" npr.org, July 10, 2012",
+            "url": null,
+            "docid": 927
+        },
+        {
+            "id": "28",
+            "title": "Scott Davis, \"Rio's $700 Million Athletes Village Was Turned into Luxury Condos but Is Now Reportedly 'Shuttered' and 93% Vacant,\" businessinsider.com, July 18, 2017",
+            "url": null,
+            "docid": 928
+        },
+        {
+            "id": "29",
+            "title": "Fiona Govan, \"Greece's Olympic Dream Has Turned into a Nightmare for Village Residents,\" telegraph.co.uk, June 23, 2011",
+            "url": null,
+            "docid": 929
+        },
+        {
+            "id": "30",
+            "title": "Bryan C. Clift and Andrew Manley, \"Five Reasons Why Your City Won't Want to Host the Olympic Games,\" theconversation.com, Jan. 11, 2016",
+            "url": null,
+            "docid": 930
+        },
+        {
+            "id": "31",
+            "title": "Jonathan Watts, \"Forced Evictions in Rio Favela for 2016 Olympics Trigger Violent Clashes,\" theguardian.com, June 3, 2015",
+            "url": null,
+            "docid": 931
+        },
+        {
+            "id": "32",
+            "title": "AP, \"As Olympics Near, South Korea Agonizes over Post-Games Costs,\" usatoday.com, Dec. 14, 2017",
+            "url": null,
+            "docid": 932
+        },
+        {
+            "id": "33",
+            "title": "Penn Museum, \"The Real Story of the Ancient Olympic Games,\" penn.museum (accessed Jan. 22, 2018)",
+            "url": null,
+            "docid": 933
+        },
+        {
+            "id": "34",
+            "title": "Michael Radou Mossou, \"In Quest of the Olympic Spirit: The Olympic Flame,\" huffingtonpost.com, Sep. 26, 2012",
+            "url": null,
+            "docid": 934
+        },
+        {
+            "id": "35",
+            "title": "Perseus Project, \"Frequently Asked Questions about the Ancient Olympic Games,\" perseus.tufts.edu (accessed Jan. 22, 2018)",
+            "url": null,
+            "docid": 935
+        },
+        {
+            "id": "36",
+            "title": "Robert McNamara, \"The Founder of the Modern Olympics, Pierre de Coubertin,\" thoughtco.com, Mar. 17, 2017",
+            "url": null,
+            "docid": 936
+        },
+        {
+            "id": "37",
+            "title": "History.com, \"The Olympic Games,\" history.com, 2010",
+            "url": null,
+            "docid": 937
+        },
+        {
+            "id": "38",
+            "title": "Alex Gladu, \"Have the Olympics Ever Been Canceled? Rio 2016 Looks Set to Go Ahead,\" bustle.com, July 19, 2016",
+            "url": null,
+            "docid": 938
+        },
+        {
+            "id": "39",
+            "title": "Phil Haigh, \"Winter Olympics Sports 2018: The 15 Sports and 102 Events on Display in Pyeongchang, South Korea,\" metro.co.uk, Jan. 11, 2018",
+            "url": null,
+            "docid": 939
+        },
+        {
+            "id": "40",
+            "title": "Morgan Winsor, \"Olympics 2018: Everything You Need to Know about the Pyeongchang Winter Games in South Korea,\" abcnews.go.com, Jan. 8, 2018",
+            "url": null,
+            "docid": 940
+        },
+        {
+            "id": "41",
+            "title": "Brayden Yates, \"USC Students First to Represent Ecuador in Olympic Snow,\" sunshinecoastdaily.com, Dec. 23, 2017",
+            "url": null,
+            "docid": 941
+        },
+        {
+            "id": "42",
+            "title": "Wendy-Ann Clarke, \"Eritrea's First Winter Olympian Is from Alberta,\" cbc.ca, Dec. 21, 2017",
+            "url": null,
+            "docid": 942
+        },
+        {
+            "id": "43",
+            "title": "Republic of Kosovo Ministry of Foreign Affairs, \"The Skier from Rahovec Will Represent Kosovo in '2018 Winter Olympics,'\" mfa-ks.net (accessed Jan. 24, 2018)",
+            "url": null,
+            "docid": 943
+        },
+        {
+            "id": "44",
+            "title": "Yomi Kazeem, \"Nigeria's Bobsled Team Is already Winning even before the Winter Olympics Begin,\" qz.com, Jan. 23, 2018",
+            "url": null,
+            "docid": 944
+        },
+        {
+            "id": "45",
+            "title": "Channel NewsAsia, \"Skater Cheyenne Goh Qualifies for Winter Olympics, a First for Singapore,\" channelnewsasia.com, Nov. 24, 2017",
+            "url": null,
+            "docid": 945
+        },
+        {
+            "id": "46",
+            "title": "Bernama, \"PM Congratulates Julian Yee over Winter Olympics Qualifications,\" nst.com, Oct. 1, 2017",
+            "url": null,
+            "docid": 946
+        },
+        {
+            "id": "47",
+            "title": "Laura Smith-Spark, \"North Korean Athletes Will Compete at Winter Olympics,\" cnn.com, Jan. 20, 2018",
+            "url": null,
+            "docid": 947
+        },
+        {
+            "id": "48",
+            "title": "Rachel Axon, \"Future Olympic Bid Cities Could Find Process Less Expensive, Convoluted,\" usatoday.com, Aug. 7, 2017",
+            "url": null,
+            "docid": 948
+        },
+        {
+            "id": "49",
+            "title": "International Olympic Committee, \"Factsheet: Host City Election,\" olympic.org, Nov. 2017",
+            "url": null,
+            "docid": 949
+        },
+        {
+            "id": "50",
+            "title": "Victoria McCargar, \"Tourism Set Record in '84, Thanks to Olympics,\" latimes.com, May 26, 1985",
+            "url": null,
+            "docid": 950
+        },
+        {
+            "id": "51",
+            "title": "Olympic Games, \"Welcome to the Ancient Olympic Games,\" olympic.org (accessed Feb. 4, 2018)",
+            "url": null,
+            "docid": 951
+        },
+        {
+            "id": "52",
+            "title": "Olympic Games, \"Modern Olympics - Athens 1896 First Modern Olympic Games,\" olympic.org (accessed Feb. 4, 2018)",
+            "url": null,
+            "docid": 952
+        },
+        {
+            "id": "53",
+            "title": "Chow Sang-Hun, \"Pyeongchang’s Winding Path From Obscurity to Olympics Fame,\" nytimes.com, Feb. 3, 2018",
+            "url": null,
+            "docid": 953
+        },
+        {
+            "id": "54",
+            "title": "George Ramsay, \"Japanese PM and IOC Chief Agree to Postpone 2020 Olympics until 2021,\" cnn.com, Mar. 24, 2020",
+            "url": null,
+            "docid": 954
+        },
+        {
+            "id": "55",
+            "title": "Bill Chappell, \"Tokyo 2020 Olympics Have a New Start Date: July of 2021,\" npr.orf, Mar. 30, 2020",
+            "url": null,
+            "docid": 955
+        },
+        {
+            "id": "56",
+            "title": "International Olympic Committee, \"The Playbook: International Federations,\" olympic.org, Feb. 3, 2021",
+            "url": null,
+            "docid": 956
+        },
+        {
+            "id": "57",
+            "title": "Motoko Rich, Andrew Keh and Matthew Futterman, \"Tokyo Olympics Playbook: Testing? Yes. Quarantines? No. Fans? Maybe.,\" nytimes.com, Feb. 3, 2021",
+            "url": null,
+            "docid": 957
+        },
+        {
+            "id": "58",
+            "title": "Robert Hart, \"Report: Tokyo 2020 Olympics Will Go ahead but Foreign Visitors Will Be Banned,\" forbes.com, Mar. 9, 2021",
+            "url": null,
+            "docid": 958
+        },
+        {
+            "id": "59",
+            "title": "Olympic Games, “Pyeongchang 2018 Announces Surplus of at Least USD 55 Million,” olympic.org, Oct. 8, 2018",
+            "url": null,
+            "docid": 959
+        },
+        {
+            "id": "60",
+            "title": "Sam Carp, \"Study: Tokyo 2020 Already Most Expensive Summer Olympics on Record,\" sportspromedia.com, Sep. 7, 2020",
+            "url": null,
+            "docid": 960
+        },
+        {
+            "id": "61",
+            "title": "Nancy Gillen, \"Study Finds Tokyo 2020 with No Spectators Would Result in Economic Loss of up to $23 Billion,\" insidethegames.biz, Jan. 23, 2021",
+            "url": null,
+            "docid": 961
+        },
+        {
+            "id": "62",
+            "title": "Angus Watson, \"Brisbane Set to Host 2032 Olympics after IOC Endorsement,\" cnn.com, June 11, 2021",
+            "url": null,
+            "docid": 962
+        },
+        {
+            "id": "63",
+            "title": "Emiko Jozuka, \"JUST IN: Tokyo Venues for Olympics Will Not Have Spectators,\" cnn.com, July 8, 2021",
+            "url": null,
+            "docid": 963
+        },
+        {
+            "id": "64",
+            "title": "Alex Gangitano, \"White House Announces Diplomatic Boycott of Beijing Olympics,\" thehill.com, Dec. 6, 2021",
+            "url": null,
+            "docid": 964
+        },
+        {
+            "id": "65",
+            "title": "Megan Specia, \"U.K. Won’t Send Top Officials to Beijing Winter Olympics,\" nytimes.com, Dec. 8, 2021",
+            "url": null,
+            "docid": 965
+        },
+        {
+            "id": "66",
+            "title": "Andrew Keh, \"2022 Beijing Winter Olympics: Answers to Some Big Questions,\" nytimes.com, Jan. 6, 2022",
+            "url": null,
+            "docid": 966
+        },
+        {
+            "id": "67",
+            "title": "James Doubek, \"Cricket, Flag Football, Lacrosse and Squash Are Coming to the 2028 La Olympics,\" npr.org, Oct. 16, 2023",
+            "url": null,
+            "docid": 967
+        }
+    ],
+    "discussion": [
+        "1. Would your city (or a nearby larger city) benefit from hosting the Olympic Games? Why or why not?",
+        "2. What should happen with the Olympic sports facilities after the games are over? Explain your answer(s).",
+        "3. How should international events such as the COVID-19 (coronavirus) pandemic) impact the games? Explain your answer(s)."
+    ],
+    "action": [
+        "1. Consider “7 Ways Hosting the Olympics Impacts a City,” atEncyclopaedia Britannica.",
+        "2. Explore the officialOlympic Gamessite.",
+        "3. Learn about thehistory of the Olympics, partially written byHarold Maurice Abrahams, subject of the Academy Award winning filmChariots of Fire.",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/hosting-the-olympic-games-top-3-pros-and-cons/"
+}

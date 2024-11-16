@@ -1,0 +1,471 @@
+{
+    "title": "Was Bill Clinton a Good President?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "The History Place, \"Impeachment: Bill Clinton,\" historyplace.com (accessed Oct. 1, 2010)",
+            "url": null,
+            "docid": 4291
+        },
+        {
+            "id": "2",
+            "title": "Clinton Administration White House website, \"Clinton-Gore Administration Accomplishments: 1993-2001,\" clinton5.nara.gov (accessed Oct. 1, 2010)",
+            "url": null,
+            "docid": 4292
+        },
+        {
+            "id": "3",
+            "title": "History Channel, \"President Clinton Impeached,\" history.com (accessed Oct. 13, 2010)",
+            "url": null,
+            "docid": 4293
+        },
+        {
+            "id": "4",
+            "title": "Ruth Marcus, \"Trial Guide: Frequently Asked Questions,\" washingtonpost.com, Jan. 16, 1999",
+            "url": null,
+            "docid": 4294
+        },
+        {
+            "id": "5",
+            "title": "Ben Adler, \"Why Is Bill Clinton So Much More Popular Than Barack Obama?,\" newsweek.com, Sep. 29, 2010",
+            "url": null,
+            "docid": 4295
+        },
+        {
+            "id": "6",
+            "title": "Priscilla Painton, \"Clinton's Spiritual Journey,\" time.com, Apr. 5, 1993",
+            "url": null,
+            "docid": 4296
+        },
+        {
+            "id": "7",
+            "title": "Betty Glad, \"Evaluating Presidential Character,\"Presidential Studies Quarterly, 1998",
+            "url": null,
+            "docid": 4297
+        },
+        {
+            "id": "8",
+            "title": "Clinton Administration White House website, \"The Clinton Presidency: Lowest Crime Rates in a Generation,\" clinton5.nara.gov (accessed Oct. 13, 2010)",
+            "url": null,
+            "docid": 4298
+        },
+        {
+            "id": "9",
+            "title": "Steven J. Nider, \"Clinton's Military Legacy,\" Blueprint Magazine, Progressive Policy Institute website, June 30, 2003",
+            "url": null,
+            "docid": 4299
+        },
+        {
+            "id": "10",
+            "title": "Michael O'Hanlan, \"Clinton's Strong Defense Legacy,\"Foreign Affairs, Nov./Dec. 2003",
+            "url": null,
+            "docid": 4300
+        },
+        {
+            "id": "11",
+            "title": "Alison Fitzgerald, \"Snow, Praising Bush on Budget, Calls Clinton's Surplus 'Mirage,'\" bloomberg.com, Dec. 21, 2005",
+            "url": null,
+            "docid": 4301
+        },
+        {
+            "id": "12",
+            "title": "New York State Education Department, \"Federal Education Policy and the States, 1945-2009,\" nysed.gov, Jan. 2006",
+            "url": null,
+            "docid": 4302
+        },
+        {
+            "id": "13",
+            "title": "Cat Lazaroff, \"Sun Sets on President Clinton's Environmental Legacy,\" Environmental New Services, Jan. 19, 2001",
+            "url": null,
+            "docid": 4303
+        },
+        {
+            "id": "14",
+            "title": "BBC News, \"Clinton: His Role in Northern Ireland,\" news.bbc.co.uk, Dec. 11, 2000",
+            "url": null,
+            "docid": 4304
+        },
+        {
+            "id": "15",
+            "title": "Stephen M. Walt, \"Two Cheers for Clinton's Foreign Policy,\"Foreign Affairs, Mar./Apr. 2000",
+            "url": null,
+            "docid": 4305
+        },
+        {
+            "id": "16",
+            "title": "Miller Center of Public Affairs at the University of Virginia, \"American President: Bill Clinton: Foreign Affairs,\" millercenter.org (accessed Oct. 4, 2010)",
+            "url": null,
+            "docid": 4306
+        },
+        {
+            "id": "17",
+            "title": "US Department of Health and Human Services, \"Clinton Administration Record on HIV/AIDS,\" thebody.com, June 5, 2000",
+            "url": null,
+            "docid": 4307
+        },
+        {
+            "id": "18",
+            "title": "Antoinette Parisi Eaton, \"Early Postpartum Discharge: Recommendations from a Preliminary Report to Congress,\"Pediatrics, Feb. 2001",
+            "url": null,
+            "docid": 4308
+        },
+        {
+            "id": "19",
+            "title": "Boeing, \"Defense, Space & Security: International Space Station,\" boeing.com (accessed Sep. 29, 2010)",
+            "url": null,
+            "docid": 4309
+        },
+        {
+            "id": "20",
+            "title": "Michael Marriott \"Digital Divide Closing as Blacks Turn to Internet,\"New York Times, Mar. 31, 2006",
+            "url": null,
+            "docid": 4310
+        },
+        {
+            "id": "21",
+            "title": "Dan Froomkin \"Welfare’s Changing Face,\"Washington Post, July 23, 1998",
+            "url": null,
+            "docid": 4311
+        },
+        {
+            "id": "22",
+            "title": "Bill Clinton \"How We Ended Welfare, Together,\"New York Times, Aug. 22, 2006",
+            "url": null,
+            "docid": 4312
+        },
+        {
+            "id": "23",
+            "title": "Alan J. Auerbach and William G. Gale \"The Case Against Tax Cuts,\" Brookings Institution, Mar. 1999",
+            "url": null,
+            "docid": 4313
+        },
+        {
+            "id": "24",
+            "title": "Miller Center of Public Affairs at the University of Virginia, \"American President: Bill Clinton: Domestic Affairs,\" millercenter.org (accessed Oct. 4, 2010)",
+            "url": null,
+            "docid": 4314
+        },
+        {
+            "id": "25",
+            "title": "Robert Reich, \"Why We Really Shouldn't Keep the Bush Tax Cut for the Wealthy,\" talkingpointsmemo.com, Aug. 2, 2010",
+            "url": null,
+            "docid": 4315
+        },
+        {
+            "id": "26",
+            "title": "Jodie T. Allen, \"The Biggest Tax Increase in History,\" slate.com, Aug. 16, 1996",
+            "url": null,
+            "docid": 4316
+        },
+        {
+            "id": "27",
+            "title": "Michael Grunwald, \"A Combative Clinton Defends Record on Fighting Terrorism,\"Washington Post, Sep. 24, 2006",
+            "url": null,
+            "docid": 4317
+        },
+        {
+            "id": "28",
+            "title": "ProCon.org Staff",
+            "url": null,
+            "docid": 4318
+        },
+        {
+            "id": "29",
+            "title": "Justice Policy Institute, \"Too Little Too Late: President Clinton's Prison Legacy,\" justicepolicy.org, Feb. 2001",
+            "url": null,
+            "docid": 4319
+        },
+        {
+            "id": "30",
+            "title": "Stephen Moore, \"Testimony before the Subcommittee on Social Security, Committee on Ways and Means, United States House of Representatives,\" cato.org, Feb. 14, 1995",
+            "url": null,
+            "docid": 4320
+        },
+        {
+            "id": "31",
+            "title": "Daniel Griswold, \"Who Gets Credit for America's Great Economy?,\" CATO Institute website, Aug. 17, 2000",
+            "url": null,
+            "docid": 4321
+        },
+        {
+            "id": "32",
+            "title": "David Weidner, \"Did Clinton Cause the Banking Crisis?,\" MSN Money, June 26, 2009",
+            "url": null,
+            "docid": 4322
+        },
+        {
+            "id": "323",
+            "title": "NewsMax, \"Environmentalists Run Hot and Cold on Clinton Environmental Record,\" NewsMax.com, Jan. 4, 2001",
+            "url": null,
+            "docid": 4323
+        },
+        {
+            "id": "34",
+            "title": "Reuters, \"Jobs and Pollution Are on the NAFTA Agenda,\" latimes.com, Mar. 16, 1993",
+            "url": null,
+            "docid": 4324
+        },
+        {
+            "id": "35",
+            "title": "Susan Elderkin, \"What a Difference a Year Makes,\"High Country News, Sep. 2, 1996",
+            "url": null,
+            "docid": 4325
+        },
+        {
+            "id": "36",
+            "title": "Foreign Policy Editors, \"Think Again: Clinton’s Foreign Policy,\"Foreign Policy, Nov. 1, 2000",
+            "url": null,
+            "docid": 4326
+        },
+        {
+            "id": "37",
+            "title": "PBS Frontline, \"The Clinton Years: Promise/Defeat,\" pbs.org, Jan. 16, 2001",
+            "url": null,
+            "docid": 4327
+        },
+        {
+            "id": "38",
+            "title": "PBS Online NewsHour, \"A Detailed Timeline of the Healthcare Debate Portrayed in 'The System,'\" pbs.org (accessed Oct. 13, 2010)",
+            "url": null,
+            "docid": 4328
+        },
+        {
+            "id": "39",
+            "title": "Jeff Johnson \"Democrats Wrong: Only Clinton Cut NASA's Budget,\" CNSNews.com, Feb. 4, 2003",
+            "url": null,
+            "docid": 4329
+        },
+        {
+            "id": "40",
+            "title": "Michael D. Tanner, \"Clinton Wanted Social Security Privatized,\" CATO Institute website, July 13, 2001",
+            "url": null,
+            "docid": 4330
+        },
+        {
+            "id": "41",
+            "title": "Tricia McDermott, \"Bill Clinton: His Life,\" CBS 60 Minutes website, June 20, 2004",
+            "url": null,
+            "docid": 4331
+        },
+        {
+            "id": "42",
+            "title": "Jodie T. Allen, \"The Biggest Tax Increase in History,\" slate.com, Aug. 16, 1996",
+            "url": null,
+            "docid": 4332
+        },
+        {
+            "id": "43",
+            "title": "J. D. Foster, \"Tax Cuts, Not the Clinton Tax Hike, Produced the 1990s Boom,\" Heritage Foundation website, Mar. 4, 2008",
+            "url": null,
+            "docid": 4333
+        },
+        {
+            "id": "44",
+            "title": "Stephen Moore, \"Why Is Bill Clinton Cultivating Envy?,\" CATO Institute website, July 31, 1997",
+            "url": null,
+            "docid": 4334
+        },
+        {
+            "id": "45",
+            "title": "New York Times Editors, \"Assessing the Blame for 9/11,\"New York Times, Mar. 25, 2004",
+            "url": null,
+            "docid": 4335
+        },
+        {
+            "id": "46",
+            "title": "Lisa Myers, \"Osama bin Laden: Missed Opportunities,\" NBC News website, Mar. 17, 2004",
+            "url": null,
+            "docid": 4336
+        },
+        {
+            "id": "47",
+            "title": "Michael S. James, \"Timeline: President Bill Clinton Through the Years,\" ABC News website, Feb. 11, 2010",
+            "url": null,
+            "docid": 4337
+        },
+        {
+            "id": "48",
+            "title": "New York Times \"Bill Clinton,\" nytimes.com, Feb. 12, 2010",
+            "url": null,
+            "docid": 4338
+        },
+        {
+            "id": "49",
+            "title": "Nigel Hamilton,Bill Clinton: Mastering the Presidency, 2008",
+            "url": null,
+            "docid": 4339
+        },
+        {
+            "id": "50",
+            "title": "PBS American Experience, \"The Presidents: William Jefferson Clinton,\" pbs.org (accessed Oct. 13, 2010)",
+            "url": null,
+            "docid": 4340
+        },
+        {
+            "id": "51",
+            "title": "Jonathan Obelander, \"Learning from Failure in Health Care Reform,\"New England Journal of Medicine, Oct. 25, 2007",
+            "url": null,
+            "docid": 4341
+        },
+        {
+            "id": "52",
+            "title": "Kevin Hassett, \"Clinton Myth Spins Obama Toward Midterm Massacre,\" bloomberg.com, Mar. 14, 2010",
+            "url": null,
+            "docid": 4342
+        },
+        {
+            "id": "53",
+            "title": "Ed Hornick, \"Will Obama's Health Care Plan Mirror the 1994 Clinton Failure?,\" cnn.com, July 22, 2009",
+            "url": null,
+            "docid": 4343
+        },
+        {
+            "id": "54",
+            "title": "Louis Uchitelle, \"NAFTA and Jobs: In a Numbers War, No One Can Count,\"New York Times, Nov. 14, 1993",
+            "url": null,
+            "docid": 4344
+        },
+        {
+            "id": "55",
+            "title": "History Channel, \"NAFTA Signed Into Law,\" history.com (accessed Sep. 23, 2010)",
+            "url": null,
+            "docid": 4345
+        },
+        {
+            "id": "56",
+            "title": "Ed Payne, \"15 Years Later, Victims, Residents Remember Oklahoma City Bombing,\" cnn.com, Apr. 19, 2010",
+            "url": null,
+            "docid": 4346
+        },
+        {
+            "id": "57",
+            "title": "CNN, \"Gingrich Comment on Shutdown Labeled 'Bizarre' by White House,\" cnn.com, Nov. 16, 1995",
+            "url": null,
+            "docid": 4347
+        },
+        {
+            "id": "58",
+            "title": "Steve Kornacki, \"Republicans Flunk Government Shutdown History,\" salon.com, Sep. 8, 2010",
+            "url": null,
+            "docid": 4348
+        },
+        {
+            "id": "59",
+            "title": "John Woolley and Gerhard Peters, \"The American Presidency Project,\" presidency.ucsb.edu (accessed Oct. 13, 2010)",
+            "url": null,
+            "docid": 4349
+        },
+        {
+            "id": "60",
+            "title": "White House, \"William J. Clinton,\" whitehouse.gov (accessed Sep. 20, 2010)",
+            "url": null,
+            "docid": 4350
+        },
+        {
+            "id": "61",
+            "title": "PBS Frontline, \"Chronology: From Hope, Arkansas to the White House,\" pbs.org, Jan. 16, 2001",
+            "url": null,
+            "docid": 4351
+        },
+        {
+            "id": "62",
+            "title": "Bill Clinton, \"Statement on Signing the Balanced Budget Act of 1997,\" presidency.ucsb.edu, Aug. 5, 1997",
+            "url": null,
+            "docid": 4352
+        },
+        {
+            "id": "63",
+            "title": "Dan Froomkin, \"Case Closed,\"Washington Post, Dec. 3, 1998",
+            "url": null,
+            "docid": 4353
+        },
+        {
+            "id": "64",
+            "title": "Bill Clinton, \"Statement on His Testimony Before the Grand Jury (August 17, 1998),\" millercenter.org (accessed Oct. 4, 2010)",
+            "url": null,
+            "docid": 4354
+        },
+        {
+            "id": "65",
+            "title": "PBS Online NewsHour, \"The Impeachment Trial,\" pbs.org (accessed Oct. 14, 2010)",
+            "url": null,
+            "docid": 4355
+        },
+        {
+            "id": "66",
+            "title": "PBS Frontline, \"The Clinton Years: Post Impeachment,\" pbs.org, Jan. 16, 2001",
+            "url": null,
+            "docid": 4356
+        },
+        {
+            "id": "67",
+            "title": "PBS Frontline, \"Shattered Dreams of Peace,\" pbs.org (accessed Oct. 14, 2010)",
+            "url": null,
+            "docid": 4357
+        },
+        {
+            "id": "68",
+            "title": "CBS News, \"Whitewater: Case Closed,\" cbsnews.com, Sep. 20, 2000",
+            "url": null,
+            "docid": 4358
+        },
+        {
+            "id": "68",
+            "title": "William Jefferson Clinton, \"My Reasons for the Pardons,\"New York Times, Feb. 18, 2001",
+            "url": null,
+            "docid": 4359
+        },
+        {
+            "id": "70",
+            "title": "Richard L. Berke, \"The Clinton Pardons: The Democrats; This Time, Clintons Find Their Support Buckling From Weight of New Woes,\"New York Times, Feb. 23, 2001",
+            "url": null,
+            "docid": 4360
+        },
+        {
+            "id": "71",
+            "title": "Lydia Saad, \"Bush Presidency Closes With 34% Approval, 61% Disapproval,\" gallup.com, Jan. 14, 2009",
+            "url": null,
+            "docid": 4361
+        },
+        {
+            "id": "72",
+            "title": "CBS News, \"Bush's Final Approval Rating: 22 Percent,\" cbsnews.com, Jan. 16, 2009",
+            "url": null,
+            "docid": 4362
+        },
+        {
+            "id": "73",
+            "title": "Donald T. Phillips,The Clinton Charisma: A Legacy of Leadership, 2008",
+            "url": null,
+            "docid": 4363
+        },
+        {
+            "id": "74",
+            "title": "NBC News andWall Street Journal, \"NBC News/Wall Street Journal Survey,\" msnbc.com, Sep. 28, 2010",
+            "url": null,
+            "docid": 4364
+        },
+        {
+            "id": "75",
+            "title": "Thomas M. Defrank, \"Bill Clinton Backs Barack Obama with Relentless Campaigning & Praise for the President,\"New York Daily News, Nov. 2, 2012",
+            "url": null,
+            "docid": 4365
+        },
+        {
+            "id": "76",
+            "title": "Robert Yoon, \"First on CNN: Bill Clinton's $106 Million Speech Circuit Windfall,\" cnn.com, May 23, 2013",
+            "url": null,
+            "docid": 4366
+        },
+        {
+            "id": "77",
+            "title": "Chris Morris, \"Bill Clinton Is Launching a Podcast,\" fortune.com, May 2, 2019",
+            "url": null,
+            "docid": 4367
+        }
+    ],
+    "url": "https://clinton.procon.org"
+}

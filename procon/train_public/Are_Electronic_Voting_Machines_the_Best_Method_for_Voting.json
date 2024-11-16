@@ -1,0 +1,255 @@
+{
+    "title": "Are Electronic Voting Machines the Best Method for Voting?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Douglas W. Jones, “A Brief Illustrated History of Voting,” homepage.divms.uiowa.edu, 2001",
+            "url": null,
+            "docid": 9919
+        },
+        {
+            "id": "2",
+            "title": "Voting Viva Voce, “Public Voting: Before the Secret Ballot,” sociallogic.iath.virginia.edu (accessed Sep. 13, 2022)",
+            "url": null,
+            "docid": 9920
+        },
+        {
+            "id": "3",
+            "title": "Alexia Lachavanne, “The Advantages of Gambia’s Unique Marble Voting System,” gambia.un.org, June 1, 2022",
+            "url": null,
+            "docid": 9921
+        },
+        {
+            "id": "4",
+            "title": "Charles Girard, “Acclamation Voting in Sparta: An Early Use of Approval Voting,”Handbook on Approval Voting, researchgate.net, Jan. 2010",
+            "url": null,
+            "docid": 9922
+        },
+        {
+            "id": "5",
+            "title": "The Editors of Encyclopaedia Britannica, “Australian Ballot,” britannica.com, May 5, 2017",
+            "url": null,
+            "docid": 9923
+        },
+        {
+            "id": "6",
+            "title": "MIT Election Data & Science Lab, “Voting Technology,” electionlab.mit.edu (accessed Sep. 13, 2022)",
+            "url": null,
+            "docid": 9924
+        },
+        {
+            "id": "7",
+            "title": "Owen Edwards, “When Pulling a Lever Tallied the Vote,” smithsonianmag.com, Nov. 2004",
+            "url": null,
+            "docid": 9925
+        },
+        {
+            "id": "8",
+            "title": "OfficialData.org, “CPI Inflation Calculator,” officialdata.org (accessed Sep. 13, 2022)",
+            "url": null,
+            "docid": 9926
+        },
+        {
+            "id": "9",
+            "title": "IBM, “Port-A-Punch,” ibm.com (accessed Sep. 14, 2022)",
+            "url": null,
+            "docid": 9927
+        },
+        {
+            "id": "10",
+            "title": "Verified Voting, “ES&S Votomatic,” verifiedvoting.org (accessed Sep. 14, 2022)",
+            "url": null,
+            "docid": 9928
+        },
+        {
+            "id": "11",
+            "title": "The Editors of Encyclopaedia Britannica, “Bush v. Gore,” britannica.com, Dec. 5, 2021",
+            "url": null,
+            "docid": 9929
+        },
+        {
+            "id": "12",
+            "title": "US Election Assistance Committee, “Help America Vote Act,” eac.gov (accessed Sep. 15, 2022)",
+            "url": null,
+            "docid": 9930
+        },
+        {
+            "id": "13",
+            "title": "National Conference of State Legislatures, “Electronic Ballot Return,” ncsl.org, Aug. 15, 2022",
+            "url": null,
+            "docid": 9931
+        },
+        {
+            "id": "14",
+            "title": "National Conference of State Legislatures, “Voting Equipment,” ncsl.org, July 9, 2021",
+            "url": null,
+            "docid": 9932
+        },
+        {
+            "id": "15",
+            "title": "Board of Elections in the City of New York, “Ballot Marking Device,” vote.nyc (accessed Dec. 12, 2022",
+            "url": null,
+            "docid": 9933
+        },
+        {
+            "id": "16",
+            "title": "Matt Vasilogambros and Lindsey Van Ness, “Despite Security Concerns, Online Voting Advances,” pewtrusts.org, Feb. 17, 2021",
+            "url": null,
+            "docid": 9934
+        },
+        {
+            "id": "17",
+            "title": "National Democratic Institute, “Internet Voting in Estonia,” ndi.org (accessed Dec. 12, 2022)",
+            "url": null,
+            "docid": 9935
+        },
+        {
+            "id": "18",
+            "title": "Smartmatic, “Bulgaria: First Binding E-Vote Is 100% Accurate,” smartmatic.com, (accessed Dec. 12, 2022)",
+            "url": null,
+            "docid": 9936
+        },
+        {
+            "id": "19",
+            "title": "Matt Zdun,” Machine Politics: How America Casts and Counts Its Votes,” graphics.reuters.com, Aug. 23, 2022",
+            "url": null,
+            "docid": 9937
+        },
+        {
+            "id": "20",
+            "title": "Alfred Ng, “Lawmakers Turn to Hackers at Defcon for Election Security,” lieu.house.gov, Aug. 8, 2019",
+            "url": null,
+            "docid": 9938
+        },
+        {
+            "id": "21",
+            "title": "Merriam Webster, “White Hat,” merriam-webster.com (accessed Dec. 8, 2022)",
+            "url": null,
+            "docid": 9939
+        },
+        {
+            "id": "22",
+            "title": "Danielle Root, et al., “Election Security in All 50 States,” americanprogress.org, Feb. 12, 2018",
+            "url": null,
+            "docid": 9940
+        },
+        {
+            "id": "23",
+            "title": "Ellen Nakashima and Amy Gardner, “No Evidence of Exploitation of Dominion Voting Machine Flaws, Cisa Finds,” washingtonpost.com, May 28, 2022",
+            "url": null,
+            "docid": 9941
+        },
+        {
+            "id": "24",
+            "title": "Eric Geller, \"Some States Have Embraced Online Voting. It’s a Huge Risk.,” politico.com, June 8, 2020",
+            "url": null,
+            "docid": 9942
+        },
+        {
+            "id": "25",
+            "title": "Michael A. Specter and J. Alex Halderman, “Security Analysis of the Democracy Live Online Voting System,” internetpolicy.mit.edu, June 7, 2020",
+            "url": null,
+            "docid": 9943
+        },
+        {
+            "id": "26",
+            "title": "Tamas Kadar, “What Is Browser Fingerprinting & How Does It Work?,” seon.io (accessed Oct. 12, 2022)",
+            "url": null,
+            "docid": 9944
+        },
+        {
+            "id": "27",
+            "title": "Democracy Live, “OmniBallot Fact Sheet,” democracylive.com (accessed Dec. 8, 2022)",
+            "url": null,
+            "docid": 9945
+        },
+        {
+            "id": "28",
+            "title": "Michael A. Specter, James Koppel, and Daniel Weitzner, “The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections,” internetpolicy.mit.edu, Feb. 2020",
+            "url": null,
+            "docid": 9946
+        },
+        {
+            "id": "29",
+            "title": "National Institute of Standards and Technology, “Risk Management for Electronic Ballot Delivery, Marking, and Return,” politico.com, May 2020",
+            "url": null,
+            "docid": 9947
+        },
+        {
+            "id": "30",
+            "title": "Aviel Rubin, “Why Internet Voting Is a Nonstarter,” engineering.jhu.edu, Summer 2016",
+            "url": null,
+            "docid": 9948
+        },
+        {
+            "id": "31",
+            "title": "Turquoise Baker, et al., “Voting Machines at Risk in 2022,” brennancenter.org, Mar. 1, 2022",
+            "url": null,
+            "docid": 9949
+        },
+        {
+            "id": "32",
+            "title": "Anthony Fowler, “New Survey Reveals Concerns about the Security of the Nation’s Voting System ahead of the Midterm Elections,” harris.uchicago.edu, Oct. 10, 2018",
+            "url": null,
+            "docid": 9950
+        },
+        {
+            "id": "33",
+            "title": "Kate Brumback, “Cyber Agency: Voting Software Vulnerable in Some States,” apnews.com, May 31, 2022",
+            "url": null,
+            "docid": 9951
+        },
+        {
+            "id": "34",
+            "title": "Elections Infrastructure Initiatives, “New Report Finds That More Than $50 Billion Is Needed to Modernize and Run State and Local Elections Infrastructure,” modernizeourelections.org, Dec. 14, 2021",
+            "url": null,
+            "docid": 9952
+        },
+        {
+            "id": "35",
+            "title": "Statista, “Internet User Penetration in the United States from 2018 to 2027,” statista.com, Aug. 31, 2022",
+            "url": null,
+            "docid": 9953
+        },
+        {
+            "id": "36",
+            "title": "Statista, “Share of Adults in the United States Who Use the Internet in 2021, by Age Group,” statista.com, Jul. 26, 2022",
+            "url": null,
+            "docid": 9954
+        },
+        {
+            "id": "37",
+            "title": "Statista, “Share of Adults in the United States Who Use the Internet in 2021, by Ethnicity,” statista.com, Jul. 7, 2022",
+            "url": null,
+            "docid": 9955
+        },
+        {
+            "id": "38",
+            "title": "Statista, “Share of Adults in the United States Who Use the Internet in 2021, by Urbanity,” statista.com, Jul. 7, 2022",
+            "url": null,
+            "docid": 9956
+        },
+        {
+            "id": "39",
+            "title": "Statista, “Share of Adults in the United States Who Use the Internet in 2021, by Annual Household Income,” statista.com, Jul. 7, 2022",
+            "url": null,
+            "docid": 9957
+        },
+        {
+            "id": "40",
+            "title": "Yes Elections, “What Are the Leading Benefits of Online Voting?,” yeselections.com, Dec. 23, 2020",
+            "url": null,
+            "docid": 9958
+        },
+        {
+            "id": "41",
+            "title": "Amelia Powers-Gardner and Chris Walker, “We Must Consider Secure Online Voting,” techcrunch.com, Mar. 30, 2020",
+            "url": null,
+            "docid": 9959
+        }
+    ],
+    "url": "https://votingmachines.procon.org"
+}

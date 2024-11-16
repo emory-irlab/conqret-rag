@@ -1,0 +1,189 @@
+{
+    "title": "Historical Timeline",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Roger Hood, “Capital Punishment,” britannica.com, Aug 29, 2023",
+            "url": null,
+            "docid": 5312
+        },
+        {
+            "id": "2",
+            "title": "Amnesty International, “Death Sentences and Executions 2022,” amnesty.org, May 2023",
+            "url": null,
+            "docid": 5313
+        },
+        {
+            "id": "3",
+            "title": "Jonathan Allen, \"U.S. to Carry Out 13th and Final Execution under Trump Administration,\" reuters.com, Jan. 15, 2021",
+            "url": null,
+            "docid": 5314
+        },
+        {
+            "id": "4",
+            "title": "Barbara Campbell, \"U.S. Executes Dustin Higgs in 13th and Final Execution under Trump Administration,\" npr.org, Jan. 16, 2021",
+            "url": null,
+            "docid": 5315
+        },
+        {
+            "id": "5",
+            "title": "Death Penalty Information Center, \"Execution Database,\" deathpenaltyinfo.org (accessed Jan. 18, 2021)",
+            "url": null,
+            "docid": 5316
+        },
+        {
+            "id": "6",
+            "title": "Aris Folley, \"Federal Government Carries Out 13th and Final Execution under Trump,\" thehill.com, Jan. 16, 2021",
+            "url": null,
+            "docid": 5317
+        },
+        {
+            "id": "7",
+            "title": "Gallup, “Death Penalty,” news.gallup.com (accessed Sep. 18, 2023)",
+            "url": null,
+            "docid": 5318
+        },
+        {
+            "id": "8",
+            "title": "Editors of Encyclopaedia Britannica, “Talion,” britannica.com, Feb. 22, 2011",
+            "url": null,
+            "docid": 5319
+        },
+        {
+            "id": "9",
+            "title": "U.S. Conference of Catholic Bishops, “Leviticus,” bible.usccb.org (accessed Sep. 19, 2023)",
+            "url": null,
+            "docid": 5320
+        },
+        {
+            "id": "10",
+            "title": "Stanford Encyclopedia of Philosophy Archive, “Retributive Justice,” plato.stanford.edu, June 18, 2014",
+            "url": null,
+            "docid": 5321
+        },
+        {
+            "id": "11",
+            "title": "Charles Stimson, “The Death Penalty Is Appropriate,” heritage.org, Dec. 20, 2019",
+            "url": null,
+            "docid": 5322
+        },
+        {
+            "id": "12",
+            "title": "Jon'a F. Meyer, “Retributive Justice,” britannica.com, Sep 12, 2014",
+            "url": null,
+            "docid": 5323
+        },
+        {
+            "id": "13",
+            "title": "Robert Blecker, “If Not the Parkland Shooter, Who Is the Death Penalty For?,” nytimes.com, Oct. 27, 2022",
+            "url": null,
+            "docid": 5324
+        },
+        {
+            "id": "14",
+            "title": "George Brauchler, “Coloradans Should Have the Final Say on the Death Penalty (and I’d Hope They Keep It),” denverpost.com, Mar. 1, 2019",
+            "url": null,
+            "docid": 5325
+        },
+        {
+            "id": "15",
+            "title": "Paul Cassell, “In Defense of the Death Penalty,” ndaa.org, Summer 2008",
+            "url": null,
+            "docid": 5326
+        },
+        {
+            "id": "16",
+            "title": "Gary Cartwright, “Free to Kill,” texasmonthly.com, Aug. 1992",
+            "url": null,
+            "docid": 5327
+        },
+        {
+            "id": "17",
+            "title": "Katherine Burgess, “Their Father Killed Their Mother. Now, the Siblings Disagree on whether He Should Be Executed,” commercialappeal.com, May 8, 2019",
+            "url": null,
+            "docid": 5328
+        },
+        {
+            "id": "18",
+            "title": "Meghna Chakrabarti and Brian Hardzinski, “How Murder Victims’ Families Are Responding to Death Penalty Halt in California,” wbur.org, Mar. 20, 2019",
+            "url": null,
+            "docid": 5329
+        },
+        {
+            "id": "19",
+            "title": "Jayson Knight, “Central Oklahoma Weeklies | Death Penalty is Justice for Families of Murder Victims,” oag.ok.gov, Oct. 26, 2022",
+            "url": null,
+            "docid": 5330
+        },
+        {
+            "id": "20",
+            "title": "Equal Justice Initiative, “Death Penalty,” eji.org (accessed Sep. 20, 2023)",
+            "url": null,
+            "docid": 5331
+        },
+        {
+            "id": "21",
+            "title": "Center on Wrongful Convictions, “Explore the Issues,” cwc.law.northwestern.edu (accessed Dec. 13, 2023)",
+            "url": null,
+            "docid": 5332
+        },
+        {
+            "id": "22",
+            "title": "Josh Marcus, “The ‘Stepchild of Lynching’: How the Death Penalty Targets Black People,” independent.co.uk, Oct. 13, 2021",
+            "url": null,
+            "docid": 5333
+        },
+        {
+            "id": "23",
+            "title": "Ed Pilkington, “Virginia May Be First in South to Abolish Death Penalty and Abandon ‘Legalized Lynching,’” theguardian.com, Feb. 2, 2021",
+            "url": null,
+            "docid": 5334
+        },
+        {
+            "id": "24",
+            "title": "ACLU, “The Death Penalty: Questions and Answers,” aclu.org, April 9, 2007",
+            "url": null,
+            "docid": 5335
+        },
+        {
+            "id": "25",
+            "title": "Amnesty International, “Death Penalty Cost,” amnestyusa.org, June 26, 2023",
+            "url": null,
+            "docid": 5336
+        },
+        {
+            "id": "26",
+            "title": "Jeffrey Miron, “The Financial Implications of the Death Penalty,” cato.org, July 20, 2023",
+            "url": null,
+            "docid": 5337
+        },
+        {
+            "id": "27",
+            "title": "Benjamin Zober, “The Death Penalty Is Immoral. It Is Murder,” thisisreno.com, Sep. 20, 2020",
+            "url": null,
+            "docid": 5338
+        },
+        {
+            "id": "28",
+            "title": "Dakin Andone, “Why the Brother of Parkland School Shooting Victim Carmen Schentrup Is against the Death Penalty for Her Killer,” cnn.com, Oct. 10, 2022",
+            "url": null,
+            "docid": 5339
+        },
+        {
+            "id": "29",
+            "title": "John Bessler, “A Torturous Practice: Prohibiting the Death Penalty’s Use through a Peremptory Norm of International Law,” blogs.law.ox.ac.uk, May 4, 2023",
+            "url": null,
+            "docid": 5340
+        },
+        {
+            "id": "30",
+            "title": "Areesha Lodhi, \"What’s Nitrogen Hypoxia? Alabama Carries Out Kenneth Smith’s US Execution,\" aljazeera.com, Jan. 25, 2024",
+            "url": null,
+            "docid": 5341
+        }
+    ],
+    "url": "https://deathpenalty.procon.org/historical-timeline/"
+}

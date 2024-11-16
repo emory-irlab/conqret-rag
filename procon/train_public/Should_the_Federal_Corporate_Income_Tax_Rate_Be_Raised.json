@@ -1,0 +1,419 @@
+{
+    "title": "Should the Federal Corporate Income Tax Rate Be Raised?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Fareed Zakaria, \"Complexity Equals Corruption,\" time.com, Oct. 31, 2011",
+            "docid": 9960
+        },
+        {
+            "id": "2",
+            "title": "PricewaterhouseCoopers LLP, \"Global Effective Tax Rates,\" businessroundtable.org, Apr. 14, 2011",
+            "docid": 9961
+        },
+        {
+            "id": "3",
+            "title": "Tax Foundation, \"Federal Corporate Income Tax Rates, Income Years 1909-2012,\" taxfoundation.org, July 6, 2012",
+            "docid": 9962
+        },
+        {
+            "id": "4",
+            "title": "Bureau of Labor Statistics, \"Labor Force Statistics from the Current Population Survey,\" data.bls.gov (accessed May 18, 2018)",
+            "docid": 9963
+        },
+        {
+            "id": "5",
+            "title": "Tax Policy Center, \"Major Enacted Tax Legislation, 1940-49,\" taxpolicycenter.org (accessed Dec. 13, 2012)",
+            "docid": 9964
+        },
+        {
+            "id": "6",
+            "title": "Becky Yerak, \"Aon Shareholders Approve Headquarters Move to London,\" articles.chicagotribune.com, Mar. 17, 2012",
+            "docid": 9965
+        },
+        {
+            "id": "7",
+            "title": "Emily Chasan, \"At Big US Companies, 60% of Cash Sits Offshore: JP Morgan,\" blogs.wsj.com, May 17, 2012",
+            "docid": 9966
+        },
+        {
+            "id": "8",
+            "title": "Albert Wijeweera, \"Corporate Tax Rates and Foreign Direct Investment in the United States,\"Applied Economics, Oct. 30, 2009",
+            "docid": 9967
+        },
+        {
+            "id": "9",
+            "title": "Tax Policy Center, \"Major Enacted Tax Legislation, 1980-89,\" taxpolicycenter.org (accessed Dec. 13, 2012)",
+            "docid": 9968
+        },
+        {
+            "id": "10",
+            "title": "Robert Carroll, \"Corporate Taxes and Wages: Evidence from the 50 States,” taxfoundation.org, Aug. 2009",
+            "docid": 9969
+        },
+        {
+            "id": "11",
+            "title": "Mark Ahlseen, \"Why Government Can’t Create Jobs,” fee.org (accessed Dec. 4, 2012)",
+            "docid": 9970
+        },
+        {
+            "id": "12",
+            "title": "The President’s Economic Recovery Advisory Board, \"The Report on Tax Reform Options: Simplification, Compliance, and Corporate Taxation\", whitehouse.gov, Aug. 2010",
+            "docid": 9971
+        },
+        {
+            "id": "13",
+            "title": "Matthew Yglesias, \"Dear CEOs: Please Stop Whining About Uncertainty,\" slate.com, Dec. 11, 2012",
+            "docid": 9972
+        },
+        {
+            "id": "14",
+            "title": "Christina Romer and David Romer, \"The Macroeconomic Effects of Tax Changes: Estimates Based on a New Measure of Fiscal Shocks,\" aeaweb.org, June 2010",
+            "docid": 9973
+        },
+        {
+            "id": "15",
+            "title": "John Cragg, \"Empirical Evidence on the Incidence of the Corporation Income Tax,\"Journal of Political Economy, Dec. 1967",
+            "docid": 9974
+        },
+        {
+            "id": "16",
+            "title": "Kristina Peterson, \"Report: Repatriation Tax Holiday a ‘Failed’ Policy,\" wsj.com, Oct. 10, 2011",
+            "docid": 9975
+        },
+        {
+            "id": "17",
+            "title": "Mark Cuban, \"My Views on Corporations and Taxes,\" blogmaverick.com, Nov. 15, 2011",
+            "docid": 9976
+        },
+        {
+            "id": "18",
+            "title": "Phil Izzo, \"Dearth of Demand Seen Behind Weak Hiring,\" wsj.com, July 17, 2011",
+            "docid": 9977
+        },
+        {
+            "id": "19",
+            "title": "Robert Farley, \"Warren: GE Pays No Taxes,\" factcheck.org, Apr. 24, 2012",
+            "docid": 9978
+        },
+        {
+            "id": "20",
+            "title": "Reuven Avi-Yonah and Yaron Lahav, \"The Effective Tax Rate of the Largest US and EU Multinationals,\" University of Michigan Program in Law and Economics, law.bepress.com, Oct. 2011",
+            "docid": 9979
+        },
+        {
+            "id": "21",
+            "title": "Organisation of Economic Cooperation and Development, \"Taxes on Corporate Income as Percentage of GDP,\" oecd.org, Nov. 30, 2011",
+            "docid": 9980
+        },
+        {
+            "id": "22",
+            "title": "Organisation of Economic Cooperation and Development, \"Harmonised Unemployment Rates,\" oecd.org, Oct. 2011",
+            "docid": 9981
+        },
+        {
+            "id": "23",
+            "title": "Think Progress, \"Buffet on Corporate Taxes\", youtube.com (accessed Nov. 26, 2012)",
+            "docid": 9982
+        },
+        {
+            "id": "24",
+            "title": "Tax Policy Center, \"Historical Source of Revenue as Share of GDP,\" taxpolicycenter.org, Apr. 13, 2012",
+            "docid": 9983
+        },
+        {
+            "id": "25",
+            "title": "Bureau of Labor Statistics, \"Federal Government Receipts and Expenditures,\" bls.gov, Feb. 1, 2012",
+            "docid": 9984
+        },
+        {
+            "id": "26",
+            "title": "Jeff Cox, \"Companies Are Sitting on More Cash Than ever Before,\" cnbc.com, Oct. 23, 2012",
+            "docid": 9985
+        },
+        {
+            "id": "27",
+            "title": "Politifact, \"Health Insurance Companies Are 'Making Record Profits, Right Now,\" politifact.com, July 23, 2009",
+            "docid": 9986
+        },
+        {
+            "id": "28",
+            "title": "Tax Policy Center, \"Major Enacted Tax Legislation, 1990-99,\" taxpolicycenter.org (accessed Dec. 13, 2012)",
+            "docid": 9987
+        },
+        {
+            "id": "29",
+            "title": "David Lynch, \"Raising Taxes Isn’t a 'Kiss of Death' for Employment Growth, History Shows,” bloomberg.com, June 1, 2011",
+            "docid": 9988
+        },
+        {
+            "id": "30",
+            "title": "John Steele Gordon, \"A Short History of the Income Tax,\" online.wsj.com, Sep. 27, 2011",
+            "docid": 9989
+        },
+        {
+            "id": "31",
+            "title": "Brian Bass, \"Corporation Excise Tax Act of 1909,\" ehow.com (accessed Nov. 29, 2012)",
+            "docid": 9990
+        },
+        {
+            "id": "32",
+            "title": "Reuven Avi-Yonah, \"Corporate Income Tax Act of 1909,\"Major Acts of Congress, 2004",
+            "docid": 9991
+        },
+        {
+            "id": "33",
+            "title": "Organisation of Economic Co-operation and Development, \"Taxation of Corporate and Capital Income,\" oecd.org, 2012",
+            "docid": 9992
+        },
+        {
+            "id": "34",
+            "title": "Philip Dittmer, \"US Corporations Suffer High Effective Tax Rates by International Standards,\" taxfoundation.org, Sep. 2011",
+            "docid": 9993
+        },
+        {
+            "id": "35",
+            "title": "Joseph Thorndike, \"Historical Perspective: Sacrifice and Surcharge,\" taxhistory.org, Dec. 5, 2005",
+            "docid": 9994
+        },
+        {
+            "id": "36",
+            "title": "Tax Policy Center, \"Major Enacted Tax Legislation, 1960-69,\" taxpolicycenter.org (accessed Dec. 13, 2012)",
+            "docid": 9995
+        },
+        {
+            "id": "37",
+            "title": "Bill Bradley, \"Tax Reform's Lesson for Health Care Reform,\" nytimes.com, Aug. 29, 2009",
+            "docid": 9996
+        },
+        {
+            "id": "38",
+            "title": "Tom Dickinson, \"How the GOP Became the Party of the Rich,\" rollingstone.com, Nov. 9, 2011",
+            "docid": 9997
+        },
+        {
+            "id": "39",
+            "title": "The Film Archive, \"Budget Bill Signing: President Clinton Signing the Omnibus Budget Reconciliation Act,\" youtube.com, Aug. 10, 1993",
+            "docid": 9998
+        },
+        {
+            "id": "40",
+            "title": "Michael Wines, \"Two Business Groups Attack Tax Plan,\" nytimes.com, May 11, 1993",
+            "docid": 9999
+        },
+        {
+            "id": "41",
+            "title": "Meet the Facts, \"Tag: Omnibus Budget Reconciliation Act of 1993,\" meetthefacts.com, Aug. 4, 2010",
+            "docid": 10000
+        },
+        {
+            "id": "42",
+            "title": "White House, \"Cutting Waste, Reducing the Deficit, and Asking All to Pay Their Fair Share,\" whitehouse.gov, Feb. 2012",
+            "docid": 10001
+        },
+        {
+            "id": "43",
+            "title": "Jeanne Sahadi, \"Corporate Taxes: What Obama and Romney Would Do,\" money.cnn.com, Sep. 7, 2012",
+            "docid": 10002
+        },
+        {
+            "id": "44",
+            "title": "The White House and the Department of the Treasury, \"The President's Framework for Business Tax Reform,\" treasury.gov, Feb. 2012",
+            "docid": 10003
+        },
+        {
+            "id": "45",
+            "title": "Mark Keightley, \"The Corporate Income Tax System: Overview and Options for Reform,\" fas.org, Sep. 13, 2012",
+            "docid": 10004
+        },
+        {
+            "id": "46",
+            "title": "The White House and the Department of the Treasury, \"The President's Framework for Business Tax Reform: An Update,\" treasury.gov, Apr. 2016",
+            "docid": 10005
+        },
+        {
+            "id": "47",
+            "title": "Kyle Pomerleau, \"CBO Report Compares U.S. Corporate Tax to G20,\" taxfoundation.org, Mar. 16, 2017",
+            "docid": 10006
+        },
+        {
+            "id": "48",
+            "title": "Thomas Content and Cary Spivak, \"After Getting Taxpayers' Help, Johnson Controls Packs Its Bags,\" archive.jsonline.com, Jan. 30, 2016",
+            "docid": 10007
+        },
+        {
+            "id": "49",
+            "title": "Thomas A. Barthold, Letter to Rep. Kevin Brady (R-TX) and Rep. Richard Neal (D-MA), waysandmeans.house.gov, Aug. 3, 2016",
+            "docid": 10008
+        },
+        {
+            "id": "50",
+            "title": "Øystein Bieltvedt Skeie, \"International Differences in Corporate Taxation, Foreign Direct Investment and Tax Revenues,\" oecd.org, Feb. 6, 2017",
+            "docid": 10009
+        },
+        {
+            "id": "51",
+            "title": "Patricia Cohen, \"Profitable Companies, No Taxes: Here's How They Did It,\" nytimes.com, Mar. 9, 2017",
+            "docid": 10010
+        },
+        {
+            "id": "52",
+            "title": "Congressional Budget Office, \"Policies for Increasing Economic Growth and Employment in 2010 and 2011,\" cbo.gov, Jan. 2010",
+            "docid": 10011
+        },
+        {
+            "id": "53",
+            "title": "Marshall Steinbaum and Eric Harris Bernstein, \"Fool Me Once: Why Another Corporate Tax Cut Won't Boost the Economy,\" rooseveltinstitute.org, Feb. 16, 2017",
+            "docid": 10012
+        },
+        {
+            "id": "54",
+            "title": "Moody's Investors Service , \"Moody's: US Corporate Cash Pile, Led by Tech Sector, to Grow to $1.77 Trillion by End of 2016,\" Nov. 3, 2016",
+            "docid": 10013
+        },
+        {
+            "id": "55",
+            "title": "Chris Edwards, \"Thankfully, GOP Tax Plan Retains Bold Corporate Rate Cut,\" thehill.com, Nov. 4, 2017",
+            "docid": 10014
+        },
+        {
+            "id": "56",
+            "title": "Damian Paletta, Mike DeBonis, and Ed O'Keefe, \"Senate GOP Tax Bill Could Delay Corporate Tax Cut and Make Other Major Changes That Break Sharply with House Plan,\" washingtonpost.com, Nov. 7, 2017",
+            "docid": 10015
+        },
+        {
+            "id": "57",
+            "title": "Naomi Jagoda and Niv Elis, \"GOP Tax Bill Clears Hurdle, Heads to House Floor,\" thehill.com, Nov. 9, 2017",
+            "docid": 10016
+        },
+        {
+            "id": "58",
+            "title": "Lauren Fox, \"Senate Republicans Unveil Their Own Tax Plan,\" cnn.com, Nov. 9, 2017",
+            "docid": 10017
+        },
+        {
+            "id": "59",
+            "title": "Jennifer Jacobs and Sahil Kapur, \"Trump Says He Wants 15% Corporate Tax Rate Despite Plan for 20%,\" bloomberg.com, Sep. 23, 2017",
+            "docid": 10018
+        },
+        {
+            "id": "60",
+            "title": "Bob Bryan, \"Trump Gives a New 'Red Line' for His Corporate Tax Rate,\" businessinsider.com, Sep. 27, 2017",
+            "docid": 10019
+        },
+        {
+            "id": "61",
+            "title": "Pew Research Center, \"Republicans More Split Than Democrats on Tax Rates for Corporations, High Incomes,\" pewresearch.org, Sep. 27, 2017",
+            "docid": 10020
+        },
+        {
+            "id": "62",
+            "title": "United States Congress, \"H.R.1 - an Act to Provide for Reconciliation Pursuant to Titles II and V of the Concurrent Resolution on the Budget for Fiscal Year 2018,\" congress.gov (accessed Feb. 5, 2018)",
+            "docid": 10021
+        },
+        {
+            "id": "63",
+            "title": "Office of the Law Revision Counsel, \"26 USC 11: Tax Imposed,\" uscode.house.gov (accessed Feb. 5, 2018)",
+            "docid": 10022
+        },
+        {
+            "id": "64",
+            "title": "Jeanne Sahadi and Chris Isadore, \"Tax Law, Bonuses and Raises: 5 Things You Need to Know,\" cnn.com, Feb. 22, 2018",
+            "docid": 10023
+        },
+        {
+            "id": "65",
+            "title": "Congressional Budget Office, \"The Budget and Economic Outlook: 2018 to 2028,\" cbo.gov, Apr. 2018",
+            "docid": 10024
+        },
+        {
+            "id": "66",
+            "title": "WTVA News, \"Tax Cut Scorecard: Workers $6 Billion; Shareholders $171 Billion,\" wtva.com, Feb. 16, 2018",
+            "docid": 10025
+        },
+        {
+            "id": "67",
+            "title": "Organisation of Economic Co-operation and Development, \"Statutory Corporate Income Tax Rate,\" oecd.org, 2016",
+            "docid": 10026
+        },
+        {
+            "id": "68",
+            "title": "US Department of Labor, \"Federal Government Receipts and Expenditures,\" bls.gov (accessed June 11, 2018)",
+            "docid": 10027
+        },
+        {
+            "id": "69",
+            "title": "Matt Egan, \"Just 4% of Companies Boosted Hiring Because of Tax Cuts,\" cnn.com, Jan. 29, 2019",
+            "docid": 10028
+        },
+        {
+            "id": "70",
+            "title": "Jake Johnson, \"G7 Countries Reach Agreement to Set \"Global Minimum\" Tax Rate for Multinational Corporations,\" slate.com, June 7, 2021",
+            "docid": 10029
+        },
+        {
+            "id": "71",
+            "title": "Liz Alderman, Jim Tankersley and Eshe Nelson, \"U.S. Proposal for 15% Global Minimum Tax Wins Support from 130 Countries,\" nytimes.com, July 1, 2021",
+            "docid": 10030
+        },
+        {
+            "id": "72",
+            "title": "OECD, \"130 Countries and Jurisdictions Join Bold New Framework for International Tax Reform,\" oecd.org, July 1, 2021",
+            "docid": 10031
+        },
+        {
+            "id": "73",
+            "title": "White House, \"FACT SHEET: The Build Back Better Agenda Will Provide Greater Tax Fairness for Small Businesses,\" whitehouse.gov, Aug. 19, 2021",
+            "docid": 10032
+        },
+        {
+            "id": "74",
+            "title": "Jean Ross, \"Build Back Better and OECD Corporate Tax Agreement Would Discourage Offshoring Jobs and Profits,\" americanprogress.org, Nov. 1, 2021",
+            "docid": 10033
+        },
+        {
+            "id": "75",
+            "title": "Chuck Marr, Samantha Jacoby, George Fenton and Sam Washington, \"Corporate Rate Increase Would Make Taxes Fairer, Help Fund Equitable Recovery,\" cbpp.org, May 25, 2021",
+            "docid": 10034
+        },
+        {
+            "id": "76",
+            "title": "Kimberly Clausing, \"Op-Ed: The Tax Cuts and Jobs Act Was Wrongheaded From Day 1. It Should Be Rethought,\" latimes.com, Oct. 22, 2020",
+            "docid": 10035
+        },
+        {
+            "id": "77",
+            "title": "Itai Grinberg and Rebecca Kysar, \"Why the United States Needs a 21% Minimum Tax on Corporate Foreign Earnings,\" home.treasury.gov, Sep. 7, 2021",
+            "docid": 10036
+        },
+        {
+            "id": "78",
+            "title": "Seth Hanlon and Galen Hendricks, \"Addressing Tax System Failings That Favor Billionaires and Corporations,\" americanprogress.org, Sep. 3, 2021",
+            "docid": 10037
+        },
+        {
+            "id": "79",
+            "title": "Erica York and Alex Muresianu, \"Raising the Corporate Rate to 28 Percent Reduces GDP by $720 Billion over Ten Years,\" taxfoundation.org, Apr. 21, 2021",
+            "docid": 10038
+        },
+        {
+            "id": "80",
+            "title": "Adam A. Millsap, \"Higher Corporate Taxes Affect Everyone,\" forbes.com, Apr. 28, 2021",
+            "docid": 10039
+        },
+        {
+            "id": "81",
+            "title": "Business Roundtable, \"Business Roundtable Survey Finds Corporate Tax Increases Would Weaken U.S. Business Expansion, Hiring, Investments in R&D and Innovation,\" businessroundtable.org, Apr. 12, 2021",
+            "docid": 10040
+        },
+        {
+            "id": "82",
+            "title": "Matthew Dickerson, \"President Biden’s Corporate Tax Increase Would Reduce Wages, Harm Economic Growth, and Make America Less Competitive,\" heritage.org, Apr. 20, 2021",
+            "docid": 10041
+        }
+    ],
+    "url": "https://corporatetax.procon.org/"
+}

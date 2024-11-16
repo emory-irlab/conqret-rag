@@ -1,0 +1,829 @@
+{
+    "title": "Should the United States Continue Its Use of Drone Strikes Abroad?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Brett Holman, \"The First Air Bomb: Venice, 15 July 1849,\" airminded.org, Aug. 22, 2009",
+            "docid": 1920
+        },
+        {
+            "id": "2",
+            "title": "Pew Research Center, \"Global Attitudes Project,\" pewglobal.org, July 18, 2013",
+            "docid": 1921
+        },
+        {
+            "id": "3",
+            "title": "John Sifton, \"A Brief History of Drones,\" thenation.com, Feb. 7, 2012",
+            "docid": 1922
+        },
+        {
+            "id": "4",
+            "title": "Joakim Kasper Oestergaard, \"About the Predator and Reaper,\" bga-aeroweb.com, Dec. 2, 2013",
+            "docid": 1923
+        },
+        {
+            "id": "5",
+            "title": "Ritka Singh, \"A Meta-Study of Drone Strike Casualties,\" lawfareblog.com, July 22, 2013",
+            "docid": 1924
+        },
+        {
+            "id": "6",
+            "title": "The Bureau of Investigative Journalism, \"Get the Data: Drone Wars,\" thebureauinvestigates.com (accessed Dec. 18, 2013)",
+            "docid": 1925
+        },
+        {
+            "id": "7",
+            "title": "New America Foundation, \"The National Security Studies Program,\" natsec.newamerica.net (accessed Dec. 18, 2013)",
+            "docid": 1926
+        },
+        {
+            "id": "8",
+            "title": "Bill Roggio and Alexander Mayer, \"Charting the Data for US Airstrikes in Pakistan, 2004-2013,\" longwarjournal.org, Nov. 29, 2013",
+            "docid": 1927
+        },
+        {
+            "id": "9",
+            "title": "Bill Roggio and Bob Barry, \"Charting the Data for US Air Strikes in Yemen, 2002-2013,\" longwarjournal.org, Dec. 12, 2013",
+            "docid": 1928
+        },
+        {
+            "id": "10",
+            "title": "Barack Obama, \"Obama's Speech on Drone Policy,\" nytimes.com, May 23, 2013",
+            "docid": 1929
+        },
+        {
+            "id": "11",
+            "title": "Peter Bergen, \"Drone Wars: The Constitutional and Counterterrorism Implications of Targeted Killing,\" Testimony Presented before the US Senate Committee on the Judiciary, Subcommittee on the Constitution, Civil Rights, and Human Rights, Apr. 23, 2013",
+            "docid": 1930
+        },
+        {
+            "id": "12",
+            "title": "Mehreen Zahra-Malik and Jibran Ahmed, \"Pakistani Taliban Chief Killed in Drone Strike,\" reuters.com, Nov. 1, 2013",
+            "docid": 1931
+        },
+        {
+            "id": "13",
+            "title": "William Saletan, \"In Defense of Drones,\" slate.com, Feb. 19, 2013",
+            "docid": 1932
+        },
+        {
+            "id": "14",
+            "title": "Paul B. Spiegel and Peter Salama, \"War and Mortality in Kosovo, 1998-99: An Epidemiological Testimony,\"The Lancet, June 24, 2000",
+            "docid": 1933
+        },
+        {
+            "id": "15",
+            "title": "Guenter Lewy,America in Vietnam, 1980",
+            "docid": 1934
+        },
+        {
+            "id": "16",
+            "title": "William S. Turley,The Second Indochina War: A Concise Political and Military History, 2009",
+            "docid": 1935
+        },
+        {
+            "id": "17",
+            "title": "Independent International Commission on Kosovo, \"The Kosovo Report,\" reliefweb.int, Oct. 23, 2000",
+            "docid": 1936
+        },
+        {
+            "id": "18",
+            "title": "Eric Ruder, \"Remote Control Warfare. Some Sixty US Drone Bases around the World,\" globalresearch.ca, Apr. 8, 2013",
+            "docid": 1937
+        },
+        {
+            "id": "19",
+            "title": "Friends Committee on National Legislation, \"Understanding Drones,\" fcnl.org (accessed Dec. 18, 2013)",
+            "docid": 1938
+        },
+        {
+            "id": "20",
+            "title": "Department of Defense, \"United States Department of Defense Fiscal Year 2014 Budget Request,\" comptroller.defense.gov, Apr. 2013",
+            "docid": 1939
+        },
+        {
+            "id": "21",
+            "title": "National Priorities Project, \"Analysis of the Fiscal Year 2012 Pentagon Spending Request,\" nationalpriorities.org, May 6, 2013",
+            "docid": 1940
+        },
+        {
+            "id": "22",
+            "title": "Mark Thompson, \"Costly Flight Hours,\" nation.time.com, Apr. 2, 2013",
+            "docid": 1941
+        },
+        {
+            "id": "23",
+            "title": "Shan Carter and Amanda Cox, \"One 9/11 Tally: $3.3 Trillion,\" nytimes.com, Sep. 8, 2011",
+            "docid": 1942
+        },
+        {
+            "id": "24",
+            "title": "Charter of the United Nations, \"Chapter VII: Action with Respect to Threats to the Peace, Breaches of the Peace, and Acts of Aggression,\" un.org (accessed Dec. 18, 2013)",
+            "docid": 1943
+        },
+        {
+            "id": "25",
+            "title": "Philip Alston, \"Study on Targeted Killings,\" Report of the Human Rights Council, Fourteenth Session, Agenda Item 3, May 28, 2010",
+            "docid": 1944
+        },
+        {
+            "id": "26",
+            "title": "Joshua Foust and Ashley S. Boyle, \"The Strategic Context of Lethal Drones: A Framework for Discussion,\" americansecurityproject.org, Aug. 16, 2012",
+            "docid": 1945
+        },
+        {
+            "id": "27",
+            "title": "Harold Koh, \"Legal Adviser Koh's Speech on the Obama Administration and International Law, March 2010,\" cfr.org, Mar. 25, 2010",
+            "docid": 1946
+        },
+        {
+            "id": "28",
+            "title": "Leo Van Den Hole, \"Anticipatory Self-Defence under International Law,\"American University International Law Review, 2003",
+            "docid": 1947
+        },
+        {
+            "id": "29",
+            "title": "US Constitution, \"Article II,\" constitution.findlaw.com (accessed Dec. 18, 2013)",
+            "docid": 1948
+        },
+        {
+            "id": "30",
+            "title": "Cora Currier, \"Drone Strikes Test Legal Grounds for War on Terror,\" propublica.org, Feb. 6, 2013",
+            "docid": 1949
+        },
+        {
+            "id": "31",
+            "title": "US Congress, \"Public Law 107-40,\" gpo.gov, Sep. 18, 2001",
+            "docid": 1950
+        },
+        {
+            "id": "32",
+            "title": "Micah Zenko, \"How the Obama Administration Justifies Targeted Killings,\" blogs.cfr.org, July 5, 2012",
+            "docid": 1951
+        },
+        {
+            "id": "33",
+            "title": "Barack Obama, \"U.S. Policy Standards and Procedures for the Use of Force in Counterterrorism Operations Outside the United States and Areas of Active Hostilities,\" whitehouse.gov, May 23, 2013",
+            "docid": 1952
+        },
+        {
+            "id": "34",
+            "title": "Scott Shane, \"Yemen's Leader Praises U.S. Drone Strikes,\" nytimes.com, Sep. 29, 2012",
+            "docid": 1953
+        },
+        {
+            "id": "35",
+            "title": "Fatima Bhutto, \"A Flood of Drone Strikes: What the Wikileaks Revelations Tell Us about How Washington Runs Pakistan,\" huffingtonpost.com, Dec. 9, 2010",
+            "docid": 1954
+        },
+        {
+            "id": "36",
+            "title": "Nic Robertson and Greg Botelho, \"Ex-Pakistani President Musharraf Admits Secret Deal with U.S. on Drone Strikes,\" edition.cnn.com, Apr. 12, 2013",
+            "docid": 1955
+        },
+        {
+            "id": "37",
+            "title": "Peter Bergen and Jennifer Rowland, \"Drones Decimating Taliban in Pakistan,\" cnn.com, July 3, 2012",
+            "docid": 1956
+        },
+        {
+            "id": "38",
+            "title": "Guy Taylor, \"U.S. Intelligence Warily Watches for Threats to U.S. Now that 87 Nations Possess Drones,\" washingtontimes.com, Nov. 10, 2013",
+            "docid": 1957
+        },
+        {
+            "id": "39",
+            "title": "Ian Black, \"Iran Unveils Bomber Drone that Aims to Deliver Peace and Friendship,\" theguardian.com, Aug. 22, 2010",
+            "docid": 1958
+        },
+        {
+            "id": "40",
+            "title": "Jeremy Page, \"China's New Drones Raise Eyebrows,\" online.wsj.com, Nov. 18, 2010",
+            "docid": 1959
+        },
+        {
+            "id": "41",
+            "title": "J.R. Wilson, \"2011 Worldwide UAV Roundup,\" Aerospace America, Mar. 2011",
+            "docid": 1960
+        },
+        {
+            "id": "42",
+            "title": "\"Unmanned Aerial Vehicles Directory,\"Flight International, June 21-27, 2005",
+            "docid": 1961
+        },
+        {
+            "id": "43",
+            "title": "Teal Group Inc., \"Teal Group Predicts Worldwide UAV Market Will Total $89 Billion in Its 2013 UAV Market Profile and Forecast,\" tealgroup.com, June 17, 2013",
+            "docid": 1962
+        },
+        {
+            "id": "44",
+            "title": "Ian Austen, \"Libyan Rebels Reportedly Used Tiny Canadian Surveillance Drone,\" nytimes.com, Aug. 24, 2011",
+            "docid": 1963
+        },
+        {
+            "id": "45",
+            "title": "Ashley Fantz, \"Hezbollah Claims it Sent Drone over Israel, but Expert Calls it 'Rinky Dink,'\" cnn.com, Oct. 12, 2012",
+            "docid": 1964
+        },
+        {
+            "id": "46",
+            "title": "Wayne Chappelle and Kent McDonald, \"Occupational Health Stress Screening for Remotely Piloted Aircraft & Intelligence (Distributed Common Ground System) Operators,\" US Air Force Powerpoint Presentation at the Brookings Institution, Nov. 3, 2011",
+            "docid": 1965
+        },
+        {
+            "id": "47",
+            "title": "Gallup, Inc., \"In U.S., 65% Support Drone Attacks on Terrorists Abroad,\" gallup.com, Mar. 25, 2013",
+            "docid": 1966
+        },
+        {
+            "id": "48",
+            "title": "Howard LaFranchi, \"American Public Has Few Qualms with Drone Strikes, Poll Finds,\" csmonitor.com, June 3, 2013",
+            "docid": 1967
+        },
+        {
+            "id": "49",
+            "title": "Jeremy Scahill, \"Washington's War in Yemen Backfires,\" thenation.com, Feb. 14, 2012",
+            "docid": 1968
+        },
+        {
+            "id": "50",
+            "title": "Sudarsan Raghavan, \"In Yemen, U.S. Airstrikes Breed Anger, and Sympathy for Al-Qaeda,\" washingtonpost.com, May 29, 2012",
+            "docid": 1969
+        },
+        {
+            "id": "51",
+            "title": "Umar Farouk Abdulmutallab, \"Transcript: Read Abdulmutallab's Statement on Guilty Plea,\" freep.com, Oct. 12, 2011",
+            "docid": 1970
+        },
+        {
+            "id": "52",
+            "title": "Lorraine Adams and Ayesha Nasir, \"Inside the Mind of the Times Square Bomber,\" theguardian.com, Sep. 18, 2010",
+            "docid": 1971
+        },
+        {
+            "id": "53",
+            "title": "Cora Currier and Justin Elliott, \"The Drone War Doctrine We Still Know Nothing About,\" propublica.org, Feb. 26, 2013",
+            "docid": 1972
+        },
+        {
+            "id": "54",
+            "title": "Richard Engel and Robert Windrem, \"Exclusive: CIA Didn't Always Know Who it Was Killing in Drone Strikes, Classified Documents Show,\" investigations.nbcnews.com, June 5, 2013",
+            "docid": 1973
+        },
+        {
+            "id": "55",
+            "title": "Jonathan S. Landay, \"Obama's Drone War Kills 'Others,' Not Just Al Qaida Leaders,\" mcclatchydc.com, Apr. 9, 2013",
+            "docid": 1974
+        },
+        {
+            "id": "56",
+            "title": "Kenneth Anderson and Benjamin Wittes, \"Three Deep Flaws in Two New Human-Rights Reports on U.S. Drone Strikes,\" newrepublic.com, Oct. 24, 2013",
+            "docid": 1975
+        },
+        {
+            "id": "57",
+            "title": "Stanford International Human Rights and Conflict Resolution Clinic and Global Justice Clinic at NYU School of Law, \"Living Under Drones: Death, Injury and Trauma to Civilians from US Drone Practices in Pakistan,\" livingunderdrones.org, 2012",
+            "docid": 1976
+        },
+        {
+            "id": "58",
+            "title": "CNN Wire Staff, \"Drone Strikes Kill, Maim and Traumatize Too Many Civilians, U.S. Study Says,\" cnn.com, Sep. 25, 2012",
+            "docid": 1977
+        },
+        {
+            "id": "59",
+            "title": "Adam Entous, \"Special Report: How the White House Learned to Love the Drone,\" reuters.com, May 18, 2010",
+            "docid": 1978
+        },
+        {
+            "id": "60",
+            "title": "Peter Bergen and Megan Braun, \"Drone is Obama's Weapon of Choice,\" cnn.com, Sep. 19, 2012",
+            "docid": 1979
+        },
+        {
+            "id": "61",
+            "title": "United Nations, \"International Covenant on Civil and Political Rights,\" un.org, Dec. 19, 1966",
+            "docid": 1980
+        },
+        {
+            "id": "62",
+            "title": "Judith Gardam, Necessity, Proportionality and the Use of Force by States, 2011",
+            "docid": 1981
+        },
+        {
+            "id": "63",
+            "title": "Christof Heyns, \"Extrajudicial Executions and Targeted Killings,\" International Law Journal symposium on 'State Ethics' at Harvard Law School, Feb. 20, 2012",
+            "docid": 1982
+        },
+        {
+            "id": "64",
+            "title": "United Nations, \"UN Charter,\" iilj.org (accessed Dec. 18, 2013)",
+            "docid": 1983
+        },
+        {
+            "id": "65",
+            "title": "Eliav Lieblich, \"Intervention and Consent: Consensual Forcible Interventions in Internal Armed Conflicts as International Agreements,\"Boston University International Law Journal, 2011",
+            "docid": 1984
+        },
+        {
+            "id": "66",
+            "title": "Amnesty International, \"Will I Be Next? US Drone Strikes in Pakistan,\" amnesty.org, 2013",
+            "docid": 1985
+        },
+        {
+            "id": "67",
+            "title": "Micah Zenko, \"Transferring CIA Drone Strikes to the Pentagon,\" cfr.org, Apr. 2013",
+            "docid": 1986
+        },
+        {
+            "id": "68",
+            "title": "Russell Brandom, \"Why the CIA Isn't Handing over its Drone Assassins to the Military,\" theverge.com, Nov. 7, 2013",
+            "docid": 1987
+        },
+        {
+            "id": "69",
+            "title": "American Civil Liberties Union, \"Al-Aulaqi v. Panetta: Lawsuit Challenging Targeted Killings,\" aclu.org (accessed Dec. 18, 2013)",
+            "docid": 1988
+        },
+        {
+            "id": "70",
+            "title": "Reuters, \"Pakistan: Drone Strikes Are Violations of Sovereignty,\" huffingtonpost.com, June 4, 2012",
+            "docid": 1989
+        },
+        {
+            "id": "71",
+            "title": "Jethro Mullen, \"Report: Former Drone Operator Shares His Inner Torment,\" cnn.com, Oct. 25, 2013",
+            "docid": 1990
+        },
+        {
+            "id": "72",
+            "title": "BBC News Asia, \"US Drone Strikes 'Raise Questions' - UN's Navi Pillay,\" bbc.co.uk, June 8, 2012",
+            "docid": 1991
+        },
+        {
+            "id": "73",
+            "title": "RIA Novosti, \"UN Blasts US Drone Strikes in Pakistan,\" en.ria.ru, Mar. 15, 2013",
+            "docid": 1992
+        },
+        {
+            "id": "74",
+            "title": "Andrea Germanos, \"UN Expert Challenges Foundations of US Covert Drone War,\" commondreams.org, Oct. 17, 2013",
+            "docid": 1993
+        },
+        {
+            "id": "75",
+            "title": "Chris Cole and Jim Wright, \"What Are Drones?,\" dronewars.net, Jan. 2010",
+            "docid": 1994
+        },
+        {
+            "id": "76",
+            "title": "Elisabeth Bumiller, \"A Day Job Waiting for a Kill Shot a World Away,\" nytimes.com, July 29, 2012",
+            "docid": 1995
+        },
+        {
+            "id": "77",
+            "title": "Justin Sink, \"Dem Lawmaker: Drone Strikes Creating 'Real Enemies' for the US,\" thehill.com, June 10, 2012",
+            "docid": 1996
+        },
+        {
+            "id": "78",
+            "title": "Medea Benjamin, \"Medea Benjamin on How Drones May Be Used Against US Citizens Soon,\" truth-out.org, June 1, 2012",
+            "docid": 1997
+        },
+        {
+            "id": "79",
+            "title": "David Alexander, \"Retired General Cautions Against Overuse of 'Hated' Drones,\" reuters.com, Jan. 7, 2013",
+            "docid": 1998
+        },
+        {
+            "id": "80",
+            "title": "New America Foundation, \"Drone Strikes,\" pakistansurvey.org (accessed Dec. 18, 2013)",
+            "docid": 1999
+        },
+        {
+            "id": "81",
+            "title": "New America Foundation, \"Drone Targets,\" pakistansurvey.org (accessed Dec. 18, 2013)",
+            "docid": 2000
+        },
+        {
+            "id": "82",
+            "title": "Pew Research Center, \"Pakistani Public Opinion Ever More Critical of U.S.,\" pewglobal.org, June 27, 2012",
+            "docid": 2001
+        },
+        {
+            "id": "83",
+            "title": "Richard Leiby, \"Pakistan Calls for End to U.S. Drone Attacks,\" articles.washingtonpost.com, Apr. 12, 2012",
+            "docid": 2002
+        },
+        {
+            "id": "84",
+            "title": "Declan Walsh and Ismail Khan, \"Pakistani Party Votes to Block NATO Supply Lines if Drones Persist,\" nytimes.com, Nov. 4, 2013",
+            "docid": 2003
+        },
+        {
+            "id": "85",
+            "title": "Maha El Dahan, \"Yemeni Parliament in Non-Binding Vote Against Drone Attacks,\" reuters.com, Dec. 15, 2013",
+            "docid": 2004
+        },
+        {
+            "id": "86",
+            "title": "Jean L. Otto and Bryant J. Webber, \"Mental Health Diagnoses and Counseling among Pilots of Remotely Piloted Aircraft in the United States Air Force,\" Armed Forces Health Surveillance Center Monthly Surveillance Monthly Report, Mar. 2013",
+            "docid": 2005
+        },
+        {
+            "id": "87",
+            "title": "Christopher Klein, \"Attack of Japan's Killer WWII Balloons, 70 Years Later,\" history.com, Aug. 29, 2018",
+            "docid": 2006
+        },
+        {
+            "id": "88",
+            "title": "Finding Dulcinea, \"On This Day: Japanese WWII Balloon Bomb Kills 6 in Oregon,\" findingdulcinea.com, May 5, 2011",
+            "docid": 2007
+        },
+        {
+            "id": "89",
+            "title": "Asawin Suebsaeng, \"Drones: Everything You Ever Wanted to Know But Were Always Afraid to Ask,\" motherjones.com, Mar. 5, 2013",
+            "docid": 2008
+        },
+        {
+            "id": "90",
+            "title": "Ian G. R. Shaw, \"The Rise of the Predator Empire: Tracing the History of U.S. Drones,\" understandingempire.wordpress.com, 2013",
+            "docid": 2009
+        },
+        {
+            "id": "91",
+            "title": "Ian Bott, Cleve Jones, and John Burn-Murdoch, \"Great and Small: The Many Types of Drone,\" ft.com, Oct. 8, 2013",
+            "docid": 2010
+        },
+        {
+            "id": "92",
+            "title": "Spencer Ackerman, \"Air Force Is Through with Predator Drones,\" wired.com, Dec. 14, 2010",
+            "docid": 2011
+        },
+        {
+            "id": "93",
+            "title": "US Air Force, \"'Reaper' Moniker Given to MQ-9 Unmanned Aerial Vehicle,\" archive.is/FoPi, Sep. 14, 2006",
+            "docid": 2012
+        },
+        {
+            "id": "94",
+            "title": "Barack Obama, \"Presidential Letter -- 2012 War Powers Resolution 6-Month Report,\" whitehouse.gov, June 15, 2012",
+            "docid": 2013
+        },
+        {
+            "id": "95",
+            "title": "Mark Mazzetti and Scott Shane, \"As New Drone Policy Is Weighed, Few Practical Effects Are Seen,\" nytimes.com, Mar. 21, 2013",
+            "docid": 2014
+        },
+        {
+            "id": "96",
+            "title": "Siobhan Gorman and Adam Entous, \"CIA Plans Yemen Drone Strikes,\" online.wsj.com, June 14, 2011",
+            "docid": 2015
+        },
+        {
+            "id": "97",
+            "title": "Washington Post, \"U.S. Military Drone Network in the Middle East and Africa,\" apps.washingtonpost.com, July 19, 2013",
+            "docid": 2016
+        },
+        {
+            "id": "98",
+            "title": "Jane Mayer, \"The Predator War,\" newyorker.com, Oct. 26, 2009",
+            "docid": 2017
+        },
+        {
+            "id": "99",
+            "title": "Phil Stewart, \"Pentagon Scraps Medal for Drone Pilots After Uproar,\" reuters.com, Apr. 15, 2013",
+            "docid": 2018
+        },
+        {
+            "id": "100",
+            "title": "Michael Cooney, \"Air Force: Unmanned Aircraft Hit 1 Million Combat Hours,\" networkworld.com, June 22, 2011",
+            "docid": 2019
+        },
+        {
+            "id": "101",
+            "title": "US Air Force News Service, \"RPAs Reach 2 Million Hours,\" suasnews.com, Oct. 25, 2013",
+            "docid": 2020
+        },
+        {
+            "id": "102",
+            "title": "Jill Replogle, \"The Drone Makers and Their Friends in Washington,\" kpbs.org, July 5, 2012",
+            "docid": 2021
+        },
+        {
+            "id": "103",
+            "title": "CBC News, \"Evolution of the Drone Strike,\" cbc.ca, Feb. 6, 2013",
+            "docid": 2022
+        },
+        {
+            "id": "104",
+            "title": "Micah Zenko, \"Reforming U.S. Drone Strike Policies,\" cfr.org, Jan. 2013",
+            "docid": 2023
+        },
+        {
+            "id": "105",
+            "title": "Cora Currier, \"6 Months after Obama Promised to Divulge More on Drones, Here's What We Still Don't Know,\" propublica.org, Nov. 6, 2013",
+            "docid": 2024
+        },
+        {
+            "id": "106",
+            "title": "Mark Mazzetti, \"A Secret Deal on Drones, Sealed in Blood,\" nytimes.com, Apr. 6, 2013",
+            "docid": 2025
+        },
+        {
+            "id": "107",
+            "title": "Greg Miller and Bob Woodward, \"Secret Memos Reveal Explicit Nature of U.S., Pakistan Agreement on Drones,\" washingtonpost.com, Oct. 24, 2013",
+            "docid": 2026
+        },
+        {
+            "id": "108",
+            "title": "Declan Walsh, \"In Pakistan, Drone Strike Turns a Villain Into a Victim,\" nytimes.com, Nov. 3, 2013",
+            "docid": 2027
+        },
+        {
+            "id": "109",
+            "title": "Adam Baron, \"With AQAP's Strategy Unclear, Yemen Struggles to Respond,\" csmonitor.com, Aug. 7, 2013",
+            "docid": 2028
+        },
+        {
+            "id": "110",
+            "title": "American Civil Liberties Union, \"Predator Drone FOIA,\" aclu.org (accessed Aug. 14, 2013)",
+            "docid": 2029
+        },
+        {
+            "id": "111",
+            "title": "American Civil Liberties Union, \"Appeals Court to Hear Oral Argument Tuesday in ACLU FOIA Lawsuit Seeking Targeted Killing Memos,\" aclu.org, Sep. 30, 2013",
+            "docid": 2030
+        },
+        {
+            "id": "112",
+            "title": "David G. Savage, \"Federal Court Rejects CIA's Denial of Drone Strikes as 'Fiction,'\" articles.latimes.com, Mar. 15, 2013",
+            "docid": 2031
+        },
+        {
+            "id": "113",
+            "title": "PolicyMic, \"Obama Has No Interest in Changing His Drone Strike Policy,\" policymic.com, Aug. 14, 2013",
+            "docid": 2032
+        },
+        {
+            "id": "114",
+            "title": "Mark Mazzetti, Charlie Savage, and Scott Shane, \"How a U.S. Citizen Came to Be in America's Cross Hairs,\" nytimes.com, Mar. 9, 2013",
+            "docid": 2033
+        },
+        {
+            "id": "115",
+            "title": "US Department of Justice, \"Lawfulness of a Lethal Operation Directed against a U.S. Citizen Who Is a Senior Operational Leader of Al-Qa'ida or an Associated Force,\" msnbcmedia.msn.com, Feb. 4, 2013",
+            "docid": 2034
+        },
+        {
+            "id": "116",
+            "title": "Erica Werner, \"Obama Google Plus Hangout: During Q&A, President Offers to Look at Resume of Man Looking for Work (VIDEO),\" huffingtonpost.com, Jan. 30, 2012",
+            "docid": 2035
+        },
+        {
+            "id": "117",
+            "title": "Karen DeYoung, \"A CIA Veteran Transforms U.S. Counterterrorism Policy,\" articles.washingtonpost.com, Oct. 24, 2012",
+            "docid": 2036
+        },
+        {
+            "id": "118",
+            "title": "United States Senate Select Committee on Intelligence, \"Open Hearing on the Nomination of John O. Brennan to Be Director of the Central Intelligence Agency,\" intelligence.senate.gov, Feb. 7, 2013",
+            "docid": 2037
+        },
+        {
+            "id": "119",
+            "title": "Senate Judiciary Committee, Subcommittee on the Constitution, Civil Rights and Human Rights, \"Drone Wars: The Constitutional and Counterterrorism Implications of Targeted Killing,\" judiciary.senate.gov, Apr. 22, 2013",
+            "docid": 2038
+        },
+        {
+            "id": "120",
+            "title": "Micah Zenko, \"The Intercept’s ‘Drone Papers’ Revelations Mandate a Congressional Investigation,\" foreignpolicy.com, Oct. 15, 2015",
+            "docid": 2039
+        },
+        {
+            "id": "121",
+            "title": "Andy Greenberg, \"A Second Snowden Has Leaked a Mother Lode of Drone Docs,\" wired.com, Oct. 15, 2015",
+            "docid": 2040
+        },
+        {
+            "id": "122",
+            "title": "Scott Shackford, \"A New Whistleblower Exposes America’s Drone Assassinations,\" reason.com, Oct. 15, 2015",
+            "docid": 2041
+        },
+        {
+            "id": "123",
+            "title": "Dan Sabbagh, \"Killer Drones: How Many Are There and Who Do They Target?,\" theguardian.com, Nov. 18, 2019",
+            "docid": 2042
+        },
+        {
+            "id": "124",
+            "title": "Tyler Rogoway, \"USAF Officially Retires MQ-1 Predator while MQ-9 Reaper Set to Gain Air-to-Air Missiles,\" thedrive.com, Mar. 9, 2018",
+            "docid": 2043
+        },
+        {
+            "id": "125",
+            "title": "Drone Wars, \"Rise of the Reapers: A Brief History of Drones,\" dronewars.net, June, 10, 2014",
+            "docid": 2044
+        },
+        {
+            "id": "1266",
+            "title": "Dan Gettinger, \"Drones in the Defense Budget: Navigating the Fiscal Year 2018 Budget Request,\" dronecenter.bard.edu, Oct. 2017",
+            "docid": 2045
+        },
+        {
+            "id": "127",
+            "title": "Center for the Study of the Drone at Bard College, \"Summary of Drone Spending in the FY 2019 Defense Budget Request,\" dronecenter.bard.edu, Apr. 2018",
+            "docid": 2046
+        },
+        {
+            "id": "128",
+            "title": "David Hambling, \"Why the Air Force Needs a Cheaper Reaper,\" forbes.com, June 10, 2020",
+            "docid": 2047
+        },
+        {
+            "id": "129",
+            "title": "Chris Woods, \"The Story of America's Very First Drone Strike,\" theatlantic.com, May 30, 2015",
+            "docid": 2048
+        },
+        {
+            "id": "130",
+            "title": "Warren Bass, \"How the U.S. Stumbled Into the Drone Era,\" wsj.com, July 24, 2014",
+            "docid": 2049
+        },
+        {
+            "id": "131",
+            "title": "The Bureau of Investigative Journalism, \"Drone Warfare,\" thebureauinvestigates.com (accessed Oct. 22, 2020)",
+            "docid": 2050
+        },
+        {
+            "id": "132",
+            "title": "Marina Fang, \"Nearly 90 Percent Of People Killed In Recent Drone Strikes Were Not The Target,\" huffpost.com, Oct. 15, 2015",
+            "docid": 2051
+        },
+        {
+            "id": "133",
+            "title": "Jeremy Scahill, \"The Drone Papers: 01. The Assassination Complex,\" theintercept.com, Oct. 15, 2015",
+            "docid": 2052
+        },
+        {
+            "id": "134",
+            "title": "Barack Obama, \"Executive Order -- United States Policy on Pre- and Post-Strike Measures to Address Civilian Casualties in U.S. Operations Involving the Use of Force,\" obamawhitehouse.archives.gov, July 1, 2016",
+            "docid": 2053
+        },
+        {
+            "id": "135",
+            "title": "Ben Jones, \"Despite Obama’s New Executive Order, U.S. Drone Policy May Still Violate International Law,\" washingtonpost.com, July 7, 2016",
+            "docid": 2054
+        },
+        {
+            "id": "136",
+            "title": "BBC, \"Trump Revokes Obama Rule on Reporting Drone Strike Deaths,\" bbc.com, Mar. 7, 2019",
+            "docid": 2055
+        },
+        {
+            "id": "137",
+            "title": "Kelsey D. Atherton, \"Trump Inherited the Drone War but Ditched Accountability,\" foreignpolicy.com, May 22, 2020",
+            "docid": 2056
+        },
+        {
+            "id": "138",
+            "title": "Aaron Mehta and Valerie Insinna, \"Trump Admin Officially Makes It Easier to Export Military Drones,\" defensenews.com, July 24, 2020",
+            "docid": 2057
+        },
+        {
+            "id": "139",
+            "title": "Watson Institute of International and Public Affairs at Brown University, \"Civilians Killed and Wounded,\" watson.brown.edu, Jan. 2020",
+            "docid": 2058
+        },
+        {
+            "id": "140",
+            "title": "Dina Smeltz and Brendan Helm, \"Americans Feel Less Safe after Killing of Soleimani,\" thechicagocouncil.org, Jan. 23, 2020",
+            "docid": 2059
+        },
+        {
+            "id": "141",
+            "title": "Alexa Lardieri, \"Nearly Half of Americans Support Airstrike That Killed Iranian Leader, Poll Finds,\" usnews.com, Jan. 8, 2020",
+            "docid": 2060
+        },
+        {
+            "id": "142",
+            "title": "Con Coughlin, \"Drones Are Gruesome, but Would We Prefer Boots on the Ground?,\" telegraph.co.uk, Feb. 7, 2013",
+            "docid": 2061
+        },
+        {
+            "id": "143",
+            "title": "Daniel L. Byman, \"Why Drones Work: The Case for Washington's Weapon of Choice,\" brookings.edu, June 17, 2013",
+            "docid": 2062
+        },
+        {
+            "id": "144",
+            "title": "Mohamed Olad Hassan, \"US Drone Strike Kills High-Ranking al-Shabab Bomb-Maker in Somalia,\" voanews.com, Aug. 21, 2020",
+            "docid": 2063
+        },
+        {
+            "id": "145",
+            "title": "Donald Trump, \"Remarks by President Trump on the Killing of Qasem Soleimani,\" whitehouse.gov, Jan. 3, 2020",
+            "docid": 2064
+        },
+        {
+            "id": "146",
+            "title": "Abdulrasheed Al-Faqih, \"Civilian Casualties and Effectiveness of U.S. Drone Strikes in Yemen,\" justsecurity.org, Apr. 3, 2018",
+            "docid": 2065
+        },
+        {
+            "id": "147",
+            "title": "David Rohde, \"A Drone Strike and Dwindling Hope,\" nytimes.com, Oct. 20, 2009",
+            "docid": 2066
+        },
+        {
+            "id": "148",
+            "title": "Elise Swain and Jon Schwarz, \"Merry Christmas, America! Let's Remember the Children Who Live in Fear of Our Killer Drones,\" theintercept.com, Dec. 25, 2019",
+            "docid": 2067
+        },
+        {
+            "id": "149",
+            "title": "Micah Zenko and Amelia May Wolfe, \"Drones Kill More Civilians than Pilots Do,\" foreignpolicy.com, Apr. 25, 2016",
+            "docid": 2068
+        },
+        {
+            "id": "150",
+            "title": "CNN, \"State of the Union with Candy Crowley,\" transcripts.cnn.com, Feb. 10, 2013",
+            "docid": 2069
+        },
+        {
+            "id": "151",
+            "title": "ABC News, \"'This Week' Transcript: Defense Secretary Leon Panetta,\" abcnews.go.com, May 23, 2012",
+            "docid": 2070
+        },
+        {
+            "id": "152",
+            "title": "Harold Hongju Koh, Speech at the Annual Meeting of the American Society of International Law, 2009-2017.state.gov, Mar. 25, 2010",
+            "docid": 2071
+        },
+        {
+            "id": "153",
+            "title": "Columbia Law School Human Rights Clinic, Written Statement for the Hearing on “Drone Wars: The Constitutional and Counterterrorism Implications of Targeted Killing” as Submitted to the Senate Judiciary Committee, web.law.columbia.edu, Apr. 23, 2013",
+            "docid": 2072
+        },
+        {
+            "id": "154",
+            "title": "Charli Carpenter, \"Assassination, Extrajudicial Execution, or Targeted Killing—What’s the Difference?,\" foreignpolicy.com, Jan. 10, 2020",
+            "docid": 2073
+        },
+        {
+            "id": "155",
+            "title": "Kareem Khader, \"Iraq Parliament Speaker Says US Strike Was 'Flagrant Violation of Sovereignty,'\" cnn.com, Jan. 3, 2020",
+            "docid": 2074
+        },
+        {
+            "id": "156",
+            "title": "Agnes Callamard, Twitter.com, Jan. 2, 2020",
+            "docid": 2075
+        },
+        {
+            "id": "157",
+            "title": "Peter W. Singer, \"Military Robots and the Laws of War,\" brookings.edu, Feb. 11, 2009",
+            "docid": 2076
+        },
+        {
+            "id": "158",
+            "title": "Charlie Savage, \"Biden Rules Tighten Limits on Drone Strikes,\" nytimes.com, July 1, 2023",
+            "docid": 2077
+        },
+        {
+            "id": "159",
+            "title": "Reuters, \"Biden Approved Yemen Strikes after Drone Attack, Us Doesn’t Want War – White House,\" reuters.com, Jan. 12, 2024",
+            "docid": 2078
+        },
+        {
+            "id": "160",
+            "title": "Jennifer Hansler, \"Blinken Warns ‘There Will Be Consequences’ for Continued Houthi Attacks,\" cnn.com, Jan. 10, 2024",
+            "docid": 2079
+        },
+        {
+            "id": "161",
+            "title": "Oren Liebermann, et al., \"US and UK Carry Out Strikes against Iran-Backed Houthis in Yemen,\" cnn.com, Jan. 12, 2024",
+            "docid": 2080
+        },
+        {
+            "id": "162",
+            "title": "Agnes Chang, Pablo Robles and Keith Bradsher, \"How Houthi Attacks Have Upended Global Shipping,\" nytimes.com, Jan. 21, 2024",
+            "docid": 2081
+        },
+        {
+            "id": "163",
+            "title": "Washington Post, \"Biden Vows Response after Drone Strike Kills 3 U.S. Troops in Jordan,\" washingtonpost.com, Jan. 29, 2024",
+            "docid": 2082
+        },
+        {
+            "id": "164",
+            "title": "Lara Seligman and Matt Berg, \"A $2M Missile vs. a $2,000 Drone: Pentagon Worried over Cost of Houthi Attacks,\" politico.com, Dec. 20, 2024",
+            "docid": 2083
+        }
+    ],
+    "url": "https://drones.procon.org/"
+}

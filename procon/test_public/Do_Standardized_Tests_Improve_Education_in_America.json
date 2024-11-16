@@ -1,0 +1,549 @@
+{
+    "title": "Do Standardized Tests Improve Education in America?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "National Center for Education Statistics, “Highlights from the 2000 Program for International Student Assessment (PISA),” nced.ed.gov, 2002",
+            "url": null,
+            "docid": 10463
+        },
+        {
+            "id": "2",
+            "title": "National Center for Education Statistics, “Mathematics Literacy: Average Scores,” nces.ed.gov (accessed Oct. 23, 2018)",
+            "url": null,
+            "docid": 10464
+        },
+        {
+            "id": "3",
+            "title": "National Center for Education Statistics, “Science Literacy: Average Scores,” nces.ed.gov (accessed Oct. 23, 2018)",
+            "url": null,
+            "docid": 10465
+        },
+        {
+            "id": "4",
+            "title": "National Center for Education Statistics, “Reading Literacy: Average Scores,” nces.ed.gov (accessed Oct. 23, 2018)",
+            "url": null,
+            "docid": 10466
+        },
+        {
+            "id": "5",
+            "title": "W. James Popham, “Standardized Testing Fails the Exam,” edutopia.org, Mar. 23, 2005",
+            "url": null,
+            "docid": 10467
+        },
+        {
+            "id": "6",
+            "title": "Ruth Mitchell, “A Guide to Standardized Testing: The Nature of Assessment,” centerforpubliceducation.org, Feb. 15, 2006",
+            "url": null,
+            "docid": 10468
+        },
+        {
+            "id": "7",
+            "title": "Scott Jaschik, “Can You Trust Automated Grading?,” insidehighered.com, Feb. 21, 2011",
+            "url": null,
+            "docid": 10469
+        },
+        {
+            "id": "8",
+            "title": "Meredith Kolodner, “Students, Teachers Sweating High-Stakes Tests as Parents Rebel against Constant Prep,” Daily News, May 3, 2011",
+            "url": null,
+            "docid": 10470
+        },
+        {
+            "id": "9",
+            "title": "Amanda Morin, “What Is High Stakes Testing?,” about.com (accessed June 20, 2011)",
+            "url": null,
+            "docid": 10471
+        },
+        {
+            "id": "10",
+            "title": "FairTest, “Florida Teachers Refuse Bonuses for High Test Scores,” fairtest.org, Jan. 2000",
+            "url": null,
+            "docid": 10472
+        },
+        {
+            "id": "11",
+            "title": "Richard Phelps, “Estimating the Costs and Benefits of Educational Testing Programs,” education-consumers.com, Feb. 2002",
+            "url": null,
+            "docid": 10473
+        },
+        {
+            "id": "12",
+            "title": "Dean Goodman and Ronald K. Hambleton, “Some Misconceptions About Large-Scale ducational Assessments,”Defending Standardized Testing, Ed. Richard P. Phelps, 2005",
+            "url": null,
+            "docid": 10474
+        },
+        {
+            "id": "13",
+            "title": "“Pearson,” ncspearson.com (accessed June 20, 2011)",
+            "url": null,
+            "docid": 10475
+        },
+        {
+            "id": "14",
+            "title": "Todd Farley, “Standardized Testing: A Decade in Review,” huffingtonpost.com, Apr. 8, 2011",
+            "url": null,
+            "docid": 10476
+        },
+        {
+            "id": "15",
+            "title": "Jay Mathews, “Just Whose Idea Was All This Testing?”Washington Post, Nov. 14, 2006",
+            "url": null,
+            "docid": 10477
+        },
+        {
+            "id": "16",
+            "title": "Justin Crozier, “A Unique Experiment,”China in Focus, 2002",
+            "url": null,
+            "docid": 10478
+        },
+        {
+            "id": "17",
+            "title": "Walter M. Haney, “Evidence on Education under NCLB (and How Florida Boosted NAEP Scores and Reduced the Race Gap),” bc.edu, Sept. 2006",
+            "url": null,
+            "docid": 10479
+        },
+        {
+            "id": "18",
+            "title": "Richard P. Phelps,Standardized Testing Primer, Oct. 2007",
+            "url": null,
+            "docid": 10480
+        },
+        {
+            "id": "19",
+            "title": "Sharon L. Nichols and David C. Berliner,Collateral Damage: How High-Stakes Testing Corrupts America’s Schools, 2007",
+            "url": null,
+            "docid": 10481
+        },
+        {
+            "id": "20",
+            "title": "Barry J. Zimmerman and Dale H. Schunk,Educational Psychology: A Century of Contributions, 2002",
+            "url": null,
+            "docid": 10482
+        },
+        {
+            "id": "21",
+            "title": "“IBM 805 Test Scoring Machine,” ibm.com (accessed June 20, 2011)",
+            "url": null,
+            "docid": 10483
+        },
+        {
+            "id": "22",
+            "title": "Lawrence M. Fisher, “Reynold Johnson, 92, Pioneer in Computer Hard Disk Drives,”New York Times, Sep. 18, 1998",
+            "url": null,
+            "docid": 10484
+        },
+        {
+            "id": "23",
+            "title": "“Question 1529: Why Do Scantron-Type Tests Only Read #2 Pencils? Can Other Pencils Work?,” howeverythingworks.org (accessed June 20, 2011)",
+            "url": null,
+            "docid": 10485
+        },
+        {
+            "id": "24",
+            "title": "“Automated Test Scoring,” ibm.com (accessed June 20, 2011)",
+            "url": null,
+            "docid": 10486
+        },
+        {
+            "id": "25",
+            "title": "“ESEA Backgrounder 1: Accountability Systems,” edequality.org, Mar. 3, 2010",
+            "url": null,
+            "docid": 10487
+        },
+        {
+            "id": "26",
+            "title": "Peter Sacks,Standardized Minds: The High Price of America’s Testing Culture and What We Can Do to Change It, 2001",
+            "url": null,
+            "docid": 10488
+        },
+        {
+            "id": "27",
+            "title": "National Commission on Excellence in Education, “A Nation at Risk: The Imperative for Educational Reform,” datacenter.spps.org, Apr. 1983",
+            "url": null,
+            "docid": 10489
+        },
+        {
+            "id": "28",
+            "title": "Mary Lyn Bourque, “Leave No Standardized Test Behind,”Defending Standardized Testing, Ed. Richard P. Phelps, 2005",
+            "url": null,
+            "docid": 10490
+        },
+        {
+            "id": "29",
+            "title": "Kevin Kosar, “Higher Standards: We’d Love to But…,” eric.ed.gov, Aug. 2003",
+            "url": null,
+            "docid": 10491
+        },
+        {
+            "id": "30",
+            "title": "“Public Law 107–110, 107th Congress,” ed.gov, Jan. 8, 2002",
+            "url": null,
+            "docid": 10492
+        },
+        {
+            "id": "31",
+            "title": "Patte Barth, “A Guide to the No Child Left Behind Act,” centerforpubliceducation.org, Mar. 23, 2006",
+            "url": null,
+            "docid": 10493
+        },
+        {
+            "id": "32",
+            "title": "“No Child Left Behind Act,” nytimes.com, June 13, 2011",
+            "url": null,
+            "docid": 10494
+        },
+        {
+            "id": "33",
+            "title": "Frederick M. Hess, “Fixing No Child Left Behind: Two Views,”USA Today, June 6, 2007",
+            "url": null,
+            "docid": 10495
+        },
+        {
+            "id": "34",
+            "title": "Gerald Bracey, “One Reason (among Many) That No Child Left Behind Cannot Work,” huffingtonpost.com, Jan. 2, 2007",
+            "url": null,
+            "docid": 10496
+        },
+        {
+            "id": "35",
+            "title": "Pauline Vu, “Do State Tests Make the Grade?,” stateline.org, Jan 17, 2008",
+            "url": null,
+            "docid": 10497
+        },
+        {
+            "id": "36",
+            "title": "Jason L. Riley, “Was the $5 Billion Worth It?,”Wall Street Journal, July 23, 2011",
+            "url": null,
+            "docid": 10498
+        },
+        {
+            "id": "37",
+            "title": "Sam Dillon, “Obama Calls for Major Change in Education Law,”New York Times, Mar. 13, 2010",
+            "url": null,
+            "docid": 10499
+        },
+        {
+            "id": "38",
+            "title": "United States Department of Education, “A Blueprint for Reform: The Reauthorization of the Elementary and Secondary Education Act,\" ed.gov, Mar. 2010",
+            "url": null,
+            "docid": 10500
+        },
+        {
+            "id": "39",
+            "title": "Erica Werner, “Obama Discusses Pitfalls of Standardized Tests at Town Hall,” huffingtonpost.com, Mar. 28, 2011",
+            "url": null,
+            "docid": 10501
+        },
+        {
+            "id": "40",
+            "title": "Jack Gillum and Marisol Bello, “When Standardized Test Scores Soared in D.C., Were the Gains Real?,”USA Today, Mar. 30, 2011",
+            "url": null,
+            "docid": 10502
+        },
+        {
+            "id": "41",
+            "title": "Bill Turque, “Teacher Pay Plan Detailed,” washingtonpost.com, Sep. 10, 2010",
+            "url": null,
+            "docid": 10503
+        },
+        {
+            "id": "42",
+            "title": "Bill Turque, “In Second Year, Rhee Is Facing Major Tests,” Washington Post, Aug. 21, 2008",
+            "url": null,
+            "docid": 10504
+        },
+        {
+            "id": "43",
+            "title": "Marisol Bello and Jack Gillum, “D.C. Officials to Review High Rates of Erasures on School Tests,”USA Today, Mar. 30, 2011",
+            "url": null,
+            "docid": 10505
+        },
+        {
+            "id": "44",
+            "title": "Michelle Rhee, “The Evidence Is Clear: Test Scores Must Accurately Reflect Students’ Learning,” huffingtonpost.com, Apr. 6, 2011",
+            "url": null,
+            "docid": 10506
+        },
+        {
+            "id": "45",
+            "title": "Greg Toppo, “Memo Warns of Rampant Cheating in D.C. Public Schools,” usatoday.com, Apr. 11, 2013",
+            "url": null,
+            "docid": 10507
+        },
+        {
+            "id": "46",
+            "title": "Emma Brown, “Michelle Rhee Responds to Federal Investigation of Alleged DCPS Cheating,” washingtonpost.com, Jan. 8, 2013",
+            "url": null,
+            "docid": 10508
+        },
+        {
+            "id": "47",
+            "title": "Emma Brown, “Teachers in 18 D.C. Classrooms Cheated on Tests Last Year, Probe Finds,” washingtonpost.com, Apr. 12, 2013",
+            "url": null,
+            "docid": 10509
+        },
+        {
+            "id": "48",
+            "title": "Valerie Strauss, “Unanswered Questions about Standardized Tests,”Washington Post, Apr. 26, 2011",
+            "url": null,
+            "docid": 10510
+        },
+        {
+            "id": "49",
+            "title": "“Value-Added Assessment,” cgp.upenn.edu (accessed June 21, 2011)",
+            "url": null,
+            "docid": 10511
+        },
+        {
+            "id": "50",
+            "title": "Roger Tilles, “NY Regent: Why We Shouldn’t Link Teacher Evaluation to Test Scores,'\"Washington Post, May 17, 2011",
+            "url": null,
+            "docid": 10512
+        },
+        {
+            "id": "51",
+            "title": "“Duncan Says 82 Percent of America’s Schools Could ‘Fail’ Under NCLB This Year,” ed.gov, Mar. 9, 2011",
+            "url": null,
+            "docid": 10513
+        },
+        {
+            "id": "52",
+            "title": "“Most Elementary Schools in California Will Fail to Meet Proficiency Requirements by 2014, Study Shows,” sciencedaily.com, Sep. 28, 2008",
+            "url": null,
+            "docid": 10514
+        },
+        {
+            "id": "53",
+            "title": "Erina Richards, “Despite Common Core and More Testing, Reading an Math Scores Haven’t Budged in a Decade,” usatoday.com, Oct. 30, 2019",
+            "url": null,
+            "docid": 10515
+        },
+        {
+            "id": "54",
+            "title": "US Department of Education, “Helping Students Adversely Affected by School Closures, Secretary DeVos Announces Broad Flexibilities for States to Cancel Testing during National Emergency,” ed.gov, Mar. 20, 2020",
+            "url": null,
+            "docid": 10516
+        },
+        {
+            "id": "55",
+            "title": "Jordan Williams, \"National Reading, Math Tests Postponed to2022 amid Coronavirus Surge,\" thehill.com, Nov. 26, 2020",
+            "url": null,
+            "docid": 10517
+        },
+        {
+            "id": "56",
+            "title": "Aaron Churchill, \"Bless the Tests: Three Reasons for Standardized Testing,\" fordhaminstitute.org, Mar. 18, 2015",
+            "url": null,
+            "docid": 10518
+        },
+        {
+            "id": "57",
+            "title": "Stephen Noonoo, \"Can a Test Ever Be Fair? How Today's Standardized Tests Get Made.,\" edsurge.com, Jan. 10, 2018",
+            "url": null,
+            "docid": 10519
+        },
+        {
+            "id": "58",
+            "title": "Bryan Nixon, \"The Pros and Cons of Standardized Testing,\" whitbyschool.org (accessd Dec. 1, 2020)",
+            "url": null,
+            "docid": 10520
+        },
+        {
+            "id": "59",
+            "title": "George W. Bush Presidential Center, \"Education Reformers: You Need to Do More Than Take a Book Report to a Knife Fight,\" bushcenter.org, Sep. 23, 2020",
+            "url": null,
+            "docid": 10521
+        },
+        {
+            "id": "60",
+            "title": "George W. Bush Presidential Center, \"High-Quality, Fair Tests Can Help Students with Disabilities,\" bushcenter.org, Sep. 23, 2020",
+            "url": null,
+            "docid": 10522
+        },
+        {
+            "id": "61",
+            "title": "George W. Bush Presidential Center, \"We Don’t Need a 'Data Vacation' During the Pandemic,\" bushcenter.org, Sep. 15, 2020",
+            "url": null,
+            "docid": 10523
+        },
+        {
+            "id": "62",
+            "title": "Leadership Conference on Civil and Human Rights, \"Civil Rights Groups: 'We Oppose Anti-Testing Efforts,'\" civilrights.org, May 5, 2015",
+            "url": null,
+            "docid": 10524
+        },
+        {
+            "id": "63",
+            "title": "Rand, \"Measuring Teacher Effectiveness FAQ,\" rand.org (accessed Dec. 2, 2020)",
+            "url": null,
+            "docid": 10525
+        },
+        {
+            "id": "64",
+            "title": "Larry Ferlazzo, \"Response: The Role of Student Test Scores in Teacher Evaluations,\" blogs.edweek.org, Aug. 11, 2018",
+            "url": null,
+            "docid": 10526
+        },
+        {
+            "id": "65",
+            "title": "Matthew Pietrafetta, \"Standardized Tests Can Promote Rigor,\" insidehighered.com, Aug. 24, 2020",
+            "url": null,
+            "docid": 10527
+        },
+        {
+            "id": "66",
+            "title": "Elaine Riordan, \"Do Standardized Tests Matter? Preparing Students for High-Stakes Tests, Higher Education, and Careers,\" activelylearn.com, Apr. 30, 2019",
+            "url": null,
+            "docid": 10528
+        },
+        {
+            "id": "67",
+            "title": "Dan Goldhaber and Umut Özek, \"How Much Should We Rely on Student Test Achievement as A Measure of Success?,\" caldercouncil.org, 2018",
+            "url": null,
+            "docid": 10529
+        },
+        {
+            "id": "68",
+            "title": "Carly Berwick, \"What Does the Research Say About Testing?,\" edutopia.org, Oct. 25, 2019",
+            "url": null,
+            "docid": 10530
+        },
+        {
+            "id": "69",
+            "title": "Derrick Meador, \"Examining the Pros and Cons of Standardized Testing,\" thoughtco.com, June 21, 2019",
+            "url": null,
+            "docid": 10531
+        },
+        {
+            "id": "70",
+            "title": "Teaching Tolerance, \"How Stereotypes Undermine Test Scores,\" tolerance.org (accessed Dec. 2, 2020)",
+            "url": null,
+            "docid": 10532
+        },
+        {
+            "id": "71",
+            "title": "Steve Martinez and Rick Miller, \"Measuring Growth in Test Scores Is Key to Understanding Student Progress,\" edsource.org, Nov. 26, 2018",
+            "url": null,
+            "docid": 10533
+        },
+        {
+            "id": "72",
+            "title": "Theresa Anderson, et al., \"Robust and Equitable Measures to Identify Quality Schools,\" urban.org, Apr. 2019",
+            "url": null,
+            "docid": 10534
+        },
+        {
+            "id": "73",
+            "title": "Brandon Busteed, \"It's Time to Try the Opposite of Standardized Testing,\" gallup.com, Mar. , 2018",
+            "url": null,
+            "docid": 10535
+        },
+        {
+            "id": "74",
+            "title": "John Rosales, \"The Racist Beginnings of Standardized Testing,\" nea.org, Apr. 24, 2018",
+            "url": null,
+            "docid": 10536
+        },
+        {
+            "id": "75",
+            "title": "Frontline, \"Interview: James Popham,\" pbs.org, Apr. 25, 2001",
+            "url": null,
+            "docid": 10537
+        },
+        {
+            "id": "76",
+            "title": "Young Whan Choi, \"How to Address Racial Bias in Standardized Testing,\" nextgenlearning.org, Mar. 31, 2020",
+            "url": null,
+            "docid": 10538
+        },
+        {
+            "id": "77",
+            "title": "Christopher Bergland, \"Why Do Rich Kids Have Higher Standardized Test Scores?,\" psychologytoday.com, Apr. 18, 2015",
+            "url": null,
+            "docid": 10539
+        },
+        {
+            "id": "78",
+            "title": "Eloy Ortiz Oakley, \"Commentary: Standardized Tests Reward Kids from Wealthy Families,\" sandiegouniontribune.com, Nov. 27, 2019",
+            "url": null,
+            "docid": 10540
+        },
+        {
+            "id": "79",
+            "title": "Matt Barnum, \"No Thanks, Obama: 9 States No Longer Require Test Scores Be Used to Judge Teachers,\" chalkbeat.org, Oct. 8, 2019",
+            "url": null,
+            "docid": 10541
+        },
+        {
+            "id": "80",
+            "title": "National Council on Teacher Quality, \"State of the States 2019,\" Oct. 2019",
+            "url": null,
+            "docid": 10542
+        },
+        {
+            "id": "81",
+            "title": "W. James Popham, \"Why Standardized Tests Don't Measure Educational Quality,\" ascd.org, Mar. 1999",
+            "url": null,
+            "docid": 10543
+        },
+        {
+            "id": "82",
+            "title": "Margaret Pastor, \"Why Standardized Tests Aren't Working for Teachers or Students,\" edweek.org, June 19, 2019",
+            "url": null,
+            "docid": 10544
+        },
+        {
+            "id": "83",
+            "title": "\"Research Finds that High School GPAs Are Stronger Predictors of College Graduation than ACT Scores,\" aera.net. Jan. 28, 2020",
+            "url": null,
+            "docid": 10545
+        },
+        {
+            "id": "84",
+            "title": "Matthew M. Chingos, \"What Matters Most for College Completion? Academic Preparation is a Key of Success,\" thirdway.org, May 25, 2018",
+            "url": null,
+            "docid": 10546
+        },
+        {
+            "id": "85",
+            "title": "Anya Kamenetz, \"States Must Test Student Learning This Spring, Biden Administration Says,\" npr.org, Feb. 23, 2021",
+            "url": null,
+            "docid": 10547
+        },
+        {
+            "id": "86",
+            "title": "Jason Song, \"Teachers Blast L.A. Times for Releasing Effectiveness Rankings,\" latimes.com, Aug. 30, 2010",
+            "url": null,
+            "docid": 10548
+        },
+        {
+            "id": "87",
+            "title": "Anya Kamenetz, \"Anti-Test 'Opt-Out' Movement Makes A Wave In New York State,\" npr.org, Apr. 20, 2015",
+            "url": null,
+            "docid": 10549
+        },
+        {
+            "id": "88",
+            "title": "National Council on Teacher Quality, \"Teacher and Principal Evaluation Policies,\" nctq.org, Nov. 2022",
+            "url": null,
+            "docid": 10550
+        },
+        {
+            "id": "89",
+            "title": "Mariah St John and Brenna Swanston, \"Which State Has The Best Test Scores? Analyzing Standardized Testing Trends,\" forbes.com, Feb. 7, 2024",
+            "url": null,
+            "docid": 10551
+        },
+        {
+            "id": "90",
+            "title": "Dana Goldstein, \"What the New, Low Test Scores for 13-Year-Olds Say About U.S. Education Now,\" nytimes.com, June 21, 2023",
+            "url": null,
+            "docid": 10552
+        }
+    ],
+    "url": "https://standardizedtests.procon.org/"
+}

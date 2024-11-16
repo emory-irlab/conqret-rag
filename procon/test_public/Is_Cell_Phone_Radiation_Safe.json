@@ -1,0 +1,564 @@
+{
+    "title": "Is Cell Phone Radiation Safe?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Joachim Schuz et al. \"Cellular Telephone Use and Cancer Risk: Update of a Nationwide Danish Cohort,\"Journal of the National Cancer Institute, Dec. 2006",
+            "docid": 10647
+        },
+        {
+            "id": "2",
+            "title": "Erick Swanson, \"Stop Freaking Out About Cell Phones,\"Pittsburgh Post-Gazette, Aug. 3, 2008",
+            "docid": 10648
+        },
+        {
+            "id": "3",
+            "title": "Federal Communications Commission (FCC), \"Guidelines for Evaluating the Environmental Effects of Radiofrequency Radiation,\"Federal Register, Aug. 7, 1996",
+            "docid": 10649
+        },
+        {
+            "id": "4",
+            "title": "Federal Communications Commission (FCC), \"Radio Frequency Safety,\" fcc.gov (accessed Aug. 24, 2009)",
+            "docid": 10650
+        },
+        {
+            "id": "5",
+            "title": "Government Accountability Office (GAO), \"Research and Regulatory Efforts on Mobile Phone Health Issues,\"gao.gov, May 2001",
+            "docid": 10651
+        },
+        {
+            "id": "6",
+            "title": "National Cancer Institute, \"Cellular Telephone Use and Cancer Risk,\" cancer.gov (accessed Aug. 24, 2009)",
+            "docid": 10652
+        },
+        {
+            "id": "7",
+            "title": "International Association for the Wireless Telecommunications Industry (CTIA), \"CTIA Consumer Info: Driving Tips,\" ctia.org (accessed Aug. 24, 2009)",
+            "docid": 10653
+        },
+        {
+            "id": "8",
+            "title": "Adam D. Thierer, \"Here Come the Federal Cell Phone Cops,\" CATO Institute, cato.org, June 25, 2001",
+            "docid": 10654
+        },
+        {
+            "id": "9",
+            "title": "R.J. Croft et al., \"Mobile Phones and Brain Tumors: A Review of Epidemiological Research,\"Australasian Physical and Engineering Sciences in Medicine, Dec. 2008",
+            "docid": 10655
+        },
+        {
+            "id": "10",
+            "title": "Christopher Baker, \"Cell Phones for Safety and Security in Case of an Emergency,\" American Association of Retired Persons (AARP) Public Policy Institute, aarp.org, June 2006",
+            "docid": 10656
+        },
+        {
+            "id": "11",
+            "title": "American Heart Association, \"Pacemakers,\" americanheart.org (accessed Aug. 24, 2009)",
+            "docid": 10657
+        },
+        {
+            "id": "12",
+            "title": "Lennart Hardell et al., \"Meta-Analysis of Long-Term Mobile Phone Use and the Association With Brain Tumours,\"International Journal of Oncology, Mar. 2008",
+            "docid": 10658
+        },
+        {
+            "id": "13",
+            "title": "MJ Schoemaker, et al., \"Mobile Phone Use and Risk of Acoustic Neuroma: Results of the Interphone Case-Control Study in Five North European Countries,\"British Journal of Cancer, Aug., 2005",
+            "docid": 10659
+        },
+        {
+            "id": "14",
+            "title": "National Highway Traffic Safety Administration (NHTSA), \"NHTSA Policy and FAQs on Cellular Phone Use While Driving,\" nhtsa.dot.gov (accessed Aug. 24, 2009)",
+            "docid": 10660
+        },
+        {
+            "id": "15",
+            "title": "George Carlo and Martin Schram,Cell Phones, Invisible Hazards in the Wireless Age, An Insiders Alarming Discoveries about Cancer and Genetic Damage, 2001",
+            "docid": 10661
+        },
+        {
+            "id": "16",
+            "title": "David L. Strayer et al., \"A Comparison of the Cell Phone Driver and the Drunk Driver,\"Human Factors, Summer 2006",
+            "docid": 10662
+        },
+        {
+            "id": "17",
+            "title": "J. Wiart et al., \"Analysis of RF Exposure in the Head Tissues of Children and Adults,\"Physics in Medicine and Biology, July, 2008",
+            "docid": 10663
+        },
+        {
+            "id": "18",
+            "title": "Geoffry N. De Luliss et al., \"Mobile Phone Radiation Induces Reactive Oxygen Species Production and DNA Damage in Human Spermatozo in Vitro,\"Public Library of Science One, July 31, 2009",
+            "docid": 10664
+        },
+        {
+            "id": "19",
+            "title": "Ashok Agarwal, \"Cell Phone Radiation Degrades Semen Quality,\" clevelandclinic.org (accessed Sep. 28, 2009)",
+            "docid": 10665
+        },
+        {
+            "id": "20",
+            "title": "Joachim Schuz, et al., \"Risks for Central Nervous System Diseases among Mobile Phone Subscribers: A Danish Retrospective Cohort Study,\"Public Library of Science One, Feb. 5, 2009",
+            "docid": 10666
+        },
+        {
+            "id": "21",
+            "title": "US Food and Drug Administration (FDA), \"Interference with Pacemakers and Other Medical Devices,\" fda.gov (accessed Aug. 24, 2009)",
+            "docid": 10667
+        },
+        {
+            "id": "22",
+            "title": "Ben Charny, \"Cell Phones: Too Hot to Handle?,\" news.cnet.com, Oct. 25, 2004",
+            "docid": 10668
+        },
+        {
+            "id": "23",
+            "title": "Maria L. La Ganga, \"San Francisco to Require Stores to List Cellphone Radiation Levels,\"Los Angeles Times, June 23, 2010",
+            "docid": 10669
+        },
+        {
+            "id": "24",
+            "title": "National Highway Traffic Safety Administration (NHTSA), \"Status Summary: Using Wireless Communication Devices While Driving,\" nytimes.com, July 2003",
+            "docid": 10670
+        },
+        {
+            "id": "25",
+            "title": "Ronald B. Herberman, Statement at the Oversight and Government Reform Committee Hearing on \"Tumors and Cell Phone Use: What the Science Says,\"domesticpolicy.oversight.house.gov, Sep. 2008",
+            "docid": 10671
+        },
+        {
+            "id": "26",
+            "title": "Dennis Kucinich, Opening Statement at the Oversight and Government Reform Committee Hearing on \"Tumors and Cell Phone Use: What the Science Says,\"domesticpolicy.oversight.house.gov, Sep. 2008",
+            "docid": 10672
+        },
+        {
+            "id": "27",
+            "title": "Federal Communications Commission (FCC), \"In the Matter of Responsibility of the Federal Communications Commission to Consider Biological Effects of Radiofrequency Radiation When Authorizing the Use of Radiofrequency Devices,\"fcc.gov, Feb. 26, 1985",
+            "docid": 10673
+        },
+        {
+            "id": "28",
+            "title": "State of New York, \"§1225-c. Use of Mobile Telephones,\"nysgtsc.state.ny.us, 2001",
+            "docid": 10674
+        },
+        {
+            "id": "29",
+            "title": "State of Connecticut, \"Public Act No. 05-159: An Act Concerning the Use of Hand-Held Mobile Telephones by Operators of Motor Vehicles,\"cga.ct.gov, 2005",
+            "docid": 10675
+        },
+        {
+            "id": "30",
+            "title": "State of California, \"Hand-Held Wireless Telephone: Prohibited Use,\"dmv.ca.gov, 2007",
+            "docid": 10676
+        },
+        {
+            "id": "31",
+            "title": "State of New Jersey, \"An Act Concerning the Use of Wireless Telephones and Electronic Communication Devices in Motor Vehicles and Amending P.L.2003, c.310,\"njleg.state.nj.us, 2007",
+            "docid": 10677
+        },
+        {
+            "id": "32",
+            "title": "State of Washington, \"Using a Wireless Communications Device while Driving,\"apps.leg.wa.gov, 2008",
+            "docid": 10678
+        },
+        {
+            "id": "33",
+            "title": "State of Oregon, \"House Bill 2377,\"oregon.gov, 2009",
+            "docid": 10679
+        },
+        {
+            "id": "34",
+            "title": "International Association for the Wireless Telecommunications Industry (CTIA), \"Year End 2008 Estimated Wireless Subscribers,\" ctia.org, 2009",
+            "docid": 10680
+        },
+        {
+            "id": "35",
+            "title": "International Association for the Wireless Telecommunications Industry (CTIA), \"Wireless Quick Facts,\" ctia.org, 2009",
+            "docid": 10681
+        },
+        {
+            "id": "36",
+            "title": "Elisabeth Cardis et al., \"Brain Tumor Risk in Relation to Mobile Telephone Use: Results of the INTERPHONE International Case-Control Study,\"International Journal of Epidemiology, May 17, 2010",
+            "docid": 10682
+        },
+        {
+            "id": "37",
+            "title": "International Agency for Research on Cancer (IARC), \"IARC Classifies Radiofrequency Electromagnetic Fields as Possibly Carcinogenic to Humans,\" iarc.fr, May 31, 2011",
+            "docid": 10683
+        },
+        {
+            "id": "38",
+            "title": "International Agency for Research on Cancer (IARC), \"Agents Classified by the IARC Monography, Volumes 1-100,\" iarc.fr (accessed May 31, 2011)",
+            "docid": 10684
+        },
+        {
+            "id": "39",
+            "title": "Patrizia Frei, et al., \"Use of Mobile Phones and Risk of Brain Tumors: Update of a Danish Cohort Study,\"British Medical Journal, Oct. 20, 2011",
+            "docid": 10685
+        },
+        {
+            "id": "40",
+            "title": "Library of Congress, \"Italy: Supreme Court Ruling on Mobile Phones and Tumors,\" loc.gov, Oct. 23, 2012",
+            "docid": 10686
+        },
+        {
+            "id": "41",
+            "title": "H. Collatz Christensen, et al., \"Cellular Telephones and Risk for Brain Tumors,\"Neurology, July 20, 2005",
+            "docid": 10687
+        },
+        {
+            "id": "42",
+            "title": "Stefan Lönn, et al., \"Long-Term Mobile Phone Use and Brain Tumor Risk,\"American Journal of Epidemiology,\" 2005",
+            "docid": 10688
+        },
+        {
+            "id": "43",
+            "title": "National Brain Tumor Society (NBTS), \"NBTS Funds Groundbreaking Study on Prevalence of Brain Tumors,\" braintumor.org (accessed July 22, 2013)",
+            "docid": 10689
+        },
+        {
+            "id": "44",
+            "title": "CTIA-The Wireless Association, \"Annual Wireless Industry Survey,\" ctia.org, 2015",
+            "docid": 10690
+        },
+        {
+            "id": "45",
+            "title": "Victoria S. Benson, et al., \"Mobile Phone Use and Risk of Brain Neoplasms and Other Cancers,\"International Journal of Epidemiology,\" May 8, 2013",
+            "docid": 10691
+        },
+        {
+            "id": "46",
+            "title": "Peter D. Inskip, et al., \"Cellular-Telephone Use and Brain Tumors,\"The New England Journal of Medicine, Jan. 11, 2001",
+            "docid": 10692
+        },
+        {
+            "id": "47",
+            "title": "US Food and Drug Administration (FDA), \"No Evidence Linking Cell Phone Use to Risk of Brain Tumors,\" fda.gov, May 17, 2010",
+            "docid": 10693
+        },
+        {
+            "id": "48",
+            "title": "Federal Communications Commission (FCC), \"Specific Absorption Rate (SAR) for Cell Phones: What It Means for You,\" fcc.gov, Jan. 18, 2013",
+            "docid": 10694
+        },
+        {
+            "id": "49",
+            "title": "Hsu, Min-Huei, et al., \"The Incidence Rate and Mortality of Malignant Brain Tumors after 10 Years of Intensive Cell Phone Use in Taiwan,\"European Journal of Cancer Prevention,\" Apr. 14, 2013",
+            "docid": 10695
+        },
+        {
+            "id": "50",
+            "title": "Denis Aydin, et al., \"Mobile Phone Use and Brain Tumors in Children and Adolescents: A Multicenter Case–Control Study,\"Journal of the National Cancer Institute, July 27, 2011",
+            "docid": 10696
+        },
+        {
+            "id": "51",
+            "title": "Vini G. Khurana, et al., \"Cell Phones and Brain Tumors: A Review Including the Long-Term Epidemiologic Data,\"Surgical Neurology, Mar. 31, 2009",
+            "docid": 10697
+        },
+        {
+            "id": "52",
+            "title": "Lennart Hardell, et al., \"Use of Mobile Phones and Cordless Phones Is Associated with Increased Risk for Glioma and Acoustic Neuroma,\"Pathophysiology, Apr. 2013",
+            "docid": 10698
+        },
+        {
+            "id": "53",
+            "title": "Michael Carlberg, et al., \"On the Association between Glioma, Wireless Phones, Heredity and Ionising Radiation,\"Pathophysiology, Sep. 2012",
+            "docid": 10699
+        },
+        {
+            "id": "54",
+            "title": "E. Cardis, et al., \"Risk of Brain Tumors in Relation to Estimated RF Dose from Mobile Phones: Results from Five Interphone Countries,\"Occupational and Environmental Medicine, June 2011",
+            "docid": 10700
+        },
+        {
+            "id": "55",
+            "title": "Devra Lee Davis, et al., \"Swedish Review Strengthens Grounds for Concluding That Radiation from Cellular and Cordless Phones Is a Probable Human Carcinogen,\"Pathophysiology, Apr. 2013",
+            "docid": 10701
+        },
+        {
+            "id": "56",
+            "title": "Environmental Health Trust, \"Press Release: Top Doctors Urge Cell Phone Companies to Come Clean on Health Dangers Posed by Radiation,\" ehtrust.org, June 23, 2011",
+            "docid": 10702
+        },
+        {
+            "id": "57",
+            "title": "The INTERPHONE Study Group, \"Brain Tumour Risk in Relation to Mobile Telephone Use: Results of the INTERPHONE International Case–Control Study,\"International Journal of Epidemiology, May 17, 2010",
+            "docid": 10703
+        },
+        {
+            "id": "58",
+            "title": "Rodolfo Saracci, et al., \"Commentary: Call Me on My Mobile Phone...or Better Not? - A Look at the INTERPHONE Study Results,\"International Journal of Epidemiology, May 17, 2010",
+            "docid": 10704
+        },
+        {
+            "id": "59",
+            "title": "Izzet Tandogan, et al., \"The Effects of Mobile Phones on Pacemaker Function,\"International Journal of Cardiology, Aug. 2005",
+            "docid": 10705
+        },
+        {
+            "id": "60",
+            "title": "American Heart Association (AHA), \"Devices That May Interfere with Pacemakers,\" heart.org, Aug. 16, 2012",
+            "docid": 10706
+        },
+        {
+            "id": "61",
+            "title": "Emin Karaca, et al., \"The Genotoxic Effect of Radiofrequency Waves on Mouse Brain,\"Journal of Neuro-Oncology, Jan. 2012",
+            "docid": 10707
+        },
+        {
+            "id": "62",
+            "title": "Hugo W. Ruediger, \"Genotoxic Effects of Radiofrequency Electromagnetic Fields,\"Pathophysiology, Aug. 2009",
+            "docid": 10708
+        },
+        {
+            "id": "63",
+            "title": "Sophy Bishop, \"At Center for Ethics Event, Cell Phone Radiation and Institutional Corruption Addressed,\" law.harvard.edu, Nov. 18, 2011",
+            "docid": 10709
+        },
+        {
+            "id": "64",
+            "title": "Dandro La Vignera, et al., \"Effects of the Exposure to Mobile Phones on Male Reproduction: A Review of the Literature,\"Journal of Andrology, May-June 2012",
+            "docid": 10710
+        },
+        {
+            "id": "65",
+            "title": "Hozefa A. Divan, et al., \"Prenatal and Postnatal Exposure to Cell Phone Use and Behavioral Problems in Children,\"Epidemiology, Nov. 2008",
+            "docid": 10711
+        },
+        {
+            "id": "66",
+            "title": "Tamir S. Aldad, Geliang Ban, Xiao-Bing Gao, and Hugh S. Taylor, \"Fetal Radiofrequency Radiation Exposure From 800-1900 Mhz-Rated Cellular Telephones Affects Neurodevelopment and Behavior in Mice,\"Scientific Reports, Mar. 15, 2012",
+            "docid": 10712
+        },
+        {
+            "id": "67",
+            "title": "Hozefa A. Divan, et al., \"Cell Phone Use and Behavioural Problems in Young Children,\"Journal of Epidemiology and Community Health, Dec. 2010",
+            "docid": 10713
+        },
+        {
+            "id": "68",
+            "title": "Bonnie Rochman, \"Pediatricians Say Cell Phone Radiation Standards Need Another Look,\" healthland.time.com, July 20, 2012",
+            "docid": 10714
+        },
+        {
+            "id": "69",
+            "title": "US Food and Drug Administration (FDA), \"Current Research Results,\" fda.gov, June 24, 2011",
+            "docid": 10715
+        },
+        {
+            "id": "70",
+            "title": "CTIA-The Wireless Association, \"50 Wireless Quick Facts III,\" ctia.org, May 2013",
+            "docid": 10716
+        },
+        {
+            "id": "71",
+            "title": "US Census Bureau, \"Annual Estimates of the Population for the United States, Regions, and Divisions: April 1, 2000 to July 1, 2003,\" census.gov, May 11, 2004",
+            "docid": 10717
+        },
+        {
+            "id": "72",
+            "title": "Centers for Disease Control (CDC), \"Frequently Asked Questions about Cell Phones and Your Health,\" cdc.gov (accessed 9/6/2013)",
+            "docid": 10718
+        },
+        {
+            "id": "73",
+            "title": "Siddhartha Mukherjee, \"Do Cellphones Cause Brain Cancer?,\" nytimes.com, Apr. 13, 2011",
+            "docid": 10719
+        },
+        {
+            "id": "74",
+            "title": "US Food and Drug Administration (FDA), \"Cooperative Research and Development Agreement (CRADA),\" fda.gov, May 4, 2009",
+            "docid": 10720
+        },
+        {
+            "id": "75",
+            "title": "US Government and Accountability Office (GAO), \"Exposure and Testing Requirements for Mobile Phones Should Be Reassessed,\" gao.gov, July 24, 2012",
+            "docid": 10721
+        },
+        {
+            "id": "76",
+            "title": "Federal Communications Commission (FCC), \"FCC Review of RF Exposure Policies,\" fcc.gov, Mar. 29, 2013",
+            "docid": 10722
+        },
+        {
+            "id": "77",
+            "title": "Federal Communications Commission (FCC), \"A Short History of Radio, with an Inside Focus on Mobile Radio,\" fcc.gov, Winter 2003-2004",
+            "docid": 10723
+        },
+        {
+            "id": "78",
+            "title": "Federal Communications Commission (FCC), \"History of Communications - Historical Periods in Television Technology: 1930-1959,\" fcc.gov, Nov. 21, 2005",
+            "docid": 10724
+        },
+        {
+            "id": "79",
+            "title": "Subcommittee of the Committee on Appropriations of the United States Senate, \"The Health Effects of Cell Phone Use,\" gpo.gov, Sep. 14, 2009",
+            "docid": 10725
+        },
+        {
+            "id": "80",
+            "title": "CTIA - The Wireless Association, \"CTIA-The Wireless Association Filed Lawsuit Against San Francisco for the So-Called 'Cell Phone Right-to-Know' Ordinance,\" ctia.org, July 23, 2012",
+            "docid": 10726
+        },
+        {
+            "id": "81",
+            "title": "Paul Elias, \"San Francisco Cell Phone Radiation Law Blocked by Judge,\" huffingtonpost.com, Oct. 27, 2011",
+            "docid": 10727
+        },
+        {
+            "id": "82",
+            "title": "Kent German, \"San Francisco Finally Kills Cell Phone Radiation Law,\" news.cnet.com, May 8, 2013",
+            "docid": 10728
+        },
+        {
+            "id": "83",
+            "title": "Nora D. Volkow, et al., \"Effects of Cell Phone Radiofrequency Signal Exposure on Brain Glucose Metabolism,\"Journal of the American Medical Association, Feb. 23, 2011",
+            "docid": 10729
+        },
+        {
+            "id": "84",
+            "title": "Lennart Hardel and Michael Carlberg, \"Moblie Phone and Cordless Phone Use and the Risk for Glioma - Analysis of Pooled Case-Control Studies in Sweden, 1997-2003 and 2007-2009,\"Pathophysiology, Oct. 28, 2014",
+            "docid": 10730
+        },
+        {
+            "id": "85",
+            "title": "US National Toxicology Program (NTP), \"Report of Partial Findings from the National Toxicology Program Carcinogenesis Studies of Cell Phone Radiofrequency Radiation in Hsd: Sprague Dawley SD rats (Whole Body Exposures),\" biorxiv.org, May 26, 2016",
+            "docid": 10731
+        },
+        {
+            "id": "86",
+            "title": "Warren Cornwall, \"Questions Abound After Study Links Tumors to Cellphone Radiation,\" sciencemag.org, May 27, 2016",
+            "docid": 10732
+        },
+        {
+            "id": "87",
+            "title": "National Toxicology Program, \"Peer Review of the Draft NTP Technical Reports on Cell Phone Radiofrequency Radiation,\" niehs.nih.gov, Nov. 1, 2018",
+            "docid": 10733
+        },
+        {
+            "id": "88",
+            "title": "United States Food and Drug Administration, \"Statement from Jeffrey Shuren, MD, JD, Director of the FDA's Center for Devices and Radiological Health on the National Toxicology Program’s Report on Radiofrequency Energy Exposure,\" fda.gov, Nov. 1, 2018",
+            "docid": 10734
+        },
+        {
+            "id": "89",
+            "title": "CTIA-The Wireless Association, \"The State of Wireless,\" ctia.org, July 10, 2018",
+            "docid": 10735
+        },
+        {
+            "id": "90",
+            "title": "Marguerite Reardon, \"Is 5G Making You Sick? Probably Not,\" cnet.com, July 30, 2020",
+            "docid": 10736
+        },
+        {
+            "id": "91",
+            "title": "Joel M. Moskowitz, \"We Have No Reason to Believe 5G Is Safe,\" scientificamerican.com, October 17, 2019",
+            "docid": 10737
+        },
+        {
+            "id": "92",
+            "title": "Pew Research Center, \"Mobile Fact Sheet,\" pewresearch.org, Apr. 7, 2021",
+            "docid": 10738
+        },
+        {
+            "id": "93",
+            "title": "National Museum of American History, \"Dynatac Cellular Telephone,\" americanhistory.si.edu (accessed June 22, 2021)",
+            "docid": 10739
+        },
+        {
+            "id": "94",
+            "title": "Erik Gregersen, et al., \"Martin Cooper,\" eb.com, Dec. 22, 2020",
+            "docid": 10740
+        },
+        {
+            "id": "95",
+            "title": "Jane C. Hu, \"Our Reliance on Cellphones Began 35 Years Ago Today,\" qz.com, Oct. 13, 2018",
+            "docid": 10741
+        },
+        {
+            "id": "96",
+            "title": "World Bank, \"Mobile Cellular Subscriptions,\" data.worldbank.org (accessed June 22, 2021)",
+            "docid": 10742
+        },
+        {
+            "id": "97",
+            "title": "World Bank, \"Population Total,\" data.worldbank.org (accessed June 22, 2021)",
+            "docid": 10743
+        },
+        {
+            "id": "98",
+            "title": "Mike Murphy, \"Cellphones Now Outnumber the World’s Population,\" qz.com, Apr. 29, 2019",
+            "docid": 10744
+        },
+        {
+            "id": "99",
+            "title": "Ken Karipidis, et al., “Mobile Phone Use and Incidence of Brain Tumour Histological Types, Grading or Anatomical Location: A Population-Based Ecological Study,” bmjopen.bmj.com, Dec. 2018",
+            "docid": 10745
+        },
+        {
+            "id": "100",
+            "title": "Matthew Tontonoz, “Do Cell Phones Cause Cancer?,” mskcc.org,May 20, 2019",
+            "docid": 10746
+        },
+        {
+            "id": "101",
+            "title": "Retraction Watch, “‘Riddled with Errors’: Study of Cell Phones and Breast Cancer Retracted,” retractionwatch.com, Mar. 22, 2021",
+            "docid": 10747
+        },
+        {
+            "id": "102",
+            "title": "Ya-Wen Shih, et al., “Exposure to Radiofrequency Radiation Increases the Risk of Breast Cancer: A Systematic Review and Meta‑Analysis,” spandidos-publications.com, Nov. 9, 2020",
+            "docid": 10748
+        },
+        {
+            "id": "103",
+            "title": "Naomi Altman and Martin Krzywinski, “Association, Correlation and Causation,” nature.com, Sep. 29, 2015",
+            "docid": 10749
+        },
+        {
+            "id": "104",
+            "title": "Paul J.Villeneuvea, et al., “Cell Phone Use and the Risk of Glioma: Are Case-Control Study Findings Consistent with Canadian Time Trends in Cancer Incidence?,”.sciencedirect.com, May 21, 2021",
+            "docid": 10750
+        },
+        {
+            "id": "105",
+            "title": "Manya Prasad, et al., “Mobile Phone Use and Risk of Brain Tumours: A Systematic Review of Association between Study Quality, Source of Funding, and Research Outcomes,” pubmed.ncbi.nlm.nih.gov, Feb, 17, 2017",
+            "docid": 10751
+        },
+        {
+            "id": "106",
+            "title": "National Toxicology Program, “Cell Phone Radio Frequency Radiation,” ntp.niehs.nih.gov (accessed June 29, 2021)",
+            "docid": 10752
+        },
+        {
+            "id": "107",
+            "title": "National Institute of Environmental Health Sciences, “High Exposure to Radio Frequency Radiation Associated With Cancer in Male Rats,” niehs.nih.gov, Nov. 1, 2018",
+            "docid": 10753
+        },
+        {
+            "id": "108",
+            "title": "Suzanne Potter, “New Studies Link Cell Phones to Breast and Thyroid Cancer Risk,” publicnewsservice.org, Dec. 15, 2020",
+            "docid": 10754
+        },
+        {
+            "id": "109",
+            "title": "National Cancer Institute, “Cancer Stat Facts: Brain and Other Nervous System Cancer,” seer.cancer.gov (accessed June 29, 2021)",
+            "docid": 10755
+        },
+        {
+            "id": "110",
+            "title": "BrainLab, \"How Common Are Brain Tumors?,\" brainlab.org (accessed June 29, 2021)",
+            "docid": 10756
+        },
+        {
+            "id": "111",
+            "title": "Lige Leng, \"The Relationship Between Mobile Phone Use and Risk of Brain Tumor: A Systematic Review and Meta-Analysis of Trails in the Last Decade,\" cnjournal.biomedcentral.com, 2016",
+            "docid": 10757
+        }
+    ],
+    "url": "https://cellphones.procon.org/"
+}

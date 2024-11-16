@@ -1,0 +1,291 @@
+{
+    "title": "Should the US Government Regulate Prescription Drug Prices?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Paul B. Ginsburg and Steven M. Lieberman, “Government Regulated or Negotiated Drug Prices: Key Design Considerations,”brookings.edu, Aug. 30, 2021",
+            "url": "https://www.brookings.edu/essay/government-regulated-or-negotiated-drug-prices-key-design-considerations/",
+            "docid": 8936
+        },
+        {
+            "id": "2",
+            "title": "Merriam-Webster, “Prescription Drug,”merriam-webster.com(accessed Mar. 29, 2022)",
+            "url": "https://www.merriam-webster.com/dictionary/prescription%20drug",
+            "docid": 8937
+        },
+        {
+            "id": "3",
+            "title": "Randa Hilal-Dandan and Laurence L. Brunton, “Appendix I: Principles of Prescription Order Writing and Patient Compliance,” Goodman and Gilman's Manual of Pharmacology and Therapeutics, 2nd Edition,accesspharmacy.mhmedical.com, 2014",
+            "url": "https://accesspharmacy.mhmedical.com/content.aspx?bookid=1810&sectionid=124489535#:~:text=physicians%20can%20write%20prescriptions.,prescribe%20medications%20under%20various%20circumstances.",
+            "docid": 8938
+        },
+        {
+            "id": "4",
+            "title": "Julia Hawley, “How Pharmaceutical Companies Price Their Drugs,”investopedia.com, Mar. 21, 2022",
+            "url": "https://www.investopedia.com/articles/investing/020316/how-pharmaceutical-companies-price-their-drugs.asp",
+            "docid": 8939
+        },
+        {
+            "id": "5",
+            "title": "Melissa Pistilli, “10 Top Pharma Companies by Revenue,”investingnews.com, Dec. 09, 2021",
+            "url": "https://investingnews.com/daily/life-science-investing/pharmaceutical-investing/top-pharma-companies-by-revenue/",
+            "docid": 8940
+        },
+        {
+            "id": "6",
+            "title": "Drug Discovery & Development, “Pharma 50: The 50 Largest Pharmaceutical Companies in the World,”drugdiscoverytrends.com(accessed Mar. 30, 2022)",
+            "url": "https://www.drugdiscoverytrends.com/pharma-50-the-50-largest-pharmaceutical-companies-in-the-world/",
+            "docid": 8941
+        },
+        {
+            "id": "7",
+            "title": "Evaluate, “Evaluate Pharma World Preview 2020, Outlook to 2026,”evaluate.com, July 16, 2020",
+            "url": "https://www.evaluate.com/thought-leadership/pharma/evaluatepharma-world-preview-2020-outlook-2026",
+            "docid": 8942
+        },
+        {
+            "id": "8",
+            "title": "American Medical Association, “How Are Prescription Drug Prices Determined?,”ama-assn.org, Apr. 9, 2019",
+            "url": "https://www.ama-assn.org/delivering-care/public-health/how-are-prescription-drug-prices-determined",
+            "docid": 8943
+        },
+        {
+            "id": "9",
+            "title": "The Commonwealth Fund, “Pharmacy Benefit Managers and Their Role in Drug Spending,”commonwealthfund.org, Apr. 22, 2019",
+            "url": "https://www.commonwealthfund.org/publications/explainer/2019/apr/pharmacy-benefit-managers-and-their-role-drug-spending",
+            "docid": 8944
+        },
+        {
+            "id": "10",
+            "title": "Sonya Collins, “Most Physicians Unable to Estimate Patients’ Out-of-Pocket Costs: How Pharmacists Can Help,”pharmacytoday.org, Mar. 1, 2022",
+            "url": "https://www.pharmacytoday.org/article/S1042-0991(22)00277-8/fulltext",
+            "docid": 8945
+        },
+        {
+            "id": "11",
+            "title": "Rand Corporation, “Prescription Drug Prices in the United States Are 2.56 Times Those in Other Countries,”rand.org, Jan. 28, 2021",
+            "url": "https://www.kff.org/medicare/issue-brief/explaining-the-prescription-drug-provisions-in-the-build-back-better-act/",
+            "docid": 8946
+        },
+        {
+            "id": "12",
+            "title": "Juliette Cubanski, Tricia Neuman, and Meredith Freed, “Explaining the Prescription Drug Provisions in the Build Back Better Act,”kff.org, Nov. 23, 2021",
+            "url": "https://www.kff.org/medicare/issue-brief/explaining-the-prescription-drug-provisions-in-the-build-back-better-act/",
+            "docid": 8947
+        },
+        {
+            "id": "13",
+            "title": "Barbara Sprunt, “House Passes Bill to Cap Insulin Prices,”npr.org, Mar. 31, 2022",
+            "url": "https://www.npr.org/2022/03/31/1090085513/house-passes-bill-to-cap-insulin-pricespro",
+            "docid": 8948
+        },
+        {
+            "id": "14",
+            "title": "Margot Sanger-Katz, “House Passes Bill to Limit Cost of Insulin to $35 a Month,”nytimes.com, Mar. 31, 2022",
+            "url": "https://www.nytimes.com/2022/03/31/health/insulin-price-house-bill-democrats.html",
+            "docid": 8949
+        },
+        {
+            "id": "15",
+            "title": "Kaiser Family Foundation, “Poll: Nearly 1 in 4 Americans Taking Prescription Drugs Say It’s Difficult to Afford Their Medicines, including Larger Shares among Those with Health Issues, with Low Incomes and Nearing Medicare Age,”kff.org, Mar. 1, 2019",
+            "url": "https://www.kff.org/health-costs/press-release/poll-nearly-1-in-4-americans-taking-prescription-drugs-say-its-difficult-to-afford-medicines-including-larger-shares-with-low-incomes/",
+            "docid": 8950
+        },
+        {
+            "id": "16",
+            "title": "Paul Brandus, “Opinion: Food or Medication? The Dangerous Choice Many Seniors Have to Make,”marketwatch.com, Mar. 26, 2021",
+            "url": "https://www.marketwatch.com/story/food-or-medication-the-dangerous-choice-many-seniors-have-to-make-11616683772",
+            "docid": 8951
+        },
+        {
+            "id": "17",
+            "title": "Healio Internal Medicine, “Nearly Half of Americans Forgo Medical Care Because of Cost,”healio.com, Mar. 27, 2018",
+            "url": "https://www.healio.com/news/primary-care/20180327/nearly-half-of-americans-forego-medical-care-because-of-cost",
+            "docid": 8952
+        },
+        {
+            "id": "18",
+            "title": "Truth in Rx, “Price Hikes and Secret Deals,”truthinrx.org(accessed Mar. 29, 2022)",
+            "url": "https://truthinrx.org/price-hikes-secret-deals",
+            "docid": 8953
+        },
+        {
+            "id": "19",
+            "title": "Darrell Hulisz, The Soaring Price of EpiPen,”rn.com(accessed Mar. 31, 2022)",
+            "url": "https://www.rn.com/featured-stories/the-soaring-price-of-epipen/",
+            "docid": 8954
+        },
+        {
+            "id": "20",
+            "title": "Emily Willingham, “Why Did Mylan Hike EpiPen Prices 400%? Because They Could,”forbes.com, Aug 21, 2016",
+            "url": "https://www.forbes.com/sites/emilywillingham/2016/08/21/why-did-mylan-hike-epipen-prices-400-because-they-could/?sh=6af5c055280c",
+            "docid": 8955
+        },
+        {
+            "id": "21",
+            "title": "Cynthia Koons and Robert Langreth, “How Marketing Turned the EpiPen Into a Billion-Dollar Business,”bloomberg.com, Sep. 23, 2015",
+            "url": "https://www.bloomberg.com/news/articles/2015-09-23/how-marketing-turned-the-epipen-into-a-billion-dollar-business",
+            "docid": 8956
+        },
+        {
+            "id": "22",
+            "title": "Wayne Drash, “Anatomy of a 97,000% Drug Price Hike: One Family’s Fight to Save Their Son,”cnn.com, June 29, 2018",
+            "url": "https://www.cnn.com/2018/06/29/health/acthar-mallinckrodt-questcor-price-hike-trevor-foltz/index.html",
+            "docid": 8957
+        },
+        {
+            "id": "23",
+            "title": "Heather Long and Matt Egan, “Meet the Guy behind the $750 AIDS Drug,” money.cnn.com, Sep. 22, 2015",
+            "url": "https://money.cnn.com/2015/09/22/investing/aids-drug-martin-shkreli-750-cancer-drug/index.html?iid=EL",
+            "docid": 8958
+        },
+        {
+            "id": "24",
+            "title": "Surescripts, “Data Brief: Physician Perspectives on Access to Patient Data,”surescripts.com, Apr. 2018",
+            "url": "https://surescripts.com/docs/default-source/intelligence-in-action/1785_databrief_providersurvey_graphics_final3_web.pdf?sfvrsn=103e7dca_14",
+            "docid": 8959
+        },
+        {
+            "id": "25",
+            "title": "Jules Lipoff, “​​Expensive Prescriptions Have Patients Skipping Their Meds. What Can Doctors Do about It?,”statnews.com, Apr. 3, 2018",
+            "url": "https://www.statnews.com/2018/04/03/doctors-cost-prescribing-medications/",
+            "docid": 8960
+        },
+        {
+            "id": "26",
+            "title": "Congressional Budget Office, “Research and Development in the Pharmaceutical Industry,”cbo.gov, Apr. 2021",
+            "url": "https://www.cbo.gov/publication/57126#:~:text=Spending%20on%20R%26D%20and%20Its,per%20year%20in%20the%201980s",
+            "docid": 8961
+        },
+        {
+            "id": "27",
+            "title": "Joe Kennedy, “The Link Between Drug Prices and Research on the Next Generation of Cures,”itif.org, Sep. 9, 2019",
+            "url": "https://itif.org/publications/2019/09/09/link-between-drug-prices-and-research-next-generation-cures",
+            "docid": 8962
+        },
+        {
+            "id": "28",
+            "title": "Investopedia Team, \"What Are the Average Research and Development Costs for Pharmaceutical Companies?,\"investopedia.com, Mar. 11, 022",
+            "url": "https://www.investopedia.com/ask/answers/060115/how-much-drug-companys-spending-allocated-research-and-development-average.asp",
+            "docid": 8963
+        },
+        {
+            "id": "29",
+            "title": "David A. Ricks, “The Risks of Government Negotiation of Drug Prices,”bostonglobe.com, Oct. 25, 2021",
+            "url": "https://www.bostonglobe.com/2021/10/25/opinion/risks-government-negotiation-drug-prices/",
+            "docid": 8964
+        },
+        {
+            "id": "30",
+            "title": "Jake Ellison, “Drug Rebates for Insurers Tied to Higher Costs for Patients, Especially the Uninsured,”washington.edu, June 15, 2021",
+            "url": "https://www.washington.edu/news/2021/06/15/drug-rebates-for-insurers-tied-to-higher-costs-for-patients-especially-the-uninsured/",
+            "docid": 8965
+        },
+        {
+            "id": "31",
+            "title": "Kai Yeung, Stacie B. Dusetzina, and Anirban Basu, “Association of Branded Prescription Drug Rebate Size and Patient Out-of-Pocket Costs in a Nationally Representative Sample, 2007-2018,”jamanetwork.com, June 14, 2021",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2780950",
+            "docid": 8966
+        },
+        {
+            "id": "32",
+            "title": "Cornell Law School Legal Information Institute, \"45 CFR § 156.122 - Prescription Drug Benefits,\"law.cornell.edu(accessed June 6, 2022)",
+            "url": "https://www.law.cornell.edu/cfr/text/45/156.122",
+            "docid": 8967
+        },
+        {
+            "id": "33",
+            "title": "Chip Davis, \"It’s Up to Congress to Make Life-Saving Drugs Affordable,\"cnn.com, Feb. 8, 2018",
+            "url": "https://www.cnn.com/2018/02/08/opinions/generic-drugs-creates-act-opinion-davis/index.html",
+            "docid": 8968
+        },
+        {
+            "id": "34",
+            "title": "Tom Coburn, “Free Market, Better Medicine,”usnews.com, Feb. 15, 2018",
+            "url": "https://www.usnews.com/opinion/articles/2018-02-15/rely-on-the-free-market-to-address-drug-prices-and-foster-innovation",
+            "docid": 8969
+        },
+        {
+            "id": "35",
+            "title": "Jake Novack, “Trump’s Losses in Drug Pricing Battle Should Be a Free Market Wake-Up Call to Him,”cnbc.com, July 11, 2019",
+            "url": "https://www.cnbc.com/2019/07/11/trumps-losses-in-drug-pricing-plan-should-be-a-free-market-wake-up-call-to-him.html",
+            "docid": 8970
+        },
+        {
+            "id": "36",
+            "title": "Jacob James Rich, “It’s Time to Free the Pharmaceutical Market From Government Control,”reason.org, Apr. 3, 2020",
+            "url": "https://reason.org/commentary/its-time-to-free-the-pharmaceutical-market-from-government-control/",
+            "docid": 8971
+        },
+        {
+            "id": "37",
+            "title": "Ken Alltucker, “Struggling to Stay Alive: Rising Insulin Prices Cause Diabetics to Go to Extremes,”usatoday.com, Mar. 21, 2019",
+            "url": "https://www.usatoday.com/in-depth/news/50-states/2019/03/21/diabetes-insulin-costs-diabetics-drug-prices-increase/3196757002/",
+            "docid": 8972
+        },
+        {
+            "id": "38",
+            "title": "Kristin Fraser, “Why Americans Are Getting Their Insulin from Mexico,”vice.com, July 21, 2019",
+            "url": "https://www.vice.com/en/article/8xzyy4/why-americans-are-getting-their-insulin-from-mexico",
+            "docid": 8973
+        },
+        {
+            "id": "39",
+            "title": "Emily Kopp, “Nonprofit Working yo Block Drug Imports Has Ties to Pharma Lobby,”npr.org, Mar. 18, 2017",
+            "url": "https://www.npr.org/sections/health-shots/2017/04/18/524363014/nonprofit-working-to-block-drug-imports-has-ties-to-pharma-lobby",
+            "docid": 8974
+        },
+        {
+            "id": "40",
+            "title": "Bram Sable-Smith, “American Travelers Seek Cheaper Prescription Drugs In Mexico And Beyond,”npr.org, Feb. 11, 2019",
+            "url": "https://www.npr.org/sections/health-shots/2019/02/11/691467587/americans-seek-cheaper-meds-in-mexico",
+            "docid": 8975
+        },
+        {
+            "id": "41",
+            "title": "Public Employees Health Program, “Pharmacy Tourism Program,”pehp.org(accessed Apr. 5, 2022)",
+            "url": "https://www.pehp.org/pharmacy/tourism",
+            "docid": 8976
+        },
+        {
+            "id": "42",
+            "title": "Erin Alberty, “Prescriptions from Mexico? Utah Is Paying Public Employees to Make the Trip,”sltrib.com, Jan. 5, 2020",
+            "url": "https://www.sltrib.com/mexico-pharmacy-tourism/",
+            "docid": 8977
+        },
+        {
+            "id": "43",
+            "title": "Nisha Kurani, Dustin Cotliar, and Cynthia Cox, “How Do Prescription Drug Costs in the United States Compare to Other Countries?,”healthsystemtracker.org, Feb. 8, 2022",
+            "url": "https://www.healthsystemtracker.org/chart-collection/how-do-prescription-drug-costs-in-the-united-states-compare-to-other-countries/",
+            "docid": 8978
+        },
+        {
+            "id": "44",
+            "title": "Sydney Lupkin, \"FDA Approves Florida’s Plan to Import Cheaper Drugs from Canada,\" npr.org, Jan. 5, 2024",
+            "url": null,
+            "docid": 8979
+        },
+        {
+            "id": "45",
+            "title": "The Canadian PressStaff, \"Move to Allow Canadian Drugs to Be Imported by U.S. Creates Shortage Fears,\" ctvnews.ca, Jan. 5, 2024",
+            "url": null,
+            "docid": 8980
+        },
+        {
+            "id": "46",
+            "title": "FDA, \"FDA Authorizes Florida’s Drug Importation Program,\" fda.gov, Jan. 5, 2024",
+            "url": null,
+            "docid": 8981
+        },
+        {
+            "id": "47",
+            "title": "FDA, \"Importation Program under Section 804 of the FD&C Act,\" fda.gov, Jan. 5, 2024",
+            "url": null,
+            "docid": 8982
+        }
+    ],
+    "url": "https://prescriptiondrugs.procon.org/"
+}

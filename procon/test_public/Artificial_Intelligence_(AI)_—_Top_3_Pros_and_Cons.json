@@ -1,0 +1,570 @@
+{
+    "title": "Artificial Intelligence (AI) — Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "IBM Cloud Education, “Artificial Intelligence (AI),”ibm.com.com, June 3, 2020",
+            "url": "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence",
+            "docid": 10926
+        },
+        {
+            "id": "2",
+            "title": "Aaron Hertzmann, “This Is What the Ancient Greeks Had to Say about Robotics and AI,”weforum.org, Mar. 18, 2019",
+            "url": "https://www.weforum.org/agenda/2019/03/greek-myths-have-some-scary-ideas-about-robots-and-a-i/",
+            "docid": 10927
+        },
+        {
+            "id": "3",
+            "title": "Imperial War Museums, “How Alan Turing Cracked the Enigma Code,”iwm.org.uk(accessed Oct. 7, 2021)",
+            "url": "https://www.iwm.org.uk/history/how-alan-turing-cracked-the-enigma-code",
+            "docid": 10928
+        },
+        {
+            "id": "4",
+            "title": "Noel Sharkey, “Alan Turing: The Experiment That Shaped Artificial Intelligence,”bbc.com, June 21, 2012",
+            "url": "https://www.bbc.com/news/technology-18475646",
+            "docid": 10929
+        },
+        {
+            "id": "5",
+            "title": "Computer History Museum, “John McCarthy,”computerhistory.org(accessed Oct. 7, 2021)",
+            "url": "https://computerhistory.org/profile/john-mccarthy/",
+            "docid": 10930
+        },
+        {
+            "id": "6",
+            "title": "Andy Peart, “Homage to John McCarthy, the Father of Artificial Intelligence (AI),”artificial-solutions.com, Oct. 29, 2020",
+            "url": "https://www.artificial-solutions.com/blog/homage-to-john-mccarthy-the-father-of-artificial-intelligence",
+            "docid": 10931
+        },
+        {
+            "id": "7",
+            "title": "Andrew Myers, “Stanford's John McCarthy, Seminal Figure of Artificial Intelligence, Dies at 84,”news.stanford.edu, Oct. 25, 2011",
+            "url": "https://news.stanford.edu/news/2011/october/john-mccarthy-obit-102511.html",
+            "docid": 10932
+        },
+        {
+            "id": "8",
+            "title": "History Computer, “Logic Theorist – Complete History of the Logic Theorist Program,”history-computer.com(accessed Oct. 7, 2021)",
+            "url": "https://history-computer.com/logic-theorist/",
+            "docid": 10933
+        },
+        {
+            "id": "9",
+            "title": "Melanie Lefkowitz, “Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon,”news.cornell.edu, Sep. 25, 2019",
+            "url": "https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon",
+            "docid": 10934
+        },
+        {
+            "id": "10",
+            "title": "Rockwell Anyoha, “The History of Artificial Intelligence,”sitn.hms.harvard.edu, Aug. 28, 2017",
+            "url": "https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/",
+            "docid": 10935
+        },
+        {
+            "id": "11",
+            "title": "Victoria Stern, “AI for Surgeons: Current Realities, Future Possibilities,”generalsurgerynews.com, July 8, 2021",
+            "url": "https://www.generalsurgerynews.com/In-the-News/Article/07-21/AI-for-Surgeons-Current-Realities-Future-Possibilities/64040",
+            "docid": 10936
+        },
+        {
+            "id": "12",
+            "title": "Dan Falk, “How Artificial Intelligence Is Changing Science,”quantamagazine.org, Mar. 11, 2019",
+            "url": "https://www.quantamagazine.org/how-artificial-intelligence-is-changing-science-20190311/",
+            "docid": 10937
+        },
+        {
+            "id": "13",
+            "title": "European Parliament, “What Is Artificial Intelligence and How Is It Used?,”europarl.europa.eu, Mar. 29, 2021",
+            "url": "https://www.europarl.europa.eu/news/en/headlines/society/20200827STO85804/what-is-artificial-intelligence-and-how-is-it-used",
+            "docid": 10938
+        },
+        {
+            "id": "14",
+            "title": "Irene Zueco, “Will AI Solve Your Workplace Safety Problems?,”pro-sapien.com(accessed Oct. 13, 2021)",
+            "url": "https://www.pro-sapien.com/blog/ai-solve-safety-problems/",
+            "docid": 10939
+        },
+        {
+            "id": "15",
+            "title": "National Association of Safety Professionals, “How Artificial Intelligence/Machine Learning Can Improve Workplace Health, Safety and Environment,”naspweb.com, Jan. 10, 2020",
+            "url": "https://naspweb.com/blog/6375-2/",
+            "docid": 10940
+        },
+        {
+            "id": "16",
+            "title": "Ryan Quiring, “Smarter Than You Think: AI’s Impact on Workplace Safety,”ehstoday.com, June 8, 2021",
+            "url": "https://www.ehstoday.com/safety-technology/article/21165239/smarter-than-you-think-ais-impact-on-workplace-safety",
+            "docid": 10941
+        },
+        {
+            "id": "17",
+            "title": "Nick Chrissos, “Introducing AI-SAFE: A Collaborative Solution for Worker Safety,”gblogs.cisco.com, Jan 23, 2018",
+            "url": "https://gblogs.cisco.com/uki/introducing-ai-safe-a-collaborative-solution-for-worker-safety/",
+            "docid": 10942
+        },
+        {
+            "id": "18",
+            "title": "Tejpreet Singh Chopra, “Factory Workers Face a Major COVID-19 Risk. Here’s How AI Can Help Keep Them Safe,”weforum.org, July 29, 2020",
+            "url": "https://www.weforum.org/agenda/2020/07/factory-workers-face-a-major-covid-19-risk-here-s-how-ai-can-help-keep-them-safe/",
+            "docid": 10943
+        },
+        {
+            "id": "19",
+            "title": "Mark Bula, “How Artificial Intelligence Can Enhance Workplace Safety as Lockdowns Lift,”ehstoday.com, July 29, 2020",
+            "url": "https://www.ehstoday.com/safety-technology/article/21137820/how-artificial-intelligence-can-enhance-workplace-safety-as-lockdowns-lift",
+            "docid": 10944
+        },
+        {
+            "id": "20",
+            "title": "Carole Martinez, “Artificial Intelligence and Accessibility: Examples of a Technology that Serves People with Disabilities,”inclusivecitymaker.com, Mar. 5, 2021",
+            "url": "https://www.inclusivecitymaker.com/artificial-intelligence-accessibility-examples-technology-serves-people-disabilities/",
+            "docid": 10945
+        },
+        {
+            "id": "21",
+            "title": "Noah Rue, “How AI Is Helping People with Disabilities,” rollingwithoutlimits.com, Feb. 25, 2019",
+            "url": null,
+            "docid": 10946
+        },
+        {
+            "id": "22",
+            "title": "Jackie Snow, “How People with Disabilities Are Using AI to Improve Their Lives,”pbs.org, Jan. 30, 2019",
+            "url": "https://www.pbs.org/wgbh/nova/article/people-with-disabilities-use-ai-to-improve-their-lives/",
+            "docid": 10947
+        },
+        {
+            "id": "23",
+            "title": "Bernard Marr, “The 10 Best Examples of How AI Is Already Used in Our Everyday Life,”forbes.com, Dec. 16, 2019",
+            "url": "https://www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/",
+            "docid": 10948
+        },
+        {
+            "id": "24",
+            "title": "John Koetsier, “AI-Driven Fitness: Making Gyms Obsolete?,”forbes.com, Aug. 4, 2020",
+            "url": "https://www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/",
+            "docid": 10949
+        },
+        {
+            "id": "25",
+            "title": "Manisha Sahu, “How Is AI Revolutionizing the Fitness Industry?,”analyticssteps.com, July 9, 2021",
+            "url": "https://www.analyticssteps.com/blogs/how-ai-revolutionizing-fitness-industry",
+            "docid": 10950
+        },
+        {
+            "id": "26",
+            "title": "Amisha, et al., “Overview of Artificial Intelligence in Medicine,”Journal of Family Medicine and Primary Care,ncbi.nlm.nih.gov, July 2019",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6691444/",
+            "docid": 10951
+        },
+        {
+            "id": "27",
+            "title": "Sarah McQuate, “First Smart Speaker System That Uses White Noise to Monitor Infants’ Breathing,”washington.edu, Oct. 15, 2019",
+            "url": "https://www.washington.edu/news/2019/10/15/smart-speaker-system-white-noise-infants-breathing/",
+            "docid": 10952
+        },
+        {
+            "id": "28",
+            "title": "Science Daily, “First AI System for Contactless Monitoring of Heart Rhythm Using Smart Speakers,” sciencedaily.com, Mar. 9, 2021",
+            "url": null,
+            "docid": 10953
+        },
+        {
+            "id": "29",
+            "title": "Nicholas Fearn, “Artificial Intelligence Detects Heart Failure from One Heartbeat with 100% Accuracy,”forbes.com, Sep. 12, 2019",
+            "url": "https://www.forbes.com/sites/nicholasfearn/2019/09/12/artificial-intelligence-detects-heart-failure-from-one-heartbeat-with-100-accuracy/",
+            "docid": 10954
+        },
+        {
+            "id": "30",
+            "title": "Aditya Shah, “Fighting Fire with Machine Learning: Two Students Use TensorFlow to Predict Wildfires,”blog.google, June 4, 2018",
+            "url": "https://blog.google/technology/ai/fighting-fire-machine-learning-two-students-use-tensorflow-predict-wildfires/",
+            "docid": 10955
+        },
+        {
+            "id": "31",
+            "title": "Saad Ansari and Yasir Khokhar, “Using TensorFlow to keep farmers happy and cows healthy,”blog.google, Jan. 18, 2018",
+            "url": "https://blog.google/technology/ai/using-tensorflow-keep-farmers-happy-and-cows-healthy/",
+            "docid": 10956
+        },
+        {
+            "id": "32",
+            "title": "M Umer Mirza, “Top 10 Unusual but Brilliant Use Cases of Artificial Intelligence (AI),”thinkml.ai, Sep. 17, 2020",
+            "url": "https://thinkml.ai/top-10-rare-unique-applications-artificial-intelligence/",
+            "docid": 10957
+        },
+        {
+            "id": "33",
+            "title": "Benard Marr, “10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good,”forbes.com, June 22, 2020",
+            "url": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/",
+            "docid": 10958
+        },
+        {
+            "id": "34",
+            "title": "Calum McClelland, “The Impact of Artificial Intelligence - Widespread Job Losses,”.iotforall.com, July 1, 2020",
+            "url": "https://www.iotforall.com/impact-of-artificial-intelligence-job-losses",
+            "docid": 10959
+        },
+        {
+            "id": "35",
+            "title": "Aaron Smith and Janna Anderson, “AI, Robotics, and the Future of Jobs,”pewresearch.org, Aug. 6, 2014",
+            "url": "https://www.pewresearch.org/internet/2014/08/06/future-of-jobs/",
+            "docid": 10960
+        },
+        {
+            "id": "36",
+            "title": "ACLU, “Facial Recognition,”aclu.org(accessed Oct. 15, 2021)",
+            "url": "https://www.aclu.org/issues/privacy-technology/surveillance-technologies/face-recognition-technology",
+            "docid": 10961
+        },
+        {
+            "id": "37",
+            "title": "Pjotr Sauer, “Privacy Fears as Moscow Metro Rolls out Facial Recognition Pay System,”theguardian.com, Oct. 15, 2021",
+            "url": "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
+            "docid": 10962
+        },
+        {
+            "id": "38",
+            "title": "Gleb Stolyarov and Gabrielle Tétrault-Farber, “‘Face Control’: Russian Police Go Digital against Protesters,”reuters.com, Feb. 11, 2021",
+            "url": "https://www.reuters.com/article/us-russia-politics-navalny-tech/face-control-russian-police-go-digital-against-protesters-idUSKBN2AB1U2",
+            "docid": 10963
+        },
+        {
+            "id": "39",
+            "title": "Drew Harwell, “Doorbell-Camera Firm Ring Has Partnered with 400 Police Forces, Extending Surveillance Concerns,”washingtonpost.com, Aug. 28, 2019",
+            "url": "https://www.washingtonpost.com/technology/2019/08/28/doorbell-camera-firm-ring-has-partnered-with-police-forces-extending-surveillance-reach/",
+            "docid": 10964
+        },
+        {
+            "id": "40",
+            "title": "David A. Teich, “Artificial Intelligence and Data Privacy – Turning a Risk into a Benefit,”forbes.com, Aug. 10, 2020",
+            "url": "https://www.forbes.com/sites/davidteich/2020/08/10/artificial-intelligence-and-data-privacy--turning-a-risk-into-a-benefit/",
+            "docid": 10965
+        },
+        {
+            "id": "41",
+            "title": "Kashmir Hill, “How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did,”forbes.com, Feb. 16, 2012",
+            "url": "https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/",
+            "docid": 10966
+        },
+        {
+            "id": "42",
+            "title": "Thomas Brewster, “Fraudsters Cloned Company Director’s Voice In $35 Million Bank Heist, Police Find,”forbes.com, Oct. 14, 2021",
+            "url": "https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions/",
+            "docid": 10967
+        },
+        {
+            "id": "43",
+            "title": "ACLU, “How is Face Recognition Surveillance Technology Racist?,”aclu.org, June 16, 2020",
+            "url": "https://www.aclu.org/news/privacy-technology/how-is-face-recognition-surveillance-technology-racist/",
+            "docid": 10968
+        },
+        {
+            "id": "44",
+            "title": "Alex Najibi, “Racial Discrimination in Face Recognition Technology,”harvard.edu, Oct. 4, 2020",
+            "url": "https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/",
+            "docid": 10969
+        },
+        {
+            "id": "45",
+            "title": "Julia Angwin, Jeff Larson, Surya Mattu, and Lauren Kirchner, “Machine Bias,”propublica.org, May 23, 2016",
+            "url": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
+            "docid": 10970
+        },
+        {
+            "id": "46",
+            "title": "Stephen Buranyi, “Rise of the Racist Robots – How AI Is Learning All Our Worst Impulses,”theguardian.com, Aug. 8, 2017",
+            "url": "https://www.theguardian.com/inequality/2017/aug/08/rise-of-the-racist-robots-how-ai-is-learning-all-our-worst-impulses",
+            "docid": 10971
+        },
+        {
+            "id": "47",
+            "title": "Paul Mozur, “One Month, 500,000 Face Scans: How China Is Using A.I. to Profile a Minority,”nytimes.com, Apr. 14, 2019",
+            "url": "https://www.nytimes.com/2019/04/14/technology/china-surveillance-artificial-intelligence-racial-profiling.html",
+            "docid": 10972
+        },
+        {
+            "id": "48",
+            "title": "BBC, “Who Are the Uyghurs and Why Is China Being Accused of Genocide?,”bbc.com, June 21, 2021",
+            "url": "https://www.bbc.com/news/world-asia-china-22278037",
+            "docid": 10973
+        },
+        {
+            "id": "49",
+            "title": "Jorge Barrera and Albert Leung, “AI Has a Racism Problem, but Fixing It Is Complicated, Say Experts,”cbc.ca, May 17, 2020",
+            "url": "https://www.cbc.ca/news/science/artificial-intelligence-racism-bias-1.6027150",
+            "docid": 10974
+        },
+        {
+            "id": "50",
+            "title": "Jacob Snow, “Amazon’s Face Recognition Falsely Matched 28 Members of Congress with Mugshots,”aclu.org, July 26, 2018",
+            "url": "https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28",
+            "docid": 10975
+        },
+        {
+            "id": "51",
+            "title": "Jack Kelly, “Wells Fargo Predicts That Robots Will Steal 200,000 Banking Jobs within the Next 10 Years,”forbes.com, Oct. 8, 2019",
+            "url": "https://www.forbes.com/sites/jackkelly/2019/10/08/wells-fargo-predicts-that-robots-will-steal-200000-banking-jobs-within-the-next-10-years/",
+            "docid": 10976
+        },
+        {
+            "id": "52",
+            "title": "Loss Prevention Media, “How AI Helps Retailers Manage Self-Checkout Accuracy and Loss,”losspreventionmedia.com, Sep. 28, 2021",
+            "url": "https://losspreventionmedia.com/how-ai-helps-retailers-manage-self-checkout-accuracy-and-loss/",
+            "docid": 10977
+        },
+        {
+            "id": "53",
+            "title": "Anne Stych, “Self-Checkouts Contribute to Retail Jobs Decline,”bizjournals.com, Apr. 8, 2019",
+            "url": "https://www.bizjournals.com/bizwomen/news/latest-news/2019/04/self-checkouts-contribute-to-retail-jobs-decline.html",
+            "docid": 10978
+        },
+        {
+            "id": "54",
+            "title": "Retail Technology Innovation Hub, “Retailers Invest Heavily in Self-Checkout Tech amid Covid-19 Outbreak,” retailtechinnovationhub.com, July 6, 2021",
+            "url": null,
+            "docid": 10979
+        },
+        {
+            "id": "55",
+            "title": "Retail Consumer Experience, “COVID-19 Drives Grocery Shoppers to Self-Checkout,”retailcustomerexperience.com, Apr. 8, 2020",
+            "url": "https://www.retailcustomerexperience.com/news/covid-19-drives-grocery-shoppers-to-self-checkout/",
+            "docid": 10980
+        },
+        {
+            "id": "56",
+            "title": "Daron Acemoglu and Pascual Restrepo, “Tasks, Automation, and the Rise in US Wage Inequality,”nber.org, June 2021",
+            "url": "https://www.nber.org/papers/w28920",
+            "docid": 10981
+        },
+        {
+            "id": "57",
+            "title": "Jack Kelly, “​​Artificial Intelligence Has Caused A 50% to 70% Decrease in Wages—Creating Income Inequality and Threatening Millions of Jobs,”forbes.com, June 18, 2021",
+            "url": "https://www.forbes.com/sites/jackkelly/2021/06/18/artificial-intelligence-has-caused--50-to-70-decrease-in-wages-creating-income-inequality-and-threatening-millions-of-jobs/?sh=757412e01009",
+            "docid": 10982
+        },
+        {
+            "id": "58",
+            "title": "Keith Romer, \"How A.I. Conquered Poker,\"nytimes.com, Jan. 18, 2022",
+            "url": "https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html",
+            "docid": 10983
+        },
+        {
+            "id": "59",
+            "title": "Future of Life Institute, \"Pause Giant AI Experiments: An Open Letter,\" futureoflife.org, Mar. 29, 2023",
+            "url": null,
+            "docid": 10984
+        },
+        {
+            "id": "60",
+            "title": "Cecilia Kang and David E. Sanger, \"Biden Issues Executive Order to Create A.I. Safeguards,\" nytimes.com, Oct. 30, 2023",
+            "url": null,
+            "docid": 10985
+        },
+        {
+            "id": "61",
+            "title": "White House, \"FACT SHEET: President Biden Issues Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence,\" whitehouse.gov, Oct. 30, 2023",
+            "url": null,
+            "docid": 10986
+        },
+        {
+            "id": "62",
+            "title": "Harry Guinness, “What Is GPT? Everything You Need to Know about GPT-3 and GPT-4,”zapier.com, Oct. 9, 2023",
+            "url": null,
+            "docid": 10987
+        },
+        {
+            "id": "63",
+            "title": "Michael M. Grynbaum and Ryan Mac, “The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work,” nytimes.com, Dec. 27, 2023",
+            "url": null,
+            "docid": 10988
+        },
+        {
+            "id": "64",
+            "title": "Darian Woods and Adrian Ma, “Artists File Class-Action Lawsuit Saying AI Artwork Violates Copyright Laws,” npr.org, Feb. 3, 2023",
+            "url": null,
+            "docid": 10989
+        },
+        {
+            "id": "65",
+            "title": "Dan Milmo, “Sarah Silverman Sues OpenAI and Meta Claiming AI Training Infringed Copyright,” theguardian.com, July 10, 2023",
+            "url": null,
+            "docid": 10990
+        },
+        {
+            "id": "66",
+            "title": "Olafimihan Oshin, “Nonfiction Authors Sue OpenAI, Microsoft for Copyright Infringement,” thehill.com, Nov. 22, 2023",
+            "url": null,
+            "docid": 10991
+        },
+        {
+            "id": "67",
+            "title": "Matthew Ismael Ruiz, “Music Publishers Sue AI Company Anthropic for Copyright Infringement,” pitchfork.com, Oct, 19, 2023",
+            "url": null,
+            "docid": 10992
+        },
+        {
+            "id": "68",
+            "title": "Alexandra Alter and Elizabeth A. Harris, “Franzen, Grisham and Other Prominent Authors Sue OpenAI,” nytimes.com, Sep. 20, 2023",
+            "url": null,
+            "docid": 10993
+        },
+        {
+            "id": "69",
+            "title": "Baker & Hostetler LLP, “Case Tracker: Artificial Intelligence, Copyrights and Class Actions,” bakerlaw.com (accessed Feb. 26, 2024)",
+            "url": null,
+            "docid": 10994
+        },
+        {
+            "id": "70",
+            "title": "Encyclopaedia Britannica, “Encyclopaedia Britannica, Inc. Terms of Use,” corporate.britannica.com (accessed Feb. 26, 2024)",
+            "url": null,
+            "docid": 10995
+        },
+        {
+            "id": "71",
+            "title": "Josh Hawley, “Hawley to Google CEO over Woke Gemini AI Program: ‘Come Testify to Congress. Under Oath. In Public.,’” hawley.senate.gov, Feb. 28, 2024",
+            "url": null,
+            "docid": 10996
+        },
+        {
+            "id": "72",
+            "title": "Adi Robertson, “Google Apologizes for ‘Missing the Mark’ after Gemini Generated Racially Diverse Nazis,” theverge.com. Feb. 21, 2024",
+            "url": null,
+            "docid": 10997
+        },
+        {
+            "id": "73",
+            "title": "Nick Robins-Early, “Google Restricts AI Chatbot Gemini from Answering Questions on 2024 Elections,” theguardian.com, Mar. 12, 2024",
+            "url": null,
+            "docid": 10998
+        },
+        {
+            "id": "74",
+            "title": "Jagmeet Singh, “Google Won’t Let You Use Its Gemini AI to Answer Questions about an Upcoming Election in Your Country,” techcrunch.com, Mar. 12, 2024",
+            "url": null,
+            "docid": 10999
+        },
+        {
+            "id": "75",
+            "title": "Federal Communications Commission, “FCC Makes AI-Generated Voices in Robocalls Illegal,” fcc.gov, Feb. 8, 2024",
+            "url": null,
+            "docid": 11000
+        },
+        {
+            "id": "76",
+            "title": "Ali Swenson and Will Weissert, “AI Robocalls Impersonate President Biden in an Apparent Attempt to Suppress Votes in New Hampshire,” pbs.org, Jan. 22, 2024",
+            "url": null,
+            "docid": 11001
+        },
+        {
+            "id": "77",
+            "title": "Shannon Bond, “The FCC Says AI Voices in Robocalls Are Illegal,” npr.org, Feb. 8, 2024",
+            "url": null,
+            "docid": 11002
+        },
+        {
+            "id": "78",
+            "title": "Nicholas Carr, The Shallows: What the Internet Is Doing to Our Brains, 2020",
+            "url": null,
+            "docid": 11003
+        },
+        {
+            "id": "79",
+            "title": "Shannon Morris, “Stop Saying ChatGPT Is the End of Education—It’s Not,” weareteachers.com, Jane. 12, 2023",
+            "url": null,
+            "docid": 11004
+        },
+        {
+            "id": "80",
+            "title": "Juliet Dreamhunter, “33 Mindblowing Ways AI Makes Life Easier in 2024,” juliety.com Jan. 9, 2024",
+            "url": null,
+            "docid": 11005
+        },
+        {
+            "id": "81",
+            "title": "Carrie Spector, \"What Do AI Chatbots Really Mean for Students and Cheating?,\" acceleratelearning.stanford.edu, Oct. 31, 2023",
+            "url": null,
+            "docid": 11006
+        },
+        {
+            "id": "82",
+            "title": "Aki Peritz, “A.I. Is Making It Easier Than Ever for Students To Cheat,” slate.com, Sep. 6, 2022",
+            "url": null,
+            "docid": 11007
+        },
+        {
+            "id": "83",
+            "title": "Mark Massaro, “AI Cheating Is Hopelessly, Irreparably Corrupting Us Higher Education,” thehill.com, Aug. 23, 2023",
+            "url": null,
+            "docid": 11008
+        },
+        {
+            "id": "84",
+            "title": "Sibel Erduran, “AI Is Transforming How Science Is Done. Science Education Must Reflect This Change.,” science.org, Dec. 21. 2023",
+            "url": null,
+            "docid": 11009
+        },
+        {
+            "id": "85",
+            "title": "Kevin Dykema, “Math and Artificial Intelligence” nctm.org, Nov. 2023",
+            "url": null,
+            "docid": 11010
+        },
+        {
+            "id": "86",
+            "title": "Lauren Coffey, “Art Schools Get Creative Tackling AI,” insidehighered.com, Nov. 8, 2023",
+            "url": null,
+            "docid": 11011
+        },
+        {
+            "id": "87",
+            "title": "Sayed Fayaz Ahmad, et al., “Impact of Artificial Intelligence on Human Loss in Decision Making, Laziness and Safety in Education,” Humanities and Social Sciences Communications, ncbi.nlm.nih.gov, June 2023",
+            "url": null,
+            "docid": 11012
+        },
+        {
+            "id": "88",
+            "title": "Tony Ho Tran, “Robots and AI May Cause Humans To Become Dangerously Lazy,” thedailybeast.com, Oct. 18, 2023",
+            "url": null,
+            "docid": 11013
+        },
+        {
+            "id": "89",
+            "title": "Dietlind Helene Cymek, Anna Truckenbrodt, and Linda Onnasch, “Lean Back or Lean In? Exploring Social Loafing in Human–Robot Teams,” frontiersin.org, Oct. 18, 2023",
+            "url": null,
+            "docid": 11014
+        },
+        {
+            "id": "90",
+            "title": "Brian Massey, “Is AI The New Groupthink?,” linkedin.com, May 11, 2023",
+            "url": null,
+            "docid": 11015
+        },
+        {
+            "id": "91",
+            "title": "Associated Press, “Ring Will No Longer Allow Police to Request Users’ Doorbell Camera Footage,” npr.org, Jan. 25, 2024",
+            "url": null,
+            "docid": 11016
+        }
+    ],
+    "discussion": [
+        "1. Is artificial intelligence good for society? Explain your answer(s).",
+        "2. What applications would you like to see AI take over? What applications (such as handling our laundry or harvesting fruit and fulfilling food orders) would you like to see AI stay away from. Explain your answer(s).",
+        "3. Think about how AI impacts your daily life. Do you use facial recognition to unlock your phone or a digital assistant to get the weather, for example? Do these applications make your life easier or could you live without them? Explain your answers.",
+        ""
+    ],
+    "action": [
+        "1. Consider Kai-Fu Lee’s TED Talk argument thatAI can “save our humanity.”",
+        "2. Listen to AI-expert Toby Walsh discuss thepros and cons of AIin his recent interview at Britannica.",
+        "3. Learn “everything you need to know about artificial intelligence” with Nick Heath",
+        "4. Examine the “weird” dangers of AIwith Janelle Shane’s TED Talk.",
+        "5. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "6. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives.",
+        ""
+    ],
+    "url": "https://www.procon.org/headlines/artificial-intelligence-ai-top-3-pros-and-cons/"
+}

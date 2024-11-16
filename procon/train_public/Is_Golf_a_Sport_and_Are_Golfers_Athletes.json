@@ -1,0 +1,479 @@
+{
+    "title": "Is Golf a Sport and Are Golfers Athletes?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "St. Andrews Links, \"A Brief History of the Links,\" StAndrews.org.uk (accessed May 23, 2012)",
+            "docid": 10553
+        },
+        {
+            "id": "2",
+            "title": "Associated Press, \"Golf, Rugby Added for 2016 and 2020,\" ESPN.com, Oct. 9, 2009",
+            "docid": 10554
+        },
+        {
+            "id": "3",
+            "title": "Kurt Badenhausen, \"Sports' First Billion-Dollar Man,\"Forbes, Sep. 9, 2009",
+            "docid": 10555
+        },
+        {
+            "id": "4",
+            "title": "US Supreme Court,PGA Tour, Inc. v. Casey Martin,, Oyez.com, May 29, 2001",
+            "docid": 10556
+        },
+        {
+            "id": "5",
+            "title": "Notable Names Database, \"Associate Press Athlete of the Year (Female),\" NNDB.com, 2012",
+            "docid": 10557
+        },
+        {
+            "id": "6",
+            "title": "\"Sport,\" merriam-webster.com (accessed May 23, 2012)",
+            "docid": 10558
+        },
+        {
+            "id": "7",
+            "title": "\"Sport,\" Dictionary.com (accessed May 23, 2012)",
+            "docid": 10559
+        },
+        {
+            "id": "8",
+            "title": "S.L. Kobridger, et al., \"The Contribution of Golf to Daily Physical Activity Recommendations: How Many Steps Does It Take to Complete a Round of Golf?,\" Mayo Clinic Proceedings, Aug. 2006",
+            "docid": 10560
+        },
+        {
+            "id": "9",
+            "title": "Neil Wolkodoff, PhD, \"An Exercise in Futility?,\"Colorado Avid Golfer, Apr. 2009",
+            "docid": 10561
+        },
+        {
+            "id": "10",
+            "title": "Bill Lubinger, \"Inside the Life of a PGA Caddie,\"Cleveland Plain Dealer, Aug. 3, 2011",
+            "docid": 10562
+        },
+        {
+            "id": "11",
+            "title": "John Koshuta, \"Calories Burned During Sports,\" Livestrong.com, Jan. 19, 2010",
+            "docid": 10563
+        },
+        {
+            "id": "12",
+            "title": "Brett Zarda, \"Is Golf a Sport?,\"Popular Science, Jan. 2, 2009",
+            "docid": 10564
+        },
+        {
+            "id": "13",
+            "title": "AJ McHardy, \"Muscle Activity During the Golf Swing,\"British Journal of Sports Medicine, June 6, 2005",
+            "docid": 10565
+        },
+        {
+            "id": "14",
+            "title": "Greg D. Wells, et al., \"Physiological Correlates of Golf Performance,\"Journal of Strength & Conditioning Research, May 2009",
+            "docid": 10566
+        },
+        {
+            "id": "15",
+            "title": "National Collegiate Athletic Association, \"2011-12 NCAA Division I Manual,\" NCAAPublications.com, Aug. 1, 2011",
+            "docid": 10567
+        },
+        {
+            "id": "16",
+            "title": "International College Athletic Connection, \"College Golf Scholarships,\" Icacsports.com (accessed Apr. 6, 2012)",
+            "docid": 10568
+        },
+        {
+            "id": "17",
+            "title": "\"About Nike Golf,\" nike.com (accessed May 23, 2012)",
+            "docid": 10569
+        },
+        {
+            "id": "18",
+            "title": "Will Tidey, \"Golf's Biggest Players: Who Are the Super Agents Running the Game?,\" CNN.com, June 16, 2011",
+            "docid": 10570
+        },
+        {
+            "id": "19",
+            "title": "Excel Sports Management, \"Steinberg, Woods Join Excel,\" ExcelSM.com, July 11, 2011",
+            "docid": 10571
+        },
+        {
+            "id": "20",
+            "title": "Tom Yantz, \"Tiger Woods Bench Presses 315 Pounds in Nike Photo Shoot,\"Connecticut Courant, Sep. 22, 2010",
+            "docid": 10572
+        },
+        {
+            "id": "21",
+            "title": "Jan Cabri, et al., \"Golf-related Injuries: A Systematic Review,\"European Journal of Sport Science, Oct. 2009",
+            "docid": 10573
+        },
+        {
+            "id": "22",
+            "title": "\"Golf Injuries,\" The Hughston Clinic website (accessed May 23, 2012)",
+            "docid": 10574
+        },
+        {
+            "id": "23",
+            "title": "\"Golf Injuries,\" American Orthopaedic Society for Sports Medicine website, 2008",
+            "docid": 10575
+        },
+        {
+            "id": "24",
+            "title": "Bob Harig, \"Barron First Player to Violate Policy,\" ESPN.com, Nov. 3, 2009",
+            "docid": 10576
+        },
+        {
+            "id": "25",
+            "title": "Ray Stefani , \"The Methodology of Officially Recognized International Sports Rating Systems,\"Journal of Quantitative Analysis in Sports, Oct. 2011",
+            "docid": 10577
+        },
+        {
+            "id": "26",
+            "title": "TV Guide, tvguide.com",
+            "docid": 10578
+        },
+        {
+            "id": "27",
+            "title": "\"Game,\" merriam-webster.com (accessed May 23, 2012)",
+            "docid": 10579
+        },
+        {
+            "id": "28",
+            "title": "\"Game,\" Dictionary.com (accessed May 23, 2012)",
+            "docid": 10580
+        },
+        {
+            "id": "29",
+            "title": "B. E. Ainsworth, W. L. Haskell, S. D. Hermann, et al., \"2011 Compendium of Physical Activities: A Second Update of Codes and MET Values,\"Medicine & Science in Sports & Exercise, Aug. 2011",
+            "docid": 10581
+        },
+        {
+            "id": "30",
+            "title": "Amy Goldstein, \"The National Spelling Bee's Moment,\" ESPN.com, June 2, 2011",
+            "docid": 10582
+        },
+        {
+            "id": "31",
+            "title": "\"Ultimate Degree of Difficulty Grid,\" ESPN.com (accessed May 23, 2012)",
+            "docid": 10583
+        },
+        {
+            "id": "32",
+            "title": "Geoffroy Berthelot, et al., \"Exponential Growth Combined with Exponential Decline Explains Lifetime Performance Evolution in Individual and Human Species,\"Age, June 2011",
+            "docid": 10584
+        },
+        {
+            "id": "33",
+            "title": "Larry Schwartz, \"The Green Master,\" ESPN.com (accessed May 23, 2012)",
+            "docid": 10585
+        },
+        {
+            "id": "34",
+            "title": "Karen Crouse, \"Woods to Return Next Week in Match-Play Event,\" NewYorkTimes.com, Feb. 19, 2009",
+            "docid": 10586
+        },
+        {
+            "id": "35",
+            "title": "\"Sleeping Positions,\" livestrong.com (accessed May 23, 2012)",
+            "docid": 10587
+        },
+        {
+            "id": "36",
+            "title": "Keith T. Palmer, \"Pain in the Forearm, Wrist and Hand,\"Best Practice & Research Clinical Rheumatology, Feb. 2003",
+            "docid": 10588
+        },
+        {
+            "id": "37",
+            "title": "Mark Starr, \"Tiger Woods: A Golfer Still, but on Whose Team?,\"Global Post, Dec. 11, 2009",
+            "docid": 10589
+        },
+        {
+            "id": "38",
+            "title": "Katie Kieffer, \"Whiffed up Olympic Politics,\" KatieKieffer.com, Feb. 15, 2010",
+            "docid": 10590
+        },
+        {
+            "id": "39",
+            "title": "Joe Steranka, \"Golf: America's $76 Billion Economic Engine,\" Econclub.org, July 21, 2008",
+            "docid": 10591
+        },
+        {
+            "id": "40",
+            "title": "Gallup, \"What Is Your Favorite Sport to Watch?,\" Gallup.com (accessed May 23, 2012)",
+            "docid": 10592
+        },
+        {
+            "id": "41",
+            "title": "National Golf Foundation, \"Frequently Asked Questions,\" NGF.org (accessed May 23, 2012)",
+            "docid": 10593
+        },
+        {
+            "id": "42",
+            "title": "Malcolm Campbell, \"Battles Lost But a Game Won the Illustrious History of Scottish Golf,\" Worldgolf.com, July 16, 1999",
+            "docid": 10594
+        },
+        {
+            "id": "43",
+            "title": "Paul Kelbie, \"Chinese 'Invented Golf 1,000 Years Ago,'\"The Independent, Jan. 12, 2006",
+            "docid": 10595
+        },
+        {
+            "id": "44",
+            "title": "National Library of Scotland, \"Acts of Parliament Banning Golf,\" Digital.nls.uk, 2010",
+            "docid": 10596
+        },
+        {
+            "id": "45",
+            "title": "The Official Gateway to Scotland, \"Making the Links,\" Scotland.org (accessed May 23, 2012)",
+            "docid": 10597
+        },
+        {
+            "id": "46",
+            "title": "US Golf Association (USGA), \"Rules and Decisions,\" USGA.org (accessed May 23, 2012)",
+            "docid": 10598
+        },
+        {
+            "id": "47",
+            "title": "Joseph F. Beditz, PhD, \"The Future of Private Golf Clubs in America,\" National Golf Foundation website, 2008",
+            "docid": 10599
+        },
+        {
+            "id": "48",
+            "title": "Tim Delaney and Tim Madigan,The Sociology of Sports: An Introduction, 2009",
+            "docid": 10600
+        },
+        {
+            "id": "49",
+            "title": "William J. Morgan,Ethics in Sport, 2007",
+            "docid": 10601
+        },
+        {
+            "id": "50",
+            "title": "Lincoln Allison,The Politics of Sport, 1986",
+            "docid": 10602
+        },
+        {
+            "id": "51",
+            "title": "Tim van Vrijaldenhoven,Reaching Beyond the Gold: The Impact of Global Events on Urban Development, 2007",
+            "docid": 10603
+        },
+        {
+            "id": "52",
+            "title": "Milton Wayne, PhD, \"Golf's Shambolic History in the Olympics,\"HK Golfer, Oct. 2009",
+            "docid": 10604
+        },
+        {
+            "id": "53",
+            "title": "Bill Mallon, \"Golf and the Olympic Games,\" LA84Foundation.org, Summer 1993",
+            "docid": 10605
+        },
+        {
+            "id": "54",
+            "title": "\"Golf News,\" Eagleparbirdie.com, Apr. 17, 2008",
+            "docid": 10606
+        },
+        {
+            "id": "55",
+            "title": "EM Swift, \"Is This an Olympic Sport?,\"Sports Illustratedwebsite, June 6, 2005",
+            "docid": 10607
+        },
+        {
+            "id": "56",
+            "title": "Simon Turnbull, \"Golf and Rugby Turn Back Clock in Re-entering the Olympics,\"The Independent, Oct. 10, 2009",
+            "docid": 10608
+        },
+        {
+            "id": "57",
+            "title": "International Olympic Committee, \"Golf and Rugby to Join 2016 Olympic Programme,\" Olympic.org, Oct. 9, 2009",
+            "docid": 10609
+        },
+        {
+            "id": "58",
+            "title": "Gene Wojciechowski, \"Something Smells Rank in this System,\" ESPN.com, May 10, 2012",
+            "docid": 10610
+        },
+        {
+            "id": "59",
+            "title": "Rolex, \"Rankings,\" Rolexrankings.com, Sep. 2011",
+            "docid": 10611
+        },
+        {
+            "id": "60",
+            "title": "PGA Tour, \"2012 Tournaments,\" PGATour.com (accessed May 23, 2012)",
+            "docid": 10612
+        },
+        {
+            "id": "61",
+            "title": "Mason Levinson, \"Masters TV Ratings Fall 22% as Bubba Watson Wins in Playoff,\"Bloomberg News, Apr. 9, 2012",
+            "docid": 10613
+        },
+        {
+            "id": "62",
+            "title": "National Golf Foundation, \"Frequently Asked Questions,\" NGF.org (accessed May 23, 2012)",
+            "docid": 10614
+        },
+        {
+            "id": "63",
+            "title": "Michael Fitzpatrick, \"Golf's Decline in America: Work/Life Balance Is the True Culprit,\" Bleacherreport.com, Mar. 29, 2011",
+            "docid": 10615
+        },
+        {
+            "id": "64",
+            "title": "\"Casey Martin,\" pgatour.com (accessed May 23, 2012)",
+            "docid": 10616
+        },
+        {
+            "id": "65",
+            "title": "Bill Stieg, \"How Rory McIlroy Won the Honda Classic,\"Men's Health, Mar. 2012",
+            "docid": 10617
+        },
+        {
+            "id": "66",
+            "title": "PGA Tour, \"About PGA Tour,\" PGATour.com (accessed May 23, 2012)",
+            "docid": 10618
+        },
+        {
+            "id": "67",
+            "title": "Karen Crouse, \"Augusta National Adds First Two Female Members,New York Times, Aug. 20, 2012",
+            "docid": 10619
+        },
+        {
+            "id": "68",
+            "title": "Antonin Scalia, Dissenting Opinion inPGA Tour, Inc. v. Casey Marti,May 29, 2001",
+            "docid": 10620
+        },
+        {
+            "id": "69",
+            "title": "National Golf Foundation, \"2015 Golf Participation in the US - A Slight Dip Tempered by Strong Positive Indicators,\" ngfdashboard.clubnewsmaker.org, Mar. 2016",
+            "docid": 10621
+        },
+        {
+            "id": "70",
+            "title": "Darren Heitner, \"The State of the Golf Industry in 2016,\" forbes.com, May 8, 2016",
+            "docid": 10622
+        },
+        {
+            "id": "71",
+            "title": "Public Policy Polling \"Sports Poll,\" publicpolicypolling.com, May 14, 2015",
+            "docid": 10623
+        },
+        {
+            "id": "72",
+            "title": "Public Policy Polling \"Sports Poll!,\" publicpolicypolling.com, May 12, 2016",
+            "docid": 10624
+        },
+        {
+            "id": "73",
+            "title": "Golf. \"The Best Photos of Golfers Smoking,\" golf.com (accessed June 29, 2016)",
+            "docid": 10625
+        },
+        {
+            "id": "74",
+            "title": "Golfing Herald, “Tournoi Olympique de Golf,”golfingherald.com, Oct. 1, 2021",
+            "docid": 10626
+        },
+        {
+            "id": "75",
+            "title": "Glen Echo Country Club,Homepage(accessed Aug. 3, 2022)",
+            "docid": 10627
+        },
+        {
+            "id": "76",
+            "title": "International Golf Federation (IGF), “Olympic Games,”igfgolf.org/olympic-games(accessed Aug. 3, 2022)",
+            "docid": 10628
+        },
+        {
+            "id": "77",
+            "title": "Nevada Golf Alliance, \"Golf Economic Impact Study,\"nevadagolfalliance.com(accessed Aug. 3, 2022)",
+            "docid": 10629
+        },
+        {
+            "id": "78",
+            "title": "Allie Flinn, \"\"6 Health Benefits That Prove Golf Is Great Exercise for Your Body and Mind,\"\"wellandgood.com, Aug. 17, 2021",
+            "docid": 10630
+        },
+        {
+            "id": "79",
+            "title": "Nick Heidelberger, \"Breakdown of Calories Burned Golfing,\"golflink.com(accessed Aug. 9, 2022)",
+            "docid": 10631
+        },
+        {
+            "id": "80",
+            "title": "Stephen W. West, et al., \"Beyond Physical Load in Golf – the Tip of the Load Iceberg,\"blogs.bmj.com, Sep. 25, 2020",
+            "docid": 10632
+        },
+        {
+            "id": "81",
+            "title": "Gi Broman, Lena Johnsson, and Lennart Kaijser, \"Golf: A High Intensity Interval Activity for Elderly Men,\" Aging Clinical and Experimental Research,pubmed.ncbi.nlm.nih.gov, Oct. 2004",
+            "docid": 10633
+        },
+        {
+            "id": "82",
+            "title": "Golf Educate, \"Is Golf Luck Or Skill?,\"golfeducate.com, July 26, 2022",
+            "docid": 10634
+        },
+        {
+            "id": "83",
+            "title": "Gianni Magliocco, \"Golf 101: Is Golf a Sport?,\"golfwrx.com, July 25, 2020",
+            "docid": 10635
+        },
+        {
+            "id": "84",
+            "title": "Don Spetner, \"Spetner: I'd Rather Be Lucky Than Smart,\"prweek.com, Oct 31, 2017",
+            "docid": 10636
+        },
+        {
+            "id": "85",
+            "title": "Chris Mile, \"Competitive Golf,\"milesofgolf.com(accessed Aug. 9, 2022)",
+            "docid": 10637
+        },
+        {
+            "id": "86",
+            "title": "Fergus Bisset, \"Competitive or Social Golf: Which Is Better?,\"golfmonthly.com, May 2, 2015",
+            "docid": 10638
+        },
+        {
+            "id": "87",
+            "title": "GolfGurls.com, \"Golf Is NOT Your Usual Competitive Sport,\"golfgurls.com(accessed Aug. 9, 2022)",
+            "docid": 10639
+        },
+        {
+            "id": "88",
+            "title": "Kingdom Golf, \"What Does It Take to Win a Major Championship?,\"kingdom.golf(accessed Aug. 9, 2022)",
+            "docid": 10640
+        },
+        {
+            "id": "89",
+            "title": "Kathy Bissell, \"Tiger Woods, Phil Mickelson, and Others Explain Why It's Hard to Win a Major,\"bleacherreport.com, Aug. 10, 2013",
+            "docid": 10641
+        },
+        {
+            "id": "90",
+            "title": "Gary N. Smith, \"The Paradox of Luck and Skill,\"mindmatters.ai, Aug. 12, 2019",
+            "docid": 10642
+        },
+        {
+            "id": "91",
+            "title": "Merriam-Webster, \"Athlete,\" merriam-webster.com, Apr. 16, 2023",
+            "docid": 10643
+        },
+        {
+            "id": "92",
+            "title": "Ian McMahan, \"Do You Think of Yourself as an Athlete or an Exerciser? Here’s Why It Matters.,\" washingtonpost.com, Feb. 22, 2022",
+            "docid": 10644
+        },
+        {
+            "id": "93",
+            "title": "Francesco Campa and Giuseppe Coratella, \"Athlete or Non-athlete? This Is the Question in Body Composition,\" ncbi.nlm.nih.gov,Frontiers in Physiology, Dec. 17, 2021",
+            "docid": 10645
+        },
+        {
+            "id": "94",
+            "title": "Nike, \"Our Mission,\" about.nike.com/en (accessed Apr. 17, 2023)",
+            "docid": 10646
+        }
+    ],
+    "url": "https://golf.procon.org/"
+}

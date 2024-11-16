@@ -1,0 +1,322 @@
+{
+    "title": "Paying College Athletes – Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "The Editors of Encyclopaedia Britannica, “National Collegiate Athletic Association,” britannica.com, Sep. 14, 2020",
+            "url": null,
+            "docid": 6717
+        },
+        {
+            "id": "2",
+            "title": "NCAA, “What Is the NCAA?,” ncaa.org (accessed Mar. 1, 2021)",
+            "url": null,
+            "docid": 6718
+        },
+        {
+            "id": "3",
+            "title": "Colin Dwyer, “California Governor Signs Bill Allowing College Athletes to Profit from Endorsements,” npr.org, Sep. 30, 2019",
+            "url": null,
+            "docid": 6719
+        },
+        {
+            "id": "4",
+            "title": "Rudy Hill and Jonatha D. Wohlwend, “Florida Law Will Allow College Athletes to Profit from Name, Image, and Likeness Starting Summer 2021,” June, 25, 2020",
+            "url": null,
+            "docid": 6720
+        },
+        {
+            "id": "5",
+            "title": "Ben Pickman, “Colorado Governor Signs Bills Allowing NCAA Athletes to Profit Off Name, Likeness,” si.com, Mar. 20, 2020",
+            "url": null,
+            "docid": 6721
+        },
+        {
+            "id": "6",
+            "title": "Christian Dennie, “Governor of Nebraska Signs Name, Image, and Likeness Bill into Law,” bgsfirm.com, Aug. 28, 2020",
+            "url": null,
+            "docid": 6722
+        },
+        {
+            "id": "7",
+            "title": "Gregg E. Clifton, “UPDATE: Michigan Joins Growing Number of States Granting Name, Image, Likeness Rights to Collegiate Student-Athletes,” natlawreview.com, Jan. 1, 2021",
+            "url": null,
+            "docid": 6723
+        },
+        {
+            "id": "8",
+            "title": "Suzette Parmley, “Murphy Signs Bill Paying NJ College Athletes and Allowing Them to Hire Attorneys/Agents,” law.com, Sep. 14, 2020",
+            "url": null,
+            "docid": 6724
+        },
+        {
+            "id": "9",
+            "title": "Student Player, studentplayer.com (accessed on Mar. 1, 2021)",
+            "url": null,
+            "docid": 6725
+        },
+        {
+            "id": "10",
+            "title": "Dan Murphy and Adam Rittenberg, “NCAA Delays Vote to Change College Athlete Compensation Rules,” espn.com, Jan. 11, 2021",
+            "url": null,
+            "docid": 6726
+        },
+        {
+            "id": "11",
+            "title": "Sarah Polus, “NCAA Tables Name, Image and Likeness Vote after DOJ Warns of Potential Antitrust Violations,” thehill.com, Jan. 12, 2021",
+            "url": null,
+            "docid": 6727
+        },
+        {
+            "id": "12",
+            "title": "Adam Liptak, “Supreme Court to Rule on N.C.A.A. Limits on Paying College Athletes,” nytimes.com, Dec. 16, 2020",
+            "url": null,
+            "docid": 6728
+        },
+        {
+            "id": "13",
+            "title": "Dennis Dodd, “Breaking Down the NCAA's Forthcoming Supreme Court Battle with Its Big Brother Status and Amateurism at Stake,” cbssports.com, Feb. 3, 2021",
+            "url": null,
+            "docid": 6729
+        },
+        {
+            "id": "14",
+            "title": "NCAA, “2021 March Madness: Complete Schedule, Dates,” ncaa.org (accessed Mar. 1, 2021]",
+            "url": null,
+            "docid": 6730
+        },
+        {
+            "id": "15",
+            "title": "Jessica Gresko, “High Court Agrees to Hear NCAA Athlete Compensation Case,” nsjonline.com, Dec. 16, 2020",
+            "url": null,
+            "docid": 6731
+        },
+        {
+            "id": "16",
+            "title": "Daniel Roberts, “Poll: 60% of Americans Support College Athletes Getting Paid Endorsements,” finance.yahoo.com, Oct. 8, 2019",
+            "url": null,
+            "docid": 6732
+        },
+        {
+            "id": "17",
+            "title": "NCPA, “NCAA Refusal to Vote on NIL Pay Is ‘Slap in the Face’ to Athletes,” ncpanow.org, Jan. 11, 2021",
+            "url": null,
+            "docid": 6733
+        },
+        {
+            "id": "18",
+            "title": "Bloomberg, “The NCAA Raked in Over $1 Billion Last Year,” fortune.com, Mar. 7, 2018",
+            "url": null,
+            "docid": 6734
+        },
+        {
+            "id": "19",
+            "title": "Steve Berkowitz, “NCAA President Mark Emmert Credited with $2.7 Million in Total Pay for 2018 Calendar Year,” usatoday.com, June 2, 2020",
+            "url": null,
+            "docid": 6735
+        },
+        {
+            "id": "20",
+            "title": "USA Today, “NCAA Salaries,” usatoday.com, Nov. 17, 2020",
+            "url": null,
+            "docid": 6736
+        },
+        {
+            "id": "21",
+            "title": "Ian McMahan, “Athletes Are Paying the Physical Price of Playing College Sports,” si.com, Oct. 31, 2017",
+            "url": null,
+            "docid": 6737
+        },
+        {
+            "id": "22",
+            "title": "Azmatullah Hussaini and Jules Lipoff, “Op-Ed: COVID-19 Is Making the NCAA’s Exploitation of Student-Athletes Even More Obvious,” latimes.com, June 23, 2020",
+            "url": null,
+            "docid": 6738
+        },
+        {
+            "id": "23",
+            "title": "Meghan Walsh, “'I Trusted 'Em': When NCAA Schools Abandon Their Injured Athletes,” theatlantic.com, May 1, 2013",
+            "url": null,
+            "docid": 6739
+        },
+        {
+            "id": "24",
+            "title": "Jon Solomon, “The History Behind the Debate over Paying NCAA Athletes,” aspeninstitute.org, Apr. 23, 2018",
+            "url": null,
+            "docid": 6740
+        },
+        {
+            "id": "25",
+            "title": "Craig Garthwaite, “Who Profits from Amateurism? Rent-Sharing in Modern College Sports,” nber.org, Oct. 2020",
+            "url": null,
+            "docid": 6741
+        },
+        {
+            "id": "26",
+            "title": "Tommy Beer, “NCAA Athletes Could Make $2 Million A Year If Paid Equitably, Study Suggests,” forbes.com, Sep. 1, 2020",
+            "url": null,
+            "docid": 6742
+        },
+        {
+            "id": "27",
+            "title": "NCPA, “Study: \"The Price of Poverty in Big Time College Sport\" - 9/13/2011,” ncpanow.org, Sep. 13, 2011",
+            "url": null,
+            "docid": 6743
+        },
+        {
+            "id": "28",
+            "title": "Mary Kate McCoy, “Survey: Nearly a Quarter of Division I Athletes Face Food Insecurity,” wpr.org, May 6, 2020",
+            "url": null,
+            "docid": 6744
+        },
+        {
+            "id": "29",
+            "title": "NCAA, “Scholarships,” ncaa.org (accessed Mar. 3, 2021)",
+            "url": null,
+            "docid": 6745
+        },
+        {
+            "id": "30",
+            "title": "National Center for Education Statistics, “Fast Facts: Tuition Costs of Colleges and Universities,” nces.gov, 2019",
+            "url": null,
+            "docid": 6746
+        },
+        {
+            "id": "31",
+            "title": "NCAA, “Finances of Intercollegiate Athletics,” ncaa.org (accessed Mar. 3, 2021)",
+            "url": null,
+            "docid": 6747
+        },
+        {
+            "id": "32",
+            "title": "NCAA, “NCAA Defends Scholarships for College Athletes,” ncaaorg (accessed Mar. 3, 2021)",
+            "url": null,
+            "docid": 6748
+        },
+        {
+            "id": "33",
+            "title": "John Thelin, “Paying College Athletes,” insidehighered.com, Feb. 12, 2018",
+            "url": null,
+            "docid": 6749
+        },
+        {
+            "id": "34",
+            "title": "NCAA, “Estimated Probability of Competing in Professional Athletics,” ncaa.org, Apr. 8, 2020",
+            "url": null,
+            "docid": 6750
+        },
+        {
+            "id": "35",
+            "title": "Steve Goldstein, “Nine out of 10 New Jobs Are Going to Those with a College Degree,” marketwatch.com, June 5, 2018",
+            "url": null,
+            "docid": 6751
+        },
+        {
+            "id": "36",
+            "title": "Gallup, “A Study of NCAA Student-Athletes: Undergraduate Experiences and Post-College Outcomes,” gallup.com, 2020",
+            "url": null,
+            "docid": 6752
+        },
+        {
+            "id": "37",
+            "title": "Greta Anderson, “Study: College Athletes Have Better Academic, Life Outcomes,” insiderhighered.com, June 24, 2020",
+            "url": null,
+            "docid": 6753
+        },
+        {
+            "id": "38",
+            "title": "Griffin Connolly, “Wealth distribution is bad — except when it comes to college athletes' money, top Republican senator suggests,” theindependent.co.uk, Sep. 15, 2020",
+            "url": null,
+            "docid": 6754
+        },
+        {
+            "id": "39",
+            "title": "B. David Ridpath, “A Path Forward for Reforming College Sports,” jamesgmartin.center, Jan. 15, 2020",
+            "url": null,
+            "docid": 6755
+        },
+        {
+            "id": "40",
+            "title": "Molly Hensley-Clancy, “NCAA Vows to Improve Conditions at Women’s Basketball Tournament, as Outcry Continues,” washingtonpost.com, Mar. 19, 2021",
+            "url": null,
+            "docid": 6756
+        },
+        {
+            "id": "41",
+            "title": "Adam Liptak and Alicia Parlapiano, \"What the Public Thinks about Major Supreme Court Cases This Term,\" nytimes.com, June 1, 2021",
+            "url": null,
+            "docid": 6757
+        },
+        {
+            "id": "42",
+            "title": "Business of College Sports, \"Tracker: Name, Image and Likeness Legislation by State,\" businessofcollegesports.com, June 10, 2021",
+            "url": null,
+            "docid": 6758
+        },
+        {
+            "id": "43",
+            "title": "Adam Liptak, \"Supreme Court Backs Payments to Student-Athletes,\" nytimes.com, July 21, 2021",
+            "url": null,
+            "docid": 6759
+        },
+        {
+            "id": "44",
+            "title": "US Supreme Court,\"Syllabus National Collegiate Athletic Association v. Alston et al.,\"supremecourt.gov, July 21, 2021",
+            "url": "https://www.supremecourt.gov/opinions/20pdf/20-512_gfbh.pdf",
+            "docid": 6760
+        },
+        {
+            "id": "45",
+            "title": "Alan Blinder, \"College Players May Make Money Off Their Fame, Powerful N.C.A.A. Panel Recommends,\" nytimes.com, June 28, 2021",
+            "url": null,
+            "docid": 6761
+        },
+        {
+            "id": "46",
+            "title": "Alan Blinder, \"College Athletes May Earn Money from Their Fame, N.C.A.A. Rules,\" nytimes.com, June 30, 2021",
+            "url": null,
+            "docid": 6762
+        },
+        {
+            "id": "47",
+            "title": "Becky Sullivan, \"UNC Becomes the First School to Organize Group Endorsement Deals for Its Players,\" npr.org, July 21, 2021",
+            "url": null,
+            "docid": 6763
+        },
+        {
+            "id": "48",
+            "title": "Josh Moody, \"Lack of Clear-Cut NCAA Rules Creates Confusion about NIL,\" insidehighered.com, Jan. 4, 2022",
+            "url": null,
+            "docid": 6764
+        },
+        {
+            "id": "49",
+            "title": "John I. Jenkins and Jack Swarbrick, \"College Sports Are a Treasure. Don’t Turn Them Into the Minor Leagues.,\" nytimes.com, Mar. 23, 2023",
+            "url": null,
+            "docid": 6765
+        },
+        {
+            "id": "50",
+            "title": "Billy Witz, \"N.C.A.A. Proposes Uncapping Compensation for Athletes,\" nytimes.com, Dec. 5, 2023",
+            "url": null,
+            "docid": 6766
+        }
+    ],
+    "discussion": [
+        "1. Should college athletes be paid? Why or why not?",
+        "2. Should the college athletics system be revised in another way to compensate amateur athletes? Explain your answer.",
+        "3. How should the NCAA (or another governing body) balance college athletes’ sport, educational, and financial interests? Explain your answer(s).",
+        "4. Do you think well-established minor-league systems would be attractive to high-school graduates and college athletes less interested in (or ill-prepared for) higher education? Explain your answer(s)."
+    ],
+    "action": [
+        "1. Consider the pro position of theNational College Players Associationthat paying college athletes is a civil rights issue.",
+        "2. Explore theNCAA siteand think critically about the organization as the governing body of college athletics.",
+        "3. Analyze the argument that paying athletes would “ruin college sports” fromCody J. McDavis, former college basketball player.",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/paying-college-athletes-top-3-pros-and-cons/"
+}

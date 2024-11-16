@@ -1,0 +1,273 @@
+{
+    "title": "Uber, Lyft, and Other Ride-Hailing Apps – Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Aaron Smith, \"Shared, Collaborative and On Demand: The New Digital Economy,\" pewinternet.org, May 19, 2016",
+            "url": null,
+            "docid": 10238
+        },
+        {
+            "id": "2",
+            "title": "Caroline Rodier, \"The Effects of RideHailing Services on Travel and Associated Greenhouse Gas Emissions,\" ncst.ucdavis.edu, Apr. 2018",
+            "url": null,
+            "docid": 10239
+        },
+        {
+            "id": "3",
+            "title": "Bruce Schaller, \"The New Automobility: Lyft, Uber and the Future of American Cities,\" schallerconsult.com, July 15, 2018",
+            "url": null,
+            "docid": 10240
+        },
+        {
+            "id": "4",
+            "title": "Winnie Hu, \"Uber, Surging Outside Manhattan, Tops Taxis in New York City,\" nytimes.com, Oct. 12, 2017",
+            "url": null,
+            "docid": 10241
+        },
+        {
+            "id": "5",
+            "title": "Regina R. Clewlow and Gouri Shankar Mishra, \"Disruptive Transportation: The Adoption, Utilization, and Impacts of Ride-Hailing in the United States,\" ucdavis.edu, Oct. 2017",
+            "url": null,
+            "docid": 10242
+        },
+        {
+            "id": "6",
+            "title": "Frank Martin-Buck, \"Driving Safety: An Empirical Analysis of Ridesharing's Impact on Drunk Driving and Alcohol-Related Crime,\" frankmartinbuck.com, Nov. 17, 2016",
+            "url": null,
+            "docid": 10243
+        },
+        {
+            "id": "7",
+            "title": "Brad N. Greenwood and Sunil Wattal, \"Show Me the Way to Go Home: An Empirical Investigation of Ride-Sharing and Alcohol Related Motor Vehicle Fatalities,\" MIS Quarterly: Management Information Systems, Mar. 1, 2017",
+            "url": null,
+            "docid": 10244
+        },
+        {
+            "id": "8",
+            "title": "Johnny Jet, \"Do Uber's New Safety Features Make Ridesharing Safer?,\" forbes.com, June 15, 2018",
+            "url": null,
+            "docid": 10245
+        },
+        {
+            "id": "9",
+            "title": "David Schaper, \"Ride-Hailing Services Add to Traffic Congestion, Study Says,\" npr.org, Aug. 1, 2018",
+            "url": null,
+            "docid": 10246
+        },
+        {
+            "id": "10",
+            "title": "Steven R. Gehrke, Alison Felix, and Timothy Reardon, \"Fare Choices: A Survey of Ride-Hailing Passengers in Metro Boston,\" mapc.org, Feb. 2018",
+            "url": null,
+            "docid": 10247
+        },
+        {
+            "id": "11",
+            "title": "Patrick Sisson, \"The Rideshare Guy on Uber, Lyft, and What Their Drivers Really Want,\" curbed.com, May 22, 2018",
+            "url": null,
+            "docid": 10248
+        },
+        {
+            "id": "12",
+            "title": "Uber, \"Uber in the Economy,\" uber.com, July 28, 2018",
+            "url": null,
+            "docid": 10249
+        },
+        {
+            "id": "13",
+            "title": "Economic Development Research Group, \"Uber's Economic Impacts in the United States,\" edrgroup.com, July 26, 2018",
+            "url": null,
+            "docid": 10250
+        },
+        {
+            "id": "14",
+            "title": "Lyft, \"2018 Economic Impact Report,\" lyft.com, 2018",
+            "url": null,
+            "docid": 10251
+        },
+        {
+            "id": "15",
+            "title": "Lawrence Mishel, \"Uber and the Labor Market,\" epi.org, May 15, 2018",
+            "url": null,
+            "docid": 10252
+        },
+        {
+            "id": "16",
+            "title": "Kate Gibson, \"About Half of Uber, Lyft Drivers Make Less Than Minimum Wage: Revised Estimate,\" thedrive.com, Mar. 6, 2018",
+            "url": null,
+            "docid": 10253
+        },
+        {
+            "id": "17",
+            "title": "Erik Sherman, \"Uber and Lyft Drivers Are in a World of Trouble If This New Study Is Right,\" inc.com, June 1, 2018",
+            "url": null,
+            "docid": 10254
+        },
+        {
+            "id": "18",
+            "title": "James A. Parrott and Michael Reich, \"An Earnings Standard for New York City's App-based Drivers: Economic Analysis and Policy Assessment,\" centernyc.org, July 2018",
+            "url": null,
+            "docid": 10255
+        },
+        {
+            "id": "19",
+            "title": "Rani Molla, \"Half of U.S. Uber Drivers Make Less Than $10 an Hour after Vehicle Expenses, According to a New Study,\" recode.net, Oct. 2, 2018",
+            "url": null,
+            "docid": 10256
+        },
+        {
+            "id": "20",
+            "title": "Assistant Secretary for Planning and Evaluation, \"Poverty Guidelines,\" aspe.hhs.gov (accessed Dec. 17, 2018)",
+            "url": null,
+            "docid": 10257
+        },
+        {
+            "id": "21",
+            "title": "Steve LeVine, \"The 53% Ride-Hailing Pay Cut,\" axios.com, Sep. 24, 2018",
+            "url": null,
+            "docid": 10258
+        },
+        {
+            "id": "22",
+            "title": "Mark Edelen, \"The New Senior Transportation: Uber and Lyft Ride-Sharing,\" after55.com, Jan. 9, 2017",
+            "url": null,
+            "docid": 10259
+        },
+        {
+            "id": "23",
+            "title": "National Aging and Disability Transportation Center, \"2016 Transportation Trends: A Look at the Year's Top Mobility Challenges & Opportunities,\" nadtc.org, Feb. 2017",
+            "url": null,
+            "docid": 10260
+        },
+        {
+            "id": "24",
+            "title": "Marco della Cava, \"Lyft Deal with Allscripts Lets 180,000 Doctors Call Rides for Their Patients,\" usatoday.com, Mar. 5, 2018",
+            "url": null,
+            "docid": 10261
+        },
+        {
+            "id": "25",
+            "title": "Taryn Phaneuf, \"Ride-Hailing Service Aims to Go the Extra Mile for Seniors, People With Disabilities,\" americaninno.com, Sep. 26, 2018",
+            "url": null,
+            "docid": 10262
+        },
+        {
+            "id": "26",
+            "title": "Cassandra Dowell, \"Brookdale Turns to Uber-Like Service to Transport Residents,\" innovation.seniorhousingnews.com (accessed Dec. 17, 2018)",
+            "url": null,
+            "docid": 10263
+        },
+        {
+            "id": "27",
+            "title": "Jeanette Settembre, \"Lyft Is Offering $2.50 Rides to Grocery Stores for People Living in 'Food Deserts',\" marketwatch.com, Dec. 12, 2018",
+            "url": null,
+            "docid": 10264
+        },
+        {
+            "id": "28",
+            "title": "Lyft, \"Expanding Lyft Relief Rides to Help Those in Need,\" blog.lyft.com, May 2, 2018",
+            "url": null,
+            "docid": 10265
+        },
+        {
+            "id": "29",
+            "title": "Anne E. Brown, \"Ridehail Revolution: Ridehail Travel and Equity in Los Angeles,\" its.ucla.edu, Jan. 1, 2018",
+            "url": null,
+            "docid": 10266
+        },
+        {
+            "id": "30",
+            "title": "Bob Egelko, \"Lyft, Uber Drivers Won't Need Fingerprint Checks, California Rules,\" sfchronicle.com, Nov. 9, 2017",
+            "url": null,
+            "docid": 10267
+        },
+        {
+            "id": "31",
+            "title": "Marrian Zhou, \"Uber, Lyft Reportedly Skimp on Background Checks,\" cnet.com, Aug. 31, 2018",
+            "url": null,
+            "docid": 10268
+        },
+        {
+            "id": "32",
+            "title": "Nick Statt, \"Uber Will Pay $10 Million to Settle Lawsuit over Driver Background Checks,\" theverge.com, Apr. 7, 2016",
+            "url": null,
+            "docid": 10269
+        },
+        {
+            "id": "33",
+            "title": "Dara Kerr, \"California DAs Sue Ride-Sharing App Uber, Settle with Rival Lyft,\" cnet.com, Dec. 9, 2014",
+            "url": null,
+            "docid": 10270
+        },
+        {
+            "id": "34",
+            "title": "Ellen Huet, \"SF, LA District Attorneys Sue Uber, Settle with Lyft over 'Misleading' Business Violations,\" forbes.com, Dec. 9, 2014",
+            "url": null,
+            "docid": 10271
+        },
+        {
+            "id": "35",
+            "title": "Kate Conger, \"Uber Says 3,045 Sexual Assaults Were Reported in U.S. Rides Last Year,\" nytimes.com, Dec. 5, 2019",
+            "url": null,
+            "docid": 10272
+        },
+        {
+            "id": "36",
+            "title": "Katherine, Lauren, Sophia, K.B., Rachel, Jane Doe 6, Stephanie, Joy, Jennifer, Sasha, Annie,Elizabeth, Briana, and Addison, \"Open Letter to the Board of Directors of Uber Technologies, Inc.,\" wigdorlaw.com, Apr. 26, 2018",
+            "url": null,
+            "docid": 10273
+        },
+        {
+            "id": "37",
+            "title": "Kari Paul, \"Pamela Anderson Claims Uber Is Not Safe for Women,\" marketwatch.com, Jan. 8, 2018",
+            "url": null,
+            "docid": 10274
+        },
+        {
+            "id": "38",
+            "title": "Jingjing Jiang, \"More Americans Are Using Ride-Hailing Apps,\" pewresearch.org, Jan. 4, 2019",
+            "url": null,
+            "docid": 10275
+        },
+        {
+            "id": "39",
+            "title": "Levi Sumagaysay, \"Uber and Lyft Expect Ride-Hailing to Make a Sharp Recovery, but There Are Some Potential Roadblocks,\" marketwatch.com, Apr. 28, 2021",
+            "url": null,
+            "docid": 10276
+        },
+        {
+            "id": "40",
+            "title": "Uber, \"The History of Uber,\" uber.com (accessed Aug. 17, 2021)",
+            "url": null,
+            "docid": 10277
+        },
+        {
+            "id": "41",
+            "title": "Andrew Greiner, Matt McFarland, Ivory Sherman and Jen Tse, \"A History of Lyft, from Fuzzy Pink Mustaches to Global Ride Share Giant,\" cnn.com, Apr. 2, 2019",
+            "url": null,
+            "docid": 10278
+        },
+        {
+            "id": "42",
+            "title": "Kailla Coomes and Andre Revilla, \"The Best Ridesharing Apps for 2021,\" digitaltrends.com, Mar. 30, 2021",
+            "url": null,
+            "docid": 10279
+        }
+    ],
+    "discussion": [
+        "1. Are ride-hailing apps a benefit to society? Explain your answer(s).",
+        "2. Consider how the “gig” employee model impacts society. Explain your answer(s).",
+        "3. What are your thoughts on the ride-hailing app template being used for other services? Explain your answer(s)."
+    ],
+    "action": [
+        "1. Analyze how ride-hailing apps have bred a new type of start-up according toPaul Sawers.",
+        "2. Explore thissurvey of ride-hailing appswith CNET.",
+        "3. Consider how ride-hailing failed to reduce traffic congestions according toEliot Brown.",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/ride-hailing-apps-such-as-uber-and-lyft-top-3-pros-and-cons/"
+}

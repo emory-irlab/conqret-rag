@@ -1,0 +1,1251 @@
+{
+    "title": "Should the U.S. Government Provide Universal Health Care?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "United States Census Bureau, \"Income, Poverty, and Health Insurance Coverage in the United States: 2012,\" census.gov, Sep. 2013",
+            "url": null,
+            "docid": 5477
+        },
+        {
+            "id": "2",
+            "title": "Centers for Medicare and Medicaid Services (CMS), \"National Health Expenditures 2012 Highlights,\" cms.gov (accessed June 11, 2014)",
+            "url": null,
+            "docid": 5478
+        },
+        {
+            "id": "3",
+            "title": "Joshua Wright, \"Health Care's Unrivaled Job Gains and Where It Matters Most,\" forbes.com, Oct. 7, 2013",
+            "url": null,
+            "docid": 5479
+        },
+        {
+            "id": "4",
+            "title": "Joy Wilke, \"Majority in US Say Healthcare Not Gov't Responsibility,\" gallup.com, Nov. 18, 2013",
+            "url": null,
+            "docid": 5480
+        },
+        {
+            "id": "5",
+            "title": "Physicians for a National Health Program, \"A Brief History: Universal Health Care Efforts in the US,\" pnhp.org, 1999",
+            "url": null,
+            "docid": 5481
+        },
+        {
+            "id": "6",
+            "title": "Alan Derickson, \"'Health for Three-Thirds of the Nation': Public Health Advocacy of Universal Access to Medical Care in the United States,\"American Journal of Public Health, Feb. 2002",
+            "url": null,
+            "docid": 5482
+        },
+        {
+            "id": "7",
+            "title": "American Medical Association, \"AMA History Timeline,\" ama-assn.org (accessed Dec. 12, 2013)",
+            "url": null,
+            "docid": 5483
+        },
+        {
+            "id": "8",
+            "title": "Harry S. Truman Library and Museum, \"This Day in Truman History November 19, 1945: President Truman's Proposed Health Program,\" trumanlibrary.org (accessed Dec. 12, 2013)",
+            "url": null,
+            "docid": 5484
+        },
+        {
+            "id": "9",
+            "title": "Kaiser Health News, \"Nixon's Plan for Health Reform, in His Own Words,\" kaiserhealthnews.org, Sep. 3, 2009",
+            "url": null,
+            "docid": 5485
+        },
+        {
+            "id": "10",
+            "title": "Richard Nixon, \"Special Message to the Congress on Health Care,\" presidency.ucsb.edu, Mar. 2, 1972",
+            "url": null,
+            "docid": 5486
+        },
+        {
+            "id": "11",
+            "title": "Richard Nixon, \"Special Message to the Congress Proposing a National Health Strategy,\" presidency.ucsb.edu, Feb. 18, 1971",
+            "url": null,
+            "docid": 5487
+        },
+        {
+            "id": "12",
+            "title": "Henry J. Kaiser Family Foundation, \"National Health Insurance - A Brief History of Reform Efforts in the US,\" kff.org, Mar. 2009",
+            "url": null,
+            "docid": 5488
+        },
+        {
+            "id": "13",
+            "title": "Consumer Choice Health Security Act of 1994, govtrack.us, Nov. 20, 1993",
+            "url": null,
+            "docid": 5489
+        },
+        {
+            "id": "14",
+            "title": "Bill Clinton, \"Address on Health Care Reform,\" millercenter.org, Sep. 22, 1993",
+            "url": null,
+            "docid": 5490
+        },
+        {
+            "id": "15",
+            "title": "Association of American Physicians and Surgeons (AAPS), \"Time to Draw the Line,\" aapsonline.org, Nov. 1993",
+            "url": null,
+            "docid": 5491
+        },
+        {
+            "id": "16",
+            "title": "World Health Organization (WHO), \"The World Health Report 2013: Research for Universal Health Coverage,\" who.int, 2013",
+            "url": null,
+            "docid": 5492
+        },
+        {
+            "id": "17",
+            "title": "Organisation for Economic Co-operation and Development (OECD), \"OECD Health Data 2013: How Does the United States Compare,\" oecd.org, 2013",
+            "url": null,
+            "docid": 5493
+        },
+        {
+            "id": "18",
+            "title": "Consumer Reports, \"Sluggish Economy Forces Americans to Cut Corners to Pay for Medications,\" consumerreports.org, Sep. 2012",
+            "url": null,
+            "docid": 5494
+        },
+        {
+            "id": "19",
+            "title": "National Patient Advocate Foundation, \"Issue Brief: Medical Debt, Medical Bankruptcy and the Impact on Patients,\" npaf.org, Sep. 2012",
+            "url": null,
+            "docid": 5495
+        },
+        {
+            "id": "20",
+            "title": "Peter Ubel, \"How Good Is the Good News about Healthcare Inflation?,\" forbes.com, Oct. 2, 2013",
+            "url": null,
+            "docid": 5496
+        },
+        {
+            "id": "21",
+            "title": "Organisation for Economic Co-operation and Development, \"OECD.StatExtracts,\" stats.oecd.org, Dec. 2013",
+            "url": null,
+            "docid": 5497
+        },
+        {
+            "id": "22",
+            "title": "White House Council of Economic Advisers, \"Economic Report of the President: 2013,\" whitehouse.gov, Mar. 2013",
+            "url": null,
+            "docid": 5498
+        },
+        {
+            "id": "23",
+            "title": "Craig Phillips, \"The Waiting Room: US Health Insurance Facts & Figures,\" pbs.org, Oct. 18, 2013",
+            "url": null,
+            "docid": 5499
+        },
+        {
+            "id": "24",
+            "title": "Scott Atlas, \"What the World Doesn't Know about Health Care in America,\" foxnews.com, Nov. 16, 2012",
+            "url": null,
+            "docid": 5500
+        },
+        {
+            "id": "25",
+            "title": "David H. Howard, Lisa C. Richardson, and Kenneth E. Thorpe, \"Cancer Screening and Age in the United States and Europe,\" Health Affairs, 2009",
+            "url": null,
+            "docid": 5501
+        },
+        {
+            "id": "26",
+            "title": "Arduino Verdecchia, et al., \"Recent Cancer Survival in Europe: A 2000-02 Period Analysis of EUROCARE-4 Data,\"The Lancet Oncology, Sep. 2007",
+            "url": null,
+            "docid": 5502
+        },
+        {
+            "id": "27",
+            "title": "Bernie Sanders, \"A Single-Payer System Makes Economic Sense,\" sanders.senate.gov, Sep. 11, 2013",
+            "url": null,
+            "docid": 5503
+        },
+        {
+            "id": "28",
+            "title": "Physicians for a National Health Program (PNHP), \"About PNHP,\" pnhp.org (accessed Dec. 20, 2013)",
+            "url": null,
+            "docid": 5504
+        },
+        {
+            "id": "29",
+            "title": "US Census Bureau and US Department of Commerce, \"Income, Poverty, and Health Insurance Coverage in the United States: 2007,\" census.gov, Aug. 2008",
+            "url": null,
+            "docid": 5505
+        },
+        {
+            "id": "30",
+            "title": "David U. Himmelstein, et al., \"Medical Bankruptcy in the United States, 2007: Results of a National Study,\" American Journal of Medicine, Aug. 2009",
+            "url": null,
+            "docid": 5506
+        },
+        {
+            "id": "31",
+            "title": "Francesca Colombo and Nicole Tapay, \"Private Health Insurance in OECD Countries: The Benefits and Costs for Individuals and Health Systems,\" oecd.org, 2004",
+            "url": null,
+            "docid": 5507
+        },
+        {
+            "id": "32",
+            "title": "Michel P. Colman, et al., \"Cancer Survival in Five Continents: A Worldwide Population-Based Study (CONCORD),\"The Lancet Oncology, Aug. 2008",
+            "url": null,
+            "docid": 5508
+        },
+        {
+            "id": "323",
+            "title": "Hugh O'Connor, \"New Deal Pushes Medical Care Plan,\" nytimes.com, Oct. 27, 1938",
+            "url": null,
+            "docid": 5509
+        },
+        {
+            "id": "34",
+            "title": "Wall Street Journal, \"Transcript of the Second Presidential Debate,\" wsj.com, Oct. 7, 2008",
+            "url": null,
+            "docid": 5510
+        },
+        {
+            "id": "35",
+            "title": "Barack Obama, \"Remarks by the President at the Annual Conference of the American Medical Association,\" whitehouse.gov, June 15, 2009",
+            "url": null,
+            "docid": 5511
+        },
+        {
+            "id": "36",
+            "title": "Patient Protection and Affordable Care Act (HR 3590), gpo.gov, Mar. 23, 2010",
+            "url": null,
+            "docid": 5512
+        },
+        {
+            "id": "37",
+            "title": "Organisation for Economic Co-operation and Development (OECD), \"Health at a Glance 2013: OECD Indicators,\" oecd.org, 2013",
+            "url": null,
+            "docid": 5513
+        },
+        {
+            "id": "38",
+            "title": "Illinois State Medical Society, \"Resolutions Passed at the 70th Annual Meeting of the Illinois State Medical Society,\"Illinois Medical Journal, July-Dec. 1920",
+            "url": null,
+            "docid": 5514
+        },
+        {
+            "id": "39",
+            "title": "Jim McDermott, \"Health Care,\" mcdermott.house.gov (accessed Jan. 2, 2014)",
+            "url": null,
+            "docid": 5515
+        },
+        {
+            "id": "40",
+            "title": "Physicians for a National Health Program (PNHP), \"Single Payer Allies,\" pnhp.org (accessed Jan. 2, 2014)",
+            "url": null,
+            "docid": 5516
+        },
+        {
+            "id": "41",
+            "title": "Social Security Administration, \"Social Security History: 1930s,\" ssa.gov (accessed Jan. 3, 2014)",
+            "url": null,
+            "docid": 5517
+        },
+        {
+            "id": "42",
+            "title": "National Archives, \"The Declaration of Independence,\" archives.gov, July 4, 1776",
+            "url": null,
+            "docid": 5518
+        },
+        {
+            "id": "43",
+            "title": "Cornell University Law School Legal Information Insitute, \"US Constitution,\" law.cornell.edu (accessed Apr. 1, 2014)",
+            "url": null,
+            "docid": 5519
+        },
+        {
+            "id": "44",
+            "title": "Dennis Kucinich, \"A New Movement: Health Care as a Civil Right,\" opednews.com, Sep. 9, 2009",
+            "url": null,
+            "docid": 5520
+        },
+        {
+            "id": "45",
+            "title": "Mark Wheeler, \"A Constitutional Right to Health Care: UCLA-Led Study Shows That Many Countries Have It, But Not the US,\" newsroom.ucla.edu, July 18, 2013",
+            "url": null,
+            "docid": 5521
+        },
+        {
+            "id": "46",
+            "title": "Rachel Nardin, et al., \"The Uninsured after Implementation of the Affordable Care Act: A Demographic and Geographic Analysis,\" healthaffairs.org, June 6, 2013",
+            "url": null,
+            "docid": 5522
+        },
+        {
+            "id": "47",
+            "title": "The World Bank, \"GDP Per Capita (Current US$),\" data.worldbank.org (accessed Jan. 27, 2014)",
+            "url": null,
+            "docid": 5523
+        },
+        {
+            "id": "48",
+            "title": "Organisation for Economic Co-Operation and Development (OECD), \"OECD Health Data 2013,\" June 27, 2013",
+            "url": null,
+            "docid": 5524
+        },
+        {
+            "id": "49",
+            "title": "United Nations, \"The Universal Declaration of Human Rights,\" un.org (accessed Jan. 27, 2014)",
+            "url": null,
+            "docid": 5525
+        },
+        {
+            "id": "50",
+            "title": "Gunilla Backman, et al., \"Health Systems and the Right to Health: An Assessment of 194 Countries,\"The Lancet, Dec. 10, 2008",
+            "url": null,
+            "docid": 5526
+        },
+        {
+            "id": "51",
+            "title": "Gerald Friedman, \"Funding HR 676: The Expanded and Improved Medicaid for All Act,\" pnhp.org, July 31, 2013",
+            "url": null,
+            "docid": 5527
+        },
+        {
+            "id": "52",
+            "title": "American Medical Association, \"Getting the Most for Our Health Care Dollars: Administrative Costs of Health Care Coverage,\" ama-assn.org (accessed Jan. 27, 2014)",
+            "url": null,
+            "docid": 5528
+        },
+        {
+            "id": "53",
+            "title": "Karen E. Lasser, David Himmelstein, and Steffie Wollhandler, \"Access to Care, Health Status, and Health Disparities in the United States and Canada: Results of a Cross-National Population-Based Study,\"American Journal of Public Health, July 2006",
+            "url": null,
+            "docid": 5529
+        },
+        {
+            "id": "54",
+            "title": "Centers for Medicare & Medicaid Services, \"Emergency Medical Treatment and Active Labor Act (EMTALA),\" cms.gov (accessed Apr. 1, 2014)",
+            "url": null,
+            "docid": 5530
+        },
+        {
+            "id": "55",
+            "title": "Allan Dizioli and Roberto Pinheiro, \"Health Insurance as a Productive Factor,\" tippie.uiowa.edu, Mar. 2012",
+            "url": null,
+            "docid": 5531
+        },
+        {
+            "id": "56",
+            "title": "Katherine Peralta, \"World Bank's Kim Says Health Care 'Is a Right for Everyone,'\" bloomberg.com, Jan. 14, 2014",
+            "url": null,
+            "docid": 5532
+        },
+        {
+            "id": "57",
+            "title": "Emily Maltby and Angus Loten, \"Will Health-Care Law Beget Entrepreneurs?,\" wsj.com, May 8, 2013",
+            "url": null,
+            "docid": 5533
+        },
+        {
+            "id": "58",
+            "title": "Alison Wellington, \"Health Insurance Coverage and Entrepreneurship,\"Contemporary and Economic Policy, Oct. 2001",
+            "url": null,
+            "docid": 5534
+        },
+        {
+            "id": "59",
+            "title": "Andrew P. Wilper, et al., \"Health Insurance and Mortality in US Adults,\"American Journal of Public Health, Dec. 2009",
+            "url": null,
+            "docid": 5535
+        },
+        {
+            "id": "60",
+            "title": "J. Michael McWilliams, et al., \"Health Insurance Coverage and Mortality among the Near-Elderly,\"Health Affairs, July 2004",
+            "url": null,
+            "docid": 5536
+        },
+        {
+            "id": "61",
+            "title": "Ronald E. Bachman, \"Insure All Americans by 2010,\" healthcarevisions.net, 2006",
+            "url": null,
+            "docid": 5537
+        },
+        {
+            "id": "62",
+            "title": "Bernie Sanders, \"What the US Can Learn About Health Care from Other Countries,\" sanders.senate.gov, Mar. 11, 2014",
+            "url": null,
+            "docid": 5538
+        },
+        {
+            "id": "63",
+            "title": "Karen E. Lasser, David U. Himmelstein, and Steffie Woolhandler, \"Access to Care, Health Status, and Health Disparities in the United States and Canada: Results of a Cross-National Population-Based Survey,\"American Journal of Public Health, July 2006",
+            "url": null,
+            "docid": 5539
+        },
+        {
+            "id": "64",
+            "title": "Henry J. Kaiser Family Foundation, \"Health Security Watch,\" kff.org, June 2012",
+            "url": null,
+            "docid": 5540
+        },
+        {
+            "id": "65",
+            "title": "Andrew P. Wilper, et. al, \"A National Study of Chronic Disease Prevalence and Access to Care in Unisured US Adults,\"Annals of Internal Medicine, Aug. 2008",
+            "url": null,
+            "docid": 5541
+        },
+        {
+            "id": "66",
+            "title": "Robert Wood Johnson Foundation, \"Number of Americans Obtaining Health Insurance through an Employeer Declines Steadily Since 2000,\" rwjf.org, Apr. 11, 2013",
+            "url": null,
+            "docid": 5542
+        },
+        {
+            "id": "67",
+            "title": "Toni Johnson, \"Healthcare Costs and US Competitiveness,\" cfr.org, Mar. 26, 2012",
+            "url": null,
+            "docid": 5543
+        },
+        {
+            "id": "68",
+            "title": "Aetna, \"The Facts About Rising Health Care Costs,\" aetna.com (accessed Jan. 28, 2014)",
+            "url": null,
+            "docid": 5544
+        },
+        {
+            "id": "68",
+            "title": "Physicians for a National Health Program (PNHP), \"Summary: HR 676, the Expanded & Improved Medicare for All Act,\" pnhp.org, Feb. 12, 2013",
+            "url": null,
+            "docid": 5545
+        },
+        {
+            "id": "70",
+            "title": "Russia Today (RT), \"'Healthcare Is Not a Right' - Ron Paul,\" rt.com, July 19, 2010",
+            "url": null,
+            "docid": 5546
+        },
+        {
+            "id": "71",
+            "title": "Jene E. O'Neill and Dave M. O'Neill, \"Health Status, Health Care and Inequality: Canada vs. the US,\" nebr.org, Sep. 2007",
+            "url": null,
+            "docid": 5547
+        },
+        {
+            "id": "72",
+            "title": "Bacchus Barua and Nadeem Esmail, \"Waiting Your Turn: Wait Times for Health Care in Canada, 2013 Report,\" fraserinstitute.org, Oct. 2013",
+            "url": null,
+            "docid": 5548
+        },
+        {
+            "id": "73",
+            "title": "Merritt Hawkins, \"Physician Appointment Wait Times and Medicaid and Medicare Acceptance Rates,\" merritthawkins.com, 2014",
+            "url": null,
+            "docid": 5549
+        },
+        {
+            "id": "74",
+            "title": "Kevin C. Fleming, \"High-Priced Pain: What to Expect from a Single-Payer Health Care System,\" heritage.org, Sep. 22, 2006",
+            "url": null,
+            "docid": 5550
+        },
+        {
+            "id": "75",
+            "title": "Emily Gosden, \"UK Has Fewer Doctors Per Person than Bulgaria and Estonia,\" telegraph.co.uk, Jan. 3, 2014",
+            "url": null,
+            "docid": 5551
+        },
+        {
+            "id": "76",
+            "title": "Sarah Mann, \"Addressing the Physician Shortage under Reform,\" aamc.org, May 6, 2011",
+            "url": null,
+            "docid": 5552
+        },
+        {
+            "id": "77",
+            "title": "Paul Ryan, \"Opening Statement on the Fiscal Consequences of the Health Care Law,\" budget.house.gov, Jan. 26, 2011",
+            "url": null,
+            "docid": 5553
+        },
+        {
+            "id": "78",
+            "title": "Russell Korobkin, \"Comparitie Effectiveness Research as Choice Architecture: The Behavioral Law and Economics Solution to the Health Care Cost Crisis,\"Michigan Law Review, Feb. 2014",
+            "url": null,
+            "docid": 5554
+        },
+        {
+            "id": "79",
+            "title": "Charles Blahous, \"The Fiscal Consequences of the Affordable Care Act,\" mercatus.org, Mar. 3, 2012",
+            "url": null,
+            "docid": 5555
+        },
+        {
+            "id": "80",
+            "title": "Michael Tanner, \"Five Myths about New Health Care Law,\" Orange County Register, Jan. 19, 2011",
+            "url": null,
+            "docid": 5556
+        },
+        {
+            "id": "81",
+            "title": "Douglas Holtz-Eakin and Michael J. Ramlet, \"Health Care Reform Is Likely to Widen Federal Budget Deficits, Not Reduce Them,\"Health Affairs, June 2010",
+            "url": null,
+            "docid": 5557
+        },
+        {
+            "id": "82",
+            "title": "Congressional Budget Office, \"Estimates for the Insurance Coverage Provisions of the Affordable Care Act Updated for the Recent Supreme Court Decision,\" cbo.gov, July 2012.",
+            "url": null,
+            "docid": 5558
+        },
+        {
+            "id": "83",
+            "title": "David Kelly, \"Is There a Right to Health Care?\" atlasssociety.org (accessed Mar. 26, 2014)",
+            "url": null,
+            "docid": 5559
+        },
+        {
+            "id": "84",
+            "title": "Chris Field, \"Ronald Reagan Fought Against Obamacare 50 Years Before It Became Law,\" townhall.com, Mar. 4, 2011",
+            "url": null,
+            "docid": 5560
+        },
+        {
+            "id": "85",
+            "title": "Paul Roderick Gregory, \"Obamacare a Mess? Liberals Say Go Single Payer,\" forbes.com, Oct. 28, 2013",
+            "url": null,
+            "docid": 5561
+        },
+        {
+            "id": "86",
+            "title": "Norman Warner and Jack O'Sullivan, \"Solving the NHS Care and Cash Crisis: Routes to Health and Care Renewal,\" reform.co.uk, Mar. 2014",
+            "url": null,
+            "docid": 5562
+        },
+        {
+            "id": "87",
+            "title": "Gardiner Harris, \"British Balance Benefit vs. Cost of Latest Drugs,\" nytimes.com, Dec. 2, 2008",
+            "url": null,
+            "docid": 5563
+        },
+        {
+            "id": "88",
+            "title": "Stephen Robinson, \"Exclusive: GPs Warn of Rise in Rationing,\" gponline.com, Jan. 31, 2014",
+            "url": null,
+            "docid": 5564
+        },
+        {
+            "id": "89",
+            "title": "Sally Pipes, \"Michael Moore Is Right: Obamacare Is Awful, But Single-Payer Would Be Much Worse,\" forbes.com, Feb. 3, 2014",
+            "url": null,
+            "docid": 5565
+        },
+        {
+            "id": "90",
+            "title": "David Gratzer, MD, \"Canada's ObamaCare Precedent,\" wsj.com, June 9, 2009",
+            "url": null,
+            "docid": 5566
+        },
+        {
+            "id": "91",
+            "title": "Robert A. Book, \"Single Payer: Why Government-Run Health Care Will Harm Both Patients and Doctors,\" heritage.org, Apr. 3, 2009",
+            "url": null,
+            "docid": 5567
+        },
+        {
+            "id": "92",
+            "title": "David M. Cutler and Dan P. Ly, \"The (Paper) Work of Medicine: Understanding International Medical Costs,\"Journal of Economic Perspectives, Spring 2011",
+            "url": null,
+            "docid": 5568
+        },
+        {
+            "id": "93",
+            "title": "Russell Korobkin, \"Health-Care Costs and the \"Moral Hazard\" Problem,\" washingtonpost.com, Mar. 10, 2014",
+            "url": null,
+            "docid": 5569
+        },
+        {
+            "id": "94",
+            "title": "Sarah L. Taubman, et al., \"Medicaide Increases Emergency-Department Use: Evidence from Oregon's Health Insurance Experiment,\"Science, Jan. 2014",
+            "url": null,
+            "docid": 5570
+        },
+        {
+            "id": "95",
+            "title": "Health Council of Canada, \"Where You Live Matters: Canadian Views on Health Care Quality,\" healthcouncilcanada.ca, 2013",
+            "url": null,
+            "docid": 5571
+        },
+        {
+            "id": "96",
+            "title": "Gary Claxton, et al., \"Health Benefits in 2013: Moderate Premium Increases in Employer-Sponsored Plans,\"Health Affairs, Sep. 2013",
+            "url": null,
+            "docid": 5572
+        },
+        {
+            "id": "97",
+            "title": "Steven Rattner, \"Beyond Obamacare,\" nytimes.com, Sep. 16, 2012",
+            "url": null,
+            "docid": 5573
+        },
+        {
+            "id": "98",
+            "title": "Wall Street Journal, \"The Worst Bill Ever,\" wsj.com, Nov. 1, 2009",
+            "url": null,
+            "docid": 5574
+        },
+        {
+            "id": "99",
+            "title": "Rodrigo Moreno-Serra and Peter C Smith, \"Does Progress Towards Universal Health Coverage Improve Population Health,\"The Lancet, Sep. 7, 2012",
+            "url": null,
+            "docid": 5575
+        },
+        {
+            "id": "100",
+            "title": "Ted Kennedy, \"Ted Kennedy and Health Care Reform,\"Newsweek, July 17, 2009",
+            "url": null,
+            "docid": 5576
+        },
+        {
+            "id": "101",
+            "title": "Norman Daniels, \"Justice, Health, and Healthcare,\"The American Journal of Bioethics, Spring 2001",
+            "url": null,
+            "docid": 5577
+        },
+        {
+            "id": "102",
+            "title": "United States Government Accountability Office (GAO), \"Medicaid: States Made Multiple Program Changes, and Beneficiaries Generally Reported Access Comparable to Private Insurance,\" gao.gov, Nov. 2012",
+            "url": null,
+            "docid": 5578
+        },
+        {
+            "id": "103",
+            "title": "Business Coalition for Single-Payer Healthcare, \"Business Benefits of a Single-Payer Medicare-For-All System,\" healthcare-now.org (accessed June 4, 2014)",
+            "url": null,
+            "docid": 5579
+        },
+        {
+            "id": "104",
+            "title": "Beatrix Hoffman, \"Health Care Rationing Is Nothing New,\" scientificamerican.com, Jan. 18, 2013",
+            "url": null,
+            "docid": 5580
+        },
+        {
+            "id": "105",
+            "title": "Board on Health Care Services (HCS) and Institute of Medicine (IOM), \"Hidden Costs, Value Lost: Uninsurance in America,\" nap.edu, 2003",
+            "url": null,
+            "docid": 5581
+        },
+        {
+            "id": "106",
+            "title": "Our Documents Initiative, \"Social Security Act Amendments (1965),\" ourdocuments.gov (accessed June 13, 2014)",
+            "url": null,
+            "docid": 5582
+        },
+        {
+            "id": "107",
+            "title": "World Health Assembly Resolution 58.33, uhcforward.org, May 25, 2005",
+            "url": null,
+            "docid": 5583
+        },
+        {
+            "id": "108",
+            "title": "World Health Organization, \"World Health Organization Assesses the World's Health Systems,\" who.int, June 21, 2000",
+            "url": null,
+            "docid": 5584
+        },
+        {
+            "id": "109",
+            "title": "Commonwealth Fund, \"Mirror, Mirror on the Wall, 2014 Update: How the U.S. Health Care System Compares Internationally,\" commonweathfund.org, June 18, 2014",
+            "url": null,
+            "docid": 5585
+        },
+        {
+            "id": "110",
+            "title": "National Research Councils and Institute of Medicine of the National Academies, \"US Health in International Perspective: Shorter Lives, Poorer Health,\" nap.edu, 2013",
+            "url": null,
+            "docid": 5586
+        },
+        {
+            "id": "111",
+            "title": "Avik Roy, \"Sen. Harry Reid: Obamacare 'Absolutely' A Step Toward A Single-Payer System,\" forbes.com, Aug. 10, 2013",
+            "url": null,
+            "docid": 5587
+        },
+        {
+            "id": "112",
+            "title": "Kimberly J. Morgan, \"America's Misguided Approach to Social Welfare,\" foreignaffaris.com, Jan-Feb. 2013",
+            "url": null,
+            "docid": 5588
+        },
+        {
+            "id": "113",
+            "title": "Oxford Dictionary, \"Socialism,\" oxforddictionaries.com (accessed June 20, 2014)",
+            "url": null,
+            "docid": 5589
+        },
+        {
+            "id": "114",
+            "title": "US Census Bureau, \"Health Insurance Coverage in the United States: 2014,\" census.gov, Sep. 2015",
+            "url": null,
+            "docid": 5590
+        },
+        {
+            "id": "115",
+            "title": "Organisation for Economic Co-operation and Development (OECD), \"Health at a Glance 2015: OECD Indicators,\" oecd.org, 2015",
+            "url": null,
+            "docid": 5591
+        },
+        {
+            "id": "116",
+            "title": "Gregory Krieg, \"Inside Bernie Sanders' New 'Medicare for All' Bill,\" cnn.com, Sep. 13, 2017",
+            "url": null,
+            "docid": 5592
+        },
+        {
+            "id": "117",
+            "title": "Gallup, \"Healthcare System,\" gallup.com (accessed May 4, 2020)",
+            "url": null,
+            "docid": 5593
+        },
+        {
+            "id": "118",
+            "title": "Edward R. Berchick, Jessica C. Barnett, and Rachel D. Upton, \"Health Insurance Coverage in the United States: 2018,\" census.gov, Nov. 2019",
+            "url": null,
+            "docid": 5594
+        },
+        {
+            "id": "119",
+            "title": "Organisation for Economic Co-operation and Development (OECD), \"Health at a Glance 2017: OECD Indicators,\" oecd-library.org, Feb. 2018",
+            "url": null,
+            "docid": 5595
+        },
+        {
+            "id": "120",
+            "title": "BBC, \"Reality Check: Does UK Spend Half as Much on Health as US?,\" bbc.com, Feb. 6, 2018",
+            "url": null,
+            "docid": 5596
+        },
+        {
+            "id": "121",
+            "title": "World Health Organization, \"Life Expectancy and Healthy Life Expectancy, Data by Country,\" who.int (accessed Feb. 5, 2018)",
+            "url": null,
+            "docid": 5597
+        },
+        {
+            "id": "122",
+            "title": "GBD 2016 Healthcare Access and Quality Collaborators, \"Measuring Performance on the Healthcare Access and Quality Index for 195 Countries and Territories and Selected Subnational Locations: A Systematic Analysis from the Global Burden of Disease Study 2016,\" thelancet.com, May 23, 2018",
+            "url": null,
+            "docid": 5598
+        },
+        {
+            "id": "123",
+            "title": "Comparative Constitution Project, \"Right to Healthcare,\" constituteproject.org (accessed Feb. 5, 2019)",
+            "url": null,
+            "docid": 5599
+        },
+        {
+            "id": "124",
+            "title": "Andrew Dugan, \"Cost of Healthcare Is Americans' Top Financial Concern,\" gallup.com, June 23, 2017",
+            "url": null,
+            "docid": 5600
+        },
+        {
+            "id": "125",
+            "title": "Department of Health and Human Services, \"Individual Market Premium Changes: 2013-2017,\" aspe.hhs.gov, May 23, 2017",
+            "url": null,
+            "docid": 5601
+        },
+        {
+            "id": "126",
+            "title": "Kelly Gooch, \"64% of Americans Avoid or Delay Treatment Due to Cost of Medical Care: 5 Survey Insights,\" beckershospitalreview.com, Feb. 15th, 2018",
+            "url": null,
+            "docid": 5602
+        },
+        {
+            "id": "127",
+            "title": "Organisation for Economic Co-Operation and Development (OECD), \"1. Gross Domestic Product (GDP): GDP Per Head, US$, Current Prices, Current PPPs,\" stats.oecd.org (accessed Feb. 7, 2019)",
+            "url": null,
+            "docid": 5603
+        },
+        {
+            "id": "128",
+            "title": "Congressional Budget Office, \"Federal Subsidies for Health Insurance Coverage for People Under Age 65: 2018-2028,\" cbo.gov, May 2018",
+            "url": null,
+            "docid": 5604
+        },
+        {
+            "id": "129",
+            "title": "Organisation for Economic Co-Operation and Development (OECD), \"Health Expenditure: Current Health Expenditure on Health, Per Capita, US$, Purchasing Power Parities (Current Prices, Current PPPs,\" stats.oecd.org (accessed Feb. 7, 2019)",
+            "url": null,
+            "docid": 5605
+        },
+        {
+            "id": "130",
+            "title": "Challenger, Gray & Christmas, Inc., \"Challenger 2016 Start-Up Report: Entrepreneurship Spikes in Q4,\" challengergray.com (accessed Feb. 7, 2019)",
+            "url": null,
+            "docid": 5606
+        },
+        {
+            "id": "131",
+            "title": "National Bankruptcy Forum, \"10 Statistics About US Medical Debt that Will Shock You,\" natlbankruptcy.com, Dec. 14, 2017",
+            "url": null,
+            "docid": 5607
+        },
+        {
+            "id": "132",
+            "title": "Jessica Banthin, \"Projections of Federal Spending on Major Health Care Programs,\" cbo.gov, May 24, 2018",
+            "url": null,
+            "docid": 5608
+        },
+        {
+            "id": "133",
+            "title": "Charles Blahous, \"The Costs of a National Single-Payer Healthcare System,\" mercatus.org, July 2018",
+            "url": null,
+            "docid": 5609
+        },
+        {
+            "id": "134",
+            "title": "Committee for a Responsible Federal Budget, \"Adding Up Senator Sanders's Campaign Proposals So Far,\" crfb.org, May 19, 2016",
+            "url": null,
+            "docid": 5610
+        },
+        {
+            "id": "135",
+            "title": "Canadian Institute for Health Information, \"How Canada Compares: Results from the Commonwealth Fund's 2016 International Health Policy Survey of Adults in 11 Countries - Data Tables,\" cihi.ca, 2016",
+            "url": null,
+            "docid": 5611
+        },
+        {
+            "id": "136",
+            "title": "Bacchus Barua, et al., \"Waiting Your Turn: Wait Times for Health Care in Canada, 2018 Report,\" fraserinstitute.org, 2018",
+            "url": null,
+            "docid": 5612
+        },
+        {
+            "id": "137",
+            "title": "Merritt Hawkins, \"2017 Survey of Physician Appointment Wait Times and Medicare and Medicaid Acceptance Rates,\" merritthawkins.com, 2017",
+            "url": null,
+            "docid": 5613
+        },
+        {
+            "id": "138",
+            "title": "Emily Gudbranson, \"Reassessing the Data on Whether a Physician Shortage Exists,\" jamanetwork.com, May 16, 2017",
+            "url": null,
+            "docid": 5614
+        },
+        {
+            "id": "139",
+            "title": "Matt Sussman, \"Do Fixed Cost-Effectiveness Thresholds or CE Threshold Magnituded Matter?,\" bhei.com, Mar. 6, 2018",
+            "url": null,
+            "docid": 5615
+        },
+        {
+            "id": "140",
+            "title": "Sara Heath, \"Physician Shortage Drives Wait Times, Harms Patient Care Access,\" patientengagementhit.com, Mar. 23, 2017",
+            "url": null,
+            "docid": 5616
+        },
+        {
+            "id": "141",
+            "title": "National Cancer Institute, \"Cancer Stat Facts: Cancer of Any Site,\" seer.cancer.gov (accessed Feb. 11, 2019)",
+            "url": null,
+            "docid": 5617
+        },
+        {
+            "id": "142",
+            "title": "Canadian Cancer Society, \"Cancer Statistics at a Glance,\" cancer.ca (accessed Feb. 11, 2019)",
+            "url": null,
+            "docid": 5618
+        },
+        {
+            "id": "143",
+            "title": "Cancer Research UK, \"Cancer Survival Statistics for All Cancers Combined,\" cancerresearchuk.org (accessed Feb. 11, 2019)",
+            "url": null,
+            "docid": 5619
+        },
+        {
+            "id": "144",
+            "title": "Jaime Rosenberg, \"Cancer Screening Rates in the US Fall Short of Healthy People 2020 Targets,\" ajmc.com, July 31, 2018",
+            "url": null,
+            "docid": 5620
+        },
+        {
+            "id": "145",
+            "title": "Matthew Thaxter, \"UK Cancer Survival Rates Still Trailing European Peers,\" deloitte.co.uk, Feb. 12, 2018",
+            "url": null,
+            "docid": 5621
+        },
+        {
+            "id": "146",
+            "title": "Bowel Cancer UK, \"Uptake Rates for Bowel Cancer Screening Far Too Low - Don't Ignore the Test!,\" bowelcanceruk.org.uk, Aug. 1, 2018",
+            "url": null,
+            "docid": 5622
+        },
+        {
+            "id": "147",
+            "title": "Statistics of Canada, \"Cancer Screening, 2017,\" statcan.gc.ca, June 26, 2018",
+            "url": null,
+            "docid": 5623
+        },
+        {
+            "id": "148",
+            "title": "Australian Institute of Health and Welfare, \"Australia's Health 2018 - Cancer Screening Rates,\" aihw.gov.au, June 20, 2018",
+            "url": null,
+            "docid": 5624
+        },
+        {
+            "id": "149",
+            "title": "Organisation for Economic Co-Operation and Development (OECD), \"Deaths from Cancer: Total, Per 100 000 Persons, 2016 or Latest Available,\" oecd.org (accessed Feb. 12, 2019)",
+            "url": null,
+            "docid": 5625
+        },
+        {
+            "id": "150",
+            "title": "Les Masterson, \"CBO Reports Show Private Insurers Pay Physicians, Hospitals Far More Than Medicare,\" healthcaredrive.com, July 27, 2017",
+            "url": null,
+            "docid": 5626
+        },
+        {
+            "id": "151",
+            "title": "Megan Knowles, \"29 Statistics on Annual Physician Compensation by Specialty,\" beckershospitalreview.com, Apr. 11, 2018",
+            "url": null,
+            "docid": 5627
+        },
+        {
+            "id": "152",
+            "title": "Tim Locke and Veronique Duqueroy, \"UK Doctor's Salary Report,\" medscape.com, Oct. 3, 2018",
+            "url": null,
+            "docid": 5628
+        },
+        {
+            "id": "153",
+            "title": "Robin Levinson-King, \"Why Quebec Doctors Have Rejected a Pay Rise,\" bbc.com, Mar. 8, 2018",
+            "url": null,
+            "docid": 5629
+        },
+        {
+            "id": "154",
+            "title": "Richard M. Salsman, \"Memo to the Supreme Court: Health Care Is Not a Right,\" forbes.com, Apr. 3, 2012",
+            "url": null,
+            "docid": 5630
+        },
+        {
+            "id": "155",
+            "title": "Centers for Medicare and Medicaid Services (CMS), “NHE Fact Sheet,” cms.gov, Mar. 24, 2020",
+            "url": null,
+            "docid": 5631
+        },
+        {
+            "id": "156",
+            "title": "Kaiser Family Foundation, \"Public Opinion on Single-Payer, National Health Plans, and Expanding Access to Medicare Coverage,” kff.org, Apr. 3, 2020",
+            "url": null,
+            "docid": 5632
+        },
+        {
+            "id": "157",
+            "title": "Jocelyn Kiley, \"Most Continue to Say Ensuring Health Care Coverage is Government’s Responsibility,” pewresearch.org, Oct. 3, 2018",
+            "url": null,
+            "docid": 5633
+        },
+        {
+            "id": "158",
+            "title": "Josh Bivens and Ben Zipperer, \"12.7 Million Workers Have Likely Lost Employer-Provided Health Insurance since the Coronavirus Shock Began,” epi.org, Apr. 30, 2020",
+            "url": null,
+            "docid": 5634
+        },
+        {
+            "id": "159",
+            "title": "White House, \"President Donald J. Trump Is Supporting American Businesses, Workers, and Families Impacted by the Coronavirus,” whitehouse.gov, Mar. 18, 2020",
+            "url": null,
+            "docid": 5635
+        },
+        {
+            "id": "160",
+            "title": "Joe Biden, “The Biden Plan to Combat Coronavirus (COVID-19) and Prepare for Future Global Health Threats,” joebiden.com, Mar. 12, 2020",
+            "url": null,
+            "docid": 5636
+        },
+        {
+            "id": "161",
+            "title": "History.com, \"1965, July 30: President Johnson signs Medicare into law,\" history.com, July 30, 2019",
+            "url": null,
+            "docid": 5637
+        },
+        {
+            "id": "162",
+            "title": "Jennifer Tolbert , Patrick Drake , and Anthony Damico, \"Key Facts about the Uninsured Population,\" kff.org, Dec. 19, 2022",
+            "url": null,
+            "docid": 5638
+        },
+        {
+            "id": "163",
+            "title": "Kaiser Family Foundation, \"2021 Employer Health Benefits Survey,\" kff.org, Nov. 10, 2021",
+            "url": null,
+            "docid": 5639
+        },
+        {
+            "id": "164",
+            "title": "Centers for Medicaid and Medicare Services, NHE Fact Sheet, cms.gov, Feb. 17, 2023",
+            "url": null,
+            "docid": 5640
+        },
+        {
+            "id": "165",
+            "title": "Centers for Medicaid and Medicare Services, National Health Expenditure Data: Historical, cms.gov, Dec. 15, 2023",
+            "url": null,
+            "docid": 5641
+        },
+        {
+            "id": "166",
+            "title": "Centers for Medicaid and Medicare Services, The Nation's Health Dollar, Where it Went, Where It Came From: Calendar Year 2021, cms.gov (accessed Mar. 8, 2023)",
+            "url": null,
+            "docid": 5642
+        },
+        {
+            "id": "167",
+            "title": "Lydia Saad, Americans' Financial Worries Tick Up in Past Year, gallup.com, May 9, 2022",
+            "url": null,
+            "docid": 5643
+        },
+        {
+            "id": "168",
+            "title": "Board of Governors of the Federal Reserve System, Report on the Economic Well-Being of U.S. Households in 2021 - May 2022, federalreserve.gov, May 27, 2022",
+            "url": null,
+            "docid": 5644
+        },
+        {
+            "id": "169",
+            "title": "Noam N. Levey, 100 Million People in America Are Saddled with Medical Debt, kff.org, June, 16, 2022",
+            "url": null,
+            "docid": 5645
+        },
+        {
+            "id": "170",
+            "title": "Amy M. Levine & Associates, Medical Debt Is the Top Cause of Bankruptcy Filings, ohiowvlaw.com, Apr 12, 2022",
+            "url": null,
+            "docid": 5646
+        },
+        {
+            "id": "171",
+            "title": "Munira Z. Gunja, Evan D. Gumas, and Reginald D. Williams II, \"U.S. Health Care from a Global Perspective, 2022: Accelerating Spending, Worsening Outcomes,\" commonwealthfund.org, Jan. 31, 2023",
+            "url": null,
+            "docid": 5647
+        },
+        {
+            "id": "172",
+            "title": "Eric C. Schneider, et al., \"Mirror, Mirror 2021: Reflecting Poorly Health Care in the U.S. Compared to Other High-Income Countries,\" commonwealthfund.org, Aug. 4, 2021",
+            "url": null,
+            "docid": 5648
+        },
+        {
+            "id": "173",
+            "title": "Jacqueline Howard, US Spends Most on Health Care but Has Worst Health Outcomes among High-Income Countries, New Report Finds, cnn.com, Jan. 31, 2023",
+            "url": null,
+            "docid": 5649
+        },
+        {
+            "id": "174",
+            "title": "Congress.gov, H.R.676 - Expanded and Improved Medicare for All Act, congress.gov (accessed Mar. 8, 2023)",
+            "url": null,
+            "docid": 5650
+        },
+        {
+            "id": "175",
+            "title": "Megan Brenan, Majority in U.S. Still Say Gov't Should Ensure Healthcare, gallup.com, Jan. 23, 2023",
+            "url": null,
+            "docid": 5651
+        },
+        {
+            "id": "176",
+            "title": "Ahmed Aboulenein, U.S. Signs Up over 16 Million People for Obamacare Health Insurance, reuters.com, Jan. 25, 2023",
+            "url": null,
+            "docid": 5652
+        },
+        {
+            "id": "177",
+            "title": "Amanda Seitz, Number of Uninsured Americans Drops to an All-Time Low, Aug. 2, 2022",
+            "url": null,
+            "docid": 5653
+        },
+        {
+            "id": "178",
+            "title": "Kimberly Amadeo, \"What Is Universal Health Care?,\" thebalancemoney.com, Dec. 6, 2022",
+            "url": null,
+            "docid": 5654
+        },
+        {
+            "id": "179",
+            "title": "The Commonwealth Fund, How Does Universal Health Coverage Work?, commonwealthfund.org (accessed Mar. 8, 2023)",
+            "url": null,
+            "docid": 5655
+        },
+        {
+            "id": "180",
+            "title": "Medicare.gov, \"What's Medicare?,\"medicare.gov(accessed Mar. 14, 2023)",
+            "url": null,
+            "docid": 5656
+        },
+        {
+            "id": "181",
+            "title": "Centers for Medicare and Medicaid Services, \"Access to Health Coverage,\" cms.gov, Feb. 28, 2023",
+            "url": null,
+            "docid": 5657
+        },
+        {
+            "id": "182",
+            "title": "Medicaid. gov, \"Medicaid,\" medicaid.gov (accessed Mar. 14, 2023)",
+            "url": null,
+            "docid": 5658
+        },
+        {
+            "id": "183",
+            "title": "Healthcare.gov, \"Medicaid & CHIP,\"healthcare.gov(accessed Mar. 14, 2023)",
+            "url": null,
+            "docid": 5659
+        },
+        {
+            "id": "184",
+            "title": "Military Benefit Association, \"What Is TRICARE?,\" militarybenefit.org, May 2021",
+            "url": null,
+            "docid": 5660
+        },
+        {
+            "id": "185",
+            "title": "United States Census Bureau, \"Health Insurance Coverage in the United States: 2021,\" census.gov, Sep. 13, 2022",
+            "url": null,
+            "docid": 5661
+        },
+        {
+            "id": "186",
+            "title": "Blue Shield California, \"How Retiring Baby Boomers Will Push Health Spends to $6 Trillion,\" blueshieldca.com, Oct. 13, 2022",
+            "url": null,
+            "docid": 5662
+        },
+        {
+            "id": "187",
+            "title": "Healthcare.gov, \"Medicaid & CHIP,\" healthcare.gov (accessed Mar. 14, 2023)",
+            "url": null,
+            "docid": 5663
+        },
+        {
+            "id": "188",
+            "title": "Elizabeth Hovde, \"VA Fails Veterans, Putting Single-Payer, Government-Run System on Display,\" washingtonpolicy.org, July 21, 2022",
+            "url": null,
+            "docid": 5664
+        },
+        {
+            "id": "189",
+            "title": "Orion Donovan-Smith, \"Watchdog Reveals Flaw in Cerner Computer System Caused Nearly 150 Cases of Harm at Spokane VA Hospital,\" spokesman.com, June 19, 2022",
+            "url": null,
+            "docid": 5665
+        },
+        {
+            "id": "190",
+            "title": "Gabriel Zieff, et al., \"Universal Healthcare in the United States of America: A Healthy Debate,\"Medicina (Kaunas), ncbi.nlm.nih.gov, Oct. 30, 2020",
+            "url": null,
+            "docid": 5666
+        },
+        {
+            "id": "191",
+            "title": "BioSpace, \"New Study: Future Medical Innovation Will Be Hindered Unless Elected Officials Embrace Health Care Entrepreneurship,\" biospace.com, June 25, 2020",
+            "url": null,
+            "docid": 5667
+        },
+        {
+            "id": "192",
+            "title": "Shefali Luthra, \"Would ‘Medicare For All’ Cost More Than U.S. Budget? Biden Says So. Math Says No.,\" khn.org, Feb. 14, 2020",
+            "url": null,
+            "docid": 5668
+        },
+        {
+            "id": "193",
+            "title": "Phill Swagel, \"How CBO Analyzes Proposals for a Single-Payer Health Care System,\" cbo.gov, Dec. 10, 2020",
+            "url": null,
+            "docid": 5669
+        },
+        {
+            "id": "194",
+            "title": "Jaeger Nelson, \"Economic Effects of Five Illustrative Single-Payer Health Care Systems,\" cbo.gov, Feb. 2022",
+            "url": null,
+            "docid": 5670
+        },
+        {
+            "id": "195",
+            "title": "The Committee for a Responsible Federal Budget, \"Would Medicare for All Require a Middle-Class Tax Hike?,\" crfb.org, Mar. 14, 2023",
+            "url": null,
+            "docid": 5671
+        },
+        {
+            "id": "196",
+            "title": "Kenneth Thorpe, \"An Analysis of Senator Sanders Single Payer Plan,\" healthcare-now.org, Jan. 27, 2016",
+            "url": null,
+            "docid": 5672
+        },
+        {
+            "id": "197",
+            "title": "Josh Katz, Kevin Quealy and Margot Sanger-Katz, \"Would ‘Medicare for All’ Save Billions or Cost Billions?,\" nytimes.com, Oct. 16, 2019",
+            "url": null,
+            "docid": 5673
+        },
+        {
+            "id": "198",
+            "title": "Alison P. Galvani, et al., \"Universal Healthcare As Pandemic Preparedness: The Lives and Costs That Could Have Been Saved during the COVID-19 Pandemic,\" pnas.org, June 13, 2022",
+            "url": null,
+            "docid": 5674
+        },
+        {
+            "id": "199",
+            "title": "Paul B. Ginsburg and Steven M. Lieberman, “Government Regulated or Negotiated Drug Prices: Key Design Considerations,” brookings.edu, Aug. 30, 2021",
+            "url": null,
+            "docid": 5675
+        },
+        {
+            "id": "200",
+            "title": "Kaiser Family Foundation, “Poll: Nearly 1 in 4 Americans Taking Prescription Drugs Say It’s Difficult to Afford Their Medicines, including Larger Shares among Those with Health Issues, with Low Incomes and Nearing Medicare Age,” kff.org, Mar. 1, 2019",
+            "url": null,
+            "docid": 5676
+        },
+        {
+            "id": "201",
+            "title": "Alison P. Galvani, et al., \"Improving the Prognosis of Health Care in the USA,\" thelancet.com, Feb. 15, 2020",
+            "url": null,
+            "docid": 5677
+        },
+        {
+            "id": "202",
+            "title": "Adam Gaffney, et al., \"Pricing Universal Health Care: How Much Would the Use of Medical Care Rise?,\" healthaffairs.org, Jan. 2021",
+            "url": null,
+            "docid": 5678
+        },
+        {
+            "id": "203",
+            "title": "Chhabi L. Ranabhat, et al., \"The Influence of Universal Health Coverage on Life Expectancy at Birth (LEAB) and Healthy Life Expectancy (HALE): A Multi-Country Cross-Sectional Study,\" frontiersin.org, 2018",
+            "url": null,
+            "docid": 5679
+        },
+        {
+            "id": "204",
+            "title": "OECD, \"Universal Health Coverage and Health Outcomes,\" oecd.org, July 22, 2026",
+            "url": null,
+            "docid": 5680
+        },
+        {
+            "id": "205",
+            "title": "American Hospital Association, \"Report: The Importance of Health Coverage,\" aha.org, 2019",
+            "url": null,
+            "docid": 5681
+        },
+        {
+            "id": "206",
+            "title": "Joshua W. Axene, \"Take a Number: Would Long Wait Times in Us Healthcare Be Acceptable?,\" stateofreform.com, May 30, 2019",
+            "url": null,
+            "docid": 5682
+        },
+        {
+            "id": "207",
+            "title": "Congressional Budget Office, \"Answers to Questions for the Record Following a Hearing Conducted by the House Committee on the Budget: Key Design Components and Considerations for Establishing a Single-Payer Health Care System,\" cbo.gov, Dec. 20, 2019",
+            "url": null,
+            "docid": 5683
+        }
+    ],
+    "url": "https://healthcare.procon.org/"
+}

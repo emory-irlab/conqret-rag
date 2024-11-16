@@ -1,0 +1,384 @@
+{
+    "title": "Should the Drinking Age Be Lowered from 21 to a Younger Age?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "\"Platform Plank: Dems Want to Lower Drinking Age to 18,\" helenair.com, July 27, 2008",
+            "docid": 7028
+        },
+        {
+            "id": "2",
+            "title": "Mothers Against Drunk Driving (MADD), \"Underage Drinking and the 21 Minimum Legal Drinking Age (MLDA) Law,\" madd.org (accessed Oct. 20, 2010)",
+            "docid": 7029
+        },
+        {
+            "id": "3",
+            "title": "American Medical Association (AMA), \"Minimum Legal Drinking Age,\" ama-assn.org (accessed July 19, 2013)",
+            "docid": 7030
+        },
+        {
+            "id": "4",
+            "title": "GPO Access, \"Title 23--Highways: Chapter 1--Federal-Aid Highways,\" gpoaccess.gov (accessed June 1, 2009)",
+            "docid": 7031
+        },
+        {
+            "id": "5",
+            "title": "Amethyst Initiative, \"Statement,\" amethystinitiative.org (accessed Oct. 9, 2018)",
+            "docid": 7032
+        },
+        {
+            "id": "6",
+            "title": "Annie Chiappetta, \"Should Drinking Age Be 18?,\" abcnews.com, Apr. 14, 2005",
+            "docid": 7033
+        },
+        {
+            "id": "7",
+            "title": "Choose Responsibility, \"FAQs,\" chooseresponsibility.org (accessed Mar. 28, 2012)",
+            "docid": 7034
+        },
+        {
+            "id": "8",
+            "title": "Thomas S. Dee and William N. Evans, \"Behavioral Policies and Teen Traffic Safety,\"American Economic Review, May 2001",
+            "docid": 7035
+        },
+        {
+            "id": "9",
+            "title": "Peter Asch and David T. Levy, \"Young Driver Fatalities: The Roles of Drinking Age and Drinking Experience,\"Southern Economic Journal, Oct. 1990",
+            "docid": 7036
+        },
+        {
+            "id": "10",
+            "title": "\"Alcohol Impaired Driving,\" National Highway Traffic Safety Administration, nhtsa.gov, 2009",
+            "docid": 7037
+        },
+        {
+            "id": "11",
+            "title": "Barry M. Sweedler, \"The Worldwide Decline in Drinking and Driving: Has It Continued?,\" Presentation for the 15th International Conference on Alcohol, Drugs and Traffic Safety in Stockholm (Sweden), ntsb.gov, May 2000",
+            "docid": 7038
+        },
+        {
+            "id": "12",
+            "title": "Jeffrey A. Miron and Elina Tetelbaum, \"The Dangers of the Drinking Age,\"Forbes, Apr. 15, 2009",
+            "docid": 7039
+        },
+        {
+            "id": "13",
+            "title": "\"2009 Drunk Driving Statistics,\" alcoholalert.com, 2011",
+            "docid": 7040
+        },
+        {
+            "id": "14",
+            "title": "Charlie Covey, \"Drinking Age Requires Necessary and Proper Action,\" youthfacts.org, Nov. 11, 2007",
+            "docid": 7041
+        },
+        {
+            "id": "15",
+            "title": "Will Wilkinson, \"Bottoms Up!,\"Forbes, Sep. 29, 2008",
+            "docid": 7042
+        },
+        {
+            "id": "16",
+            "title": "Joseph Califano Jr., \"The Commercial Value of Underage and Pathological Drinking to the Alcohol Industry,\" National Center on Addiction and Substance Abuse at Columbia University website, May 2006",
+            "docid": 7043
+        },
+        {
+            "id": "17",
+            "title": "Mark Kleiman, \"Of Amethysts and Fake ID's,\" samefacts.org, Aug. 20, 2008",
+            "docid": 7044
+        },
+        {
+            "id": "18",
+            "title": "M. Wolfson, A. Wagenaar, and G. Hornseth, \"Law Officers' Views on Enforcement of the Minimum Drinking Age: A Four-State Study,\" hcbi.nlm.nih.gov, July 1995",
+            "docid": 7045
+        },
+        {
+            "id": "19",
+            "title": "Alexander C. Wagenaar and Traci L. Toomey, \"Effects of Minimum Drinking Age Laws: Review and Analyses of the Literature from 1960 to 2000,\"Journal of Studies on Alcohol, 2002",
+            "docid": 7046
+        },
+        {
+            "id": "20",
+            "title": "US Federal Trade Commission (FTC), \"Dangers of Teen Drinking,\" dontserveteens.gov (accessed Oct. 20, 2010)",
+            "docid": 7047
+        },
+        {
+            "id": "21",
+            "title": "Birckmayer J and Hemenway D, \"Minimum-age Drinking Laws and Youth Suicide, 1970 –1990,\"American Journal of Public Health, 1999",
+            "docid": 7048
+        },
+        {
+            "id": "22",
+            "title": "American Academy of Pediatrics, \"Policy Statement--Alcohol Use by Youth and Adolescents: A Pediatric Concern,\"Pediatrics, Apr. 12, 2010",
+            "docid": 7049
+        },
+        {
+            "id": "23",
+            "title": "US Department of Human Health and Services (DHHS), \"The Surgeon General's Call to Action to Prevent and Reduce Underage Drinking,\" hhs.gov, 2007",
+            "docid": 7050
+        },
+        {
+            "id": "24",
+            "title": "James C. Fell, \"An Examination of the Criticisms of the Minimum Legal Drinking Age 21 Laws in the United States from a Traffic-safety Perspective,\" udetc.org, Oct. 2008",
+            "docid": 7051
+        },
+        {
+            "id": "25",
+            "title": "Kathryn Stewart, \"How Alcohol Outlets Affect Neighborhood Violence,\" Pacific Institute for Research and Evaluation website (accessed Mar. 28, 2012)",
+            "docid": 7052
+        },
+        {
+            "id": "26",
+            "title": "National Highway Traffic Safety Administration, \"Traffic Safety Facts,\" nrd.nhtsa.dot.gov, 2008",
+            "docid": 7053
+        },
+        {
+            "id": "27",
+            "title": "\"Results of the 2007 National Roadside Survey of Alcohol and Drug Use by Drivers,\" National Highway Traffic Safety Administration website, July 2009",
+            "docid": 7054
+        },
+        {
+            "id": "28",
+            "title": "Bettina Friese and Joel W. Grube, \"Youth Drinking Rates and Problems: A Comparison of European Countries and the United States,\" Pacific Institute for Research and Evaluation website, 2010",
+            "docid": 7055
+        },
+        {
+            "id": "29",
+            "title": "Honorable Ralph Guy Jr., \"Ref. Civil No. 8-73015 and Civil No. 8-73159,\" US District Court, Eastern District of Michigan, Southern Division, Detroit, Michigan, Dec. 22, 1978",
+            "docid": 7056
+        },
+        {
+            "id": "30",
+            "title": "Carl F. Pieper, et al., \"Effect of Legal Drinking Age on Fatal Injuries of Adolescents and Young Adults,\"American Journal of Public Health, 1992",
+            "docid": 7057
+        },
+        {
+            "id": "31",
+            "title": "Alexander C. Wagenaar, et al., \"Where and How Adolescents Obtain Alcoholic Beverages,\"Public Health Reports, 1993",
+            "docid": 7058
+        },
+        {
+            "id": "32",
+            "title": "Alexander C. Wagenaar, et al., \"Public Opinion on Alcohol Policies in the United States: Results from a National Survey,\"Journal of Public Health Policy, 2000",
+            "docid": 7059
+        },
+        {
+            "id": "33",
+            "title": "Joseph Carroll, \"Most Americans Oppose Lowering Legal Drinking Age to 18 Nationwide,\" gallup.com, July 27, 2007",
+            "docid": 7060
+        },
+        {
+            "id": "34",
+            "title": "Rhonda Jones-Webb, \"Why and in What Context Adolescents Obtain Alcohol from Adults: A Pilot Study,\"Substance Use and Misuse, 1997",
+            "docid": 7061
+        },
+        {
+            "id": "35",
+            "title": "\"Youth Access to Alcohol,\" Alcohol Epidemiology Program at the University of Minnesota (accessed Mar. 22, 2012)",
+            "docid": 7062
+        },
+        {
+            "id": "36",
+            "title": "\"Results from the 2007 National Survey on Drug Use and Health: National Findings,\" Department of Health and Human Services website, Sep. 2008",
+            "docid": 7063
+        },
+        {
+            "id": "37",
+            "title": "James C. Fell, \"Drinking Age 21: Facts, Myths and Fictions,\" American Association for Automotive Medicine website, 1985",
+            "docid": 7064
+        },
+        {
+            "id": "38",
+            "title": "Denise Kandel, et al., \"Stages of Progression in Drug Involvement from Adolescence to Adulthood: Further Evidence for the Gateway Theory,\"Journal of Studies on Alcohol and Drugs, 1992",
+            "docid": 7065
+        },
+        {
+            "id": "39",
+            "title": "Peter O'Malley and Alexander C. Wagenaar, \"Effects of Minimum Drinking Age Laws on Alcohol Use, Related Behaviors, and Traffic Crash Involvement Among American Youth: 1976-1987,\"Journal of Studies on Alcohol and Drugs, 1991",
+            "docid": 7066
+        },
+        {
+            "id": "40",
+            "title": "J.H. Hedlund, R.G. Ulmer, and D.F. Preusser, \"Determine Why There Are Fewer Young Alcohol Impaired Drivers,\" nhtsa.dot.gov, Sep. 2001",
+            "docid": 7067
+        },
+        {
+            "id": "41",
+            "title": "\"Age of Majority,\" youthrights.net (accessed Oct. 20, 2010)",
+            "docid": 7068
+        },
+        {
+            "id": "42",
+            "title": "Patrick O'Malley and Alexander C. Wagenaar, \"Minimum Drinking Age Laws: Effects on American Youth,\" Institute for Social Research website, monitoringthefuture.org, 1990",
+            "docid": 7069
+        },
+        {
+            "id": "43",
+            "title": "Alexander Wagenaar and Traci Toomey, \"Illegal Alcohol Sales to Obviously Intoxicated Patrons at Licensed Establishments,\"Alcohol Clinical Experimental Research, 2004",
+            "docid": 7070
+        },
+        {
+            "id": "44",
+            "title": "David Eby, \"The Convicted Drunk Driver in Michigan: A Profile of Offenders,\"UMTRI Research Review, 1995",
+            "docid": 7071
+        },
+        {
+            "id": "45",
+            "title": "Lise Anglin, et. al., \"A Study of Impaired Drivers Stopped by Police in Sudbury, Ontario,\" Toronto: Addiction Research Foundation website, 1997",
+            "docid": 7072
+        },
+        {
+            "id": "46",
+            "title": "Mary A. O'Donnell, \"Research on Drinking Locations of Alcohol-impaired Drivers: Implications for Prevention Policies,\"Journal of Public Health Policy, 1985",
+            "docid": 7073
+        },
+        {
+            "id": "47",
+            "title": "US Supreme Court, \"Craig v. Boren,\" justia.com, Dec. 20, 1976",
+            "docid": 7074
+        },
+        {
+            "id": "48",
+            "title": "World Health Organization, \"Global Status Report on Road Safety 2015,\" who.int, 2015",
+            "docid": 7075
+        },
+        {
+            "id": "49",
+            "title": "Substance Abuse and Mental Health Services Administration (SAMHSA), \"Results from the 2016 National Survey on Drug Use and Health: Detailed Tables,\" samhsa.gov, 2016",
+            "docid": 7076
+        },
+        {
+            "id": "50",
+            "title": "Substance Abuse and Mental Health Services Administration (SAMHSA), \"Drunk Driving,” samhsa.gov (accessed May 11, 2018)",
+            "docid": 7077
+        },
+        {
+            "id": "51",
+            "title": "Centers for Disease Control and Prevention, \"Fact Sheets – Age 21 Minimum Legal Drinking Age,\" cdc.gov, May 10, 2018",
+            "docid": 7078
+        },
+        {
+            "id": "52",
+            "title": "European Monitoring Centre for Drugs and Drug Addiction, \"European School Survey Project on Alcohol and Other Drugs (ESPAD): Alcohol,\" espad.org, 2015",
+            "docid": 7079
+        },
+        {
+            "id": "53",
+            "title": "European Monitoring Centre for Drugs and Drug Addiction, \"European School Survey Project on Alcohol and Other Drugs (ESPAD): Patterns of Current Use,\" espad.org, 2015",
+            "docid": 7080
+        },
+        {
+            "id": "54",
+            "title": "Center for Alcohol Policy, \"National Survey: Public’s Concern over Alcohol Misuse Remains High,\" centerforalocholpolicy.org, 2017",
+            "docid": 7081
+        },
+        {
+            "id": "55",
+            "title": "World Health Organization, \"Alcohol: Key Facts,\" who.int, Sep. 21, 2018",
+            "docid": 7082
+        },
+        {
+            "id": "56",
+            "title": "Cornell University Legal Information Institute, “Age of Majority,”law.cornell.edu, Nov. 2021",
+            "docid": 7083
+        },
+        {
+            "id": "57",
+            "title": "WHO, “Alcohol,” who.int, May 9, 2022",
+            "docid": 7084
+        },
+        {
+            "id": "58",
+            "title": "Cornell Law School Legal Information Institute, \"Legal Age,\" law.cornell.edu, June 2020",
+            "docid": 7085
+        },
+        {
+            "id": "59",
+            "title": "US Courts, \"Juror Qualifications,\"uscourts.gov(accessed Sep. 8, 2022)",
+            "docid": 7086
+        },
+        {
+            "id": "60",
+            "title": "Jackie Burrell, \"Information Parents Need to Know When a Child Turns 18,\"verywellfamily.com, May 4, 2020",
+            "docid": 7087
+        },
+        {
+            "id": "61",
+            "title": "Cornell Law School Legal Information Institute, \"Marriage Laws,\" law.cornell.edu (accessed Sep. 8, 2022)",
+            "docid": 7088
+        },
+        {
+            "id": "62",
+            "title": "USA.gov, \"Join the Military,\"usa.gov, June 14, 2022",
+            "docid": 7089
+        },
+        {
+            "id": "63",
+            "title": "Justin Pritchard, \"When Is the Best Age to Buy a Home?,\"thebalance.com, Mar. 6, 2022",
+            "docid": 7090
+        },
+        {
+            "id": "64",
+            "title": "Bethany Fowler, “State Rep. Todd Rutherford Wants to Lower SC Drinking Age to 18,”wnct.com, Nov. 10, 2021",
+            "docid": 7091
+        },
+        {
+            "id": "65",
+            "title": "Responsibility.org, \"The Fight against Underage Drinking | Stats on Teen Alcohol Use,\"responsibility.org(accessed Sep. 8, 2022)",
+            "docid": 7092
+        },
+        {
+            "id": "66",
+            "title": "The Recovery Village, \"Teen Drinking Facts and Statistics,\"therecoveryvillage.com, Apr. 30, 2022",
+            "docid": 7093
+        },
+        {
+            "id": "67",
+            "title": "Alcohol Problems and Solutions, \"Drinking Learners Permit Would Reduce Alcohol Abuse,\"alcoholproblemsandsolutions.org(accessed Sep. 8, 2022)",
+            "docid": 7094
+        },
+        {
+            "id": "68",
+            "title": "Alexander Ahammer, et al., \"Minimum Legal Drinking Age and the Social Gradient in Binge Drinking,\"cepr.org, Mar. 27, 2021",
+            "docid": 7095
+        },
+        {
+            "id": "69",
+            "title": "Sheila Kaplan, \"Congress Approves Raising Age to 21 for E-Cigarette and Tobacco Sales,\"nytimes.com, Dec. 19, 2019",
+            "docid": 7096
+        },
+        {
+            "id": "70",
+            "title": "FDA, \"Newly Signed Legislation Raises Federal Minimum Age of Sale of Tobacco Products to 21,\"fda.gov, Jan. 15, 2020",
+            "docid": 7097
+        },
+        {
+            "id": "71",
+            "title": "Dara Lee Luca, Emily Owens, and Gunjan Sharma, \"The Effectiveness and Effects of Alcohol Regulation: Evidence from India,\"IZA Journal of Development and Migration</em>, 2019",
+            "docid": 7098
+        },
+        {
+            "id": "72",
+            "title": "Little League University, \"Determining League Age for Tee Ball,\"littleleague.org(accessed Sep. 8, 2022)",
+            "docid": 7099
+        },
+        {
+            "id": "73",
+            "title": "Michael Kaskey-Blomain, \"Adam Silver in Favor of Lowering NBA Age Limit from 19 to 18 Years Old: ‘It’s the Right Thing to Do’,\"cbssports.com, July 13, 2022",
+            "docid": 7100
+        },
+        {
+            "id": "74",
+            "title": "Social Security Administration, \"Starting Your Retirement Benefits Early,\"ssa.gov(accessed Sep. 8, 2022)",
+            "docid": 7101
+        },
+        {
+            "id": "75",
+            "title": "Denise Witmer, \"Driving Age by State,\"verywellfamily.com, Aug. 14, 2021",
+            "docid": 7102
+        }
+    ],
+    "url": "https://drinkingage.procon.org"
+}

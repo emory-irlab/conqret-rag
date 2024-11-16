@@ -1,0 +1,939 @@
+{
+    "title": "Should People Become Vegetarian?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "American Dietetic Association, “Position of the American Dietetic Association: Vegetarian Diets,” Journal of the American Dietetic Association, May 27, 2009",
+            "url": null,
+            "docid": 8983
+        },
+        {
+            "id": "2",
+            "title": "Vernon R. Young and Peter L. Pellett, “Plant Proteins in Relation to Human Protein and Amino Acid Nutrition,” American Journal of Clinical Nutrition, 1994",
+            "url": null,
+            "docid": 8984
+        },
+        {
+            "id": "3",
+            "title": "Office of Dietary Supplements at the National Instututes of Health, “Dietary Supplement Fact Sheet: Iron,” ods.od.nih.gov (accessed Dec. 13, 2010)",
+            "url": null,
+            "docid": 8985
+        },
+        {
+            "id": "4",
+            "title": "Aloys L.A. Sesink, Denise S.M.L. Termont, et al., “Red Meat and Colon Cancer: The Cytotoxic and Hyperproliferative Effects of Dietary Heme,” Cancer Research, Nov. 15, 1999",
+            "url": null,
+            "docid": 8986
+        },
+        {
+            "id": "5",
+            "title": "Physicians Committee for Responsible Medicine (PCRM), “Protecting Your Bones,” pcrm.org (accessed Dec. 13, 2010)",
+            "url": null,
+            "docid": 8987
+        },
+        {
+            "id": "6",
+            "title": "David S. Goldfarb and Fredric L. Cole, “Prevention of Recurrent Nephrolithiasis,” American Family Physician, Nov. 15, 1999",
+            "url": null,
+            "docid": 8988
+        },
+        {
+            "id": "7",
+            "title": "Timothy J. Key, et al., “Mortality in Vegetarians and Nonvegetarians: Detailed Findings from a Collaborative Analysis of 5 Prospective Studies,” American Journal of Clinical Nutrition, 1999",
+            "url": null,
+            "docid": 8989
+        },
+        {
+            "id": "8",
+            "title": "Paul N. Appleby, Gwyneth K. Davey, and Timothy J. Key, “Hypertension and Blood Pressure Among Meat Eaters, Fish Eaters, Vegetarians and Vegans in EPIC-Oxford,” Public Health Nutrition, 2002",
+            "url": null,
+            "docid": 8990
+        },
+        {
+            "id": "9",
+            "title": "Yiqing Song, et al., “A Prospective Study of Red Meat Consumption and Type 2 Disbetes in Middle-Aged and Elderly Women,” Diabetes Care, 2004",
+            "url": null,
+            "docid": 8991
+        },
+        {
+            "id": "10",
+            "title": "David JA Jenkins, Cyril WC Kendall, and Augustine Marchie, et al., “Type 2 Diabetes and the Vegetarian Diet,” American Journal of Clinical Nutrition, 2003",
+            "url": null,
+            "docid": 8992
+        },
+        {
+            "id": "11",
+            "title": "EA Spencer, et al., “Diet and Body Mass Index in 38,000 EPIC-Oxford Meat-Eaters, Fish-Eaters, Vegetarians and Vegans,” International Journal of Obesity, 2003",
+            "url": null,
+            "docid": 8993
+        },
+        {
+            "id": "12",
+            "title": "Physicians Committee for Responsible Medicine (PCRM), “Vegetarian Foods: Powerful for Health,” pcrm.org (accessed Dec. 23, 2010)",
+            "url": null,
+            "docid": 8994
+        },
+        {
+            "id": "13",
+            "title": "Timothy J. Key, et al., “Health Effects of Vegetarian and Vegan Diets,” Proceedings of the Nutrition Society, 2006",
+            "url": null,
+            "docid": 8995
+        },
+        {
+            "id": "14",
+            "title": "Christopher Joyce, “Food for Thought: Meat-Based Diet Made Us Smarter,” npr.org, Aug. 3, 2010",
+            "url": null,
+            "docid": 8996
+        },
+        {
+            "id": "15",
+            "title": "Courtney Hutchison, “Nutritionist Does Twinkie and Steak Diet, Loses Weight,” abcnews.go.com, Sep. 30, 2010",
+            "url": null,
+            "docid": 8997
+        },
+        {
+            "id": "16",
+            "title": "World Wildlife Fund (WWF), “How Low Can We Go? An Assessment of Greenhouse Gas Emissions from the UK Food System and the Scope for Reduction by 2050,” org.uk, Jan. 18, 2010",
+            "url": null,
+            "docid": 8998
+        },
+        {
+            "id": "17",
+            "title": "United Nations Food and Agriculture Organization (FAO), “Livestock’s Long Shadow: Environmental Issues and Options,” fao.org, Nov. 29, 2006",
+            "url": null,
+            "docid": 8999
+        },
+        {
+            "id": "18",
+            "title": "US Department of Agriculture (USDA), “Import Share of US Food Consumption Stable at 11%,” ers.usda.gov, July 2003",
+            "url": null,
+            "docid": 9000
+        },
+        {
+            "id": "19",
+            "title": "US Department of Agriculture (USDA), “US Forest Facts and Historical Trends,” fia.fs.fed.us, Sep. 2001",
+            "url": null,
+            "docid": 9001
+        },
+        {
+            "id": "20",
+            "title": "Greenpeace, “Amazon Cattle Footprint – Mato Grosso: State of Destruction,” greenpeace.org, Jan. 29, 2009",
+            "url": null,
+            "docid": 9002
+        },
+        {
+            "id": "21",
+            "title": "Reuters, “US Clears Brazil’s SC Beef, Pork Imports,” abipecs.org.br, Nov. 16, 2010",
+            "url": null,
+            "docid": 9003
+        },
+        {
+            "id": "22",
+            "title": "John Robbins, “The Food Revolution: Once Upon a Planet, Part I,” celsias.com, Nov. 11, 2007",
+            "url": null,
+            "docid": 9004
+        },
+        {
+            "id": "23",
+            "title": "Association of Brazilian Beef Exporters, “Export Report – 2009,” brazilianbeef.org.br (accessed Jan. 13, 2011)",
+            "url": null,
+            "docid": 9005
+        },
+        {
+            "id": "24",
+            "title": "Nathan Fiala, “The Greenhouse Hamburger,” Scientific American, Feb. 2009",
+            "url": null,
+            "docid": 9006
+        },
+        {
+            "id": "25",
+            "title": "Marcia Kreith, “Water Inputs in California Food Production,” sakia.org, Sep. 27, 1991",
+            "url": null,
+            "docid": 9007
+        },
+        {
+            "id": "26",
+            "title": "US Department of Agriculture (USDA), “US Beef and Cattle Industry: Background Statistics and Information,” ers.usda.gov, July 10, 2010",
+            "url": null,
+            "docid": 9008
+        },
+        {
+            "id": "27",
+            "title": "National Cattlemen’s Beef Association, “The Environment and Cattle Production: Fact Sheet,” explorebeef.org (accessed Jan. 13, 2011)",
+            "url": null,
+            "docid": 9009
+        },
+        {
+            "id": "28",
+            "title": "Lester R. Brown, “Growing Demand for Soybeans Threatens Amazon Rainforest,” earth-policy.org, Dec. 30, 2009",
+            "url": null,
+            "docid": 9010
+        },
+        {
+            "id": "29",
+            "title": "Thomas L. Fleischner, “Ecological Costs of Livestock Grazing in Western North America,” Conservation Biology, Sep. 1994",
+            "url": null,
+            "docid": 9011
+        },
+        {
+            "id": "30",
+            "title": "Peter S. Thorne, “Environmental Health Impacts of Concentrated Animal Feeding Operations,” Environmental Health Perspectives, Feb. 2007",
+            "url": null,
+            "docid": 9012
+        },
+        {
+            "id": "31",
+            "title": "New York Times, “We Are What We Eat,” nytimes.com, Sep. 21, 2010",
+            "url": null,
+            "docid": 9013
+        },
+        {
+            "id": "32",
+            "title": "Pew Commission on Industrial Farm Animal Production, “Putting Meat on the Table: Industrial Farm Animal Production in America,” ncifap.org, Apr. 28, 2008",
+            "url": null,
+            "docid": 9014
+        },
+        {
+            "id": "33",
+            "title": "Polly Walker, Pamela Rhubart-Berg, Shawn McKenzie, Kristin Kelling, and Robert S Lawrence, “Public Health Implications of Meat Production and Consumption,” Journal of Public Health Nutrition, Mar. 2, 2005",
+            "url": null,
+            "docid": 9015
+        },
+        {
+            "id": "34",
+            "title": "Humane Society of the United States, “Cruel Slaughter Practices,” humanesociety.org (accessed Jan. 17, 2011)",
+            "url": null,
+            "docid": 9016
+        },
+        {
+            "id": "35",
+            "title": "Humane Society of the United States, “Undercover at Smithfield Foods,” humanesociety.org (accessed Jan. 17, 2011)",
+            "url": null,
+            "docid": 9017
+        },
+        {
+            "id": "36",
+            "title": "Farm Sanctuary, “The Welfare of Cattle in Beef Production,” farmsanctuary.org (accessed Jan. 17, 2011)",
+            "url": null,
+            "docid": 9018
+        },
+        {
+            "id": "37",
+            "title": "Lynne U. Sneddon, et al., “Do Fishes Have Nociceptors? Evidence for the Evolution of a Vertebrate Sensory System,” Proceedings of the Royal Academy of London, Apr. 30, 2003",
+            "url": null,
+            "docid": 9019
+        },
+        {
+            "id": "38",
+            "title": "Boris Worm, et al., “Impacts of Biodiversity Loss on Ocean Ecosystem Services,” Science, Nov. 3, 2006",
+            "url": null,
+            "docid": 9020
+        },
+        {
+            "id": "39",
+            "title": "US Environmental Protection Agency (EPA), “What You Need to Know about Mercury in Fish and Shellfish,” water.epa.gov, May 24, 2004",
+            "url": null,
+            "docid": 9021
+        },
+        {
+            "id": "40",
+            "title": "Mary J. Gilchrist, Christina Greko, David B. Wallinga, et al., “The Potential Role of Concentrated Animal Feeding Operations in Infectious Disease Epidemics and Antibiotic Resistance“, Environmental Health Perspectives, Feb. 2007",
+            "url": null,
+            "docid": 9022
+        },
+        {
+            "id": "41",
+            "title": "Doug Gurian-Sherman, “CAFOs Uncovered: The Untold Costs of Confined Animal Feeding Operations,” ucsusa.org, Apr. 2008",
+            "url": null,
+            "docid": 9023
+        },
+        {
+            "id": "42",
+            "title": "David Pimentel and Marcia Pimentel, “Sustainability of Meat-Based and Plant-Based Diets and the Environment,” American Journal of Clinical Nutrition, 2003",
+            "url": null,
+            "docid": 9024
+        },
+        {
+            "id": "43",
+            "title": "Council for Agricultural Science and Technology, “US Soybean Production: A Comparison of Sustainable Production Systems for Conventional, Biotech, and Organic Soybeans,” soyconnection.com, Apr. 2009",
+            "url": null,
+            "docid": 9025
+        },
+        {
+            "id": "44",
+            "title": "Union of Concerned Scientists, “Roundup Ready Soybeans,” ucsusa.org (accessed Jan. 19, 2011)",
+            "url": null,
+            "docid": 9026
+        },
+        {
+            "id": "45",
+            "title": "David Pimentel, “Environmental and Economic Costs of the Application of Pesticides Primarily in the United States,” Environment, Development and Sustainability, 2005",
+            "url": null,
+            "docid": 9027
+        },
+        {
+            "id": "46",
+            "title": "Stephen Byrnes, “The Myths of Vegetarianism,” westonaprice.org, Jan. 2002",
+            "url": null,
+            "docid": 9028
+        },
+        {
+            "id": "47",
+            "title": "Wolfgang Hermann, et al., “Vitamin B-12 Status, Particularly Holotranscobalamin II and Methylmalonic Acid Concentrations, and Hyperhomocysteinemia in Vegetarians,” American Journal of Clinical Nutrition, July 2003",
+            "url": null,
+            "docid": 9029
+        },
+        {
+            "id": "48",
+            "title": "World Cancer Research Fund and the American Institute for Cancer Research, “Food, Nutrition, Physical Activity, and the Prevention of Cancer: A Global Perspective,” dietandcancerreport.org, 2007",
+            "url": null,
+            "docid": 9030
+        },
+        {
+            "id": "49",
+            "title": "Sally Fallon Morell, “Know Your Fats Introduction,” westonaprice.org, Feb. 24, 2009",
+            "url": null,
+            "docid": 9031
+        },
+        {
+            "id": "50",
+            "title": "Laura Wyness, E. Weichselbaum, et al., “Red Meat in the Diet: An Update,” Nutrition Bulletin of the British Nutrition Foundation, Feb. 16, 2011",
+            "url": null,
+            "docid": 9032
+        },
+        {
+            "id": "51",
+            "title": "Joseph Mercola, “If You Eat Processed Meats, Are You Risking Your Life?,” mercola.com, Jan. 22, 2011",
+            "url": null,
+            "docid": 9033
+        },
+        {
+            "id": "52",
+            "title": "Penny M. Kris-Etherton, William S. Harris, and Lawrence J. Appel, “Fish Consumption, Fish Oil, Omega-3 Fatty Acids, and Cardiovascular Disease,” Journal of the American Heart Association, 2002",
+            "url": null,
+            "docid": 9034
+        },
+        {
+            "id": "53",
+            "title": "Karen Collins, “Fish Isn’t the Only Way to Get ‘Good’ Fat Omega-3. It’s Also Found in Seeds and Nut Oils, But Is It as Effective?,” msnbc.com, Sep. 8, 2006",
+            "url": null,
+            "docid": 9035
+        },
+        {
+            "id": "54",
+            "title": "Gwendolyn Barcelo-Coblijn, Eric J Murphy, Rgia Othman, et al., “Flaxseed Oil and Fish-Oil Capsule Consumption Alters Human Red Blood Cell n-3 Fatty Acid Composition,” American Journal of Clinical Nutrition, 2008",
+            "url": null,
+            "docid": 9036
+        },
+        {
+            "id": "55",
+            "title": "Sally Fallon Morell, “Twenty-Two Reasons Not to Go Vegetarian,” westonaprice.org (accessed Mar. 7, 2011)",
+            "url": null,
+            "docid": 9037
+        },
+        {
+            "id": "56",
+            "title": "Jenny Chang-Claude, Silke Hermann, Ursula Eilber, et al., “Lifestyle Determinants and Mortality in German Vegetarians and Health-Conscious Persons: Results of a 21-Year Follow-Up,” Cancer Epidemiology, Biomarkers & Prevention, Apr. 11, 2005",
+            "url": null,
+            "docid": 9038
+        },
+        {
+            "id": "57",
+            "title": "Hillary Mayell, “Evolving to Eat Mush: How Meat Changed Our Bodies,” National Geographic, Feb. 18, 2005",
+            "url": null,
+            "docid": 9039
+        },
+        {
+            "id": "58",
+            "title": "Sally Fallon Morell and Mary G. Enig, “Vitamin A Saga,” westonaprice.org, Mar. 29, 2002",
+            "url": null,
+            "docid": 9040
+        },
+        {
+            "id": "59",
+            "title": "Sabrina J Hickenbottom, et al., “Variability In Conversion of Beta Carotene to Vitamin A In Men As Measured by Using a Double-Tracer Study Design,” American Journal of Clinical Nutrition, 2002",
+            "url": null,
+            "docid": 9041
+        },
+        {
+            "id": "60",
+            "title": "State Environmental Resource Center, “Biodiversity Policy Issues Package,” serconline.org (accessed Mar. 9, 2011)",
+            "url": null,
+            "docid": 9042
+        },
+        {
+            "id": "61",
+            "title": "National Cattlemen’s Beef Association, “Proteins Are Not Created Equal,” beefnutrition, 2009",
+            "url": null,
+            "docid": 9043
+        },
+        {
+            "id": "62",
+            "title": "Milton R. Mills, “The Comparative Anatomy of Eating,” vegsource.com, Nov. 21, 2009",
+            "url": null,
+            "docid": 9044
+        },
+        {
+            "id": "63",
+            "title": "Katharine Milton, “A Hypothesis to Explain the Role of Meat-Eating in Human Evolution,” Evolutionary Biology, 1999",
+            "url": null,
+            "docid": 9045
+        },
+        {
+            "id": "64",
+            "title": "Erik J. Lindbloom, “Long-Term Benefits of a Vegetarian Diet,” American Family Physician, Apr. 1, 2009",
+            "url": null,
+            "docid": 9046
+        },
+        {
+            "id": "65",
+            "title": "Jeff Welty, “Humane Slaughter Laws,” Law and Contemporary Problems, 2007",
+            "url": null,
+            "docid": 9047
+        },
+        {
+            "id": "66",
+            "title": "Joby Warrick, “They Die Piece by Piece: In Overtaxed Plants, Humane Treatment of Cattle Is Often a Battle Lost,” Washington Post, Apr. 10, 2001",
+            "url": null,
+            "docid": 9048
+        },
+        {
+            "id": "67",
+            "title": "Vegetarian Times, “Vegetarianism In America,” vegetariantimes.com (accessed Mar. 10, 2011)",
+            "url": null,
+            "docid": 9049
+        },
+        {
+            "id": "68",
+            "title": "United States Department of Agriculture (USDA), “Nutrition and Your Health: Dietary Guidelines for Americans,” cnpp.usda.gov, 1995",
+            "url": null,
+            "docid": 9050
+        },
+        {
+            "id": "69",
+            "title": "Carole Davis and Etta Saltos, “Dietary Recommendations and How They Have Changed Over Time,” ers.usda.gov (accessed Mar. 10, 2011)",
+            "url": null,
+            "docid": 9051
+        },
+        {
+            "id": "70",
+            "title": "Jan Parr, The Young Vegetarian’s Companion, 1996",
+            "url": null,
+            "docid": 9052
+        },
+        {
+            "id": "71",
+            "title": "David Hurwitz, “Leonardo da Vinci’s Ethical Vegetarianism,” ivu.org, July 19, 2002",
+            "url": null,
+            "docid": 9053
+        },
+        {
+            "id": "72",
+            "title": "People for the Ethical Treatment of Animals (PETA), “About PETA,” peta.org (accessed Apr. 4, 2013)",
+            "url": null,
+            "docid": 9054
+        },
+        {
+            "id": "73",
+            "title": "Roger Segelken, “Campbells’ New Book Blasts Corporate-Governmental-Academic Ties,” news.cornell.edu, Jan. 20, 2005",
+            "url": null,
+            "docid": 9055
+        },
+        {
+            "id": "74",
+            "title": "Chris Masterjohn, “The China Study by T. Colin Campbell,” Wise Traditions, June 30, 2005",
+            "url": null,
+            "docid": 9056
+        },
+        {
+            "id": "75",
+            "title": "Justin Nobel, “The Root of Vegetarianism,” audubonmagazine.org (accessed Mar. 23, 2011)",
+            "url": null,
+            "docid": 9057
+        },
+        {
+            "id": "76",
+            "title": "Gary E. Fraser and David J. Shavlik, “Ten Years of Life: Is it a Matter of Choice?,” Archives of Internal Medicine, July 9, 2001",
+            "url": null,
+            "docid": 9058
+        },
+        {
+            "id": "77",
+            "title": "City of Bound Brook, “Bound Brook: Home of the Graham Cracker,” boundbrook-nj.org (accessed Mar. 24, 2011)",
+            "url": null,
+            "docid": 9059
+        },
+        {
+            "id": "78",
+            "title": "NNDB, “John Harvey Kellogg,” nndb.com (accessed Mar. 24, 2011)",
+            "url": null,
+            "docid": 9060
+        },
+        {
+            "id": "79",
+            "title": "PR Watch, “Intolerable Speech? What Howard Lyman Told Oprah,” prwatch.org (accessed Mar. 24, 2011)",
+            "url": null,
+            "docid": 9061
+        },
+        {
+            "id": "80",
+            "title": "United States Department of Agriculture (USDA), “Bovine Spongiform Encephalopathy -“Mad Cow Disease,” fsis.usda.gov (accessed Mar. 24, 2011)",
+            "url": null,
+            "docid": 9062
+        },
+        {
+            "id": "81",
+            "title": "Tristram Stuart, The Bloodless Revolution: A Cultural History of Vegetarianism from 1600 to Modern Times, 2006",
+            "url": null,
+            "docid": 9063
+        },
+        {
+            "id": "82",
+            "title": "Peggy Whittier, “Wheatless Mondays and Meatless Tuesdays,” newyorkhistoryreview.com (accessed Mar. 25, 2011)",
+            "url": null,
+            "docid": 9064
+        },
+        {
+            "id": "83",
+            "title": "Colin Spencer, The Heretics Feast: A History of Vegetarianism, 1995",
+            "url": null,
+            "docid": 9065
+        },
+        {
+            "id": "84",
+            "title": "Casey Roberts, Clayton Spurgeon, and John Fowler, “Characteristics of the United States Organic Beef Industry,” aces.nmsu.edu, July 2007",
+            "url": null,
+            "docid": 9066
+        },
+        {
+            "id": "85",
+            "title": "National Sustainable Agriculture Information Service, “Organic Standards for Livestock Production: Excerpts of USDA’s National Organic Program Regulations,” attra.ncat.org, Feb. 17, 2010",
+            "url": null,
+            "docid": 9067
+        },
+        {
+            "id": "86",
+            "title": "Pramil N. Singh, Joan Sabaté, and Gary E Fraser, “Does Low Meat Consumption Increase Life Expectancy in Humans?,” American Journal of Clinical Nutrition, 2003",
+            "url": null,
+            "docid": 9068
+        },
+        {
+            "id": "87",
+            "title": "Cargill, “High-Quality Products,” cargill.com (accessed Mar. 30, 2011)",
+            "url": null,
+            "docid": 9069
+        },
+        {
+            "id": "88",
+            "title": "Temple Grandin, “Animal Welfare in Slaughter Plants,” Proceedings of the 29th Annual Conference of American Association of Bovine Practitioners, 1996",
+            "url": null,
+            "docid": 9070
+        },
+        {
+            "id": "89",
+            "title": "Ingrid Newkirk, “Temple Grandin: Helping the Animals We Can’t Save,” prime.peta.org, Feb. 14, 2010",
+            "url": null,
+            "docid": 9071
+        },
+        {
+            "id": "90",
+            "title": "United States Government Accountability Office (GAO), “Humane Methods of Slaughter Act: Weakness in USDA Enforcement,” gao.gov, Mar. 4, 2010",
+            "url": null,
+            "docid": 9072
+        },
+        {
+            "id": "91",
+            "title": "American Meat Institute, “Meat Matters: Animal Welfare in the Meat Industry,” meatmattersinfo.org, Oct. 2007",
+            "url": null,
+            "docid": 9073
+        },
+        {
+            "id": "92",
+            "title": "United States Department of Agriculture (USDA), “Environmental Interactions with Agricultural Production: Grazing Lands and Environmental Quality,” ers.usda.gov, Nov. 20, 2008",
+            "url": null,
+            "docid": 9074
+        },
+        {
+            "id": "93",
+            "title": "Natural Resources Defense Council (NRDC), and Earthjustice, “Livestock Grazing and the Environment,” earthjustice.org (accessed Mar. 31, 2011)",
+            "url": null,
+            "docid": 9075
+        },
+        {
+            "id": "94",
+            "title": "Center for Consumer Freedom, “About Us: What Is the Center for Consumer Freedom,” consumerfreedom.com (accessed Apr. 7, 2011)",
+            "url": null,
+            "docid": 9076
+        },
+        {
+            "id": "95",
+            "title": "Weston A. Price Foundation, “About the Foundation,” westonaprice.org, Jan. 1, 2000",
+            "url": null,
+            "docid": 9077
+        },
+        {
+            "id": "96",
+            "title": "Elizabeth Kolbert, “Should You Eat Meat?,” The New Yorker, Nov. 9, 2009",
+            "url": null,
+            "docid": 9078
+        },
+        {
+            "id": "97",
+            "title": "David Martosko, “I’ll Have a Hamburger – Hold the Scare Tactics,” consumerfreedom.com, July 2, 2009",
+            "url": null,
+            "docid": 9079
+        },
+        {
+            "id": "98",
+            "title": "Derrick Jensen, “The Plants Respond: An Interview with Cleve Backster,” The Sun, July 1997",
+            "url": null,
+            "docid": 9080
+        },
+        {
+            "id": "99",
+            "title": "Constitutional Rights Foundation, “Upton Sinclair’s The Jungle: Muckraking the Meat-Packing Industry,” crf-usa.org, Fall 2008",
+            "url": null,
+            "docid": 9081
+        },
+        {
+            "id": "100",
+            "title": "Temple Grandin and Mark Dessing, “Distress in Animals: Is it Fear, Pain, or Physical Stress?,” grandin.com, Sep. 2003",
+            "url": null,
+            "docid": 9082
+        },
+        {
+            "id": "101",
+            "title": "Mary Enig and Sally Fallon, “The Truth About Saturated Fats,” health-report.co.uk (accessed Apr. 12, 2011)",
+            "url": null,
+            "docid": 9083
+        },
+        {
+            "id": "102",
+            "title": "Edward Giovannucci, Eric B. Rimm, Meir J. Stampfer, et al., “Intake of Fat, Meat, and Fiber in Relation to Risk of Colon Cancer in Men,” Cancer Research, May 1, 1994",
+            "url": null,
+            "docid": 9084
+        },
+        {
+            "id": "103",
+            "title": "Humane Society of the United States, “An HSUS Report: The Welfare of Animals in the Veal Industry,” humanesociety.org (accessed Apr. 12, 2011)",
+            "url": null,
+            "docid": 9085
+        },
+        {
+            "id": "104",
+            "title": "United Nations Environment Programme, “Assessing the Environmental Impacts of Consumption and Production,” uneptie.org, June 2010",
+            "url": null,
+            "docid": 9086
+        },
+        {
+            "id": "105",
+            "title": "Food and Agriculture Organization of the United Nations (FAO), “Global Hunger Declining, But Still Unacceptably High,” fao.org, Sep. 2010",
+            "url": null,
+            "docid": 9087
+        },
+        {
+            "id": "106",
+            "title": "Helmi Risku-Norja, et al., “Dietary Choices and Greenhouse Gas Emissions – Assessment of Impact of Vegetarian and Organic Options at National Scale,” Progress in Industrial Ecology, 2009",
+            "url": null,
+            "docid": 9088
+        },
+        {
+            "id": "107",
+            "title": "Roger Segelken, “US Could Feed 800 Million People with Grain That Livestock Eat,” cornell.edu, Aug. 7, 1997",
+            "url": null,
+            "docid": 9089
+        },
+        {
+            "id": "108",
+            "title": "Food and Agriculture Organization of the United Nations (FAO), “Hunger: Frequently Asked Questions,” fao.org (accessed Apr. 13, 2011)",
+            "url": null,
+            "docid": 9090
+        },
+        {
+            "id": "109",
+            "title": "United States Department of Labor, “Industries with the Highest Nonfatal Total Cases, Incidence Rates for Injuries and Illnesses, Private Industry, 1998,” stats.bls.gov, Dec. 1999",
+            "url": null,
+            "docid": 9091
+        },
+        {
+            "id": "110",
+            "title": "Erick Schlosser, Fast Food Nation: The Dark Side of the All-American Meal, 2001",
+            "url": null,
+            "docid": 9092
+        },
+        {
+            "id": "111",
+            "title": "Human Rights Watch, “Abuses Against Workers Taint US Meat and Poultry,” hrw.org, Jan. 24, 2005",
+            "url": null,
+            "docid": 9093
+        },
+        {
+            "id": "112",
+            "title": "United States Department of Labor Bureau of Labor Statistics, “Fatal Occupational Injuries by Occupation and Selected Event or Exposure, 2009,” bls.gov, Aug. 19, 2010",
+            "url": null,
+            "docid": 9094
+        },
+        {
+            "id": "113",
+            "title": "United States Department of Labor Bureau of Labor Statistics, “Fatal Occupational Injuries by Industry and Selected Event or Exposure, 2009,” bls.gov, Aug. 19, 2010",
+            "url": null,
+            "docid": 9095
+        },
+        {
+            "id": "114",
+            "title": "DS Campbell, “Health Hazards in the Meatpacking Industry,” Occupational Medicine, Apr. – June 1999",
+            "url": null,
+            "docid": 9096
+        },
+        {
+            "id": "115",
+            "title": "Natural Resources Defense Council, “Facts about Pollution from Livestock Farms,” nrdc.org (accessed Apr. 15, 2011)",
+            "url": null,
+            "docid": 9097
+        },
+        {
+            "id": "116",
+            "title": "Sigurdar Sigurdarson, et al., “School Proximity to Concentrated Animal Feeding Operations and Prevalence of Asthma in Students,” Chest Journal, 2006",
+            "url": null,
+            "docid": 9098
+        },
+        {
+            "id": "117",
+            "title": "CME Group, “Daily Livestock Report,” dailylivestockreport.com, Oct. 14, 2010",
+            "url": null,
+            "docid": 9099
+        },
+        {
+            "id": "118",
+            "title": "Steven L. Davis, “The Least Harm Principle May Require That Humans Consume a Diet Containing Large Herbivores, Not a Vegan Diet,” Journal of Agricultural and Environmental Ethics, 2003",
+            "url": null,
+            "docid": 9100
+        },
+        {
+            "id": "119",
+            "title": "David S. Martin, “From Omnivore to Vegan: The Dietary Education of Bill Clinton,” cnn.com, Aug. 18, 2011",
+            "url": null,
+            "docid": 9101
+        },
+        {
+            "id": "120",
+            "title": "William Stroup, PhD, “Meat, Ethics, and the Case of John Wesley,” in Orthodoxy and Heresy in Eighteenth Century Society: Essays from the DeBartolo Conference, Eds. Regina Hewitt and Pat Rogers, 2002",
+            "url": null,
+            "docid": 9102
+        },
+        {
+            "id": "121",
+            "title": "An Pan, PhD, and Qui Sun, MD, ScD, et al., “Red Meat Consumption and Mortality,” Archives of Internal Medicine, Mar. 12, 2012",
+            "url": null,
+            "docid": 9103
+        },
+        {
+            "id": "122",
+            "title": "Rob M. van Dam, MSC, et al., “Dietary Fat and Meat Intake in Relation to Risk of Type 2 Diabetes in Men,” Diabetes Care, Mar. 2002",
+            "url": null,
+            "docid": 9104
+        },
+        {
+            "id": "123",
+            "title": "Food and Agriculture Organization of the United Nations (FAO), “Meat and Meat Products in Human Nutrition in Developing Countries,” fao.org, 1992",
+            "url": null,
+            "docid": 9105
+        },
+        {
+            "id": "124",
+            "title": "Susan E. Berkow, PhD, and Neal Barnard, MD, “Vegetarian Diets and Weight Status,” Nutrition Reviews, Apr. 2006",
+            "url": null,
+            "docid": 9106
+        },
+        {
+            "id": "125",
+            "title": "University of Maryland Medical Center, “Omega-3 Fatty Acid,” umm.edu (accessed Feb. 27, 2013)",
+            "url": null,
+            "docid": 9107
+        },
+        {
+            "id": "126",
+            "title": "Earth Policy Institute, “Peak Meat: US Meat Consumption Falling,” earth-policy.org, Mar. 7, 2012",
+            "url": null,
+            "docid": 9108
+        },
+        {
+            "id": "127",
+            "title": "Frank Newport, “In US, 5% Consider Themselves Vegetarians,” gallup.com, July 26, 2012",
+            "url": null,
+            "docid": 9109
+        },
+        {
+            "id": "128",
+            "title": "Lisa Watson, ND, “40 Vegan Calcium Sources,” drlisawatson.com (accessed Mar. 27, 2012)",
+            "url": null,
+            "docid": 9110
+        },
+        {
+            "id": "129",
+            "title": "“Natural/Organic Share of Total Beef (Dollar) 4th Quarter 2012,” beefretail.org (accessed Apr. 10, 2013)",
+            "url": null,
+            "docid": 9111
+        },
+        {
+            "id": "130",
+            "title": "Michael J. Orlich, MD, et al., “Vegetarian Dietary Patterns and Mortality in Adventist Health Study 2,” JAMA Internal Medicine, June 3, 2013",
+            "url": null,
+            "docid": 9112
+        },
+        {
+            "id": "131",
+            "title": "Corinne Lestch and Ben Chapman, “School 244 in Flushing, Queens, Becomes First Public School in Nation to Serve Only Vegetarian Meals: Officials,” nydailynews.com, Apr. 30, 2013",
+            "url": null,
+            "docid": 9113
+        },
+        {
+            "id": "132",
+            "title": "Morgan E. Levine, PhD, and Jorge A. Suarez, et al., “Low Protein Intake Is Associated with a Major Reduction in IGF-1, Cancer, and Overall Mortality in the 65 and Younger but Not Older Population,” Cell Metabolism, Mar. 2014",
+            "url": null,
+            "docid": 9114
+        },
+        {
+            "id": "133",
+            "title": "Nathalie T. Burkert, Johanna Muckenhuber, et al., “Nutrition and Health – The Association Between Eating Behavior and Various Health Parameters: A Matched Sample Study,” plosone.org, Feb. 2014",
+            "url": null,
+            "docid": 9115
+        },
+        {
+            "id": "134",
+            "title": "Peter Scarborough, Paul N. Appleby, Anja Mizdrak, et al., “Dietary Greenhouse Gas Emissions of Meat-Eaters, Fish-Eaters, Vegetarians and Vegans in the UK,” Climatic Change, June 11, 2014",
+            "url": null,
+            "docid": 9116
+        },
+        {
+            "id": "135",
+            "title": "National Chicken Council, “Per Capita Consumption of Poultry and Livestock, 1965 to Estimated 2016, in Pounds,” nationalchickencouncil.org, Apr. 13, 2016",
+            "url": null,
+            "docid": 9117
+        },
+        {
+            "id": "136",
+            "title": "Zach Hrynowski, “What Percentage of Americans Are Vegetarian?,” Sep. 27, 2019",
+            "url": null,
+            "docid": 9118
+        },
+        {
+            "id": "137",
+            "title": "Vegetarian Resource Group, “How Many Teens and Other Youth Are Vegetarian and Vegan? The Vegetarian Resource Group Asks in a 2014 National Poll,” vrg.org, May 30, 2014",
+            "url": null,
+            "docid": 9119
+        },
+        {
+            "id": "138",
+            "title": "US Department of Agriculture and US Department of Health and Human Services, “Dietary Guidelines for Americans 2015-2020,” health.gov, 2015",
+            "url": null,
+            "docid": 9120
+        },
+        {
+            "id": "139",
+            "title": "National Chicken Council, “Per Capita Consumption of Poultry and Livestock, 1965 to Estimated 2020, in Pounds,” nationalchickencouncil.org, Mar. 2020",
+            "url": null,
+            "docid": 9121
+        },
+        {
+            "id": "140",
+            "title": "International Agency for Research on Cancer (IARC) of the World Health Organization, “IARC Monographs Evaluate Consumption of Red Meat and Processed Meat,” iarc.fr, Oct. 26, 2015",
+            "url": null,
+            "docid": 9122
+        },
+        {
+            "id": "141",
+            "title": "Christopher J. Hopwood, Wiebke Bleidorn, Ted Schwaba, and Sophia Chen, “Health, Environmental, and Animal Rights Motives for Vegetarian Eating,” PLOS ONE, Apr. 2, 2020",
+            "url": null,
+            "docid": 9123
+        },
+        {
+            "id": "142",
+            "title": "Bloomberg, “Staggering Shutdown in the Meat Industry Raises Concerns of a Global Shortfall,” latimes.com, Apr. 24, 2020",
+            "url": null,
+            "docid": 9124
+        },
+        {
+            "id": "143",
+            "title": "Max Reyes, “Beyond Meat Stock Price Soars amid Fear of a Coronavirus Beef and Pork Shortage,” latimes.com, Apr. 25, 2020",
+            "url": null,
+            "docid": 9125
+        },
+        {
+            "id": "144",
+            "title": "White House, “President Donald J. Trump Is Taking Action To Ensure The Safety Of Our Nation’s Food Supply Chain, whitehouse.gov, Apr. 28, 2020",
+            "url": null,
+            "docid": 9126
+        },
+        {
+            "id": "145",
+            "title": "Ben Westcott and Shawn Deng, “China Has Made Eating Wild Animals Illegal after the Coronavirus Outbreak. But Ending the Trade Won’t Be Easy,” cnn.com, Mar. 5, 2020",
+            "url": null,
+            "docid": 9127
+        },
+        {
+            "id": "146",
+            "title": "Hannah Ritchie and Max Roser, “Meat and Dairy Production,” ourworldindata.org/meat-production, Nov. 2019",
+            "url": null,
+            "docid": 9128
+        },
+        {
+            "id": "147",
+            "title": "Socially Responsible Agriculture Project, \"Factory Farms Compromise Animal Welfare,\" sraproject.org (accessed Feb. 22, 2021)",
+            "url": null,
+            "docid": 9129
+        },
+        {
+            "id": "148",
+            "title": "Caroline Redmond, \"Plants’ Response to Being Eaten Is Very Similar to Our Response to Pain, Researchers Prove,\" allthatsinteresting.com, June 12, 2019",
+            "url": null,
+            "docid": 9130
+        },
+        {
+            "id": "149",
+            "title": "Keith Loria, \"Organic meat demand continues to grow,\" meatpoultry.com, Apr. 20, 2020",
+            "url": null,
+            "docid": 9131
+        },
+        {
+            "id": "150",
+            "title": "Mary H. Ward, et al., \"Heme Iron from Meat and Risk of Adenocarcinoma of the Esophagus and Stomach,\" ncbi.nlm.nih.gov. Mar. 21, 2012",
+            "url": null,
+            "docid": 9132
+        },
+        {
+            "id": "151",
+            "title": "Water Footprint Calculator, \"The 900 Gallon Diet: Meat, Portion Size and Water Footprints,\" watercalculator.org, Apr. 28, 2020",
+            "url": null,
+            "docid": 9133
+        },
+        {
+            "id": "152",
+            "title": "Liam Smith, \"How Much Water Does It Take to Make That Cheese Burger,\" ixwater.com, Aug. 2, 2020",
+            "url": null,
+            "docid": 9134
+        },
+        {
+            "id": "153",
+            "title": "Katherine Boehrer, \"This Is How Much Water It Takes To Make Your Favorite Foods,\" huffpost.com, Oct. 14, 2013",
+            "url": null,
+            "docid": 9135
+        },
+        {
+            "id": "154",
+            "title": "E360 Digest, \"One-Third of Farmland in the U.S. Corn Belt Has Lost Its Topsoil,\" e360.yale.edu, Feb. 18, 2021",
+            "url": null,
+            "docid": 9136
+        },
+        {
+            "id": "155",
+            "title": "FDA, \"GMO Crops, Animal Food, and Beyond,\" fda.gov, Sep. 28, 2020",
+            "url": null,
+            "docid": 9137
+        }
+    ],
+    "url": "https://vegetarian.procon.org"
+}

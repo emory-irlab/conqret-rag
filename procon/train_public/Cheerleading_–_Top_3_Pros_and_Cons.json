@@ -1,0 +1,226 @@
+{
+    "title": "Cheerleading – Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Laura Anne Grindstaff, “Cheerleading,” britannica.com, June 8, 2022",
+            "url": null,
+            "docid": 0
+        },
+        {
+            "id": "2",
+            "title": "USA Cheer, “What Is Cheerleading?,” usacheer.org (accessed Feb. 8, 2023)",
+            "url": null,
+            "docid": 1
+        },
+        {
+            "id": "3",
+            "title": "South Coast Elite Cheerleading, “What Is Cheerleading?,” southcoastelitecheerleading (accessed Feb. 23, 2023)",
+            "url": null,
+            "docid": 2
+        },
+        {
+            "id": "4",
+            "title": "Charlotte Smith, “The Unknown World of Competitive Cheerleading,” matchcollegiate.org, Dec. 4, 2021",
+            "url": null,
+            "docid": 3
+        },
+        {
+            "id": "5",
+            "title": "STUNT, “What is STUNT?,” stuntthesport.org (accessed Mar. 1, 2023)",
+            "url": null,
+            "docid": 4
+        },
+        {
+            "id": "6",
+            "title": "pvamucheerleaders, instagram.com, Nov. 22, 2021",
+            "url": null,
+            "docid": 5
+        },
+        {
+            "id": "7",
+            "title": "Hillsborough Dukes Premier Football and Cheer Program, “Cheer Conditioning,” hillsboroughdukes.com, 2023",
+            "url": null,
+            "docid": 6
+        },
+        {
+            "id": "8",
+            "title": "Huston-Tillotson University, “2015 Cheer Squad Summer Strength & Conditioning,” htu.edu, 2015",
+            "url": null,
+            "docid": 7
+        },
+        {
+            "id": "9",
+            "title": "Worldwide Spirit Association, “Cheer Conditioning Workouts For Home,” wsacheer.com, 2020",
+            "url": null,
+            "docid": 8
+        },
+        {
+            "id": "10",
+            "title": "Caroline Bologna, “This Is Your Body on Cheerleading,” huffpost.com, jan. 24, 2020",
+            "url": null,
+            "docid": 9
+        },
+        {
+            "id": "11",
+            "title": "NCCSIR, “Catastrophic Sports Injury Research, Thirty-Sixth Annual Report, Fall 1982 – Spring 2018,” nccsir.unc.edu, Oct. 3, 2019",
+            "url": null,
+            "docid": 10
+        },
+        {
+            "id": "12",
+            "title": "Jennifer Gerson, “The Complicated History of Cheerleading, Title IX and What It Means to Be a Sport,” 19thnews.org, June 16, 2022",
+            "url": null,
+            "docid": 11
+        },
+        {
+            "id": "13",
+            "title": "Editors of Encyclopaedia Britannica, “Title IX,” britannica.com, Jan. 18, 2023",
+            "url": null,
+            "docid": 12
+        },
+        {
+            "id": "14",
+            "title": "Lee Green, “Impact of Competitive Cheer Laws, Regulations on Title IX Compliance,” nfhs.org, Apr. 16, 2019",
+            "url": null,
+            "docid": 13
+        },
+        {
+            "id": "15",
+            "title": "CBS8.com, “Cheerleading Officially Recognized as a High School Sport,” cbs8.com, Oct. 7, 2015",
+            "url": null,
+            "docid": 14
+        },
+        {
+            "id": "16",
+            "title": "Lee Green, “Cheerleading and the Law,” nfhs.org, Sep. 16, 2015",
+            "url": null,
+            "docid": 15
+        },
+        {
+            "id": "17",
+            "title": "Findlaw.com, “Biediger v. Quinnipiac University (2012),” findlaw.com (accessed Mar. 1, 2023)",
+            "url": null,
+            "docid": 16
+        },
+        {
+            "id": "18",
+            "title": "USA Cheer, “USA Cheer Welcomes International Olympic Committee’s Full Recognition of the International Cheer Union,” usacheer.org, July 20, 2021",
+            "url": null,
+            "docid": 17
+        },
+        {
+            "id": "19",
+            "title": "USA Cheer, “USA Cheer Recognized by US Olympic and Paralympic Committee,” usacheer.org, Jan. 11, 2023",
+            "url": null,
+            "docid": 18
+        },
+        {
+            "id": "20",
+            "title": "Lindsey Tanner, “Ama Officially Designates Cheerleading a Sport,” usatoday.com, June 10, 2014",
+            "url": null,
+            "docid": 19
+        },
+        {
+            "id": "21",
+            "title": "Elisabeth Sherman, “Why Don’t More People Consider Competitive Cheerleading a Sport?,” theatlantic.com, May 2, 2017",
+            "url": null,
+            "docid": 20
+        },
+        {
+            "id": "22",
+            "title": "Rachel E. Greenspan, “Cheer Shows Competitive Cheerleading Is Almost as Dangerous as Football. So Why Isn't It Officially Considered a Sport?,” time.com, Mar. 10, 2020",
+            "url": null,
+            "docid": 21
+        },
+        {
+            "id": "23",
+            "title": "Paracheer, “What is Cheerleading?,” paracheer.org (accessed Mar. 1, 2023)",
+            "url": null,
+            "docid": 22
+        },
+        {
+            "id": "24",
+            "title": "Camille Testa, “Why Cheerleading Is Not a Sport,” gcmnews.net, Dec. 11, 2014",
+            "url": null,
+            "docid": 23
+        },
+        {
+            "id": "25",
+            "title": "Merriam-Webster, “Performance,” merriam-webster.com (accessed Mar. 1, 2023)",
+            "url": null,
+            "docid": 24
+        },
+        {
+            "id": "26",
+            "title": "Allen Guttmann, et al., “Sports,” britannica.com, Nov. 29, 2022",
+            "url": null,
+            "docid": 25
+        },
+        {
+            "id": "27",
+            "title": "Merriam-Webster, “Competition,” merriam-webster.com (accessed Mar. 1, 2023)",
+            "url": null,
+            "docid": 26
+        },
+        {
+            "id": "28",
+            "title": "Varsity Spirit, “What Is Competitive Cheerleading,” varsity.com, Feb. 20, 2018",
+            "url": null,
+            "docid": 27
+        },
+        {
+            "id": "29",
+            "title": "USA Cheer, “USA Cheer College Program Directory,” usacheer.org (accessed Mar. 1, 2023)",
+            "url": null,
+            "docid": 28
+        },
+        {
+            "id": "30",
+            "title": "National Center for Education Statistics, “Characteristics of Degree-Granting Postsecondary Institutions,” nces.ed.gov, May 2022",
+            "url": null,
+            "docid": 29
+        },
+        {
+            "id": "31",
+            "title": "Andy Wittry, “How Many Games Are in a College Basketball Season? It Depends,” ncaa.com, Oct. 29, 2020",
+            "url": null,
+            "docid": 30
+        },
+        {
+            "id": "32",
+            "title": "NCAA, “Division I Proposal – 2006–89: Playing and Practice Seasons – Number of Contests – Tournament Dates and Nonchampionship Contests – Softball,” web3.ncaa.org, June 25, 2007",
+            "url": null,
+            "docid": 31
+        },
+        {
+            "id": "323",
+            "title": "Alyssa Roenigk, “Sorry, Cheerleading Is Not a Sport,” espn.com, June 24, 2014",
+            "url": null,
+            "docid": 32
+        },
+        {
+            "id": "34",
+            "title": "Nicolas Stoll, “Nicholas Stoll: Cheer Isn’t an NCAA Sport, and Title IX Just Might Keep It That Way,” michigandaily.com, Oct. 13, 2020",
+            "url": null,
+            "docid": 33
+        }
+    ],
+    "discussion": [
+        "1. What is your definition of a sport? Is cheerleading a sport according to your definition? Explain your answer(s).",
+        "2. Should the NCAA and Title IX consider cheerleading a sport? Why or why not?",
+        "3. Should professional cheerleading be competitive like all-star cheerleading? Why or why not?",
+        "4. Consider Alyssa Roenigk’s statement included in Con 2 above: “One can be an athlete and not participate in a sport. And one can participate in a sport and not be very athletic.” Do you think that’s true? Can one be an athlete and not participate in a sport? Can one participate in a sport and not be an athlete? Explain your answer(s)."
+    ],
+    "action": [
+        "1. Consider howTitle IXrelegates cheerleading to the sidelines with journalist Jennifer Gerson.",
+        "2. Analyze the inclusion of cheerleading by theInternational Olympics Committeewith Fox Sports.",
+        "3. Examine the “benefits of cheer” with Varsity Spirit.",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/cheerleading-top-3-pros-and-cons/"
+}

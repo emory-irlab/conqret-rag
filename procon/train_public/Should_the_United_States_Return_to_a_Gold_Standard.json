@@ -1,0 +1,809 @@
+{
+    "title": "Should the United States Return to a Gold Standard?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "John Waggoner, \"Should We Return to the Gold Standard?,\" usatoday.com, Apr. 23, 2012",
+            "docid": 10042
+        },
+        {
+            "id": "2",
+            "title": "Robert McTeer, \"A Brief History of the Gold Standard,\" ncpa.org, June 16, 2011",
+            "docid": 10043
+        },
+        {
+            "id": "3",
+            "title": "Federal Reserve Bank of New York, \"The Key to the Gold Vault,\" newyorkfed.org (accessed Dec. 5, 2012)",
+            "docid": 10044
+        },
+        {
+            "id": "4",
+            "title": "Board of Governors of the Federal Reserve System, \"Currency Component of M1 (CURRNS), research.stlouisfed.org (accessed Dec. 26, 2012)",
+            "docid": 10045
+        },
+        {
+            "id": "5",
+            "title": "Matthew Bishop and Michael Green, In Gold We Trust, 2012",
+            "docid": 10046
+        },
+        {
+            "id": "6",
+            "title": "Steve Forbes, \"Golden Rule for Prosperity,\" forbes.com, June 6, 2012",
+            "docid": 10047
+        },
+        {
+            "id": "7",
+            "title": "Ludwig von Mises Institute,The Gold Standard: Perspectives in the Austrian School,mises.org, 1992",
+            "docid": 10048
+        },
+        {
+            "id": "8",
+            "title": "Michael D. Bordo, et al., \"Gold, Fiat Money and Price Stability,\" research.stlouisfed.org, May 2007",
+            "docid": 10049
+        },
+        {
+            "id": "9",
+            "title": "Michael D. Bordo, \"Gold Standard,\" econlib.org (accessed Dec. 26, 2012)",
+            "docid": 10050
+        },
+        {
+            "id": "10",
+            "title": "US Department of Labor Bureau of Labor Statistics, \"Consumer Price Index: All Urban Consumers,\"ftp.bls.gov, Dec. 14, 2012",
+            "docid": 10051
+        },
+        {
+            "id": "11",
+            "title": "Arthur J. Rolnik and Warren E. Weber, \"Money, Inflation, and Output Under Fiat and Commodity Standards\",minneapolisfed.org, Spring 1998",
+            "docid": 10052
+        },
+        {
+            "id": "12",
+            "title": "Ron Paul, \"Paper Money and Tyranny,\" lewrockwell.com, Sep. 5, 2003",
+            "docid": 10053
+        },
+        {
+            "id": "13",
+            "title": "F. William Engdahl, \"Crisis of the US Dollar System,\" globalresearch.ca, Oct. 14, 2006",
+            "docid": 10054
+        },
+        {
+            "id": "14",
+            "title": "US Department of Defense, \"Base Structure Report Fiscal Year 2010 Baseline,\" acq.osd.mil, 2010",
+            "docid": 10055
+        },
+        {
+            "id": "15",
+            "title": "Loren Thompson, \"The Real Cost of US In Libya? Two Billion Dollars per Day,\" forbes.com, Mar. 28, 2011",
+            "docid": 10056
+        },
+        {
+            "id": "16",
+            "title": "Scott S. Powell, \"How US Debt Risks Dollar Doomsday,\" nypost.com, Apr. 30, 2012",
+            "docid": 10057
+        },
+        {
+            "id": "17",
+            "title": "Charles Kadlec, \"A Gold Standard Is Big Oil's Best Defense Against Political Attack,\" forbes.com, Oct. 31, 2011",
+            "docid": 10058
+        },
+        {
+            "id": "18",
+            "title": "The Bancroft Library, \"1973-1974 Oil Crisis,\" bancroft.berkeley.edu (accessed Dec. 26, 2012)",
+            "docid": 10059
+        },
+        {
+            "id": "19",
+            "title": "Tim McMahon, \"Historical Oil Prices Chart,\" inflationdata.com, June 14, 2012",
+            "docid": 10060
+        },
+        {
+            "id": "20",
+            "title": "Charles Kadlec, \"The Top Ten Reasons That You Should Support the 'Gold Commission,'\" forbes.com, Aug. 27, 2012",
+            "docid": 10061
+        },
+        {
+            "id": "21",
+            "title": "Ron Paul, \"The Austrian School and the Meltdown,\" lewrockwell.com, Sep. 26, 2008",
+            "docid": 10062
+        },
+        {
+            "id": "22",
+            "title": "Lewis E. Lehrman, \"A Road to Prosperity,\" spectator.org, Oct. 2012",
+            "docid": 10063
+        },
+        {
+            "id": "23",
+            "title": "Lawrence H. White, \"A Gold Standard with Free Banking Would Have Restrained the Boom and Bust,\"cato.org, Fall 2011",
+            "docid": 10064
+        },
+        {
+            "id": "24",
+            "title": "Frank Shostak, \"Contra Bernanke on the Gold Standard,\" mises.org, Apr. 11, 2012",
+            "docid": 10065
+        },
+        {
+            "id": "25",
+            "title": "Michael Pollaro, \"Money Supply Booming, Seeds of the Next Greater Recession,\" forbes.com, Mar. 17, 2012",
+            "docid": 10066
+        },
+        {
+            "id": "26",
+            "title": "Lawrence H. White, \"Is the Gold Standard Still the Gold Standard among Monetary Systems?,\"cato.org, Feb. 8, 2008",
+            "docid": 10067
+        },
+        {
+            "id": "27",
+            "title": "Charles Kadlec, \"The Price of Abandoning the Gold Standard,\" forbes.com, Sep. 12, 2011",
+            "docid": 10068
+        },
+        {
+            "id": "28",
+            "title": "Sean Fieler, \"Easy Money Is Punishing the Middle Class,\" online.wsj.com, Sep. 26, 2012",
+            "docid": 10069
+        },
+        {
+            "id": "29",
+            "title": "Ron Paul, \"Paper Money and Tyranny,\" paul.house.gov, Sep. 5, 2003",
+            "docid": 10070
+        },
+        {
+            "id": "30",
+            "title": "Ralph Benko and Charles Kadlec,The 21st Century Gold Standard: For Prosperity, Security, and Liberty, agoldenage.com, 2012",
+            "docid": 10071
+        },
+        {
+            "id": "31",
+            "title": "US Department of the Treasury, \"The Debt to the Penny and Who Holds It,\" treasurydirect.gov (accessed Dec. 26, 2012)",
+            "docid": 10072
+        },
+        {
+            "id": "32",
+            "title": "Levin Institute, \"The Trade Balance,\" globalization101.org (accessed Dec. 26, 2012)",
+            "docid": 10073
+        },
+        {
+            "id": "33",
+            "title": "Michael Pollaro, \"America, Poised for a Hyperinflationary Event?,\" forbes.com, Feb. 8, 2011",
+            "docid": 10074
+        },
+        {
+            "id": "34",
+            "title": "Ron Paul, \"Why Gold Is Good Money,\" goldnews.bullionvault.com, Oct. 2, 2012",
+            "docid": 10075
+        },
+        {
+            "id": "35",
+            "title": "Ron Paul, Robert P. Murphy, and Llewellyn H. Rockwell,Pillars of Prosperity: Free Markets, Honest Money, Private Property, 2008",
+            "docid": 10076
+        },
+        {
+            "id": "36",
+            "title": "John Ameriks, \"The Gold Rush of 2010,\" vanguardblog.com, July 26, 2010",
+            "docid": 10077
+        },
+        {
+            "id": "37",
+            "title": "Inflation Data, \"Inflation Adjusted Annual Average Gold Prices,\" inflationdata.com, Sep. 15, 2011",
+            "docid": 10078
+        },
+        {
+            "id": "38",
+            "title": "Gregory Hilton, \"The Case against Gold,\" diplomatdc.wordpress.com, May 29, 2011",
+            "docid": 10079
+        },
+        {
+            "id": "39",
+            "title": "Donald T. Regan, et al., \"Report to the Congress of the Commission on the Role of Gold in the Domestic and International Monetary Systems\",Mar. 31, 1982",
+            "docid": 10080
+        },
+        {
+            "id": "40",
+            "title": "John H. Makin, \"All That Glitters: A Primer on the Gold Standard,\"aei.org, Oct. 9, 2012",
+            "docid": 10081
+        },
+        {
+            "id": "41",
+            "title": "Ben Bernanke and Harold James, \"The Gold Standard, Deflation, and Financial Crisis in the Great Depression: An International Comparison,\" nber.org, Jan. 1991",
+            "docid": 10082
+        },
+        {
+            "id": "42",
+            "title": "Matthew O'Brien, \"Why the Gold Standard Is the World's Worst Economic Idea, in 2 Charts,\" theatlantic.com, Aug. 26, 2012",
+            "docid": 10083
+        },
+        {
+            "id": "43",
+            "title": "Chicago Booth IGM Forum, \"Gold Standard,\" igmchicago.org, Jan. 12, 2012",
+            "docid": 10084
+        },
+        {
+            "id": "44",
+            "title": "Ben Bernanke, \"The Federal Reserve and the Financial Crisis: Origins and Mission of the Federal Reserve\",federalreserve.gov, Mar. 20, 2012",
+            "docid": 10085
+        },
+        {
+            "id": "45",
+            "title": "Paul Krugman, \"Golden Instability,\" krugman.blogs.nytimes.com, Aug. 26, 2012",
+            "docid": 10086
+        },
+        {
+            "id": "46",
+            "title": "US Department of the Treasury, \"TARP Programs,\" treasury.gov (accessed Dec. 26, 2012)",
+            "docid": 10087
+        },
+        {
+            "id": "47",
+            "title": "Barry Eichengreen, \"A Critique of Pure Gold,\" nationalinterest.org, Aug. 24, 2011",
+            "docid": 10088
+        },
+        {
+            "id": "48",
+            "title": "Federal Deposit Insurance Corporation, \"The First Fifty Years,\" fdic.gov (accessed Dec. 26, 2012)",
+            "docid": 10089
+        },
+        {
+            "id": "49",
+            "title": "James D. Hamilton, \"A Disaster for Wages,\" nytimes.com, Mar. 8, 2011",
+            "docid": 10090
+        },
+        {
+            "id": "50",
+            "title": "Barry Eichengreen,Golden Fetters : The Gold Standard and the Great Depression, 1919-1939, 1996",
+            "docid": 10091
+        },
+        {
+            "id": "51",
+            "title": "Paul Heise, \"The Gold Standard Isn't Good as Gold,\" ldnews.com, Nov. 21, 2012",
+            "docid": 10092
+        },
+        {
+            "id": "52",
+            "title": "Frank Curzio, \"Gold Mining Costs Rising Fast,\" goldnews.bullionvault.com, June 28, 2012",
+            "docid": 10093
+        },
+        {
+            "id": "53",
+            "title": "US Department of the Treasury Bureau of Engraving and Printing, \"Annual Production Figures,\" moneyfactory.gov (accessed Dec. 26, 2012)",
+            "docid": 10094
+        },
+        {
+            "id": "54",
+            "title": "Anna J. Schwartz, \"Alternative Monetary Regimes: The Gold Standard,\" nber.org, 1987",
+            "docid": 10095
+        },
+        {
+            "id": "55",
+            "title": "R. Eisler and SN Wiemeyer, \"Cyanide Hazards to Plants and Animals from Gold Mining and Related Water Issues,\" ncbi.nlm.gov, 2004",
+            "docid": 10096
+        },
+        {
+            "id": "56",
+            "title": "Earthworks and Oxfam America, \"Dirty Metals: Mining, Communities and the Environment,\" nodirtygold.org, 2004",
+            "docid": 10097
+        },
+        {
+            "id": "57",
+            "title": "Ofelia Rivas, \"O'odham Sacred Site of Quitovac once again under Threat from US Gold Mining Company Silver Scott Mines,\" solidarity-project.org, Feb. 2012",
+            "docid": 10098
+        },
+        {
+            "id": "58",
+            "title": "Great Basin Resource Watch, \"Save Spiritual Site Mt. Tenabo,\" gbrw.org (accessed Dec. 26, 2012)",
+            "docid": 10099
+        },
+        {
+            "id": "59",
+            "title": "Scott Sonner, \"Tribe Battles BLM over Nev. Gold Mine in US Court,\" desertnews.com, Oct. 6, 2011",
+            "docid": 10100
+        },
+        {
+            "id": "60",
+            "title": "Jeffrey Frankel, \"The Dollar's New and Old Rivals,\" nytimes.com, Nov. 10, 2010",
+            "docid": 10101
+        },
+        {
+            "id": "61",
+            "title": "John Waggoner, \"Should We Return to the Gold Standard,\" usatoday.com, Apr. 23, 2012",
+            "docid": 10102
+        },
+        {
+            "id": "62",
+            "title": "Joe Weisenthal, \"Why the Gold Standard Is the Worst Idea in the World in One Chart,\" businessinsider.com, Sep. 4, 2012",
+            "docid": 10103
+        },
+        {
+            "id": "63",
+            "title": "Franklin Noll, \"The Birth of US Fiat Currency,\" bloomberg.com, Apr. 2, 2012",
+            "docid": 10104
+        },
+        {
+            "id": "64",
+            "title": "Marc Labonte and Mindy Levit, \"Financing Issues and Economic Effects of American Wars,\" fas.org, July 29, 2008",
+            "docid": 10105
+        },
+        {
+            "id": "65",
+            "title": "Matthew Philips, \"GOP: In Gold We Trust,\" businessweek.com, Aug. 31, 2012",
+            "docid": 10106
+        },
+        {
+            "id": "66",
+            "title": "Ron Paul, \"Fiat Paper Money,\" lewrockwell.com, Sep. 12, 2003",
+            "docid": 10107
+        },
+        {
+            "id": "67",
+            "title": "Steve Forbes, \"Gold Can Save Us from Disaster,\" forbes.com, Oct. 3, 2012",
+            "docid": 10108
+        },
+        {
+            "id": "68",
+            "title": "The McAlvany Weekly Commentary, \"Steve Forbes Interview: Gold Standard Inevitable,\" mcalvanynews.com, Dec. 4, 2012",
+            "docid": 10109
+        },
+        {
+            "id": "69",
+            "title": "Republican National Committee (RNC), \"2012 Republican Platform,\" gop.com (accessed Dec. 28, 2012)",
+            "docid": 10110
+        },
+        {
+            "id": "70",
+            "title": "Peter G. Peterson Foundation, \"The US Spent More on Defense in 2011 Than Did the Countries with the Next 13 Highest Defense Budgets Combined,\" pgfp.org, Apr. 12, 2012",
+            "docid": 10111
+        },
+        {
+            "id": "71",
+            "title": "Congressional Research Service (CRS), \"Brief History of the Gold Standard in the United States\",fas.org, June 23, 2011",
+            "docid": 10112
+        },
+        {
+            "id": "72",
+            "title": "US Financial Management Service, \"Status Report of US Treasury-Owned Gold,\" fms.treas.gov, Oct. 31, 2012",
+            "docid": 10113
+        },
+        {
+            "id": "73",
+            "title": "A-Mark Precious Metals, Inc., \"A-Mark Spot Prices History,\" amark.com (accessed Dec. 28, 2012)",
+            "docid": 10114
+        },
+        {
+            "id": "74",
+            "title": "Allan H. Meltzer, \"Origins of the Great Inflation,\" research.stlouisfed.org, March/April 2005",
+            "docid": 10115
+        },
+        {
+            "id": "75",
+            "title": "The Coinage Act of 1792, nesara.org, Apr. 2, 1792",
+            "docid": 10116
+        },
+        {
+            "id": "76",
+            "title": "Richard Giedroyc, \"The History of the United States $10 Gold Piece,\" coinfacts.com (accessed Dec. 28, 2012)",
+            "docid": 10117
+        },
+        {
+            "id": "77",
+            "title": "NGC Coin Explorer, \"Gold Dollars (1849-1854),” ngccoin.com (accessed Dec. 20, 2012)",
+            "docid": 10118
+        },
+        {
+            "id": "78",
+            "title": "The Coinage Act of 1834, nesara.org, June 28, 1834",
+            "docid": 10119
+        },
+        {
+            "id": "79",
+            "title": "Sarah Stodola, \"Civil War at 150: Debt Lessons from Lincoln,\" thefiscaltimes.com, Apr. 12, 2011",
+            "docid": 10120
+        },
+        {
+            "id": "80",
+            "title": "Tax History Project, \"Tax History Museum: 1861-1865: The Civil War,\" taxhistory.org (accessed Dec. 28, 2012)",
+            "docid": 10121
+        },
+        {
+            "id": "81",
+            "title": "United States Department of Treasury Bureau of Public Debt, \"Our History,\" publicdebt.treas.gov, Dec. 22, 2011",
+            "docid": 10122
+        },
+        {
+            "id": "82",
+            "title": "Richard H. Timberlake, \"From Constitutional to Fiat Money: The US Experience,” cato.org, Spring/Summer 2012",
+            "docid": 10123
+        },
+        {
+            "id": "83",
+            "title": "The Learning Network, \"March 14, 1900: US Officially Adopts the Gold Standard,” learning.blogs.nytimes.com, Mar. 14, 2012",
+            "docid": 10124
+        },
+        {
+            "id": "84",
+            "title": "Harvard Business School Historical Collections, \"Off the Rails,” library.hbs.edu (accessed Nov. 30, 2012)",
+            "docid": 10125
+        },
+        {
+            "id": "85",
+            "title": "Elmus Wicker, \"Banking Panics in the US: 1873-1933,” eh.net, Feb. 1, 2010",
+            "docid": 10126
+        },
+        {
+            "id": "86",
+            "title": "John Steele Gordon, \"On the Greenback Party and Its Newly Relevant Ideas,” bloomberg.com, Nov. 30, 2011",
+            "docid": 10127
+        },
+        {
+            "id": "87",
+            "title": "Encyclopedia Britannica, \"Resumption Act of 1875,” bratannica.com (accessed Nov. 30, 2012)",
+            "docid": 10128
+        },
+        {
+            "id": "88",
+            "title": "US Federal Reserve, \"History of the Federal Reserve,” federalreserveeducation.org (accessed Nov. 30, 2012)",
+            "docid": 10129
+        },
+        {
+            "id": "89",
+            "title": "The Lehrman Institute, \"The Free Silver Movement,” thegoldstandardnow.org (accessed Nov. 30, 2012)",
+            "docid": 10130
+        },
+        {
+            "id": "90",
+            "title": "William Jennings Bryan, \"Cross of Gold,\" pbs.org, July 9, 1896",
+            "docid": 10131
+        },
+        {
+            "id": "91",
+            "title": "The American Presidency Project, \"Republican Party Platform of 1896,\" presidency.ucsb.edu, June 16, 1896",
+            "docid": 10132
+        },
+        {
+            "id": "92",
+            "title": "New York Times, \"Gold Now the Standard: President McKinley Signs the Financial Bill,” nytimes.com, Mar. 14, 1900",
+            "docid": 10133
+        },
+        {
+            "id": "93",
+            "title": "Richard H. Timberlake, \"Federal Reserve System,” econlib.org, 2008",
+            "docid": 10134
+        },
+        {
+            "id": "94",
+            "title": "American Experience, \"Timeline of the Great Depression,” pbs.org (accessed Dec. 3, 2012)",
+            "docid": 10135
+        },
+        {
+            "id": "95",
+            "title": "Stephen G. Cecchetti, \"Prices During the Great Depression: Was the Deflation of 1930-32 Really Unanticipated?,” nebr.org, Nov. 1989",
+            "docid": 10136
+        },
+        {
+            "id": "96",
+            "title": "World Gold Council, \"After the Gold Standard 1931-1999,\" gold.org (accessed Dec. 28, 2012)",
+            "docid": 10137
+        },
+        {
+            "id": "97",
+            "title": "United States Mint, \"The United States Bullion Depository Fort Knox, Kentucky,” usmint.gov (accessed Dec. 4, 2012)",
+            "docid": 10138
+        },
+        {
+            "id": "98",
+            "title": "Ron Paul,The Case For Gold, 1982",
+            "docid": 10139
+        },
+        {
+            "id": "99",
+            "title": "M.J. Stephey, \"A Brief History of the Bretton Woods System,” time.com, Oct. 21, 2008",
+            "docid": 10140
+        },
+        {
+            "id": "100",
+            "title": "Alan S. Blinder, \"The Anatomy of Double-Digit Inflation in the 1970s,” nber.org, 1982",
+            "docid": 10141
+        },
+        {
+            "id": "101",
+            "title": "Ezra Klein, \"The GOP Has Picked the Wrong Time to Rediscover Gold,\" washingtonpost.com, Aug. 24, 2012",
+            "docid": 10142
+        },
+        {
+            "id": "102",
+            "title": "Gold Bullion Coin Act of 1985, usmint.gov, Dec. 17, 1985",
+            "docid": 10143
+        },
+        {
+            "id": "103",
+            "title": "Reuters, \"Republican Gold Standard Return Plan Seen as Full of Bugs,\" huffingtonpost.com, Aug. 27, 2012",
+            "docid": 10144
+        },
+        {
+            "id": "104",
+            "title": "World Gold Council, \"Frequently Asked Questions,\" goldfacts.org (accessed Dec. 28, 2012)",
+            "docid": 10145
+        },
+        {
+            "id": "105",
+            "title": "Mamta Badkar, \"10 Countries Hoarding Massive Amounts of Gold,\" businessinsider.com, Nov. 9, 2012",
+            "docid": 10146
+        },
+        {
+            "id": "106",
+            "title": "Matt Phillips, \"The Long Story of US Debt, From 1790 to 2011, in 1 Little Chart,\" theatlantic.com, Nov. 13, 2012",
+            "docid": 10147
+        },
+        {
+            "id": "107",
+            "title": "American Principles Project, \"Gold Is Money,\" americanprinciplesproject.org (accessed Dec. 29, 2012)",
+            "docid": 10148
+        },
+        {
+            "id": "108",
+            "title": "The Lehrman Institute, \"The Gold Standard Now,\" thegoldstandardnow.com (accessed Dec. 29, 2012)",
+            "docid": 10149
+        },
+        {
+            "id": "109",
+            "title": "Ludwig von Mises Institute, mises.org (accessed Dec. 29, 2012)",
+            "docid": 10150
+        },
+        {
+            "id": "110",
+            "title": "New York Times, \"Economic Stimulus - Jobs Bills,\" nytimes.com, Mar. 15, 2012",
+            "docid": 10151
+        },
+        {
+            "id": "111",
+            "title": "Christina D. Romer, \"The Fiscal Stimulus, Flawed but Valuable,\" nytimes.com, Oct. 20, 2012",
+            "docid": 10152
+        },
+        {
+            "id": "112",
+            "title": "Benjamin Cohen, \"Bretton Woods System,\" polisci.ucsb.edu (accessed Dec. 31, 2012)",
+            "docid": 10153
+        },
+        {
+            "id": "113",
+            "title": "Scott Horsley, “It’s Official: U.S. Economy Is in a Recession,” npr.org, June 8, 2020",
+            "docid": 10154
+        },
+        {
+            "id": "114",
+            "title": "Charles Kadlec, “Gingrich, The Gold Standard, And the Florida Primary,” forbes.com, Jan. 23, 2102",
+            "docid": 10155
+        },
+        {
+            "id": "115",
+            "title": "US Bureau of Labor Statistics, “Databases, Tables & Calculators by Subject: (Unadj) Unemployment Rate,” data.bls.gov, July 29, 2020",
+            "docid": 10156
+        },
+        {
+            "id": "116",
+            "title": "Jeffrey Cheng, Dave Skidmore, and David Wessel, “What’s the Fed Doing in Response to the COVID-19 Crisis? What More Could It Do?,” brookings.edu, June 19, 2020",
+            "docid": 10157
+        },
+        {
+            "id": "117",
+            "title": "Provident Metals, “How Much Gold is Left in the World?,” providentmetals.com (accessed July 31, 2020)",
+            "docid": 10158
+        },
+        {
+            "id": "118",
+            "title": "Trading Economics, \"United States Money Supply M1,\" tradingeconomics.com (accessed July 31, 2020)",
+            "docid": 10159
+        },
+        {
+            "id": "119",
+            "title": "Federal Reserve Bank of St. Louis, \"M3 for the United States,\" fred.stlouisfed.org, July 10, 2020",
+            "docid": 10160
+        },
+        {
+            "id": "120",
+            "title": "Federal Reserve Bank of St. Louis, \"Federal Debt: Total Public Debt as Percent of Gross Domestic Product,\" fred.stlouis.org, July 30, 2020",
+            "docid": 10161
+        },
+        {
+            "id": "121",
+            "title": "Federal Reserve Bank of San Francisco, \"Why Does a Trade Deficit Weaken the Currency?,\" frbsf.org, Oct. 1999",
+            "docid": 10162
+        },
+        {
+            "id": "122",
+            "title": "Kimberly Amadeo, \"US Trade Deficit and How It Hurts the Economy,\" thebalance.com, Apr. 18, 2020",
+            "docid": 10163
+        },
+        {
+            "id": "123",
+            "title": "Tom Lewis, \"Lowest Cost Gold Mines in the World for First Quarter 2019,\" goldtelegraph.com, July 29, 2019",
+            "docid": 10164
+        },
+        {
+            "id": "124",
+            "title": "Mykal May, \"How Much Does a Typical Gold Ring Weigh?,\" leaf.tv (accessed Aug. 4, 2020)",
+            "docid": 10165
+        },
+        {
+            "id": "125",
+            "title": "Federal Reserve, \"How Much Does It Cost to Produce Currency and Coin?,\" federalreserve.gov, Apr. 6, 2020",
+            "docid": 10166
+        },
+        {
+            "id": "126",
+            "title": "Simon Scarr and Anthony Boadle, \"Amazon Gold Rush: Illegal Mining Threatens Brazil's Last Major Isolated Tribe,\" reuters.com, June 25, 2020",
+            "docid": 10167
+        },
+        {
+            "id": "127",
+            "title": "Overseas Base Realignment and Closure Coalition, \"US Military Bases Overseas: The Facts,\" overseasbases.net (accessed Aug. 5, 2020)",
+            "docid": 10168
+        },
+        {
+            "id": "128",
+            "title": "Nick Turse, \"Trump's Confusing Orders in Syria Show Why It's So Hard to Tell How Many Bases the US Military Has Overseas,\" businessinsider.com, Nov. 5, 2019",
+            "docid": 10169
+        },
+        {
+            "id": "129",
+            "title": "Joe Gould, \"Pentagon Finally Gets Its 2020 Budget from Congress,\" defensenews.com, Dec. 19, 2020",
+            "docid": 10170
+        },
+        {
+            "id": "130",
+            "title": "SIPRI, \"Trends in World Military Expenditure, 2019,\" sipri.org, Apr. 2020",
+            "docid": 10171
+        },
+        {
+            "id": "131",
+            "title": "Lindsey Konkel, \"How Did the Gold Standard Contribute to the Great Depression?,\" history.com, Mar. 18, 2020",
+            "docid": 10172
+        },
+        {
+            "id": "132",
+            "title": "Kimberly Amadeo, \"History of the Gold Standard,\" thebalance.com, Apr. 24, 2020",
+            "docid": 10173
+        },
+        {
+            "id": "133",
+            "title": "Judy Shelton, \"The Case for a New International Monetary System,\" cato.org, Spring/Summer 2018",
+            "docid": 10174
+        },
+        {
+            "id": "134",
+            "title": "Thomas Franck, \"Fed's Powell Explains Why a Return to the Gold Standard Would Be So Damaging to the Economy,\" cnbc.com, July 10, 2019",
+            "docid": 10175
+        },
+        {
+            "id": "135",
+            "title": "Akin Oyedele, \"Greenspan: The US Cannot Afford to Spend on Infrastructure Like It Wants because It's Not on the Gold Standard,\" businessinsider.com, Feb. 16, 2017",
+            "docid": 10176
+        },
+        {
+            "id": "136",
+            "title": "US Mint, \"History of the U.S. Mint,\" usmint.gov, Oct. 31, 2019",
+            "docid": 10177
+        },
+        {
+            "id": "137",
+            "title": "US Mint, \"Coin Production,\" usmint.gov, Sep. 3, 2019",
+            "docid": 10178
+        },
+        {
+            "id": "138",
+            "title": "Coindoc, \"Arrows Coinage & The Mint Act of 1853,\" coinsite.com (accessed Aug. 10, 2020)",
+            "docid": 10179
+        },
+        {
+            "id": "139",
+            "title": "US Capitol Visitor Center, \"From Gold to Greenbacks,\" visitthecapitol.gov (accessed Aug. 10, 2020)",
+            "docid": 10180
+        },
+        {
+            "id": "140",
+            "title": "Editors of Encyclopaedia Britannica, \"Legal Tender Cases,\" britannica.com, Apr. 24, 2020",
+            "docid": 10181
+        },
+        {
+            "id": "141",
+            "title": "Editors of Encyclopaedia Britannica, \"Greenback Movement,\" britannica.com, July 29, 2013",
+            "docid": 10182
+        },
+        {
+            "id": "142",
+            "title": "Gary Richardson and Tim Sablik, \"Banking Panics of the Gilded Age: 1863–1913,\" federalreservehistory.org, Dec. 4, 2015",
+            "docid": 10183
+        },
+        {
+            "id": "143",
+            "title": "Editors of Encyclopaedia Britannica, \"Free Silver Movement,\" britannica.com, Apr. 9, 2019",
+            "docid": 10184
+        },
+        {
+            "id": "144",
+            "title": "History Matters, \"Bryan’s 'Cross of Gold' Speech: Mesmerizing the Masses,\" historymatters.gmu.edu (accessed Aug. 10, 2020)",
+            "docid": 10185
+        },
+        {
+            "id": "145",
+            "title": "Jospeh C. Ramage, \"The Gold Cover,\" fraser.stlouisfed.org, July 1968",
+            "docid": 10186
+        },
+        {
+            "id": "146",
+            "title": "Gary Richardson, Alejandro Komai, and Michael Gou, \"Roosevelt's Gold Program,\" federalreservehistory.org, Nov. 22, 2013",
+            "docid": 10187
+        },
+        {
+            "id": "147",
+            "title": "InflationData.com, \"Inflation and CPI Consumer Price Index 1930-1939,\" inflationdata.com (accessed Aug. 10, 2020)",
+            "docid": 10188
+        },
+        {
+            "id": "148",
+            "title": "Sandra Kollen Ghizoni, \"Creation of the Bretton Woods System: July 1944,\" federalreservehistory.org, Nov. 22, 2013",
+            "docid": 10189
+        },
+        {
+            "id": "149",
+            "title": "Edwin L. Dale, Jr., \"Devalued Dollar Is Asked in Study,\" nytimes.com, Aug. 8, 1971",
+            "docid": 10190
+        },
+        {
+            "id": "150",
+            "title": "Charles Kolb, \"August 15, 1971,\" huffpost.com, Nov. 19, 2013",
+            "docid": 10191
+        },
+        {
+            "id": "151",
+            "title": "Michael J. Graetz and Olivia Briffault, \"A “Barbarous Relic”: The French, Gold, and the Demise of Bretton Woods,\" scholarship.law.columbia.edu, Aug. 19. 2016",
+            "docid": 10192
+        },
+        {
+            "id": "152",
+            "title": "US Department of State Office of the Historian, \"Nixon and the End of the Bretton Woods System, 1971–1973,\" history.state.gov (accessed Aug. 11, 2020)",
+            "docid": 10193
+        },
+        {
+            "id": "153",
+            "title": "History.com Editors, \"1933 June 05: FDR Takes United States off Gold Standard,\" history.com, June 17, 2020",
+            "docid": 10194
+        },
+        {
+            "id": "154",
+            "title": "Bud Newman, \"Congress Approves Gold Coin Bill,\" upi.com, Dec. 3, 1985",
+            "docid": 10195
+        },
+        {
+            "id": "155",
+            "title": "Department of the Treasury, \"Department of the Treasury Bureau of the Fiscal Service Status Report of U.S. Government Gold Reserve July 31, 2020,\" fiscal.treasury.gov, July 31, 2020",
+            "docid": 10196
+        },
+        {
+            "id": "156",
+            "title": "World Gold Council, \"How Much Gold Has Been Mined?,\" gold.org (accessed Aug. 11, 2020)",
+            "docid": 10197
+        },
+        {
+            "id": "157",
+            "title": "David Gura, \"Senate Banking Committee Approves Contentious Nominee Judy Shelton for Federal Reserve Board,\" nbcnews.com, July 21, 2020",
+            "docid": 10198
+        },
+        {
+            "id": "158",
+            "title": "Natasha Frost and Gwynn Guilford, \"The Quiet Campaign to Reinstate the Gold Standard Is Getting Louder,\" qz.com, July 3, 2019",
+            "docid": 10199
+        },
+        {
+            "id": "159",
+            "title": "Julia Horowitz, \"Gold Price Rockets past $2,000 per Ounce and It Could Keep Going,\" cnn.com, Aug. 5, 2020",
+            "docid": 10200
+        },
+        {
+            "id": "160",
+            "title": "William Watts, \"Dollar Weakens across the Board after Fed Decision,\" marketwatch.com, July 29, 2020",
+            "docid": 10201
+        }
+    ],
+    "url": "https://gold-standard.procon.org"
+}

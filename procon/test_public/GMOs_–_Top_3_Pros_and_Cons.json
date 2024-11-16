@@ -1,0 +1,381 @@
+{
+    "title": "GMOs – Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Theresa Phillips, \"Genetically Modified Organisms (GMOs): Transgenic Crops and Recombinant DNA Technology,\" nature.com, 2008",
+            "url": null,
+            "docid": 11367
+        },
+        {
+            "id": "2",
+            "title": "Chelsea Powell and Ana Maurer, \"How to Make a GMO,\" sitn.hms.harvard.edu, Aug. 9, 2015",
+            "url": null,
+            "docid": 11368
+        },
+        {
+            "id": "3",
+            "title": "Chase Purdy, \"The First Non-Browning, Genetically Modified Apple Is Shipping to US Groceries,\" qz.com, Nov. 7, 2017",
+            "url": null,
+            "docid": 11369
+        },
+        {
+            "id": "4",
+            "title": "David Johnson and Siobhan O’Connor, \"These Charts Show Every Genetically Modified Food People Already Eat in the US,\" time.com, Apr. 30, 2015",
+            "url": null,
+            "docid": 11370
+        },
+        {
+            "id": "5",
+            "title": "Genetic Literacy Project, \"Where Are GMO Crops and Animals Approved and Banned?,\" gmo.geneticliteracyproject.org (accessed July 22, 2019)",
+            "url": null,
+            "docid": 11371
+        },
+        {
+            "id": "6",
+            "title": "European Commission, \"Several European Countries Move to Rule out GMOs,\" ec.europa.edu (accessed June 25, 2019)",
+            "url": null,
+            "docid": 11372
+        },
+        {
+            "id": "7",
+            "title": "US Food and Drug Administration (FDA), \"Questions & Answers on Food from Genetically Engineered Plants,\" fda.gov, Jan. 4, 2018",
+            "url": null,
+            "docid": 11373
+        },
+        {
+            "id": "8",
+            "title": "Best Food Facts, \"GMOs and Human Health,\" bestfoodsfacts.org, Apr. 18, 2018",
+            "url": null,
+            "docid": 11374
+        },
+        {
+            "id": "9",
+            "title": "Pew Research Center, \"Public Perspectives on Food Risks,\" pewresearch.org, Nov. 19, 2018",
+            "url": null,
+            "docid": 11375
+        },
+        {
+            "id": "10",
+            "title": "Alan McHughen, \"GMO Safety and Regulations,\" geneticliteracyproject.org, Dec. 16, 2014",
+            "url": null,
+            "docid": 11376
+        },
+        {
+            "id": "11",
+            "title": "David H. Freedman, \"The Truth about Genetically Modified Food,\" scientificamerican.com, Sep. 1, 2013",
+            "url": null,
+            "docid": 11377
+        },
+        {
+            "id": "12",
+            "title": "Becky Ferreira, \"This Food Scientist Wants to Save Lives with a Hypoallergenic Peanut,\" vice.com, Jan. 26, 2018",
+            "url": null,
+            "docid": 11378
+        },
+        {
+            "id": "13",
+            "title": "World Food Proramme (WFP), \"The State of Food Security and Nutrition in the World,\" wfp.org, 2021",
+            "url": null,
+            "docid": 11379
+        },
+        {
+            "id": "14",
+            "title": "World Economic Forum, \"Food Security and Why It Matters,\" weforum.org, Jan. 18. 2016",
+            "url": null,
+            "docid": 11380
+        },
+        {
+            "id": "15",
+            "title": "David S. Levin, \"Op-Ed: GMOs Could Be the Solution to Africa’s Food Shortages,\" cnbcafrica.com, July 26, 2017",
+            "url": null,
+            "docid": 11381
+        },
+        {
+            "id": "16",
+            "title": "Jennifer Ackerman, \"Food: How Altered?,\" nationalgeographic.com (accessed July 22, 2019)",
+            "url": null,
+            "docid": 11382
+        },
+        {
+            "id": "17",
+            "title": "David H. Freedman, \"The Truth about Genetically Modified Food,\" scientificamerican.com, Sep. 1, 2013",
+            "url": null,
+            "docid": 11383
+        },
+        {
+            "id": "18",
+            "title": "Genetic Literacy Project, \"What Is Nutritionally Enhanced Golden Rice and Why Is It Controversial?,\" gmo.geneticliteracyproject.org (accessed July 22, 2019)",
+            "url": null,
+            "docid": 11384
+        },
+        {
+            "id": "19",
+            "title": "World Health Organization (WHO), \"Global Prevalence of Vitamin a Deficiency,\" who.int, 1995",
+            "url": null,
+            "docid": 11385
+        },
+        {
+            "id": "20",
+            "title": "Food Standards, \"Approval Report – Application A1138,\" foodstandards.gov.au, Dec. 20, 2017",
+            "url": null,
+            "docid": 11386
+        },
+        {
+            "id": "21",
+            "title": "Genetic Literacy Project, \"Which Genetically Engineered Crops and Animals Are Approved in the US?,\" gmo.geneticliteracyproject.org (accessed July 22, 2019)",
+            "url": null,
+            "docid": 11387
+        },
+        {
+            "id": "22",
+            "title": "United States Department of Agriculture Economic Research Service, \"Recent Trends in GE Adoption,\" ers.usda.gov, July 16, 2018",
+            "url": null,
+            "docid": 11388
+        },
+        {
+            "id": "23",
+            "title": "Michael S. Koach, Janson M. Ward, Steven L. Levine, James A. Baum, et al., \"The Food and Environmental Safety of BT Crops,\" ncbi.nlm.nih.gov, Apr. 29, 2015",
+            "url": null,
+            "docid": 11389
+        },
+        {
+            "id": "24",
+            "title": "Krishna S. Nemali et al., \"Physiological Responses Related to Increased Grain Yield under Drought in the First Biotechnology-Derived Drought-Tolerant Maize,\" Plant, Cell & Environment, Sep. 11, 2014",
+            "url": null,
+            "docid": 11390
+        },
+        {
+            "id": "25",
+            "title": "Danielle Prieur, \"Could No-Till Farming Reverse Climate Change?,\" usnews.com, Aug. 4, 2016",
+            "url": null,
+            "docid": 11391
+        },
+        {
+            "id": "26",
+            "title": "International Service for the Acquisition of Agri-Biotec Applications (ISAAA), \"Resources Publications Pocket K Herbicide Tolerance Technology: Glyphosate and Glufosinate Pocket K No. 10: Herbicide Tolerance Technology: Glyphosate and Glufosinate,\" isaaa.org, Oct. 2018",
+            "url": null,
+            "docid": 11392
+        },
+        {
+            "id": "27",
+            "title": "N.K. Fageria and A. Moreira, \"Chapter Four - the Role of Mineral Nutrition on Root Growth of Crop Plants,\" sciencedirect.com, 2011",
+            "url": null,
+            "docid": 11393
+        },
+        {
+            "id": "28",
+            "title": "National Academies of Sciences, Engineering, and Medicine, \"The Impact of Genetically Engineered Crops on Farm Sustainability in the United States,\" nap.edu, 2010",
+            "url": null,
+            "docid": 11394
+        },
+        {
+            "id": "29",
+            "title": "Jon Entine and Rebecca Randall, \"GMO Sustainability Advantage? Glyphosate Spurs No-Till Farming, Preserving Soil Carbon,\" geneticliteracyproject.org, May 5, 2017",
+            "url": null,
+            "docid": 11395
+        },
+        {
+            "id": "30",
+            "title": "Graham Brookes and Peter Barfoot, \"Environmental Impacts of Genetically Modified (Gm) Crop Use 1996–2015: Impacts on Pesticide Use and Carbon Emissions,\" tandfonline.com, May 2, 2017",
+            "url": null,
+            "docid": 11396
+        },
+        {
+            "id": "31",
+            "title": "Grocery Manufacturers Association, \"Grocery Manufacturers Association Position on GMOs,\" gmaonline.org, Sep. 23, 2013",
+            "url": null,
+            "docid": 11397
+        },
+        {
+            "id": "32",
+            "title": "Genetic Literacy Project, \"Why Are There No Long-Term GMO Safety Studies or Studies on Humans?,\" gmo.geneticliteracyproject.org (accessed June 24, 2019)",
+            "url": null,
+            "docid": 11398
+        },
+        {
+            "id": "33",
+            "title": "Consumer Reports, \"GMO Foods: What You Need to Know Why Is There so Much Fuss over Genetically Modified Ingredients? This Will Help You Sift Through the Facts.,\" consumerreports.org, Feb. 26, 2015",
+            "url": null,
+            "docid": 11399
+        },
+        {
+            "id": "34",
+            "title": "Center For Food Safety, \"GE Food & Your Health,\" centerforfoodsafety.org (accessed July 23, 2019)",
+            "url": null,
+            "docid": 11400
+        },
+        {
+            "id": "35",
+            "title": "Chen Zhang, Robert Wohlueter, and Han Zang, \"Genetically Modified Foods: A Critical Review of Their Promise and Problems,\" sciencedirect.com, Sep. 2016",
+            "url": null,
+            "docid": 11401
+        },
+        {
+            "id": "36",
+            "title": "Food and Agriculture Organization of the United Nations and World Health Organization, \"Evaluation of Allergenicity of Genetically Modified Foods,\" fao.gov, Jan. 2001",
+            "url": null,
+            "docid": 11402
+        },
+        {
+            "id": "37",
+            "title": "CBS News, \"Life-Threatening Food?,\" cbsnews.com, May 17, 2001",
+            "url": null,
+            "docid": 11403
+        },
+        {
+            "id": "38",
+            "title": "Consumer Reports, \"GMO Foods: What You Need to Know Why Is There so Much Fuss over Genetically Modified Ingredients? This Will Help You Sift Through the Facts.,\" consumerreports.org, Feb. 26, 2015",
+            "url": null,
+            "docid": 11404
+        },
+        {
+            "id": "39",
+            "title": "Patricia Callahan, \"EPA Tosses Aside Safety Data, Says Dow Pesticide for GMOs Won't Harm People,\" chicagotribune.com, Dec. 8, 2015",
+            "url": null,
+            "docid": 11405
+        },
+        {
+            "id": "40",
+            "title": "Consumer Reports, \"GMO Foods: What You Need to Know Why Is There so Much Fuss over Genetically Modified Ingredients? This Will Help You Sift Through the Facts.,\" consumerreports.org, Feb. 26, 2015",
+            "url": null,
+            "docid": 11406
+        },
+        {
+            "id": "41",
+            "title": "Garden Organic, \"GMOs - Environmental Concerns,\" gardenorganic.org.uk (accessed July 23, 2019)",
+            "url": null,
+            "docid": 11407
+        },
+        {
+            "id": "42",
+            "title": "Jessica Neves, Adam D'Agostino, and Alicia Zolondick, \"Environmental Impact of GMOs,\" blogs.umass.edu, Apr. 20, 2016",
+            "url": null,
+            "docid": 11408
+        },
+        {
+            "id": "43",
+            "title": "Canadian Biotechnology Action Network (CBAN), \"Are GMO Crops Better for the Environment?,\" gmoinquiry.ca, May 2015",
+            "url": null,
+            "docid": 11409
+        },
+        {
+            "id": "44",
+            "title": "US Department of Agriculture, \"Regulation of Biotech Plants,\" usda.gov (accessed June 23, 2019)",
+            "url": null,
+            "docid": 11410
+        },
+        {
+            "id": "45",
+            "title": "Jorge Fernandez-Cornejo, Seth Weshsler, Mike Livingston, and Lorrie Mitchell, \"Genetically Engineered Crops in the United States,\" ers.usda.gov, Feb. 2014",
+            "url": null,
+            "docid": 11411
+        },
+        {
+            "id": "46",
+            "title": "United States Department of Agriculture, \"BE Disclosure,\" ams.usda.gov (accessed June 23, 2019)",
+            "url": null,
+            "docid": 11412
+        },
+        {
+            "id": "47",
+            "title": "United States Department of Agriculture, \"Adoption of Genetically Engineered Crops in the U.S.,\" ers.usda.gov (accessed July 23, 2019)",
+            "url": null,
+            "docid": 11413
+        },
+        {
+            "id": "48",
+            "title": "Center for Food Safety, \"About Genetically Engineered Foods,\" centerforfoodsafety.com (accessed June 23, 2019)",
+            "url": null,
+            "docid": 11414
+        },
+        {
+            "id": "49",
+            "title": "GMO Answers, \"GMOs and Livestock,\" gmoanswers.com (accessed June 23, 2019)",
+            "url": null,
+            "docid": 11415
+        },
+        {
+            "id": "50",
+            "title": "Chicago Tribune, \"FDA OKs Calgene's Flavr Savr Tomato, a 1st for Whole Biotech Food,\" chicagotribune.com, May 18, 1984",
+            "url": null,
+            "docid": 11416
+        },
+        {
+            "id": "51",
+            "title": "G. Bruening, and JM Lyons, \"The Case of the Flavr Savr Tomato,\" calag.ucanr.edu, July 1, 2000",
+            "url": null,
+            "docid": 11417
+        },
+        {
+            "id": "52",
+            "title": "David Johnson and Siobhan O'Connor, \"Health Diet/Nutrition These Charts Show Every Genetically Modified Food People Already Eat in the U.S.,\" time.com, Apr. 30, 2015",
+            "url": null,
+            "docid": 11418
+        },
+        {
+            "id": "53",
+            "title": "Brad Plumer, \"Here’s What 9,000 Years of Breeding Has Done to Corn, Peaches, and Other Crops,\" vox.com, May 12, 2016",
+            "url": null,
+            "docid": 11419
+        },
+        {
+            "id": "54",
+            "title": "Brad Plumer, \"'Traditional Crop Breeding' Isn’t Nearly as Traditional as You Think,\" vox.com, Aug. 5, 2014",
+            "url": null,
+            "docid": 11420
+        },
+        {
+            "id": "55",
+            "title": "FDA, \"Science and History of GMOs and Other Food Modification Processes,\" fda.gov, Apr. 22, 2020",
+            "url": null,
+            "docid": 11421
+        },
+        {
+            "id": "56",
+            "title": "Rudy Pacumbaba, \"Understanding GMOs and Bioengineered Foods,\" aces.edu, June 3, 2020",
+            "url": null,
+            "docid": 11422
+        },
+        {
+            "id": "57",
+            "title": "USDA Agricultural Marketing Service, \"List of Bioengineered Food,\" ams.usda.gov (accessed Jan. 10, 2022)",
+            "url": null,
+            "docid": 11423
+        },
+        {
+            "id": "58",
+            "title": "Genetic Literacy Project, \"Where Are GMO Crops and Animals Approved and Banned?,\" geneticliteracyproject.org (accessed Jan. 10, 2021)",
+            "url": null,
+            "docid": 11424
+        },
+        {
+            "id": "59",
+            "title": "Jennifer Kahn, \"Learning to Love G.M.O.s,\" nytimes.com, July 20, 2021",
+            "url": null,
+            "docid": 11425
+        },
+        {
+            "id": "60",
+            "title": "Melissa Waddell, \"How Do GMOs Affect Biodiversity?,\" livingnongmo.org, Apr. 13, 2021",
+            "url": null,
+            "docid": 11426
+        }
+    ],
+    "discussion": [
+        "1.Should GMOs be grown and used in foods? Why or why not?",
+        "2. Should food labels include whether GMO plants have been included in the products? Why or why not?",
+        "3. What other ways can world hunger be alleviated if not via GMOs? Explain your answers."
+    ],
+    "action": [
+        "1. Consider Megan L. Norris’ answer to the question “Will GMOs Hurt My Body?”",
+        "2. Discover “Science and History of GMOs and Other Food Modification Processes” according to the Food and Drug Administration (FDA).",
+        "3. Explore Farm Aid’s argument tochange the GMO status quo.",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/gmos-top-3-pros-and-cons/"
+}

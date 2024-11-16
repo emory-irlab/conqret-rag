@@ -1,0 +1,357 @@
+{
+    "title": "TikTok Bans – Top 3 Pros and Cons",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Editors of Encyclopaedia Britannica, “TikTok,” britannica.com, Apr. 25, 2023",
+            "url": null,
+            "docid": 5256
+        },
+        {
+            "id": "2",
+            "title": "Joshua Levine, “Primer: Banning TikTok,” americanactionforum.org, Apr. 11, 2023",
+            "url": null,
+            "docid": 5257
+        },
+        {
+            "id": "3",
+            "title": "Bobby Allyn, “Trump Signs Executive Order That Will Effectively Ban Use Of TikTok In the U.S.,” npr.org, Aug. 6, 2020",
+            "url": null,
+            "docid": 5258
+        },
+        {
+            "id": "4",
+            "title": "John D. McKinnon and Georgia Wells, “U.S. Backs Down on TikTok,” wsj.com, Nov. 12, 2020",
+            "url": null,
+            "docid": 5259
+        },
+        {
+            "id": "5",
+            "title": "Executive Office of the President, “Protecting Americans' Sensitive Data From Foreign Adversaries,” federalregister.gov, June 9, 2021",
+            "url": null,
+            "docid": 5260
+        },
+        {
+            "id": "6",
+            "title": "Executive Office of the President, Office of Management and Budget, “M-23-13: Memorandum for the Heads of Executive Departments and Agencies,” whitehouse.gov, Feb. 27, 2023",
+            "url": null,
+            "docid": 5261
+        },
+        {
+            "id": "7",
+            "title": "Raffaele Huang, “China Says It Opposes Forced Sale of TikTok,” wsj.com, Mar. 23, 2023",
+            "url": null,
+            "docid": 5262
+        },
+        {
+            "id": "8",
+            "title": "Emily Baker-White, “The FBI and DOJ Are Investigating ByteDance’s Use of TikTok to Spy on Journalists,” forbes.com, Mar. 16, 2023",
+            "url": null,
+            "docid": 5263
+        },
+        {
+            "id": "9",
+            "title": "Brian Fung, “Montana Lawmakers Vote to Completely Ban TikTok in the State,” cnn.com, Apr. 14, 2023",
+            "url": null,
+            "docid": 5264
+        },
+        {
+            "id": "10",
+            "title": "Meghan Bobrowsky, “TikTok Ban in Montana Faces Speed Bump as Governor Seeks Changes,” wsj.com, Apr. 25, 2023",
+            "url": null,
+            "docid": 5265
+        },
+        {
+            "id": "11",
+            "title": "David McCabe, “Montana Legislature Approves Outright Ban of TikTok,” nytimes.com, Apr. 14, 2023",
+            "url": null,
+            "docid": 5266
+        },
+        {
+            "id": "12",
+            "title": "Sapna Maheshwari, “Montana Governor Signs Total Ban of TikTok in the State,” nytimes.com, May 17, 2023",
+            "url": null,
+            "docid": 5267
+        },
+        {
+            "id": "13",
+            "title": "Bobby Allyn, “TikTok Sues Montana over Its New Law Banning the App,” npr.org, May 22, 2023",
+            "url": null,
+            "docid": 5268
+        },
+        {
+            "id": "14",
+            "title": "Amy Beth Hanson, Haleluya Hadero, and Matthew Brown, “TikTok Content Creators File Lawsuit against Montana over First-in-Nation Law Banning App,” apnews.com, May 18, 2023",
+            "url": null,
+            "docid": 5269
+        },
+        {
+            "id": "15",
+            "title": "N'dea Yancey-Bragg, “Why Are Universities Banning TikTok? Campuses Are Limiting Use on School Devices and Wi-Fi,” usatoday.com, Jan. 19, 2023",
+            "url": null,
+            "docid": 5270
+        },
+        {
+            "id": "16",
+            "title": "Max Zahn, “TikTok Faces Bans in Us and Other Countries. Here’s Why.,” abcnews.go.com, Feb. 28, 2023",
+            "url": null,
+            "docid": 5271
+        },
+        {
+            "id": "17",
+            "title": "Noah Berman, “The U.S. Government Banned TikTok from Federal Devices. What’s Next?,” cfr.org, Jan. 13, 2023",
+            "url": null,
+            "docid": 5272
+        },
+        {
+            "id": "18",
+            "title": "Kelvin Chan, “Here Are the Countries That Have Bans on TikTok,” apnews.com, Apr. 4, 2023",
+            "url": null,
+            "docid": 5273
+        },
+        {
+            "id": "19",
+            "title": "Natasha Bertrand, “NATO Bans TikTok on Devices,” cnn.com, Mar. 31, 2023",
+            "url": null,
+            "docid": 5274
+        },
+        {
+            "id": "20",
+            "title": "Laura Silver and Laura Clancy, “By More than Two-to-One, Americans Support U.S. Government Banning TikTok,” pewresearch.org, Mar. 31, 2023",
+            "url": null,
+            "docid": 5275
+        },
+        {
+            "id": "21",
+            "title": "Catherine Thorbecke, “TikTok Says It Has 150 Million Us Users amid Renewed Calls for a Ban,” cnn.com, Mar. 21, 2023",
+            "url": null,
+            "docid": 5276
+        },
+        {
+            "id": "22",
+            "title": "Jacob Fischler, “One State Already Has Voted to Ban TikTok. For Congress, It’s Going to Be Much Tougher,” missouriindependent.com, Apr. 19, 2023",
+            "url": null,
+            "docid": 5277
+        },
+        {
+            "id": "23",
+            "title": "Brian Fung, “Lawmakers Say TikTok Is a National Security Threat, but Evidence Remains Unclear,” cnn.com, Mar. 21, 2023",
+            "url": null,
+            "docid": 5278
+        },
+        {
+            "id": "24",
+            "title": "Samantha Murphy Kelly, “Rep. Gallagher: We Can’t Ignore TikTok Risks ‘Just Because of Concerns of Alienating Some Teenagers,’” cnn.com, Mar. 23, 2023",
+            "url": null,
+            "docid": 5279
+        },
+        {
+            "id": "25",
+            "title": "Queenie Wong, “TikTok Is a Misinformation Minefield. Don't Get Tripped Up,” cnet.com, Oct. 10, 2022",
+            "url": null,
+            "docid": 5280
+        },
+        {
+            "id": "26",
+            "title": "Jack Brewster, Lorenzo Arvanitis, Valerie Pavilonis, and Macrina Wang, “Beware the ‘New Google:’ TikTok’s Search Engine Pumps Toxic Misinformation to Its Young Users,” newsguardtech.com, Sep. 11, 2022",
+            "url": null,
+            "docid": 5281
+        },
+        {
+            "id": "27",
+            "title": "Puneet Bhargava, “How Effective Are TikTok Misinformation Debunking Videos?,” misinforeview.hks.harvard.edu, Mar. 29, 2023",
+            "url": null,
+            "docid": 5282
+        },
+        {
+            "id": "28",
+            "title": "Tiffany Hsu, “Worries Grow That TikTok Is New Home for Manipulated Video and Photos,” nytimes.com, Nov. 4, 2022",
+            "url": null,
+            "docid": 5283
+        },
+        {
+            "id": "29",
+            "title": "Ben Popken, “Laundry Pods Can Be Fatal for Adults with Dementia,” nbcnews.com, June 16, 2017",
+            "url": null,
+            "docid": 5284
+        },
+        {
+            "id": "30",
+            "title": "Niraj Chokshi, “Yes, People Really Are Eating Tide Pods. No, It’s Not Safe.,” nytimes.com, Jan. 20, 2018",
+            "url": null,
+            "docid": 5285
+        },
+        {
+            "id": "31",
+            "title": "Matthew Wilkins, “Top 5 Questionable TikTok Trends So Far: From Eating Tide Pods to Dancing on Graves,” sportskeeda.com, Mar. 31, 2021",
+            "url": null,
+            "docid": 5286
+        },
+        {
+            "id": "32",
+            "title": "Kyra Colah, “7 Dangerous TikTok Challenges for Kids That Parents Must Know About: ‘Extreme and Risky,’” foxnews.com, Mar. 18, 2023",
+            "url": null,
+            "docid": 5287
+        },
+        {
+            "id": "33",
+            "title": "Rebecca Klar, “How Could the US Ban TikTok?,” thehill.com, Mar. 29, 2023",
+            "url": null,
+            "docid": 5288
+        },
+        {
+            "id": "34",
+            "title": "FBI, “The China Threat,” fbi.gov (accessed May 4, 2023)",
+            "url": null,
+            "docid": 5289
+        },
+        {
+            "id": "35",
+            "title": "Mitt Romney, “Romney, Colleagues Unveil Bill to Tackle TikTok’s National Security Threat,” romney.senate.gov, Mar. 3, 2023",
+            "url": null,
+            "docid": 5290
+        },
+        {
+            "id": "36",
+            "title": "Courtney Kube and Carol E. Lee, “U.S. Military Sites, despite U.S. Efforts to Block It,” nbcnews.com, Apr. 3, 2023",
+            "url": null,
+            "docid": 5291
+        },
+        {
+            "id": "37",
+            "title": "Department of Justice Office of Public Affairs, “Two Arrested for Operating Illegal Overseas Police Station of the Chinese Government,” justice.gov, Apr. 17, 2023",
+            "url": null,
+            "docid": 5292
+        },
+        {
+            "id": "38",
+            "title": "Geoffrey A. Fowler, “TikTok and You: Should You Delete the App Now?,” washingtonpost.com, Mar. 23, 2023",
+            "url": null,
+            "docid": 5293
+        },
+        {
+            "id": "39",
+            "title": "TikTok, “A Message to Our Community in Montana,” newsroom.tiktok.com, Mar. 13, 2023",
+            "url": null,
+            "docid": 5294
+        },
+        {
+            "id": "40",
+            "title": "Evan Greer, “Opinion: Banning TikTok Isn’t Just a Bad Idea. It’s a Dangerous One.,” cnn.com, Apr. 16, 2023",
+            "url": null,
+            "docid": 5295
+        },
+        {
+            "id": "41",
+            "title": "Mack DeGeurin, “‘Our Free Will Is Being Taken’: Montana TikTokers Caught in Legal Limbo After State’s Unprecedented Ban,” gizmodo.com, Apr. 27, 2023",
+            "url": null,
+            "docid": 5296
+        },
+        {
+            "id": "42",
+            "title": "TikTok, “Celebrating Our Thriving Community of 150 Million Americans,” newsroom.tiktok.com, Mar. 21, 2023",
+            "url": null,
+            "docid": 5297
+        },
+        {
+            "id": "43",
+            "title": "Colin Salao, “How a College Football Player Built an Audience of Nearly 2 Million TikTok Followers — and How Much He’s Earned from Brand Deals,” businessinsider.com, Nov. 28, 2022",
+            "url": null,
+            "docid": 5298
+        },
+        {
+            "id": "44",
+            "title": "Dan Whateley, “How Much Money TikTokers Make, according to Creators,” businessinsider.com, Dec. 21, 2022",
+            "url": null,
+            "docid": 5299
+        },
+        {
+            "id": "45",
+            "title": "Rebecca M. Kulik, “Xenophobia,” britannica.com, Apr. 27, 2023",
+            "url": null,
+            "docid": 5300
+        },
+        {
+            "id": "46",
+            "title": "Bryan Metzger, “Rep. Jamaal Bowman Says the Push to Ban TikTok Is ‘Xenophobic’ and ‘Part of Another Red Scare,’” businessinsider.com, Mar. 21, 2023",
+            "url": null,
+            "docid": 5301
+        },
+        {
+            "id": "47",
+            "title": "Catherine Thorbecke, “A TikTok Ban Would Help Facebook, Swisher Says,” cnn.com, Mar. 23, 2023",
+            "url": null,
+            "docid": 5302
+        },
+        {
+            "id": "48",
+            "title": "Thomas Germain, “Sen. Mark Warner Says His New TikTok Ban Is Just Good Business,” gizmodo.com, Mar. 6, 2023",
+            "url": null,
+            "docid": 5303
+        },
+        {
+            "id": "49",
+            "title": "Allison Morrow, “Washington Has Gone All In on TikTok Hysteria,” cnn.com, Mar. 23, 2023",
+            "url": null,
+            "docid": 5304
+        },
+        {
+            "id": "50",
+            "title": "Karl Bode, “Forget a TikTok Ban, We Need to Regulate Data Brokers and Pass a Real Privacy Law,” techdirt.com, Mar. 21, 2023",
+            "url": null,
+            "docid": 5305
+        },
+        {
+            "id": "51",
+            "title": "Karl Bode, “He Great TikTok Moral Panic Continues As Senators Thune, Warner Attempt a More Elaborate Ban,” techdirt.com, Mar. 9, 2023",
+            "url": null,
+            "docid": 5306
+        },
+        {
+            "id": "52",
+            "title": "Julia Angwin, “How to Fix the TikTok Problem,” nytimes.com, Mar 20, 2023",
+            "url": null,
+            "docid": 5307
+        },
+        {
+            "id": "53",
+            "title": "Daniel Howley, “TikTok Is As Dangerous As Any Social Media App,” news.yahoo.com, Mar. 8, 2023",
+            "url": null,
+            "docid": 5308
+        },
+        {
+            "id": "54",
+            "title": "Sapna Maheshwari, \"Judge Halts TikTok Ban in Montana,\" nytimes.com, Nov. 30, 2023",
+            "url": null,
+            "docid": 5309
+        },
+        {
+            "id": "55",
+            "title": "David McCabe and Sapna Maheshwari, \"What to Know About the TikTok Bill That the House Passed,\" nytimes.com, Mar. 13, 2024",
+            "url": null,
+            "docid": 5310
+        },
+        {
+            "id": "56",
+            "title": "Todd Spangler, \"TikTok Ban: House Passes Bill That Would Outlaw App in U.S. Unless Its Chinese Parent Sells Ownership Stake,\" variety.com, Mar. 13, 2024",
+            "url": null,
+            "docid": 5311
+        }
+    ],
+    "discussion": [
+        "1. Should American federal or state governments ban TikTok on government devices? Why or why not?",
+        "2. Should TikTok be banned for the average American citizen? Explain your answer(s).",
+        "3. What policies should be enacted (if any) to minimize the risk of social media challenges and private data leaks? Explain your answer(s)."
+    ],
+    "action": [
+        "1. Consider the plight of TikTok influencers in Montana withGizmodo.",
+        "2. Examine Senator Romney’sRESTRICT Act.",
+        "3. Brainstorm ways tocounter misinformationon social media with University of Regina researchers.",
+        "4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.",
+        "5. Push for the position and policies you support by writing US nationalsenatorsandrepresentatives."
+    ],
+    "url": "https://www.procon.org/headlines/tiktok-bans-top-3-pros-and-cons/"
+}

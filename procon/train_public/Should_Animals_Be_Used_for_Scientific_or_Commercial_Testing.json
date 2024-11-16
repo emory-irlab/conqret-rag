@@ -1,0 +1,764 @@
+{
+    "title": "Should Animals Be Used for Scientific or Commercial Testing?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "The Hastings Center, \"Fact Sheet: Animals Used in Research in the U.S.,\" animalresearch.thehastingscenter.org (accessed Oct. 15, 2013)",
+            "docid": 11146
+        },
+        {
+            "id": "2",
+            "title": "Speaking of Research, \"US Statistics,\" speakingofresearch.com (accessed Oct. 15, 2013)",
+            "docid": 11147
+        },
+        {
+            "id": "3",
+            "title": "Animal Welfare Act,gpo.gov, last amended June 18, 2008",
+            "docid": 11148
+        },
+        {
+            "id": "4",
+            "title": "The Jane Goodall Institute of Canada, \"Conservation & Threats,\" janegoodall.ca (accessed Oct. 15, 2013)",
+            "docid": 11149
+        },
+        {
+            "id": "5",
+            "title": "Science Museum (UK), \"Thalidomide,\" sciencemuseum.org.uk (accessed Oct. 17, 2013)",
+            "docid": 11150
+        },
+        {
+            "id": "6",
+            "title": "US Department of Defense, \"Animal Care and Use Programs for Fiscal Years 2006 and 2007,\" dtic.mil (accessed Oct. 15, 2013)",
+            "docid": 11151
+        },
+        {
+            "id": "7",
+            "title": "National Aeronautics and Space Administration (NASA), \"A Brief History of Animals in Space,\" history.nasa.gov (accessed Oct. 17, 2013)",
+            "docid": 11152
+        },
+        {
+            "id": "8",
+            "title": "Chicago Tribune, \"Nasa Loading More Than 2,000 Animals into Shuttle,\" chicagotribune.com, Apr. 15, 1998",
+            "docid": 11153
+        },
+        {
+            "id": "9",
+            "title": "California Biomedical Research Association, \"CBRA Fact Sheet: Why Are Animals Necessary in Biomedical Research?,\" ca-biomed.org (accessed Oct. 15, 2013)",
+            "docid": 11154
+        },
+        {
+            "id": "10",
+            "title": "AnimalResearch.info, \"Diseases & Research,\" animalresearch.info (accessed Oct. 15, 2013)",
+            "docid": 11155
+        },
+        {
+            "id": "11",
+            "title": "Elizabeth Fisher, \"Why We Should Accept Animal Testing,\" huffingtonpost.co.uk, July 17, 2013",
+            "docid": 11156
+        },
+        {
+            "id": "12",
+            "title": "Speaking of Research, \"Alternatives?,\" speakingofresearch.com (accessed Oct. 15, 2013)",
+            "docid": 11157
+        },
+        {
+            "id": "13",
+            "title": "American Association for Laboratory Animal Science, \"Animal Research FAQ,\" aalas.org (accessed Oct. 15, 2013)",
+            "docid": 11158
+        },
+        {
+            "id": "14",
+            "title": "Associated Press, \"Texas Research Chimps Face Retirement, Relocation,\" khou.com, July 22, 2013",
+            "docid": 11159
+        },
+        {
+            "id": "15",
+            "title": "Kara Rogers, \"Scientific Alternatives to Animal Testing: A Progress Report,\" britannica.com, Sep. 17, 2007",
+            "docid": 11160
+        },
+        {
+            "id": "16",
+            "title": "Jonathan Smith, \"Can Biotechnology Reduce Animal Testing in Medicine?,” labiotech.eu, Apr. 8, 2019",
+            "docid": 11161
+        },
+        {
+            "id": "17",
+            "title": "Understanding Animal Research, \"Myths and Facts,\" understandinganimalresearch.org.uk (accessed Oct. 15, 2013)",
+            "docid": 11162
+        },
+        {
+            "id": "18",
+            "title": "David Wright, Cole Kazdin, and Lauren Effron, \"'Zoobiquity': 7 Diseases Animals Share with Humans,\" abcnews.go.com, June 12, 2012",
+            "docid": 11163
+        },
+        {
+            "id": "19",
+            "title": "Speaking of Research, \"Animal Research Is Not 'Animal Testing,'\" speakingofresearch.com, Jan. 17, 2013",
+            "docid": 11164
+        },
+        {
+            "id": "20",
+            "title": "US National Institutes of Health (NIH), \"Laws Related to the Protection of Human Subjects: World Medical Association Declaration of Helsinki,\" history.nih.gov (accessed Oct. 15, 2013)",
+            "docid": 11165
+        },
+        {
+            "id": "21",
+            "title": "California Veterinary Medical Association, \"Animal Research: How It Benefits Both Humans and Animals,\" cvma.net (accessed Oct. 15, 2013)",
+            "docid": 11166
+        },
+        {
+            "id": "22",
+            "title": "Peter Beaumont, \"Australia's Koala Crisis: Gene Sequencing Provides Hope against Killer Diseases,\" theguardian.com, Apr. 20, 2013",
+            "docid": 11167
+        },
+        {
+            "id": "23",
+            "title": "American Veterinary Medical Association, \"Use of Animals in Research, Testing, and Education,\" avma.org (accessed Oct. 15, 2013)",
+            "docid": 11168
+        },
+        {
+            "id": "24",
+            "title": "Christian E. Newcomer, VMD, email to ProCon.org, Oct. 11, 2013",
+            "docid": 11169
+        },
+        {
+            "id": "25",
+            "title": "Americans for Medical Progress, \"Animal Research FAQs: The Top 10 Questions,\" amprogress.org (accessed Oct. 15, 2013)",
+            "docid": 11170
+        },
+        {
+            "id": "26",
+            "title": "US Department of Agriculture (USDA) Animal and Plant Health Inspection Service (APHIS), \"Annual Report Animal Usage by Fiscal Year: 2010,\" aphis.usda.gov, July 27, 2011",
+            "docid": 11171
+        },
+        {
+            "id": "27",
+            "title": "Rutgers University Laboratory Animal Services, \"II. Federal, State And University Laws, Regulations, Guidelines And Policies,\" las.rutgers.edu (accessed Oct. 15, 2013)",
+            "docid": 11172
+        },
+        {
+            "id": "28",
+            "title": "Charlotte Hu, \"Of Mice and Model Organisms,” cshl.edu, July 31, 2019",
+            "docid": 11173
+        },
+        {
+            "id": "29",
+            "title": "George Dvorsky, \"Do These Startling Longevity Studies Mean Your Lifespan Could Double?,\" io9.com, Apr. 30, 2013",
+            "docid": 11174
+        },
+        {
+            "id": "30",
+            "title": "Science Daily, \"Naked Mole Rat's Secret to Staying Cancer Free,\" sciencedaily.com, July 31, 2013",
+            "docid": 11175
+        },
+        {
+            "id": "31",
+            "title": "Nature Genetics, \"Editorial: Animal Research and the Search for Understanding,\" nature.com, 2006",
+            "docid": 11176
+        },
+        {
+            "id": "32",
+            "title": "Americans for Medical Progress, \"Touring an Animal Research Facility,\" youtube.com, Oct. 21, 2008",
+            "docid": 11177
+        },
+        {
+            "id": "33",
+            "title": "Tibor R. Machan, \"Animals Do Not Have Rights,\" nytimes.com, Apr. 5, 2012",
+            "docid": 11178
+        },
+        {
+            "id": "34",
+            "title": "A. Barton Hinkle, \"Do Animals Have Rights?,\" reason.com, Sep. 23, 2011",
+            "docid": 11179
+        },
+        {
+            "id": "35",
+            "title": "Daniel Cressey, \"Animal Research: Battle Scars,\" nature.com, Feb. 23, 2011",
+            "docid": 11180
+        },
+        {
+            "id": "36",
+            "title": "American Physiological Society, \"Animal Research,\" the-aps.org (accessed Oct. 15, 2013)",
+            "docid": 11181
+        },
+        {
+            "id": "37",
+            "title": "National Association for Biomedical Research, \"Mission Statement,\" nabr.org (accessed Oct. 15, 2013)",
+            "docid": 11182
+        },
+        {
+            "id": "38",
+            "title": "American Heart Association, \"Public Policy Agenda 2010-14,\" heart.org (accessed Oct. 15, 2013)",
+            "docid": 11183
+        },
+        {
+            "id": "39",
+            "title": "Society of Toxicology, \"Animals in Research Public Policy Statement,\" toxicology.org, Mar. 1999",
+            "docid": 11184
+        },
+        {
+            "id": "40",
+            "title": "American Cancer Society, \"Did You Know...,\" main.acsevents.org (accessed Oct. 15, 2013)",
+            "docid": 11185
+        },
+        {
+            "id": "41",
+            "title": "Campaign for Safe Cosmetics, \"Nonprofits: Endorse the Campaign,\" safecosmetics.org (accessed Oct. 15, 2013)",
+            "docid": 11186
+        },
+        {
+            "id": "42",
+            "title": "US Food and Drug Administration, \"Animal Testing and Cosmetics,\" fda.gov, Apr. 5, 2006",
+            "docid": 11187
+        },
+        {
+            "id": "43",
+            "title": "Bloomberg News, \"China Animal Testing Complicates L'Oreal’s Expansion,\" Bloomberg.com, Aug. 22, 2013",
+            "docid": 11188
+        },
+        {
+            "id": "44",
+            "title": "SC Johnson, \"SC Johnson Point of View on Animal Testing,\" scjohnson.com, Oct. 23, 2019",
+            "docid": 11189
+        },
+        {
+            "id": "45",
+            "title": "\"Genesis 1:26,\" kingjamesbibleonline.org (accessed Oct. 15, 2013)",
+            "docid": 11190
+        },
+        {
+            "id": "46",
+            "title": "British Broadcasting Corporation (BBC), \"Animal Ethics,\" bbc.co.uk (accessed Oct. 15, 2013)",
+            "docid": 11191
+        },
+        {
+            "id": "47",
+            "title": "Humane Society International, \"About Animal Testing,\" hsi.org (accessed Oct. 15, 2013)",
+            "docid": 11192
+        },
+        {
+            "id": "48",
+            "title": "Scientific American, \"Do Cosmetic Companies Still Test on Live Animals?,\" scientificamerican.com (accessed Oct. 15, 2013)",
+            "docid": 11193
+        },
+        {
+            "id": "49",
+            "title": "Rodrigo Netto Costa et al., \"A Reassessment of thein VitroTotal Protein Content Determination (TPC) with SIRC and 3T3 Cells for the Evaluation of the Ocular Irritation Potential of Shampoos: Comparison with thein VivoDraize Rabbit Test,\"Brazilian Archives of Biology and Technology, Nov.-Dec. 2011",
+            "docid": 11194
+        },
+        {
+            "id": "50",
+            "title": "Geoff Watts, \"Alternatives to Animal Experimentation,\"BMJ, Jan. 27, 2007",
+            "docid": 11195
+        },
+        {
+            "id": "51",
+            "title": "Axonn News Agency, \"Greiner Bio-One Launches Artificial Skin to Replace Animal Testing,\" zenopa.com, July 15, 2013",
+            "docid": 11196
+        },
+        {
+            "id": "52",
+            "title": "New England Anti-Vivisection Society (NEAVS), \"Biomedical Research,\" neavs.org (accessed Oct. 15, 2013)",
+            "docid": 11197
+        },
+        {
+            "id": "53",
+            "title": "Humane Society International, \"As Home Office Statistics Show UK Animal Experiments At Shocking 4.11Million, HSI Calls on Government to Increase Spend on Non-Animal Replacement Techniques,\" hsi.org, July 16, 2013",
+            "docid": 11198
+        },
+        {
+            "id": "54",
+            "title": "Jeffrey M. Perkel, \"Life Science Technologies: Animal-Free Toxicology: Sometimes,in Vitrois Better,\" sciencemag.org (accessed Oct. 15, 2013)",
+            "docid": 11199
+        },
+        {
+            "id": "55",
+            "title": "Physicians Committee for Responsible Medicine (PCRM), \"Vioxx Tragedy Spotlights Failure of Animal Research,\" pcrm.org, Mar. 2005",
+            "docid": 11200
+        },
+        {
+            "id": "56",
+            "title": "NBC News, \"Report: Vioxx Linked to Thousands of Deaths,\" nbcnews.com, Oct. 6, 2004",
+            "docid": 11201
+        },
+        {
+            "id": "57",
+            "title": "Understanding Animal Research, \"Nine Out of Ten Statistics Are Taken Out of Context,\" understandinganimalresearch.org.uk, Jan. 23, 2013",
+            "docid": 11202
+        },
+        {
+            "id": "58",
+            "title": "Aysha Akhtar, MD, MPH, \"Want to Improve Medical Research? Cut Out the Animals!,\" huffingtonpost.com, July 11, 2013",
+            "docid": 11203
+        },
+        {
+            "id": "59",
+            "title": "Junhee Seok et al., \"Genomic Responses in Mouse Models Poorly Mimic Human Inflammatory Diseases,\"Proceedings of the National Academy of Sciences of the United States of America(PNAS), Feb. 11, 2013",
+            "docid": 11204
+        },
+        {
+            "id": "60",
+            "title": "Marcel Leist and Thomas Hartung, \"Inflammatory Findings on Species Extrapolations: Humans Are Definitely No 70-kg Mice,\"Archives of Toxicology, 2013",
+            "docid": 11205
+        },
+        {
+            "id": "61",
+            "title": "Humane Society International, \"Costs of Animal and Non-Animal Testing,\" hsi.org (accessed Oct. 15, 2013)",
+            "docid": 11206
+        },
+        {
+            "id": "62",
+            "title": "Kathleen Conlee, \"Animal Testing Not Effective,\" live.huffingtonpost.com, July 12, 2013",
+            "docid": 11207
+        },
+        {
+            "id": "63",
+            "title": "US National Institutes of Health, \"NIH Budget,\" nih.gov (accessed Oct. 15, 2013)",
+            "docid": 11208
+        },
+        {
+            "id": "64",
+            "title": "Carol Kilkenny et al., \"Survey of the Quality of Experimental Design, Statistical Analysis and Reporting of Research Using Animals,\"PLOS One, 2009",
+            "docid": 11209
+        },
+        {
+            "id": "65",
+            "title": "Humane Society of the United States, \"Questions and Answers about Biomedical Research,\" humanesociety.org, Sep. 16, 2013",
+            "docid": 11210
+        },
+        {
+            "id": "66",
+            "title": "Peter Singer,Animal Liberation, 2009",
+            "docid": 11211
+        },
+        {
+            "id": "67",
+            "title": "Richard Dawkins, \"But Can They Suffer,\" richarddawkins.net, June 29, 2011",
+            "docid": 11212
+        },
+        {
+            "id": "68",
+            "title": "Humane Society of the United States, \"Undercover Investigation Reveals Cruelty to Chimps at Research Lab,\" humanesociety.org, Mar. 4, 2009",
+            "docid": 11213
+        },
+        {
+            "id": "69",
+            "title": "Marjie Lundstrom, \"UC Davis Researcher Suspended over Animal Care Allegations,\"Sacramento Beewebsite, Oct. 7, 2012",
+            "docid": 11214
+        },
+        {
+            "id": "70",
+            "title": "\"Proverbs 12:10,\" kingjamesbibleonline.org (accessed Oct. 15, 2013)",
+            "docid": 11215
+        },
+        {
+            "id": "71",
+            "title": "US National Academy of Sciences,Guide for the Care and Use of Laboratory Animals: Eighth Edition, 2011",
+            "docid": 11216
+        },
+        {
+            "id": "72",
+            "title": "National Association for Biomedical Research, \"Species in Research,\" nabr.org (accessed Oct. 15, 2013)",
+            "docid": 11217
+        },
+        {
+            "id": "73",
+            "title": "US Food and Drug Administration, \"Small Business Assistance: Frequently Asked Questions on Drug Development and Investigational New Drug Applications,\" fda.gov (accessed Oct. 15, 2013)",
+            "docid": 11218
+        },
+        {
+            "id": "74",
+            "title": "Benjamin Adams and Jean Larson, \"Legislative History of the Animal Welfare Act,\" nal.usda.gov (accessed Oct. 17, 2013)",
+            "docid": 11219
+        },
+        {
+            "id": "75",
+            "title": "Daniel Engber, \"Where's Pepper?,\" slate.com, June 1, 2009",
+            "docid": 11220
+        },
+        {
+            "id": "76",
+            "title": "Frank Newport and Igor Himelfarb, \"In U.S., Record-High Say Gay, Lesbian Relations Morally OK,\" gallup.com, May 20, 2013",
+            "docid": 11221
+        },
+        {
+            "id": "77",
+            "title": "Joy Wilke and Lydia Saad, \"Older Americans' Moral Attitudes Changing,\" gallup.com, June 3, 2013",
+            "docid": 11222
+        },
+        {
+            "id": "78",
+            "title": "Lake Research Partners, \"Ending Cosmetics Testing on Animals in the United States: Findings from a Nationwide Survey of 802 Registered Voters, Including 206 Via Cell Phone,\" humanesociety.org, 2013",
+            "docid": 11223
+        },
+        {
+            "id": "79",
+            "title": "Richard R. Sharp, \"Ethical Issues in the Use of Animals in Biomedical Research,\" hhs.gov (accessed Oct. 15, 2013)",
+            "docid": 11224
+        },
+        {
+            "id": "80",
+            "title": "Anita Guerrini,Experimenting with Humans and Animals: From Galen to Animal Rights, 2003",
+            "docid": 11225
+        },
+        {
+            "id": "81",
+            "title": "US National Institutes of Health, \"Greek Medicine: Galen,\" nlm.nih.gov, Feb. 7, 2012",
+            "docid": 11226
+        },
+        {
+            "id": "82",
+            "title": "Rachel Hajar, MD, \"Animal Testing and Medicine,\"Heart Views, Jan.-Mar. 2011",
+            "docid": 11227
+        },
+        {
+            "id": "83",
+            "title": "Anita Guerrini, \"The Rhetorics of Animal Rights,\"Applied Ethics in Animal Research: Philosophy, Regulation, and Laboratory Applications, Ed. John P. Gluck et al., 2002",
+            "docid": 11228
+        },
+        {
+            "id": "84",
+            "title": "British Broadcasting Corporation (BBC), \"William Harvey (1578 - 1657),\" bbc.co.uk (accessed Oct. 15, 2013)",
+            "docid": 11229
+        },
+        {
+            "id": "85",
+            "title": "Domenico Ribatti, \"William Harvey and the Discovery of the Circulation of the Blood,\"Journal of Angiogenesis Research, Sep. 21, 2009",
+            "docid": 11230
+        },
+        {
+            "id": "86",
+            "title": "Ivan Petrovich Pavlov,Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex, 1927",
+            "docid": 11231
+        },
+        {
+            "id": "87",
+            "title": "British Union for the Abolition of Vivisection, \"Records of the British Union for the Abolition of Vivisection,\" nationalarchives.gov.uk (accessed Oct. 15, 2013)",
+            "docid": 11232
+        },
+        {
+            "id": "88",
+            "title": "Sir Rickman John Godlee,Lord Lister, 1918",
+            "docid": 11233
+        },
+        {
+            "id": "89",
+            "title": "National Centre for the Replacement, Refinement and Reduction of Animals in Research (NC3Rs), \"The Challenge of Animal Research,\" nc3rs.org.uk (accessed Oct. 15, 2013)",
+            "docid": 11234
+        },
+        {
+            "id": "90",
+            "title": "Darian M. Ibrahim, \"Reduce, Refine, Replace: The Failure of the Three R's and the Future of Animal Experimentation,\" Social Science Research Network website, Mar. 4, 2006",
+            "docid": 11235
+        },
+        {
+            "id": "91",
+            "title": "Joanne Zurlo, Deborah Rudacille, and Alan M. Goldberg, \"The Three R's: The Way Forward,\"Environmental Health Perspectives, Aug. 1996",
+            "docid": 11236
+        },
+        {
+            "id": "92",
+            "title": "David Whitehouse, \"First Dog in Space Died within Hours,\" news.bbc.co.uk, Oct. 28, 2002",
+            "docid": 11237
+        },
+        {
+            "id": "93",
+            "title": "Physicians Committee for Responsible Medicine (PCRM), \"Military Avoids Timeline to Modernize Combat Trauma Training,\" pcrm.org (accessed Oct. 16, 2013)",
+            "docid": 11238
+        },
+        {
+            "id": "94",
+            "title": "Ernesto Londoño, \"Military Is Required to Justify Using Animals in Medic Training after Pressure from Activists,\" washingtonpost.com, Feb. 24, 2013",
+            "docid": 11239
+        },
+        {
+            "id": "95",
+            "title": "Mike M. Ahlers, \"Coast Guard Reexamines Use of Live Goats as Battle 'Patients,'\" cnn.com, May 3, 2013",
+            "docid": 11240
+        },
+        {
+            "id": "96",
+            "title": "Daniel Engber, \"Me and My Monkey,\" slate.com, June 5, 2009",
+            "docid": 11241
+        },
+        {
+            "id": "97",
+            "title": "Sheryl Gay Stolberg, \"Debate over Whether to Defend Animal Tests,\" nytimes.com, July 23, 2002",
+            "docid": 11242
+        },
+        {
+            "id": "98",
+            "title": "James Kanter, \"E.U. Bans Cosmetics with Animal-Tested Ingredients,\" nytimes.com, Mar. 11, 2013",
+            "docid": 11243
+        },
+        {
+            "id": "99",
+            "title": "Alicia Graef, \"Victory! India Bans Animal Testing for Cosmetics,\" care2.com, July 2, 2013",
+            "docid": 11244
+        },
+        {
+            "id": "100",
+            "title": "James Gorman, \"U.S. to Begin Retiring Most Research Chimps,\" nytimes.com, June 26, 2013",
+            "docid": 11245
+        },
+        {
+            "id": "101",
+            "title": "Nobel Media, \"The Discovery of Insulin,\" nobelprize.org (accessed Oct. 16, 2013)",
+            "docid": 11246
+        },
+        {
+            "id": "102",
+            "title": "US Department of Agriculture, \"Annual Report Animal Usage by Fiscal Year,” aphis.usda.gov, Jan. 7, 2020",
+            "docid": 11247
+        },
+        {
+            "id": "103",
+            "title": "Encyclopædia Britannica, \"Ahimsa,\" Britannica.com (accessed Oct. 16, 2013)",
+            "docid": 11248
+        },
+        {
+            "id": "104",
+            "title": "National Academy of Sciences, \"Report Calls for New Directions, Innovative Approaches in Testing Chemicals for Toxicity to Humans,\" nationalacademies.org, June 12, 2007",
+            "docid": 11249
+        },
+        {
+            "id": "105",
+            "title": "Aysha Akhtar, MD, MPH,Animals and Public Health: Why Treating Animals Better Is Critical to Human Welfare, 2012",
+            "docid": 11250
+        },
+        {
+            "id": "106",
+            "title": "Arthur Allen, \"Of Mice or Men: The Problems with Animal Testing,\" slate.com, June 1, 2006",
+            "docid": 11251
+        },
+        {
+            "id": "107",
+            "title": "Aysha Akhtar, MD, MPH, email to ProCon.org, Oct. 14, 2013",
+            "docid": 11252
+        },
+        {
+            "id": "108",
+            "title": "Karl S. Kruszelnicki, \"Mouse with Human Ear,\" abc.net.au, June 2, 2006",
+            "docid": 11253
+        },
+        {
+            "id": "109",
+            "title": "Ray Greek, MD, et al., \"The History and Implications of Testing Thalidomide on Animals,\"Journal of Philosophy, Science & Law, Oct. 3, 2011",
+            "docid": 11254
+        },
+        {
+            "id": "110",
+            "title": "John J. Pippin, MD and Kristie Sullivan, MPH, \"Dangerous Medicine: Examples of Animal-Based 'Safety' Tests Gone Wrong,\" Physicians Committee for Responsible Medicine website (accessed Oct. 23, 2013)",
+            "docid": 11255
+        },
+        {
+            "id": "111",
+            "title": "Pro-Test, \"Frequently Asked Questions,\" pro-test.org.uk (accessed Oct. 23, 2013)",
+            "docid": 11256
+        },
+        {
+            "id": "112",
+            "title": "World Health Organization, \"Poliomyelitis,\" who.int, Apr. 2013",
+            "docid": 11257
+        },
+        {
+            "id": "113",
+            "title": "Pamela Bass, email to ProCon.org, Oct. 21, 2013",
+            "docid": 11258
+        },
+        {
+            "id": "114",
+            "title": "Julie Naughton, \"China's FDA Adjusts Mandatory Animal Testing,\"Women's Wear Dailywebsite, Nov. 7, 2013",
+            "docid": 11259
+        },
+        {
+            "id": "115",
+            "title": "Tom Holder, \"Animal Research Is an Ethical and Vital Tool to Fight Disease,\" blogs.law.harvard.edu, Jan. 14, 2013",
+            "docid": 11260
+        },
+        {
+            "id": "116",
+            "title": "Mike Wall, \"US Was First to Send Monkey to Space in 1948,\" nbcnews.com, Jan. 28, 2013",
+            "docid": 11261
+        },
+        {
+            "id": "117",
+            "title": "National Institutes of Health, \"NIH Will No Longer Support Biomedical Research on Chimpanzees,\" nih.gov, Nov. 18, 2015",
+            "docid": 11262
+        },
+        {
+            "id": "118",
+            "title": "Global Polio Eradication Initiative, \"Polio This Week,\" polioeradication.org (accessed Sep. 22, 2017)",
+            "docid": 11263
+        },
+        {
+            "id": "119",
+            "title": "Julie Steenhuysen, \"As Pressure for Coronavirus Vaccine Mounts, Scientists Debate Risks of Accelerated Testing,” reuters.com, Mar. 11, 2020",
+            "docid": 11264
+        },
+        {
+            "id": "120",
+            "title": "Carly Funk and Lee Rainie, \"Public and Scientists' Views on Science and Society,\" pewinternet.org, Jan. 29, 2015",
+            "docid": 11265
+        },
+        {
+            "id": "121",
+            "title": "US Department of Agriculture (USDA) Animal and Plant Health Inspection Service (APHIS), \"Annual Report Animal Usage by Fiscal Year: 2016,\" aphis.usda.gov, June 27, 2017",
+            "docid": 11266
+        },
+        {
+            "id": "122",
+            "title": "United States Department of Agriculture, In Re: SNBL USA, LTD: AWA Docket 16-0187, Sep. 26, 2016",
+            "docid": 11267
+        },
+        {
+            "id": "123",
+            "title": "Alice Klein, \"Chlamydia Vaccine for Koalas Slows Spread of Deadly Disease,\" newscientist.com, Apr. 21, 2017",
+            "docid": 11268
+        },
+        {
+            "id": "124",
+            "title": "John Ericson, \"Breakthroughs Might Mean the End of Animal Testing,\" newsweek.com, Mar. 18, 2014",
+            "docid": 11269
+        },
+        {
+            "id": "125",
+            "title": "Jeff Flake, \"Wastebook: Porkemon Go,\" flake.senate.gov, Jan. 2017",
+            "docid": 11270
+        },
+        {
+            "id": "126",
+            "title": "People for the Ethical Treatment of Animals (PETA), \"Tell Congress: Cut Funding for Cruel Experiments on Animals,\" support.peta.org (accessed Oct. 18, 2017)",
+            "docid": 11271
+        },
+        {
+            "id": "127",
+            "title": "Emily Trunnell, \"The University of Pittsburgh Is Using Taxpayer Dollars to Conduct Cruel and Unnecessary Animal Experiments,\" alternet.org, Sep. 7, 2017",
+            "docid": 11272
+        },
+        {
+            "id": "128",
+            "title": "Stacy L. Pritt and Robert E. Hammer, \"The Interplay of Ethics, Animal Welfare, and IACUC Oversight on the Reproducibility of Animal Studies,\"Comparative Medicine, Apr. 2017",
+            "docid": 11273
+        },
+        {
+            "id": "129",
+            "title": "New Internationalist, \"Is Animal Testing Necessary to Advance Medical Research?\" newint.org, June 1, 2011",
+            "docid": 11274
+        },
+        {
+            "id": "130",
+            "title": "Humane Research Australia (HRA), \"Medical Research,\" humaneresearch.org.au, Jan. 2006",
+            "docid": 11275
+        },
+        {
+            "id": "131",
+            "title": "Mihir Zaveri, Mariel Padilla, and Jaclyn Peiser, \"E.P.A. Says It Will Drastically Reduce Animal Testing,\" nytimes.com, Sep. 10, 2019",
+            "docid": 11276
+        },
+        {
+            "id": "132",
+            "title": "Frontiers, \"Algorithm for Large-scale Brain Simulations,” science daily.com, Mar. 5, 2018",
+            "docid": 11277
+        },
+        {
+            "id": "133",
+            "title": "Bruce Einhorn, \"A Virus Cure Depends on Rare Lab Mice, But There Aren’t Enough,” bloomberg.com, Mar. 11, 2020",
+            "docid": 11278
+        },
+        {
+            "id": "134",
+            "title": "Mihir Zaveri, Mariel Padilla, and Jaclyn Peiser, \"E.P.A. Says It Will Drastically Reduce Animal Testing,” nytimes.com, Sep. 10, 2019",
+            "docid": 11279
+        },
+        {
+            "id": "135",
+            "title": "The Humane Society of the United States, \"Animals Used in Biomedical Research FAQ,” humane society.org (accessed Mar. 17, 2020)",
+            "docid": 11280
+        },
+        {
+            "id": "136",
+            "title": "Perfect365, Inc., \"New Survey from Perfect365 Reveals 36% of Women Prefer to Purchase Cruelty-Free Beauty,\" businesswire.com, Mar. 29, 2018",
+            "docid": 11281
+        },
+        {
+            "id": "137",
+            "title": "Market Research Future, \"Cruelty-Free Cosmetics Market Research Report - Global Forecast till 2024,” marketresearchfuture.com, Mar. 2020",
+            "docid": 11282
+        },
+        {
+            "id": "138",
+            "title": "European Commission, “Ban on Animal Testing,” ec.europa.eu (accessed Mar. 17, 2020)",
+            "docid": 11283
+        },
+        {
+            "id": "139",
+            "title": "Nicole Pallotta, \"California Bans the Sale of Most Cosmetics Tested on Animals,” alder.org, Oct. 15, 2018",
+            "docid": 11284
+        },
+        {
+            "id": "140",
+            "title": "Elizabeth Siegel, \"Why Beauty Brands Still Test Their Products on Animals,\" allure.com, Oct. 20, 2017",
+            "docid": 11285
+        },
+        {
+            "id": "141",
+            "title": "Rachel L. Roper; and Kristina E. Rehm, \"SARS Vaccines: Where Are We?,” medscape.com, 2009",
+            "docid": 11286
+        },
+        {
+            "id": "142",
+            "title": "People for the Ethical Treatment of Animals, \"Coronavirus Vaccine: NIH Isn’t Waiting for Pointless Animal Tests,” peta.org, Mar. 16, 2020",
+            "docid": 11287
+        },
+        {
+            "id": "143",
+            "title": "Michelle Roberts, \"Coronavirus: US Volunteers Test First Vaccine,” bbc.com, Mar. 17, 2020",
+            "docid": 11288
+        },
+        {
+            "id": "144",
+            "title": "Nicoletta Lanese, \"Researchers Fast-Track Coronavirus Vaccine by Skipping Key Animal Testing First,” livescience.com, Mar. 13, 2020",
+            "docid": 11289
+        },
+        {
+            "id": "145",
+            "title": "Eric Boodman, \"Researchers Rush to Test Coronavirus Vaccine in People without Knowing How Well It Works in Animals,” statnews.com, Mar. 11, 2020",
+            "docid": 11290
+        },
+        {
+            "id": "146",
+            "title": "Rachel Bucchino, \"New FDA Policy Allows Lab Animals to Be Adopted after Experiments,” thehill.com, Feb. 7, 2020",
+            "docid": 11291
+        },
+        {
+            "id": "147",
+            "title": "Moderna, \"Moderna’s Work on a Potential Vaccine Against COVID-19,” modernatx.com (accessed Mar. 18, 2020)",
+            "docid": 11292
+        },
+        {
+            "id": "148",
+            "title": "Sui-Lee Wee, \"Future Vaccines Depend on Test Subjects in Short Supply: Monkeys,\" nytimes.com, Feb. 23, 2021",
+            "docid": 11293
+        },
+        {
+            "id": "149",
+            "title": "Tom Branna, \"China To End Animal Testing for Imported 'Ordinary' Cosmetics,\" happi.com, Mar. 5, 2021",
+            "docid": 11294
+        },
+        {
+            "id": "150",
+            "title": "Humane Society International, \"Mexico Becomes First Country in North America to Outlaw Animal Testing for Cosmetics,\"hsi.org, Sep. 2, 2021",
+            "docid": 11295
+        },
+        {
+            "id": "151",
+            "title": "Joe Hernandez, \"The FDA No Longer Requires All Drugs to Be Tested on Animals before Human Trials,\" npr.org, Jan. 12, 2023",
+            "docid": 11296
+        }
+    ],
+    "url": "https://animal-testing.procon.org/"
+}

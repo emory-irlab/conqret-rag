@@ -1,0 +1,291 @@
+{
+    "title": "Should Medical Marijuana Be Legal?",
+    "introduction": [],
+    "pros": [],
+    "cons": [],
+    "sources": [
+        {
+            "id": "1",
+            "title": "Lester Grinspoon, “History of Cannabis as a Medicine,” venicecare.com, Aug. 16, 2005",
+            "url": null,
+            "docid": 6338
+        },
+        {
+            "id": "2",
+            "title": "Michelle Z. Donahue, “Earliest Evidence for Cannabis Smoking Discovered in Ancient Tombs,” nationalgeographic.com, June 12, 2019",
+            "url": null,
+            "docid": 6339
+        },
+        {
+            "id": "3",
+            "title": "Meng Ren, et al., “The Origins of Cannabis Smoking: Chemical Residue Evidence from the First Millennium BCE in the Pamirs.” science.org, June 12, 2019",
+            "url": null,
+            "docid": 6340
+        },
+        {
+            "id": "4",
+            "title": "Colleen Fisher Tully, “Did Women Use Cannabis as Medicine in Ancient Egypt?,” leafly.com, Aug. 3, 2020",
+            "url": null,
+            "docid": 6341
+        },
+        {
+            "id": "5",
+            "title": "New York Review, “Pot and the Myth of Shen Nung: Erich Goode, reply by Jerome Groopman,” nybooks.com, Mar. 20, 2014",
+            "url": null,
+            "docid": 6342
+        },
+        {
+            "id": "6",
+            "title": "Jerome Groopman, “Marijuana: The High and the Low,” nybooks.com, Feb. 20, 2014",
+            "url": null,
+            "docid": 6343
+        },
+        {
+            "id": "7",
+            "title": "Jonny Winship, “A Definitive Guide to the History of Medical Cannabis,” huckmag.com, Nov. 9, 2018",
+            "url": null,
+            "docid": 6344
+        },
+        {
+            "id": "8",
+            "title": "Joshua J. Mark, “Ancient Egyptian Medical Texts,” worldhistory.org, Feb. 21, 2017",
+            "url": null,
+            "docid": 6345
+        },
+        {
+            "id": "9",
+            "title": "Emily Ledger, “Cannabis Use in the Ancient World: Ancient Egypt,” canex.co.uk, Jan. 5, 2021",
+            "url": null,
+            "docid": 6346
+        },
+        {
+            "id": "10",
+            "title": "Weedmaps, “History of Cannabis,” herb.delivery (accessed Oct. 20, 2022)",
+            "url": null,
+            "docid": 6347
+        },
+        {
+            "id": "11",
+            "title": "Bill Weinberg, “A Brief History of Marihuana in Mexico,” freedomleaf.com, May 22, 2018",
+            "url": null,
+            "docid": 6348
+        },
+        {
+            "id": "12",
+            "title": "Kushka, “History of Cannabis in Mexico,” dinafem.org, Sep. 27, 2020",
+            "url": null,
+            "docid": 6349
+        },
+        {
+            "id": "13",
+            "title": "David McDonald, ”The Racist Roots of Marijuana Prohibition,” fee.org, Apr. 11, 2017",
+            "url": null,
+            "docid": 6350
+        },
+        {
+            "id": "14",
+            "title": "S.P.H. Alexander, K. Mackie, and R.A. Ross, “Editorial,”British Journal of Pharmacology, June 2010",
+            "url": null,
+            "docid": 6351
+        },
+        {
+            "id": "15",
+            "title": "David Moye, “Lawmaker Says Black People Can't Handle Marijuana Because of 'Genetics,'” huffingtonpost.co.uk, Sep. 1, 2018",
+            "url": null,
+            "docid": 6352
+        },
+        {
+            "id": "16",
+            "title": "Amy Tikkanen, “Why Is Marijuana Illegal in the U.S.?,” britannica.com, Apr. 15, 2019",
+            "url": null,
+            "docid": 6353
+        },
+        {
+            "id": "17",
+            "title": "Gov.uk, “Drugs Penalties,” gov.uk (accessed Oct. 20, 2022)",
+            "url": null,
+            "docid": 6354
+        },
+        {
+            "id": "18",
+            "title": "UK Department of Health, “Categories Drugs Are Separated into for Control Purposes,” health-ni.gov.uk (accessed Oct. 20, 2022)",
+            "url": null,
+            "docid": 6355
+        },
+        {
+            "id": "19",
+            "title": "ProCon.org, \"State-by-State Medical Marijuana Laws,\" medicalmarijuana.procon.org, Nov. 9, 2022",
+            "url": null,
+            "docid": 6356
+        },
+        {
+            "id": "20",
+            "title": "ProCon.org, \"State-by-State Medical Marijuana Laws,\" marijuana.procon.org, Nov. 9, 2022",
+            "url": null,
+            "docid": 6357
+        },
+        {
+            "id": "21",
+            "title": "Ted Van Green, “Americans Overwhelmingly Say Marijuana Should Be Legal for Recreational or Medical Use,” pewresearch.org, Apr. 16, 2021",
+            "url": null,
+            "docid": 6358
+        },
+        {
+            "id": "22",
+            "title": "Peter Grinspoon, “Medical Marijuana,” health.harvard.edu, Apr. 10, 2020",
+            "url": null,
+            "docid": 6359
+        },
+        {
+            "id": "23",
+            "title": "Caitlin Isles, “7 Potential Health Benefits of Cannabis,” jwu.edu, Sep. 22, 2021",
+            "url": null,
+            "docid": 6360
+        },
+        {
+            "id": "24",
+            "title": "Khalid A. Jadoon, Garry D. Tan, and Saoirse E. O’Sullivan, “A Single Dose of Cannabidiol Reduces Blood Pressure in Healthy Volunteers in a Randomized Crossover Study,”JCI Insight, June 15, 2017",
+            "url": null,
+            "docid": 6361
+        },
+        {
+            "id": "25",
+            "title": "Wei Xiong, et al., “Cannabinoids Suppress Inflammatory and Neuropathic Pain by Targeting α3 Glycine Receptors,”Journal of Experimental Medicine, June 4, 2012",
+            "url": null,
+            "docid": 6362
+        },
+        {
+            "id": "26",
+            "title": "Gustavo Gonzalez-Cuevas, et al., “Unique Treatment Potential of Cannabidiol for the Prevention of Relapse to Drug Use: Preclinical Proof of Principle,”Neuropsychopharmacology, Mar. 22, 2018",
+            "url": null,
+            "docid": 6363
+        },
+        {
+            "id": "27",
+            "title": "Esther M. Blessing, et al., “Cannabidiol as a Potential Treatment for Anxiety Disorders,”Neurotherapeutics, Oct. 2015",
+            "url": null,
+            "docid": 6364
+        },
+        {
+            "id": "28",
+            "title": "Vicente Martínez, et al., “Cannabidiol and Other Non-Psychoactive Cannabinoids for Prevention and Treatment of Gastrointestinal Disorders: Useful Nutraceuticals?,”International Journal of Molecular Sciences, Apr. 2020",
+            "url": null,
+            "docid": 6365
+        },
+        {
+            "id": "29",
+            "title": "Alessandra Morano, et al., “Cannabinoids in the Treatment of Epilepsy: Current Status and Future Prospects,”Neuropsychiatric Disease Treatment, Feb. 2020",
+            "url": null,
+            "docid": 6366
+        },
+        {
+            "id": "30",
+            "title": "The American Cancer Society Medical and Editorial Content Team, “Marijuana and Cancer,” cancer.org, Aug. 2, 2022",
+            "url": null,
+            "docid": 6367
+        },
+        {
+            "id": "31",
+            "title": "National Institutes of Health, National Institute on Drug Abuse, “Cannabis (Marijuana) Research Report: Is Marijuana Safe and Effective as Medicine?,” nida.nih.gov, July 2020",
+            "url": null,
+            "docid": 6368
+        },
+        {
+            "id": "32",
+            "title": "Greg Miller, “Could Pot Help Solve the U.S. Opioid Epidemic?,” science.org, Nov. 3, 2018",
+            "url": null,
+            "docid": 6369
+        },
+        {
+            "id": "33",
+            "title": "Stephanie Lake, M. Eugenia Socías, and M.-J. Milloy, “Evidence Shows That Cannabis Has Fewer Relative Harms than Opioids,”Canadian Medical Association Journal, Feb. 18, 2020",
+            "url": null,
+            "docid": 6370
+        },
+        {
+            "id": "34",
+            "title": "Christina Palmer,” Can Marijuana Be as Effective as Medications?,” goodrx.com, June 1, 2021",
+            "url": null,
+            "docid": 6371
+        },
+        {
+            "id": "35",
+            "title": "ProCon.org, “Votes and Polls on Medical Marijuana,” medicalmarijuana.procon.org, Sep. 29, 2022",
+            "url": null,
+            "docid": 6372
+        },
+        {
+            "id": "36",
+            "title": "Kevin M Takakuwa and Raquel M Schears, “Emergency Medicine Physicians Would Prefer Using Cannabis Over Opioids for First-Line Treatment of a Medical Condition if Provided With Medical Evidence: A National Survey,”Cureus, Nov. 2021",
+            "url": null,
+            "docid": 6373
+        },
+        {
+            "id": "37",
+            "title": "US Customs and Border Protection, “Did You Know... Marijuana Was Once a Legal Cross-Border Import?,” cbp.gov, Dec. 20, 2019",
+            "url": null,
+            "docid": 6374
+        },
+        {
+            "id": "38",
+            "title": "Sarah C. Hull, “Op-Ed: We Should Not Allow a Marijuana Free-for-All,” medpagetoday.com, Jan. 15, 2021",
+            "url": null,
+            "docid": 6375
+        },
+        {
+            "id": "39",
+            "title": "George Sam Wang, “Pediatric Concerns Due to Expanded Cannabis Use: Unintended Consequences of Legalization,”Journal of Medical Toxicology, Mar. 2017",
+            "url": null,
+            "docid": 6376
+        },
+        {
+            "id": "40",
+            "title": "National Institutes of Health, National Institute on Drug Abuse, “Cannabis (Marijuana) DrugFacts,” nida.nih.gov, Dec. 2019",
+            "url": null,
+            "docid": 6377
+        },
+        {
+            "id": "41",
+            "title": "Claire McCarthy, “Legalizing Marijuana Not Good for Kids: AAP Policy Explained,” healthychildren.org, Mar. 23, 2022",
+            "url": null,
+            "docid": 6378
+        },
+        {
+            "id": "42",
+            "title": "Kevin Osterhoudt, “Edible Marijuana Dangers: How Parents Can Prevent THC Poisoning,” healthychildren.org, May 16, 2022",
+            "url": null,
+            "docid": 6379
+        },
+        {
+            "id": "43",
+            "title": "CDC, “​​Addiction (Marijuana or Cannabis Use Disorder),” cdc.gov, Oct. 19, 2020",
+            "url": null,
+            "docid": 6380
+        },
+        {
+            "id": "44",
+            "title": "Emily Sohn, “Weighing the Dangers of Cannabis,” nature.com, Aug. 28, 2019",
+            "url": null,
+            "docid": 6381
+        },
+        {
+            "id": "45",
+            "title": "US Census Bureau, “2020 Population and Housing State Data,” census.gov, Aug. 12, 2021",
+            "url": null,
+            "docid": 6382
+        },
+        {
+            "id": "46",
+            "title": "NORML, “Decriminalization,” norml.org (accessed Oct. 26, 2022)",
+            "url": null,
+            "docid": 6383
+        },
+        {
+            "id": "47",
+            "title": "Jen Christensen and Sandee LaMotte, \"Number of Young Children Who Accidentally Ate Cannabis Edibles Jumped 1,375% in Five Years, Study Finds,\" cnn.com, Jan. 5, 2023",
+            "url": null,
+            "docid": 6384
+        }
+    ],
+    "url": "https://medicalmarijuana.procon.org"
+}
