@@ -1,15 +1,12 @@
 import os
 
-import retriever_utils
-import utils
+from utils import utils
 
 import pyterrier as pt
 
 if not pt.started():# not needed in newer versions of pyterrier
     #pt.init()
     pt.init(boot_packages=["com.github.terrierteam:terrier-prf:-SNAPSHOT"])
-
-import pandas as pd
 
 docs_jsons, pd_df = utils.get_documents()
 
@@ -49,8 +46,6 @@ def main(openai_ranker=None, text_field="text", stance=None, instruction_type=No
         run_pipeline_on_train_and_test([bm25, genrank_pipeline], ['BM25', name], stance, save_to=save_to)
 
 
-from ir_measures import *
-
 def run_pipeline_on_train_and_test(exps, exps_names, stance=None, on_both=False, save_to=None):
     assert save_to is not None
     if type(exps) != list:
@@ -70,7 +65,7 @@ def run_pipeline_on_train_and_test(exps, exps_names, stance=None, on_both=False,
 if __name__ == '__main__':
     index = get_index()
     print(index.getCollectionStatistics().toString())
-    import utils
+    import utils.utils
     train_qrels, train_queries, test_qrels, test_queries = utils.get_retrieval_data()
     bm25 = pt.BatchRetrieve(index, wmodel="BM25")
     EVAL_METRICS = ['ndcg_cut_10']

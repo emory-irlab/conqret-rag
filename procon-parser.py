@@ -208,7 +208,7 @@ if __name__ == '__main__':
                     #json_filename = data['title'].replace(' ','_').replace('-','_').replace('--','').replace('?','') + '.json'
                     json_filename = data['titles'][0].replace(' ', '_').replace('-', '_').replace('--', '').replace('?', '') + '.json'
                     saveto = 'test/' if json_filename in TEST_FILE_NAMES else 'train/'
-                    with open(f'procon/{saveto}{json_filename}', 'w') as json_file1:
+                    with open(f'data/procon/{saveto}{json_filename}', 'w') as json_file1:
                        json.dump(data, json_file1, indent=4)
                     print(f"Data saved to {json_filename}")
                 except Exception as e:

@@ -1,19 +1,25 @@
 import glob
-import json
 import os
 import random
 import re
 import pandas as pd
+import json
 
-PROJECT_FOLDER = os.getcwd() # Folder conqret-rag exists.
-PROCON_TRAIN_FOLDER = f'{PROJECT_FOLDER}/procon/train_public/*.json'
-PROCON_TEST_FOLDER = f'{PROJECT_FOLDER}/procon/test_public/*.json'
-DOCUMENT_FOLDER = f'{PROJECT_FOLDER}/documents/*.json'
-DOCUMENT2_FOLDER = f'{PROJECT_FOLDER}/documents_sep20/*.json'
+def read_json_file(file_path):
+    with open(file_path, 'r') as f:
+        data = json.load(f)
+    return data
+
+
+DATA_FOLDER = os.getcwd() + '/data' # Folder conqret-rag exists.
+PROCON_TRAIN_FOLDER = f'{DATA_FOLDER}/procon/train_public/*.json'
+PROCON_TEST_FOLDER = f'{DATA_FOLDER}/procon/test_public/*.json'
+DOCUMENT_FOLDER = f'{DATA_FOLDER}/documents/*.json'
+DOCUMENT2_FOLDER = f'{DATA_FOLDER}/documents_sep20/*.json'
 DOCID_LIST = [f.removesuffix('.json').split('/')[-1] for f in glob.glob(DOCUMENT_FOLDER)]
 DOCID_LIST.extend([f.removesuffix('.json').split('/')[-1] for f in glob.glob(DOCUMENT2_FOLDER)])
 
-RETRIEVAL_ANNOTATIONS = f'{PROJECT_FOLDER}/retrieval_annotations'
+RETRIEVAL_ANNOTATIONS = f'{DATA_FOLDER}/retrieval_annotations'
 TRAIN_QRELS = RETRIEVAL_ANNOTATIONS + '/train_qrels.csv'
 TEST_QRELS = RETRIEVAL_ANNOTATIONS + '/test_qrels.csv'
 TRAIN_QUERIES = RETRIEVAL_ANNOTATIONS + '/train_queries.csv'
@@ -32,10 +38,10 @@ def get_retrieval_data():
 
 from itertools import chain
 
-with open(f'{PROJECT_FOLDER}/titles2.json', 'r+') as tfile:
+with open(f'{DATA_FOLDER}/titles2.json', 'r+') as tfile:
     url2titles = json.loads(tfile.read())
 
-with open(f'{PROJECT_FOLDER}/interrogative_titles.json', 'r+') as tfile:
+with open(f'{DATA_FOLDER}/interrogative_titles.json', 'r+') as tfile:
     interrogative_titles = json.loads(tfile.read())
 
 def get_interrogative(qid):
