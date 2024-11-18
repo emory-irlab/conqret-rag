@@ -27,8 +27,7 @@ The total number of documents retrieved and scraped from the web are 6500.
 ## Getting Started
 
 ```ssh
-pip install -r requirements.txt
-pip install --upgrade git+https://github.com/emory-irlab/pyterrier_genrank.git
+python setup.py
 ```
 
 
