@@ -1,6 +1,6 @@
 import os
 
-from utils import utils
+from utils import utils, retriever_utils
 
 import pyterrier as pt
 
