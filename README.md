@@ -5,7 +5,7 @@
 ![Python version](https://img.shields.io/badge/lang-python-important)
 ![License: Apache](https://img.shields.io/badge/License-Apache2.0-yellow.svg)
 
-<img src="utils/rag_end_to_end.png" style="width:25%; height:auto;">
+<img src="utils/rag_end_to_end.png" style="width:50%; height:auto;">
 
 Retrieval Augmented Argumentation or Retrieval Augmented Argument Generation involves retrieving noisy evidence documents over the web and using them for subsequent argument generation. To facilitate RAG and computational argumentation research, we release **ConQRet**, a benchmark with popular controversial queries, paired with evidence documents retrieved and scraped over the public web, alongwith model-generated arguments. 
 
