@@ -65,13 +65,18 @@ def run_pipeline_on_train_and_test(exps, exps_names, stance=None, on_both=False,
 if __name__ == '__main__':
     index = get_index()
     print(index.getCollectionStatistics().toString())
-    import utils.utils
+    from utils import utils
     train_qrels, train_queries, test_qrels, test_queries = utils.get_retrieval_data()
     bm25 = pt.BatchRetrieve(index, wmodel="BM25")
     EVAL_METRICS = ['ndcg_cut_10']
     for stance in ['pro']:
         # To run
-        main(openai_ranker="gpt-4o-mini-2024-07-18", text_field='text',
-             stance=None,
+        # Running BM25, BM25+GPT4o-mini
+        # main(openai_ranker="gpt-4o-mini-2024-07-18",
+        #      stance=None,
+        #      instruction_type=None,
+        #      save_to=f'retriever_{stance}_gpt4omini_stance_qrels_querywise.csv')
+        # Running BM25
+        main(stance=None,
              instruction_type=None,
-             save_to=f'retriever_{stance}_gpt4omini_stance_qrels_querywise.csv')
+             save_to=f'retriever_{stance}_bm25_stance_qrels_querywise.csv')

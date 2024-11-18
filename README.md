@@ -37,6 +37,12 @@ This will run BM25 and BM25+GPT4o-mini reranker
 ```bash
 python retriever.py
 ```
+If you face a dlopen error, ensure that you set java home variables something like 
+```python
+import os
+os.environ['JAVA_HOME'] = "...miniconda3/envs/conqret-rag/lib/jvm" 
+os.environ['JVM_PATH'] = "...miniconda3/envs/conqret-rag/lib/jvm/lib/server/libjvm.dylib"
+```
 
 ### Extracting the ProCon Arguments
 Run the following script. It scrapes all the URLs present in the [url_list.txt](data/url_list.txt) file.
