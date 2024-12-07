@@ -1,13 +1,14 @@
-# ConQRet-RAG
-
-![](https://img.shields.io/badge/PRs-welcome-brightgreen)
-<img src="https://img.shields.io/badge/Version-1.0-lightblue.svg" alt="Version">
-![Python version](https://img.shields.io/badge/lang-python-important)
-![License: Apache](https://img.shields.io/badge/License-Apache2.0-yellow.svg)
-
-<img src="utils/rag_end_to_end.png" style="width:50%; height:auto;">
+# **_ConQRet_**: Controversial Questions for Argumentation and Retrieval
+<div align="center">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs welcome">
+    <img src="https://img.shields.io/badge/Version-1.0-lightblue.svg" alt="Version">
+    <img src="https://img.shields.io/badge/lang-python-important" alt="Python version">
+    <img src="https://img.shields.io/badge/License-Apache2.0-yellow.svg" alt="License: Apache">
+</div>
 
 Retrieval Augmented Argumentation or Retrieval Augmented Argument Generation involves retrieving noisy evidence documents over the web and using them for subsequent argument generation. To facilitate RAG and computational argumentation research, we release **ConQRet**, a benchmark with popular controversial queries, paired with evidence documents retrieved and scraped over the public web, alongwith model-generated arguments. 
+
+<img src="utils/raarg_process.png" style="width:100%; height:auto;"> 
 
 ## Applications
 - Retrieval Augmented Generation
@@ -15,12 +16,13 @@ Retrieval Augmented Argumentation or Retrieval Augmented Argument Generation inv
 - Evaluating RAG systems
 
 ## Statistics of ConQRet
-| Statistic                      |     |
-|---------------------------------|-----|
-| Total topics                    | 98  |
-| Avg. docs per topic             | 133 |
-| Avg. relevant docs per topic    | 66  |
-| Avg. docs per stance            | 33  |
+| Statistic                                   |     |
+|---------------------------------------------|-----|
+| Total topics                                | 98  |
+| Avg. docs per topic                         | 133 |
+| Avg. relevant docs per topic                | 66  |
+| Avg. docs per stance                        | 33  |
+| Total documents retrieved & scraped         | 6500|
 
 The total number of documents retrieved and scraped from the web are 6500.
 
@@ -59,7 +61,7 @@ Do not publicly upload elsewhere. We are sharing the documents separately to mit
 ```bibtex
 @misc{dhole2024llmjudge,
   author    = {Kaustubh Dhole and Kai Shu and Eugene Agichtein},
-  title     = {ConQRet: A New Benchmark for Fine-Grained Automatic Evaluation of Retrieval Augmented Computational Argumentation},
+  title     = {ConQRet: Benchmarking Fine-Grained Automatic Evaluation of Retrieval Augmented Argumentation},
   year      = {2024},
   month     = {November},
   url       = {https://github.com/emory-irlab/conqret-rag/}
