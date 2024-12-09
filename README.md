@@ -59,11 +59,13 @@ Do not publicly upload elsewhere. We are sharing the documents separately to mit
 
 ### Citation
 ```bibtex
-@misc{dhole2024llmjudge,
-  author    = {Kaustubh Dhole and Kai Shu and Eugene Agichtein},
-  title     = {ConQRet: Benchmarking Fine-Grained Automatic Evaluation of Retrieval Augmented Argumentation},
-  year      = {2024},
-  month     = {November},
-  url       = {https://github.com/emory-irlab/conqret-rag/}
+@misc{dhole2024conqretbenchmarkingfinegrainedevaluation,
+      title={ConQRet: Benchmarking Fine-Grained Evaluation of Retrieval Augmented Argumentation with LLM Judges}, 
+      author={Kaustubh D. Dhole and Kai Shu and Eugene Agichtein},
+      year={2024},
+      eprint={2412.05206},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.05206}, 
 }
 ```
